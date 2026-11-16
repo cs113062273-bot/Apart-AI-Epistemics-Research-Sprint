@@ -1,0 +1,167 @@
+% LaTeX adaptation of the official Apart Research sprint report template (Google Doc): same title block, Old Standard serif,
+% letter paper, 1in margins and section order. Every number comes from numbers.tex (scripts/make_paper_numbers.py);
+% figures from scripts/make_figures.py. Build: tectonic -X compile main.tex
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\setmainfont{OldStandard}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-Italic]
+\usepackage{amsmath,amssymb,booktabs,array,graphicx,float,xcolor,multirow,tikz,pifont,enumitem}
+\usetikzlibrary{arrows.meta,positioning}
+\usepackage[round,authoryear]{natbib}
+\usepackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue]{hyperref}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+\setlength{\emergencystretch}{2em}
+\widowpenalty=10000
+\clubpenalty=10000
+\setlength{\textfloatsep}{9pt}
+\setlength{\tabcolsep}{4pt}
+\graphicspath{{figures/}}
+\definecolor{boxfill}{HTML}{F4F3EF}\definecolor{boxrule}{HTML}{52514E}
+\hypersetup{pdftitle={Supported Is Not Applicable},pdfauthor={Hsu, Chin Hao}}
+\input{numbers.tex}
+\input{results_text.tex}
+% \R{name}: a generated number, or a visible marker while its run is still pending (the final PDF must contain no marker)
+\newcommand{\R}[1]{\ifcsname #1\endcsname\csname #1\endcsname\else\textbf{[#1 pending]}\fi}
+
+\begin{document}
+
+\vspace*{-0.35in}\noindent\rule{\textwidth}{2.4pt}\par\vspace{4pt}
+\begin{center}
+{\fontsize{19}{23}\selectfont\bfseries Supported Is Not Applicable:\\[2pt] Decision-Level Failures in Cited AI Advice\footnote{Research conducted at the \href{https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15}{AI x Epistemics Research Sprint}, November 2026.}}\par
+\end{center}
+\vspace{-2pt}\noindent\rule{\textwidth}{0.6pt}\par\vspace{2pt}
+\begin{center}
+Hsu, Chin Hao\\ National Tsing Hua University\\[4pt]
+\textbf{With}\\ Apart Research
+\end{center}
+\vspace{-2pt}
+\begin{center}{\large\bfseries Abstract}\end{center}
+\vspace{-6pt}
+\begin{list}{}{\leftmargin=0.3in\rightmargin=0.3in}\item\relax\small
+\AbstractText
+\end{list}
+\vspace{0pt}
+\begin{center}
+\resizebox{\textwidth}{!}{\input{figures/concept.tex}}
+\captionof{figure}{A benchmark item (verbatim source). The answer quotes its source faithfully, so a citation check passes, yet the quoted price applies only to annual billing. Only the user's situation varies: the mismatch is absent (A), flips the decision (B) or is harmless (C). A correct verifier fixes B and leaves A and C alone.}
+\label{fig:concept}
+\end{center}
+
+\section{Introduction}
+AI assistants now justify recommendations with citations, and a growing set of tools verifies those citations: whether the cited source exists \citep{ghostcite,citeaudit} and whether it supports the claim \citep{alce,factscore,lynx_paper}. A recommendation that passes both checks is treated as verified. These checks test the relation between a claim and its source. The error we study lives elsewhere: in the relation between the evidence and the person receiving the advice.
+
+Figure~\ref{fig:concept} shows it on a real pricing page. Asana prints \emph{``\$10.99 Per user, per month billed annually. \$13.49 billed monthly''}. An assistant tells a five-person team with a \$60 monthly limit that Asana Starter fits, quoting \$10.99. The citation is faithful and the advice is wrong: paying month to month, the team pays \$67.45. The same structure recurs wherever decision-relevant numbers are printed with conditions: a quarter's growth beside the year-to-date figure, a trial's overall effect beside the effect in the user's age group, non-GAAP beside GAAP, constant-currency beside reported growth. We call such evidence \textbf{supported but inapplicable}: entailed by its source, but printed under a condition that does not hold for the user.
+
+We ask whether assistants make this error when they write cited answers themselves and whether it shrinks with capability, whether a verifier can catch it without damaging correct answers, and which evaluation practices make verification look more reliable than it is. We contribute a formulation that separates \emph{supported}, \emph{applicable} and \emph{decision-relevant} evidence, scored by the final decision with harmless-mismatch controls; \NCasesAllNat{} cases in five frozen sets from verbatim pricing pages, SEC earnings releases and PubMed abstracts, including natural answers from four open assistants on unseen sources, audited case by case in a discovery study and a pre-registered replication; and quote-bound recalculation (QBR), a verifier whose code recomputes decisions from quote-bound operands, with the validity condition its certificates require.
+
+Section~\ref{sec:persist} shows that more capable assistants make far fewer errors overall but not proportionally fewer of this kind, which becomes the largest share of what remains; Section~\ref{sec:support}, that claim-to-source checks cannot detect it; Section~\ref{sec:verify}, that a verifier given the user's situation raises accuracy but corrects only some of these errors; and Section~\ref{sec:practices}, that scoring on a single constructed set and accepting traced operands as certificates overstate verification.
+
+\section{Related Work}
+\label{sec:related}
+\textbf{Citation verification.} GhostCite \citep{ghostcite}, CiteAudit \citep{citeaudit} and PARCEL \citep{parcel} test whether cited references exist and support their claims; Lynx \citep{lynx_paper}, ALCE \citep{alce} and FActScore \citep{factscore} score faithfulness and factual precision, and a correct citation need not be the reason for an answer \citep{correct_not_faithful}. All of them label the relation between a claim and its source; the person receiving the advice is not an input to the label.
+
+\textbf{Real citations that mislead.} CiteTrace \citep{verified_misguidance}, the closest work, diagnoses ``verified misguidance'' in 761k citation pairs along intent alignment, source suitability and fidelity, including answers that strip a critical qualifier; LLM summaries also over-generalize scientific findings \citep{generalization_bias}. We differ in three ways: within an item the source and the faithful claim are fixed while the user varies, isolating applicability; a mismatch is an error only if the applicable value flips the decision; and verifiers are scored by the decision the user ends with, so flagging every unsuitable citation is penalized on harmless cases.
+
+\textbf{Conditions, decisions and computation.} SituatedQA \citep{situatedqa} and ConditionalQA \citep{conditionalqa} make answers depend on time, place and stated conditions; evidence-based medicine grades the gap between question and evidence as \emph{indirectness} \citep{grade_indirectness}; DIVA \citep{diva} and Decisive \citep{decisive} use decision value to guide information seeking. Read-then-compute is established for table QA \citep{tagop} and trial matching \citep{verdict}; QBR applies it to verification and binds operands to printed clauses and their conditions.
+
+\section{Methods}
+\label{sec:methods}
+\textbf{Problem.} A cited recommendation for user situation $u$ rests on a value $q$ from source $s$. We separate four properties. \emph{S}: $s$ prints $q$ as an atomic fact (e.g.\ ``outdoor revenue rose 20\% in the quarter''). \emph{C}: the answer's quote reproduces the source faithfully. \emph{A}: the condition printed with $q$ (period, population, accounting or currency basis, billing term) holds for $u$; otherwise a different printed value $q'$ applies, or none does. \emph{D}: the final decision is correct. Given the user's decision rule $d$ (a hard limit or a screen), a mismatch is \emph{decision-relevant} iff $d(q',u)\neq d(q,u)$. The failure we study is $S=1$, $A=0$, $D=0$: the atomic fact is real and faithfully cited, but the claim derived from it for this user (``year-to-date growth is 20\%'') is not supported, and the decision is wrong. Claim-to-source checks test $S$ and $C$; applicability requires $A$. A verifier receives $s$, $u$ and the cited answer and must keep a correct decision and correct a wrong one.
+
+\textbf{Item design.} Each item fixes a verbatim excerpt and three user situations (Figure~\ref{fig:concept}): in \textbf{A} the headline value's condition holds for the user; in \textbf{B} it does not and the applicable printed value flips the decision; in \textbf{C} it does not and the decision is unchanged. Gold decisions follow from printed numbers by arithmetic; builders assert that every value a case needs is printed in its excerpt.
+
+\textbf{Controlled sets.} In the contrast and held-out sets the assistant's answer is a template that computes the decision from the headline value, as a faithful but careless assistant would. The \emph{contrast set} (\NItems{} items, \NCases{} cases; pricing pages, SEC 8-K releases and PubMed abstracts) was frozen before any verifier existed; results use its \NTestItems-item test split. The \emph{held-out set} (\NVItems{} items) was built afterwards from new sources, frozen and evaluated once under pre-registration.
+
+\textbf{Natural answers.} In the \emph{discovery set} (\NNItems{} items, \NNCases{} cases) and the pre-registered \emph{replication set} (\WNItems{} items, \WNCases{} cases) assistants write the answers. The discovery set uses five SEC releases fetched for it and three unused PubMed abstracts. Replication sources were selected by a fixed procedure: the first ten eligible companies returned by an EDGAR full-text search and the first eight eligible PubMed abstracts, with thresholds set mechanically (A and B at the midpoint of the two printed values, C past the applicable value by half their gap). Four open assistants (SmolLM2-1.7B, Qwen2.5-1.5B, Qwen3-4B and Qwen3.5-9B; 4-bit, temperature 0) receive excerpt, situation and question and return an explanation, a verbatim quote and a binary decision. Every wrong answer, and every right answer that cites the inapplicable value, is audited case by case with a written reason into: \emph{supported but inapplicable} ($S=1$, $A=0$, $D=0$: the decision follows from a printed value of the asked quantity whose condition does not hold for the user), \emph{ambiguous} (both values cited; the decision matches only the inapplicable one), \emph{other printed value} (a different quantity), \emph{arithmetic or reasoning error} ($A=1$, $D=0$), \emph{unfaithful quote} ($C=0$), or \emph{no answer}. Gold validity and error type are audited separately: cases whose gold rests on a debatable reading, or whose mechanically generated wording proved ambiguous, are flagged and excluded in a sensitivity analysis.
+
+\textbf{Verifiers.} All LLM verifiers use one local model (Qwen3.5-9B, 4-bit, temperature 0, JSON-schema output) and see excerpt, situation and answer. \emph{Claim-to-source checks:} Lynx-8B \citep{lynx_paper} with its published prompt, and NLI cross-encoders. \emph{Qualifier rules:} an alarm when a printed qualifier contradicts the user's words. \emph{LLM judge:} decides whether the recommendation is correct for this user. \emph{Checklist judge:} the judge given the condition types of the contrast set and told to intervene only when the decision changes. \emph{DCV} (decision-conditioned verification): the model reads every printed variant of the quantity and the user's situation into fixed slots; code selects the variant that applies and recomputes the decision. \emph{Direct answer:} the model answers the user's question from the excerpt, ignoring the assistant's answer. \emph{QBR:} the checklist judge also lists every operand with its verbatim quote and condition words, and an arithmetic expression; code checks that each operand the expression uses is quoted from one clause that prints it with its condition, that the condition agrees with the user on four dimensions, that per-unit values are scaled by a user quantity and that the limit comes from the user. If all pass, code evaluates the expression and the \emph{certified} verdict replaces the judge's. From the discovery set on, a certified expression must also contain a source operand (the \emph{source-dependence check}), a rule derived from the held-out failures and frozen before the discovery set was run.
+
+\textbf{Protocol and statistics.} Figure~\ref{fig:flow} shows each set's role. Every set was frozen before any method ran on it; the held-out, discovery and replication evaluations were pre-registered. The replication tests three hypotheses fixed from the discovery results before its sources were fetched: \textbf{H1}, supported-but-inapplicable errors make up a larger share of wrong decisions for the two strongest assistants than for the two weakest; \textbf{H2}, the checklist judge and QBR correct more of these errors than the qualifier rule without lowering accuracy below no verification; \textbf{H3}, certified decisions are correct in at least 90\% of cases. Decision accuracy is the share of cases whose final decision is correct after the verifier acts. Intervals on natural answers bootstrap source documents (4,000 resamples). H1 is tested on the share of wrong decisions with a one-sided Fisher exact test, and also reported as the rate per answer. Verifiers are compared by the paired accuracy difference to no verification, with answers fixed and broken; certificate precision carries an exact binomial interval.
+
+\begin{figure}[t]
+\centering
+\resizebox{0.9\textwidth}{!}{\input{figures/dataflow.tex}}
+\caption{Roles of the five sets. The contrast set was used to develop the verifiers; the held-out set tested QBR and exposed the certificate flaw that produced the source-dependence rule; the discovery set generated the hypotheses that the pre-registered replication tests on sources chosen by a fixed rule.}
+\label{fig:flow}
+\end{figure}
+
+\section{Results}
+\label{sec:results}
+\subsection{Capable assistants still make the inapplicability error}\label{sec:persist}
+\begin{figure}[t]
+\centering
+\includegraphics[width=\textwidth]{natural_errors.pdf}
+\caption{Wrong final decisions in natural cited answers, by audited cause. Other errors shrink sharply as assistants improve; supported-but-inapplicable errors (solid orange) shrink far less and become the largest share of what remains.}
+\label{fig:natural}
+\end{figure}
+\ResultsNatural
+
+\subsection{Claim-to-source checks cannot see it, and flagging every mismatch does not help}\label{sec:support}
+\begin{table}[t]
+\centering\footnotesize
+\caption{Controlled sets: decision accuracy with item-bootstrap 95\% intervals. B: wrong answers fixed (of \TNB{} on the contrast test split and \VNB{} on the held-out set); C: harmless mismatches kept (of \TNC{} and \VNC). Claim-to-source checks were run on the contrast test split.}
+\label{tab:main}
+\begin{tabular}{lcccc@{\hskip 14pt}cccc}
+\toprule
+ & \multicolumn{4}{c}{Contrast, test split (\NTestCases{} cases)} & \multicolumn{4}{c}{Held-out (\NVCases{} cases)} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}
+Verifier & Accuracy & 95\% CI & B & C & Accuracy & 95\% CI & B & C \\
+\midrule
+\BothRows
+\bottomrule
+\end{tabular}
+\end{table}
+A claim-to-source checker judges the relation between claim and source, which is identical in A, B and C. NLI therefore catches wrong answers (\TFixNliClaim) exactly as often as it rejects correct ones (\TAlarmNliClaim), and its decision accuracy (\TAccNliClaim) is below no verifier (\TNone); Lynx, which also reads the user's question, fixes \TFixLynx{} wrong answers but rejects \TAlarmLynx{} correct ones (\TAccLynx). The qualifier rule detects the mismatch in \TFixRules{} wrong answers but flags every harmless one (\TKeepRules{} kept), so decisions equal those without verification on both sets (\TAccRules, \VAccRules). Figure~\ref{fig:mech}a places every verifier by the two things it must do at once; only situation-aware judges approach the target. A benchmark without harmless-mismatch cases would rank the rule beside them.
+
+\subsection{Verification against the user's situation helps, but misses many of these errors}\label{sec:verify}
+\begin{table}[t]
+\centering\footnotesize
+\caption{Verifiers on natural answers. Inapp.\ fixed: audited supported-but-inapplicable errors the verifier corrected. Right kept: correct answers left correct. Qwen3.5-9B answers are verified by the same 9B model (self-verification). QBR includes the source-dependence check. --: not run.}
+\label{tab:natural}
+\NatTable
+\end{table}
+\ResultsVerify
+
+\subsection{Two practices that overstate verification}\label{sec:practices}
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.9\textwidth]{verifiers.pdf}
+\caption{(a) Contrast test split: wrong answers fixed against harmless mismatches kept; a correct verifier is high on both. (b) Properties satisfied by QBR cases (cumulative; verdicts unchanged); on the held-out set, 3 of 10 certified decisions use no source value.}
+\label{fig:mech}
+\end{figure}
+\textbf{Accuracy on one constructed set does not transfer.} The checklist judge reaches \TAccJudgeChecklist{} on the contrast test split (CI \TCiJudgeChecklist) and \VAccJudgeChecklist{} on the held-out set (CI \VCiJudgeChecklist), where no verifier scores \VNone{} and no interval excludes it. The unverified baseline is similar on both sets (65\% and 67\%), and the drop is not concentrated on new condition types: within the held-out set the judge scores \VSeenJudgeChecklist{} on items whose family appears in the contrast set and \VNewJudgeChecklist{} on new families.
+
+\textbf{Traced operands are not a valid computation.} On the held-out set QBR tied the checklist judge (\VAccQbr{} each; \VPairQbrVsJudgeChecklist{} discordant, $p\VPairPQbrVsJudgeChecklist$). Its certificate exposed a gap (Figure~\ref{fig:mech}b): \VQpNoSource{} of \VQpCertified{} certified decisions used no source value, and on one of them the model quoted ``We need at least 90 GB'' and the table row printing 80 GiB, then compared the requirement with itself; code certified that 90 meets 90 and overturned a correct answer. Requiring a source operand was fixed before the discovery set was run. \ResultsCert
+
+\section{Discussion and Limitations}
+\textbf{Implications.} \DiscussionText
+
+\textbf{Limitations.} The natural-answer sets have \NNItems{} and \WNItems{} items, situations are constructed, labels come from one auditor, and all models have at most 9B parameters (Appendix~\ref{app:ethics}). The next step is to run the protocol with frontier assistants and verifiers, independent annotators and questions from real users.
+
+
+\section{Conclusion}
+\ConclusionText
+
+\section*{Code and Data}
+\begin{itemize}[leftmargin=1.2em,itemsep=1pt,topsep=2pt]
+\item \url{https://github.com/cs113062273-bot/Apart-AI-Epistemics-Research-Sprint}: the five frozen sets with their builders and source snapshots, the verifiers and assistant protocol, every model output, the audits, the pre-registrations, and the scripts that generate every number and figure in this paper. Everything runs locally on open models.
+\end{itemize}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\appendix
+\section{Limitations and Dual-Use / Ethical Considerations}
+\label{app:ethics}
+\EthicsText
+
+\section{Supplementary Material}
+\SupplementText
+
+\section*{LLM Usage Statement}
+AI-assisted tools were used for code development, dataset preparation, experiment execution, and manuscript drafting and editing.
+
+\end{document}

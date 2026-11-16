@@ -1,0 +1,18 @@
+% Data flow: which set played which role (development, held-out test, discovery, confirmation).
+\definecolor{dfDev}{HTML}{8D8B85}\definecolor{dfTest}{HTML}{2A78D6}\definecolor{dfNat}{HTML}{EB6834}
+\begin{tikzpicture}[font=\scriptsize, >=Stealth,
+  set/.style={draw=#1, line width=0.8pt, rounded corners=2pt, align=center, inner sep=3pt, text width=2.6cm, minimum height=1.05cm, fill=white},
+  lab/.style={font=\scriptsize\itshape, text=dfDev, align=center}]
+\node[set=dfDev] (v1) at (0,0) {\textbf{Contrast set}\\30 items, 86 cases\\template answers};
+\node[set=dfTest] (v2) at (4.4,0) {\textbf{Held-out set}\\15 items, 45 cases\\pre-registered};
+\node[set=dfNat] (v3) at (8.8,0) {\textbf{Discovery set}\\17 items, 51 cases\\natural answers};
+\node[set=dfNat, line width=1.4pt] (v4) at (13.2,0) {\textbf{Replication set}\\41 items, 123 cases\\natural answers};
+\node[set=dfDev, minimum height=0.7cm] (long) at (0,-1.55) {\textbf{Long-excerpt set}\\contrast items, 12k chars};
+\draw[->, thick, dfDev] (v1) -- node[above, lab]{develops} (v2);
+\draw[->, thick, dfTest] (v2) -- node[above, lab]{flaw found}node[below, lab]{new rule} (v3);
+\draw[->, thick, dfNat] (v3) -- node[above, lab]{hypotheses}node[below, lab]{fixed} (v4);
+\draw[->, dfDev] (v1.south) -- (long.north);
+\node[lab, text width=3.2cm] at (4.4,-1.2) {QBR's held-out test};
+\node[lab, text width=3.2cm] at (8.8,-1.2) {4 assistants write answers;\\hypotheses formed};
+\node[lab, text width=3.4cm] at (13.2,-1.2) {sources picked by a fixed\\EDGAR / PubMed rule};
+\end{tikzpicture}

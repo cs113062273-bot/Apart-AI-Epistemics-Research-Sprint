@@ -1,0 +1,1230 @@
+\newcommand{\NItems}{30}
+\newcommand{\NCases}{86}
+\newcommand{\NProc}{14}
+\newcommand{\NFin}{8}
+\newcommand{\NSci}{8}
+\newcommand{\NTestItems}{24}
+\newcommand{\NTestCases}{69}
+\newcommand{\NVItems}{15}
+\newcommand{\NVCases}{45}
+\newcommand{\NCasesAll}{131}
+\newcommand{\NVNewType}{12}
+\newcommand{\FamilyRows}{Billing term & 4 & 1 \\
+Intro vs renewal & 4 & 1 \\
+Per-user price & 4 & 0 \\
+Tax basis & 2 & 0 \\
+Accounting basis & 6 & 1 \\
+Reporting period & 2 & 0 \\
+Relative vs absolute & 4 & 0 \\
+Study population & 4 & 0 \\
+Included quota + overage & 0 & 4 \\
+Minimum billable amount & 0 & 1 \\
+GiB vs GB & 0 & 2 \\
+Plan user cap & 0 & 1 \\
+Segment vs consolidated & 0 & 1 \\
+Constant currency vs reported & 0 & 2 \\
+Guidance vs reported & 0 & 1 \\}
+\newcommand{\TRows}{No verifier (answer as given) & 45/69 & --- & 0/24 & 21/21 & 0 & 0 & --- \\
+NLI: excerpt $\to$ claim & 31/69 & [0.39, 0.51] & 15/24 & 7/21 & 29 & 0 & 2/36, $p<0.001$ \\
+NLI: excerpt+situation $\to$ answer & 37/69 & [0.47, 0.60] & 12/24 & 13/21 & 20 & 0 & 2/30, $p<0.001$ \\
+Lynx-8B faithfulness & 40/69 & [0.50, 0.66] & 19/24 & 8/21 & 24 & 69 & 0/25, $p<0.001$ \\
+Qualifier rules & 45/69 & [0.64, 0.67] & 21/24 & 0/21 & 21 & 0 & 0/20, $p<0.001$ \\
+LLM judge (sees situation) & 54/69 & [0.71, 0.85] & 24/24 & 7/21 & 10 & 69 & 1/12, $p=0.0034$ \\
+Checklist LLM judge & 65/69 & [0.89, 0.99] & 24/24 & 17/21 & 3 & 69 & --- \\
+Direct answer from excerpt (ignores answer) & 57/69 & [0.70, 0.94] & 19/24 & 17/21 & 7 & 69 & 2/10, $p=0.039$ \\
+DCV (slot reading + code) & 49/69 & [0.59, 0.83] & 11/24 & 14/21 & 1 & 93 & 1/17, $p<0.001$ \\
+QBR without code (judge verdict) & 60/69 & [0.80, 0.94] & 24/24 & 12/21 & 7 & 69 & 0/5, $p=0.062$ \\
+\textbf{QBR (quote-bound recalculation)} & 63/69 & [0.85, 0.97] & 24/24 & 15/21 & 4 & 69 & 0/2, $p=0.5$ \\}
+\newcommand{\TNone}{45/69}
+\newcommand{\TAccDcv}{49/69}
+\newcommand{\TFixDcv}{11/24}
+\newcommand{\TKeepDcv}{14/21}
+\newcommand{\TAlarmDcv}{0/24}
+\newcommand{\TWrongDcv}{1}
+\newcommand{\TCiDcv}{[0.59, 0.83]}
+\newcommand{\TPDcv}{<0.001}
+\newcommand{\TOnlyDcv}{1}
+\newcommand{\TOnlyCkDcv}{17}
+\newcommand{\TAccDirect}{57/69}
+\newcommand{\TFixDirect}{19/24}
+\newcommand{\TKeepDirect}{17/21}
+\newcommand{\TAlarmDirect}{3/24}
+\newcommand{\TWrongDirect}{7}
+\newcommand{\TCiDirect}{[0.70, 0.94]}
+\newcommand{\TPDirect}{=0.039}
+\newcommand{\TOnlyDirect}{2}
+\newcommand{\TOnlyCkDirect}{10}
+\newcommand{\TAccJudge}{54/69}
+\newcommand{\TFixJudge}{24/24}
+\newcommand{\TKeepJudge}{7/21}
+\newcommand{\TAlarmJudge}{0/24}
+\newcommand{\TWrongJudge}{10}
+\newcommand{\TCiJudge}{[0.71, 0.85]}
+\newcommand{\TPJudge}{=0.0034}
+\newcommand{\TOnlyJudge}{1}
+\newcommand{\TOnlyCkJudge}{12}
+\newcommand{\TAccJudgeChecklist}{65/69}
+\newcommand{\TFixJudgeChecklist}{24/24}
+\newcommand{\TKeepJudgeChecklist}{17/21}
+\newcommand{\TAlarmJudgeChecklist}{0/24}
+\newcommand{\TWrongJudgeChecklist}{3}
+\newcommand{\TCiJudgeChecklist}{[0.89, 0.99]}
+\newcommand{\TPJudgeChecklist}{=1}
+\newcommand{\TOnlyJudgeChecklist}{0}
+\newcommand{\TOnlyCkJudgeChecklist}{0}
+\newcommand{\TAccLynx}{40/69}
+\newcommand{\TFixLynx}{19/24}
+\newcommand{\TKeepLynx}{8/21}
+\newcommand{\TAlarmLynx}{11/24}
+\newcommand{\TWrongLynx}{24}
+\newcommand{\TCiLynx}{[0.50, 0.66]}
+\newcommand{\TPLynx}{<0.001}
+\newcommand{\TOnlyLynx}{0}
+\newcommand{\TOnlyCkLynx}{25}
+\newcommand{\TAccNliAnswer}{37/69}
+\newcommand{\TFixNliAnswer}{12/24}
+\newcommand{\TKeepNliAnswer}{13/21}
+\newcommand{\TAlarmNliAnswer}{12/24}
+\newcommand{\TWrongNliAnswer}{20}
+\newcommand{\TCiNliAnswer}{[0.47, 0.60]}
+\newcommand{\TPNliAnswer}{<0.001}
+\newcommand{\TOnlyNliAnswer}{2}
+\newcommand{\TOnlyCkNliAnswer}{30}
+\newcommand{\TAccNliClaim}{31/69}
+\newcommand{\TFixNliClaim}{15/24}
+\newcommand{\TKeepNliClaim}{7/21}
+\newcommand{\TAlarmNliClaim}{15/24}
+\newcommand{\TWrongNliClaim}{29}
+\newcommand{\TCiNliClaim}{[0.39, 0.51]}
+\newcommand{\TPNliClaim}{<0.001}
+\newcommand{\TOnlyNliClaim}{2}
+\newcommand{\TOnlyCkNliClaim}{36}
+\newcommand{\TAccQbr}{63/69}
+\newcommand{\TFixQbr}{24/24}
+\newcommand{\TKeepQbr}{15/21}
+\newcommand{\TAlarmQbr}{0/24}
+\newcommand{\TWrongQbr}{4}
+\newcommand{\TCiQbr}{[0.85, 0.97]}
+\newcommand{\TPQbr}{=0.5}
+\newcommand{\TOnlyQbr}{0}
+\newcommand{\TOnlyCkQbr}{2}
+\newcommand{\TCodeQbr}{46/46}
+\newcommand{\TStrataQbr}{code: 46/46; error: 0/2; insufficient: 3/3; judge: 14/18}
+\newcommand{\TAccRules}{45/69}
+\newcommand{\TFixRules}{21/24}
+\newcommand{\TKeepRules}{0/21}
+\newcommand{\TAlarmRules}{0/24}
+\newcommand{\TWrongRules}{21}
+\newcommand{\TCiRules}{[0.64, 0.67]}
+\newcommand{\TPRules}{<0.001}
+\newcommand{\TOnlyRules}{0}
+\newcommand{\TOnlyCkRules}{20}
+\newcommand{\TAccDcvNoCounterfactual}{37/69}
+\newcommand{\TFixDcvNoCounterfactual}{11/24}
+\newcommand{\TKeepDcvNoCounterfactual}{4/21}
+\newcommand{\TAlarmDcvNoCounterfactual}{2/24}
+\newcommand{\TWrongDcvNoCounterfactual}{13}
+\newcommand{\TCiDcvNoCounterfactual}{[0.46, 0.61]}
+\newcommand{\TPDcvNoCounterfactual}{<0.001}
+\newcommand{\TOnlyDcvNoCounterfactual}{1}
+\newcommand{\TOnlyCkDcvNoCounterfactual}{29}
+\newcommand{\TAccDcvNoSelection}{50/69}
+\newcommand{\TFixDcvNoSelection}{6/24}
+\newcommand{\TKeepDcvNoSelection}{20/21}
+\newcommand{\TAlarmDcvNoSelection}{0/24}
+\newcommand{\TWrongDcvNoSelection}{1}
+\newcommand{\TCiDcvNoSelection}{[0.66, 0.80]}
+\newcommand{\TPDcvNoSelection}{=0.0015}
+\newcommand{\TOnlyDcvNoSelection}{3}
+\newcommand{\TOnlyCkDcvNoSelection}{18}
+\newcommand{\TAccDcvNoArithmetic}{42/69}
+\newcommand{\TFixDcvNoArithmetic}{4/24}
+\newcommand{\TKeepDcvNoArithmetic}{14/21}
+\newcommand{\TAlarmDcvNoArithmetic}{0/24}
+\newcommand{\TWrongDcvNoArithmetic}{1}
+\newcommand{\TCiDcvNoArithmetic}{[0.52, 0.70]}
+\newcommand{\TPDcvNoArithmetic}{<0.001}
+\newcommand{\TOnlyDcvNoArithmetic}{1}
+\newcommand{\TOnlyCkDcvNoArithmetic}{24}
+\newcommand{\TAccDcvNoAbstention}{55/69}
+\newcommand{\TFixDcvNoAbstention}{11/24}
+\newcommand{\TKeepDcvNoAbstention}{20/21}
+\newcommand{\TAlarmDcvNoAbstention}{0/24}
+\newcommand{\TWrongDcvNoAbstention}{1}
+\newcommand{\TCiDcvNoAbstention}{[0.72, 0.87]}
+\newcommand{\TPDcvNoAbstention}{=0.021}
+\newcommand{\TOnlyDcvNoAbstention}{3}
+\newcommand{\TOnlyCkDcvNoAbstention}{13}
+\newcommand{\TAccQbrAgree}{60/69}
+\newcommand{\TFixQbrAgree}{24/24}
+\newcommand{\TKeepQbrAgree}{12/21}
+\newcommand{\TAlarmQbrAgree}{0/24}
+\newcommand{\TWrongQbrAgree}{4}
+\newcommand{\TCiQbrAgree}{[0.80, 0.94]}
+\newcommand{\TPQbrAgree}{=0.062}
+\newcommand{\TOnlyQbrAgree}{0}
+\newcommand{\TOnlyCkQbrAgree}{5}
+\newcommand{\TCodeQbrAgree}{43/43}
+\newcommand{\TStrataQbrAgree}{code: 43/43; defer: 0/3; error: 0/2; insufficient: 3/3; judge: 14/18}
+\newcommand{\TAccQbrJudgeOnly}{60/69}
+\newcommand{\TFixQbrJudgeOnly}{24/24}
+\newcommand{\TKeepQbrJudgeOnly}{12/21}
+\newcommand{\TAlarmQbrJudgeOnly}{0/24}
+\newcommand{\TWrongQbrJudgeOnly}{7}
+\newcommand{\TCiQbrJudgeOnly}{[0.80, 0.94]}
+\newcommand{\TPQbrJudgeOnly}{=0.062}
+\newcommand{\TOnlyQbrJudgeOnly}{0}
+\newcommand{\TOnlyCkQbrJudgeOnly}{5}
+\newcommand{\TCodeQbrJudgeOnly}{0/0}
+\newcommand{\TStrataQbrJudgeOnly}{correct: 36/36; error: 0/2; incorrect: 24/31}
+\newcommand{\TAccQbrSourceBound}{63/69}
+\newcommand{\TFixQbrSourceBound}{24/24}
+\newcommand{\TKeepQbrSourceBound}{15/21}
+\newcommand{\TAlarmQbrSourceBound}{0/24}
+\newcommand{\TWrongQbrSourceBound}{4}
+\newcommand{\TCiQbrSourceBound}{[0.85, 0.97]}
+\newcommand{\TPQbrSourceBound}{=0.5}
+\newcommand{\TOnlyQbrSourceBound}{0}
+\newcommand{\TOnlyCkQbrSourceBound}{2}
+\newcommand{\TCodeQbrSourceBound}{46/46}
+\newcommand{\TStrataQbrSourceBound}{code: 46/46; error: 0/2; insufficient: 3/3; judge: 14/18}
+\newcommand{\TAblRows}{DCV, full & 49/69 & 11/24 & 14/21 & 1 \\
+$-$ recompute-and-flip (flag any mismatch) & 37/69 & 11/24 & 4/21 & 13 \\
+$-$ variant selection & 50/69 & 6/24 & 20/21 & 1 \\
+$-$ user arithmetic & 42/69 & 4/24 & 14/21 & 1 \\
+$-$ abstention & 55/69 & 11/24 & 20/21 & 1 \\
+QBR, code verdict when certified (pre-registered) & 63/69 & 24/24 & 15/21 & 4 \\
+QBR, intervene only if code and judge agree & 60/69 & 24/24 & 12/21 & 4 \\
+QBR without code (judge verdict) & 60/69 & 24/24 & 12/21 & 7 \\}
+\newcommand{\TAllRightDcv}{11/24}
+\newcommand{\TAllRightDirect}{17/24}
+\newcommand{\TAllRightJudge}{10/24}
+\newcommand{\TAllRightJudgeChecklist}{20/24}
+\newcommand{\TAllRightLynx}{2/24}
+\newcommand{\TAllRightNliAnswer}{0/24}
+\newcommand{\TAllRightNliClaim}{0/24}
+\newcommand{\TAllRightQbr}{18/24}
+\newcommand{\TAllRightRules}{0/24}
+\newcommand{\TAllRightDcvNoCounterfactual}{0/24}
+\newcommand{\TAllRightDcvNoSelection}{6/24}
+\newcommand{\TAllRightDcvNoArithmetic}{4/24}
+\newcommand{\TAllRightDcvNoAbstention}{11/24}
+\newcommand{\TAllRightQbrAgree}{15/24}
+\newcommand{\TAllRightQbrJudgeOnly}{15/24}
+\newcommand{\TAllRightQbrSourceBound}{18/24}
+\newcommand{\TPairQbrVsJudgeChecklist}{0/2}
+\newcommand{\TPairPQbrVsJudgeChecklist}{=0.5}
+\newcommand{\TDiffCiQbrVsJudgeChecklist}{[-0.07, 0.00]}
+\newcommand{\TPairQbrVsQbrJudgeOnly}{3/0}
+\newcommand{\TPairPQbrVsQbrJudgeOnly}{=0.25}
+\newcommand{\TDiffCiQbrVsQbrJudgeOnly}{[0.00, 0.10]}
+\newcommand{\TPairQbrJudgeOnlyVsJudgeChecklist}{0/5}
+\newcommand{\TPairPQbrJudgeOnlyVsJudgeChecklist}{=0.062}
+\newcommand{\TDiffCiQbrJudgeOnlyVsJudgeChecklist}{[-0.13, -0.01]}
+\newcommand{\TPairJudgeChecklistVsJudge}{12/1}
+\newcommand{\TPairPJudgeChecklistVsJudge}{=0.0034}
+\newcommand{\TDiffCiJudgeChecklistVsJudge}{[0.07, 0.25]}
+\newcommand{\TPairQbrVsDcv}{16/2}
+\newcommand{\TPairPQbrVsDcv}{=0.0013}
+\newcommand{\TDiffCiQbrVsDcv}{[0.09, 0.32]}
+\newcommand{\VRows}{No verifier (answer as given) & 30/45 & --- & 0/15 & 15/15 & 0 & 0 & --- \\
+Qualifier rules & 30/45 & [0.67, 0.67] & 2/15 & 13/15 & 2 & 0 & 7/11, $p=0.48$ \\
+LLM judge (sees situation) & 32/45 & [0.60, 0.82] & 15/15 & 6/15 & 12 & 45 & 6/8, $p=0.79$ \\
+Checklist LLM judge & 34/45 & [0.53, 0.93] & 11/15 & 12/15 & 6 & 45 & --- \\
+Direct answer from excerpt (ignores answer) & 23/45 & [0.33, 0.67] & 10/15 & 7/15 & 12 & 39 & 2/13, $p=0.0074$ \\
+DCV (slot reading + code) & 28/45 & [0.51, 0.73] & 5/15 & 12/15 & 5 & 60 & 6/12, $p=0.24$ \\
+QBR without code (judge verdict) & 33/45 & [0.62, 0.84] & 10/15 & 9/15 & 5 & 45 & 7/8, $p=1$ \\
+\textbf{QBR (quote-bound recalculation)} & 34/45 & [0.64, 0.87] & 11/15 & 10/15 & 5 & 45 & 7/7, $p=1$ \\}
+\newcommand{\VNone}{30/45}
+\newcommand{\VAccDcv}{28/45}
+\newcommand{\VFixDcv}{5/15}
+\newcommand{\VKeepDcv}{12/15}
+\newcommand{\VAlarmDcv}{4/15}
+\newcommand{\VWrongDcv}{5}
+\newcommand{\VCiDcv}{[0.51, 0.73]}
+\newcommand{\VPDcv}{=0.24}
+\newcommand{\VOnlyDcv}{6}
+\newcommand{\VOnlyCkDcv}{12}
+\newcommand{\VAccDirect}{23/45}
+\newcommand{\VFixDirect}{10/15}
+\newcommand{\VKeepDirect}{7/15}
+\newcommand{\VAlarmDirect}{7/15}
+\newcommand{\VWrongDirect}{12}
+\newcommand{\VCiDirect}{[0.33, 0.67]}
+\newcommand{\VPDirect}{=0.0074}
+\newcommand{\VOnlyDirect}{2}
+\newcommand{\VOnlyCkDirect}{13}
+\newcommand{\VAccJudge}{32/45}
+\newcommand{\VFixJudge}{15/15}
+\newcommand{\VKeepJudge}{6/15}
+\newcommand{\VAlarmJudge}{4/15}
+\newcommand{\VWrongJudge}{12}
+\newcommand{\VCiJudge}{[0.60, 0.82]}
+\newcommand{\VPJudge}{=0.79}
+\newcommand{\VOnlyJudge}{6}
+\newcommand{\VOnlyCkJudge}{8}
+\newcommand{\VAccJudgeChecklist}{34/45}
+\newcommand{\VFixJudgeChecklist}{11/15}
+\newcommand{\VKeepJudgeChecklist}{12/15}
+\newcommand{\VAlarmJudgeChecklist}{4/15}
+\newcommand{\VWrongJudgeChecklist}{6}
+\newcommand{\VCiJudgeChecklist}{[0.53, 0.93]}
+\newcommand{\VPJudgeChecklist}{=1}
+\newcommand{\VOnlyJudgeChecklist}{0}
+\newcommand{\VOnlyCkJudgeChecklist}{0}
+\newcommand{\VAccQbr}{34/45}
+\newcommand{\VFixQbr}{11/15}
+\newcommand{\VKeepQbr}{10/15}
+\newcommand{\VAlarmQbr}{2/15}
+\newcommand{\VWrongQbr}{5}
+\newcommand{\VCiQbr}{[0.64, 0.87]}
+\newcommand{\VPQbr}{=1}
+\newcommand{\VOnlyQbr}{7}
+\newcommand{\VOnlyCkQbr}{7}
+\newcommand{\VCodeQbr}{9/10}
+\newcommand{\VStrataQbr}{code: 9/10; error: 0/2; judge: 25/33}
+\newcommand{\VAccRules}{30/45}
+\newcommand{\VFixRules}{2/15}
+\newcommand{\VKeepRules}{13/15}
+\newcommand{\VAlarmRules}{0/15}
+\newcommand{\VWrongRules}{2}
+\newcommand{\VCiRules}{[0.67, 0.67]}
+\newcommand{\VPRules}{=0.48}
+\newcommand{\VOnlyRules}{7}
+\newcommand{\VOnlyCkRules}{11}
+\newcommand{\VAccDcvNoCounterfactual}{26/45}
+\newcommand{\VFixDcvNoCounterfactual}{2/15}
+\newcommand{\VKeepDcvNoCounterfactual}{12/15}
+\newcommand{\VAlarmDcvNoCounterfactual}{3/15}
+\newcommand{\VWrongDcvNoCounterfactual}{4}
+\newcommand{\VCiDcvNoCounterfactual}{[0.51, 0.64]}
+\newcommand{\VPDcvNoCounterfactual}{=0.12}
+\newcommand{\VOnlyDcvNoCounterfactual}{6}
+\newcommand{\VOnlyCkDcvNoCounterfactual}{14}
+\newcommand{\VAccDcvNoSelection}{29/45}
+\newcommand{\VFixDcvNoSelection}{4/15}
+\newcommand{\VKeepDcvNoSelection}{13/15}
+\newcommand{\VAlarmDcvNoSelection}{3/15}
+\newcommand{\VWrongDcvNoSelection}{5}
+\newcommand{\VCiDcvNoSelection}{[0.58, 0.71]}
+\newcommand{\VPDcvNoSelection}{=0.36}
+\newcommand{\VOnlyDcvNoSelection}{7}
+\newcommand{\VOnlyCkDcvNoSelection}{12}
+\newcommand{\VAccDcvNoArithmetic}{28/45}
+\newcommand{\VFixDcvNoArithmetic}{3/15}
+\newcommand{\VKeepDcvNoArithmetic}{13/15}
+\newcommand{\VAlarmDcvNoArithmetic}{3/15}
+\newcommand{\VWrongDcvNoArithmetic}{3}
+\newcommand{\VCiDcvNoArithmetic}{[0.53, 0.71]}
+\newcommand{\VPDcvNoArithmetic}{=0.24}
+\newcommand{\VOnlyDcvNoArithmetic}{6}
+\newcommand{\VOnlyCkDcvNoArithmetic}{12}
+\newcommand{\VAccDcvNoAbstention}{30/45}
+\newcommand{\VFixDcvNoAbstention}{5/15}
+\newcommand{\VKeepDcvNoAbstention}{13/15}
+\newcommand{\VAlarmDcvNoAbstention}{3/15}
+\newcommand{\VWrongDcvNoAbstention}{5}
+\newcommand{\VCiDcvNoAbstention}{[0.58, 0.76]}
+\newcommand{\VPDcvNoAbstention}{=0.48}
+\newcommand{\VOnlyDcvNoAbstention}{7}
+\newcommand{\VOnlyCkDcvNoAbstention}{11}
+\newcommand{\VAccQbrAgree}{32/45}
+\newcommand{\VFixQbrAgree}{10/15}
+\newcommand{\VKeepQbrAgree}{9/15}
+\newcommand{\VAlarmQbrAgree}{2/15}
+\newcommand{\VWrongQbrAgree}{4}
+\newcommand{\VCiQbrAgree}{[0.58, 0.82]}
+\newcommand{\VPQbrAgree}{=0.8}
+\newcommand{\VOnlyQbrAgree}{7}
+\newcommand{\VOnlyCkQbrAgree}{9}
+\newcommand{\VCodeQbrAgree}{7/7}
+\newcommand{\VStrataQbrAgree}{code: 7/7; defer: 0/3; error: 0/2; judge: 25/33}
+\newcommand{\VAccQbrJudgeOnly}{33/45}
+\newcommand{\VFixQbrJudgeOnly}{10/15}
+\newcommand{\VKeepQbrJudgeOnly}{9/15}
+\newcommand{\VAlarmQbrJudgeOnly}{1/15}
+\newcommand{\VWrongQbrJudgeOnly}{5}
+\newcommand{\VCiQbrJudgeOnly}{[0.62, 0.84]}
+\newcommand{\VPQbrJudgeOnly}{=1}
+\newcommand{\VOnlyQbrJudgeOnly}{7}
+\newcommand{\VOnlyCkQbrJudgeOnly}{8}
+\newcommand{\VCodeQbrJudgeOnly}{0/0}
+\newcommand{\VStrataQbrJudgeOnly}{correct: 23/28; error: 0/2; incorrect: 10/15}
+\newcommand{\VAccQbrSourceBound}{34/45}
+\newcommand{\VFixQbrSourceBound}{10/15}
+\newcommand{\VKeepQbrSourceBound}{10/15}
+\newcommand{\VAlarmQbrSourceBound}{1/15}
+\newcommand{\VWrongQbrSourceBound}{4}
+\newcommand{\VCiQbrSourceBound}{[0.64, 0.87]}
+\newcommand{\VPQbrSourceBound}{=1}
+\newcommand{\VOnlyQbrSourceBound}{7}
+\newcommand{\VOnlyCkQbrSourceBound}{7}
+\newcommand{\VCodeQbrSourceBound}{7/7}
+\newcommand{\VStrataQbrSourceBound}{code: 7/7; error: 0/2; judge: 27/36}
+\newcommand{\VAblRows}{DCV, full & 28/45 & 5/15 & 12/15 & 5 \\
+$-$ recompute-and-flip (flag any mismatch) & 26/45 & 2/15 & 12/15 & 4 \\
+$-$ variant selection & 29/45 & 4/15 & 13/15 & 5 \\
+$-$ user arithmetic & 28/45 & 3/15 & 13/15 & 3 \\
+$-$ abstention & 30/45 & 5/15 & 13/15 & 5 \\
+QBR, code verdict when certified (pre-registered) & 34/45 & 11/15 & 10/15 & 5 \\
+QBR, intervene only if code and judge agree & 32/45 & 10/15 & 9/15 & 4 \\
+QBR without code (judge verdict) & 33/45 & 10/15 & 9/15 & 5 \\}
+\newcommand{\VAllRightDcv}{2/15}
+\newcommand{\VAllRightDirect}{2/15}
+\newcommand{\VAllRightJudge}{4/15}
+\newcommand{\VAllRightJudgeChecklist}{10/15}
+\newcommand{\VAllRightQbr}{6/15}
+\newcommand{\VAllRightRules}{0/15}
+\newcommand{\VAllRightDcvNoCounterfactual}{0/15}
+\newcommand{\VAllRightDcvNoSelection}{1/15}
+\newcommand{\VAllRightDcvNoArithmetic}{1/15}
+\newcommand{\VAllRightDcvNoAbstention}{2/15}
+\newcommand{\VAllRightQbrAgree}{5/15}
+\newcommand{\VAllRightQbrJudgeOnly}{5/15}
+\newcommand{\VAllRightQbrSourceBound}{6/15}
+\newcommand{\VPairQbrVsJudgeChecklist}{7/7}
+\newcommand{\VPairPQbrVsJudgeChecklist}{=1}
+\newcommand{\VDiffCiQbrVsJudgeChecklist}{[-0.20, 0.22]}
+\newcommand{\VPairQbrVsQbrJudgeOnly}{2/1}
+\newcommand{\VPairPQbrVsQbrJudgeOnly}{=1}
+\newcommand{\VDiffCiQbrVsQbrJudgeOnly}{[0.00, 0.07]}
+\newcommand{\VPairQbrJudgeOnlyVsJudgeChecklist}{7/8}
+\newcommand{\VPairPQbrJudgeOnlyVsJudgeChecklist}{=1}
+\newcommand{\VDiffCiQbrJudgeOnlyVsJudgeChecklist}{[-0.22, 0.20]}
+\newcommand{\VPairJudgeChecklistVsJudge}{8/6}
+\newcommand{\VPairPJudgeChecklistVsJudge}{=0.79}
+\newcommand{\VDiffCiJudgeChecklistVsJudge}{[-0.16, 0.22]}
+\newcommand{\VPairQbrVsDcv}{15/9}
+\newcommand{\VPairPQbrVsDcv}{=0.31}
+\newcommand{\VDiffCiQbrVsDcv}{[-0.02, 0.31]}
+\newcommand{\VItemRows}{supabase-mau & Included quota + overage & \texttt{A.C} & \texttt{ABC} & \texttt{A..} & \texttt{A..} & \texttt{A.C} & \texttt{A.C} \\
+supabase-disk & Included quota + overage & \texttt{A.C} & \texttt{ABC} & \texttt{AB.} & \texttt{AB.} & \texttt{A.C} & \texttt{A.C} \\
+postmark-basic & Included quota + overage & \texttt{A.C} & \texttt{.BC} & \texttt{A.C} & \texttt{A.C} & \texttt{A.C} & \texttt{A.C} \\
+postmark-pro & Included quota + overage & \texttt{A.C} & \texttt{ABC} & \texttt{ABC} & \texttt{ABC} & \texttt{A.C} & \texttt{A.C} \\
+wasabi-minimum & Minimum billable amount & \texttt{A.C} & \texttt{A.C} & \texttt{A.C} & \texttt{A.C} & \texttt{ABC} & \texttt{A.C} \\
+do-ssd & GiB vs GB & \texttt{A.C} & \texttt{ABC} & \texttt{A.C} & \texttt{.BC} & \texttt{A.C} & \texttt{A.C} \\
+do-transfer & GiB vs GB & \texttt{A.C} & \texttt{...} & \texttt{A.C} & \texttt{A.C} & \texttt{.B.} & \texttt{A.C} \\
+bitwarden-cap & Plan user cap & \texttt{A.C} & \texttt{ABC} & \texttt{ABC} & \texttt{ABC} & \texttt{.B.} & \texttt{A.C} \\
+slack-period & Billing term & \texttt{A.C} & \texttt{ABC} & \texttt{ABC} & \texttt{ABC} & \texttt{ABC} & \texttt{AB.} \\
+hostinger-renewal & Intro vs renewal & \texttt{A.C} & \texttt{...} & \texttt{.B.} & \texttt{.B.} & \texttt{A.C} & \texttt{A.C} \\
+crocs-segment & Segment vs consolidated & \texttt{A.C} & \texttt{ABC} & \texttt{ABC} & \texttt{ABC} & \texttt{A.C} & \texttt{A.C} \\
+crocs-wholesale-cc & Constant currency vs reported & \texttt{A.C} & \texttt{ABC} & \texttt{AB.} & \texttt{AB.} & \texttt{.BC} & \texttt{A.C} \\
+heydude-wholesale-cc & Constant currency vs reported & \texttt{A.C} & \texttt{ABC} & \texttt{AB.} & \texttt{AB.} & \texttt{A.C} & \texttt{A.C} \\
+hinge-guidance & Guidance vs reported & \texttt{A.C} & \texttt{...} & \texttt{ABC} & \texttt{ABC} & \texttt{..C} & \texttt{A.C} \\
+hinge-gaap & Accounting basis & \texttt{A.C} & \texttt{ABC} & \texttt{AB.} & \texttt{ABC} & \texttt{A..} & \texttt{AB.} \\}
+\newcommand{\LNone}{36/54}
+\newcommand{\LAccDcv}{41/54}
+\newcommand{\LFixDcv}{11/18}
+\newcommand{\LKeepDcv}{13/18}
+\newcommand{\LAlarmDcv}{0/18}
+\newcommand{\LWrongDcv}{1}
+\newcommand{\LCiDcv}{[0.61, 0.89]}
+\newcommand{\LPDcv}{=0.51}
+\newcommand{\LOnlyDcv}{3}
+\newcommand{\LOnlyCkDcv}{6}
+\newcommand{\LAccDirect}{39/54}
+\newcommand{\LFixDirect}{11/18}
+\newcommand{\LKeepDirect}{12/18}
+\newcommand{\LAlarmDirect}{2/18}
+\newcommand{\LWrongDirect}{8}
+\newcommand{\LCiDirect}{[0.56, 0.89]}
+\newcommand{\LPDirect}{=0.38}
+\newcommand{\LOnlyDirect}{8}
+\newcommand{\LOnlyCkDirect}{13}
+\newcommand{\LAccJudge}{35/54}
+\newcommand{\LFixJudge}{17/18}
+\newcommand{\LKeepJudge}{6/18}
+\newcommand{\LAlarmJudge}{5/18}
+\newcommand{\LWrongJudge}{14}
+\newcommand{\LCiJudge}{[0.54, 0.76]}
+\newcommand{\LPJudge}{=0.012}
+\newcommand{\LOnlyJudge}{1}
+\newcommand{\LOnlyCkJudge}{10}
+\newcommand{\LAccJudgeChecklist}{44/54}
+\newcommand{\LFixJudgeChecklist}{17/18}
+\newcommand{\LKeepJudgeChecklist}{10/18}
+\newcommand{\LAlarmJudgeChecklist}{0/18}
+\newcommand{\LWrongJudgeChecklist}{7}
+\newcommand{\LCiJudgeChecklist}{[0.69, 0.93]}
+\newcommand{\LPJudgeChecklist}{=1}
+\newcommand{\LOnlyJudgeChecklist}{0}
+\newcommand{\LOnlyCkJudgeChecklist}{0}
+\newcommand{\LAccQbr}{43/54}
+\newcommand{\LFixQbr}{17/18}
+\newcommand{\LKeepQbr}{10/18}
+\newcommand{\LAlarmQbr}{1/18}
+\newcommand{\LWrongQbr}{2}
+\newcommand{\LCiQbr}{[0.65, 0.91]}
+\newcommand{\LPQbr}{=1}
+\newcommand{\LOnlyQbr}{2}
+\newcommand{\LOnlyCkQbr}{3}
+\newcommand{\LCodeQbr}{27/27}
+\newcommand{\LStrataQbr}{code: 27/27; error: 0/8; insufficient: 0/1; judge: 16/18}
+\newcommand{\LAccRules}{36/54}
+\newcommand{\LFixRules}{18/18}
+\newcommand{\LKeepRules}{0/18}
+\newcommand{\LAlarmRules}{0/18}
+\newcommand{\LWrongRules}{18}
+\newcommand{\LCiRules}{[0.67, 0.67]}
+\newcommand{\LPRules}{=0.039}
+\newcommand{\LOnlyRules}{2}
+\newcommand{\LOnlyCkRules}{10}
+\newcommand{\LAccDcvNoCounterfactual}{29/54}
+\newcommand{\LFixDcvNoCounterfactual}{11/18}
+\newcommand{\LKeepDcvNoCounterfactual}{3/18}
+\newcommand{\LAlarmDcvNoCounterfactual}{2/18}
+\newcommand{\LWrongDcvNoCounterfactual}{13}
+\newcommand{\LCiDcvNoCounterfactual}{[0.44, 0.61]}
+\newcommand{\LPDcvNoCounterfactual}{<0.001}
+\newcommand{\LOnlyDcvNoCounterfactual}{1}
+\newcommand{\LOnlyCkDcvNoCounterfactual}{16}
+\newcommand{\LAccDcvNoSelection}{39/54}
+\newcommand{\LFixDcvNoSelection}{6/18}
+\newcommand{\LKeepDcvNoSelection}{16/18}
+\newcommand{\LAlarmDcvNoSelection}{0/18}
+\newcommand{\LWrongDcvNoSelection}{1}
+\newcommand{\LCiDcvNoSelection}{[0.59, 0.83]}
+\newcommand{\LPDcvNoSelection}{=0.33}
+\newcommand{\LOnlyDcvNoSelection}{6}
+\newcommand{\LOnlyCkDcvNoSelection}{11}
+\newcommand{\LAccDcvNoArithmetic}{33/54}
+\newcommand{\LFixDcvNoArithmetic}{3/18}
+\newcommand{\LKeepDcvNoArithmetic}{13/18}
+\newcommand{\LAlarmDcvNoArithmetic}{0/18}
+\newcommand{\LWrongDcvNoArithmetic}{1}
+\newcommand{\LCiDcvNoArithmetic}{[0.50, 0.70]}
+\newcommand{\LPDcvNoArithmetic}{=0.013}
+\newcommand{\LOnlyDcvNoArithmetic}{3}
+\newcommand{\LOnlyCkDcvNoArithmetic}{14}
+\newcommand{\LAccDcvNoAbstention}{44/54}
+\newcommand{\LFixDcvNoAbstention}{11/18}
+\newcommand{\LKeepDcvNoAbstention}{16/18}
+\newcommand{\LAlarmDcvNoAbstention}{0/18}
+\newcommand{\LWrongDcvNoAbstention}{1}
+\newcommand{\LCiDcvNoAbstention}{[0.69, 0.93]}
+\newcommand{\LPDcvNoAbstention}{=1}
+\newcommand{\LOnlyDcvNoAbstention}{6}
+\newcommand{\LOnlyCkDcvNoAbstention}{6}
+\newcommand{\LAccQbrAgree}{42/54}
+\newcommand{\LFixQbrAgree}{17/18}
+\newcommand{\LKeepQbrAgree}{9/18}
+\newcommand{\LAlarmQbrAgree}{1/18}
+\newcommand{\LWrongQbrAgree}{2}
+\newcommand{\LCiQbrAgree}{[0.63, 0.89]}
+\newcommand{\LPQbrAgree}{=0.62}
+\newcommand{\LOnlyQbrAgree}{1}
+\newcommand{\LOnlyCkQbrAgree}{3}
+\newcommand{\LCodeQbrAgree}{26/26}
+\newcommand{\LStrataQbrAgree}{code: 26/26; defer: 0/1; error: 0/8; insufficient: 0/1; judge: 16/18}
+\newcommand{\LAccQbrJudgeOnly}{42/54}
+\newcommand{\LFixQbrJudgeOnly}{17/18}
+\newcommand{\LKeepQbrJudgeOnly}{9/18}
+\newcommand{\LAlarmQbrJudgeOnly}{1/18}
+\newcommand{\LWrongQbrJudgeOnly}{4}
+\newcommand{\LCiQbrJudgeOnly}{[0.63, 0.89]}
+\newcommand{\LPQbrJudgeOnly}{=0.62}
+\newcommand{\LOnlyQbrJudgeOnly}{1}
+\newcommand{\LOnlyCkQbrJudgeOnly}{3}
+\newcommand{\LCodeQbrJudgeOnly}{0/0}
+\newcommand{\LStrataQbrJudgeOnly}{correct: 25/25; error: 0/8; incorrect: 17/21}
+\newcommand{\LAccQbrSourceBound}{43/54}
+\newcommand{\LFixQbrSourceBound}{17/18}
+\newcommand{\LKeepQbrSourceBound}{10/18}
+\newcommand{\LAlarmQbrSourceBound}{1/18}
+\newcommand{\LWrongQbrSourceBound}{2}
+\newcommand{\LCiQbrSourceBound}{[0.65, 0.91]}
+\newcommand{\LPQbrSourceBound}{=1}
+\newcommand{\LOnlyQbrSourceBound}{2}
+\newcommand{\LOnlyCkQbrSourceBound}{3}
+\newcommand{\LCodeQbrSourceBound}{27/27}
+\newcommand{\LStrataQbrSourceBound}{code: 27/27; error: 0/8; insufficient: 0/1; judge: 16/18}
+\newcommand{\LAblRows}{DCV, full & 41/54 & 11/18 & 13/18 & 1 \\
+$-$ recompute-and-flip (flag any mismatch) & 29/54 & 11/18 & 3/18 & 13 \\
+$-$ variant selection & 39/54 & 6/18 & 16/18 & 1 \\
+$-$ user arithmetic & 33/54 & 3/18 & 13/18 & 1 \\
+$-$ abstention & 44/54 & 11/18 & 16/18 & 1 \\
+QBR, code verdict when certified (pre-registered) & 43/54 & 17/18 & 10/18 & 2 \\
+QBR, intervene only if code and judge agree & 42/54 & 17/18 & 9/18 & 2 \\
+QBR without code (judge verdict) & 42/54 & 17/18 & 9/18 & 4 \\}
+\newcommand{\LAllRightDcv}{10/18}
+\newcommand{\LAllRightDirect}{10/18}
+\newcommand{\LAllRightJudge}{3/18}
+\newcommand{\LAllRightJudgeChecklist}{10/18}
+\newcommand{\LAllRightQbr}{10/18}
+\newcommand{\LAllRightRules}{0/18}
+\newcommand{\LAllRightDcvNoCounterfactual}{0/18}
+\newcommand{\LAllRightDcvNoSelection}{6/18}
+\newcommand{\LAllRightDcvNoArithmetic}{2/18}
+\newcommand{\LAllRightDcvNoAbstention}{10/18}
+\newcommand{\LAllRightQbrAgree}{9/18}
+\newcommand{\LAllRightQbrJudgeOnly}{9/18}
+\newcommand{\LAllRightQbrSourceBound}{10/18}
+\newcommand{\BothRows}{No verifier & 45/69 & --- & 0 & 21 & 30/45 & --- & 0 & 15 \\ \midrule
+NLI: excerpt $\to$ claim & 31/69 & [0.39, 0.51] & 15 & 7 & \multicolumn{4}{c}{---} \\
+NLI: excerpt + situation $\to$ answer & 37/69 & [0.47, 0.60] & 12 & 13 & \multicolumn{4}{c}{---} \\
+Lynx-8B faithfulness & 40/69 & [0.50, 0.66] & 19 & 8 & \multicolumn{4}{c}{---} \\
+Qualifier rules & 45/69 & [0.64, 0.67] & 21 & 0 & 30/45 & [0.67, 0.67] & 2 & 13 \\
+LLM judge (sees situation) & 54/69 & [0.71, 0.85] & 24 & 7 & 32/45 & [0.60, 0.82] & 15 & 6 \\
+\textbf{Checklist LLM judge} & 65/69 & [0.89, 0.99] & 24 & 17 & 34/45 & [0.53, 0.93] & 11 & 12 \\
+Direct answer (ignores the answer) & 57/69 & [0.70, 0.94] & 19 & 17 & 23/45 & [0.33, 0.67] & 10 & 7 \\
+DCV (slot reading + code) & 49/69 & [0.59, 0.83] & 11 & 14 & 28/45 & [0.51, 0.73] & 5 & 12 \\
+QBR without code (judge verdict) & 60/69 & [0.80, 0.94] & 24 & 12 & 33/45 & [0.62, 0.84] & 10 & 9 \\
+QBR (quote-bound recalculation) & 63/69 & [0.85, 0.97] & 24 & 15 & 34/45 & [0.64, 0.87] & 11 & 10 \\}
+\newcommand{\TNB}{24}
+\newcommand{\TNC}{21}
+\newcommand{\VNB}{15}
+\newcommand{\VNC}{15}
+\newcommand{\LongSentence}{With the same test items' excerpts widened to about 12k characters (the same items, so not additional independent evidence), the checklist judge reached 44/54 and QBR 43/54, against 36/54 for leaving answers alone.}
+\newcommand{\FamilyRowsTwoCol}{Billing term & 4 & 1 & Included quota + overage & 0 & 4 \\
+Intro vs renewal & 4 & 1 & Minimum billable amount & 0 & 1 \\
+Per-user price & 4 & 0 & GiB vs GB & 0 & 2 \\
+Tax basis & 2 & 0 & Plan user cap & 0 & 1 \\
+Accounting basis & 6 & 1 & Segment vs consolidated & 0 & 1 \\
+Reporting period & 2 & 0 & Constant currency vs reported & 0 & 2 \\
+Relative vs absolute & 4 & 0 & Guidance vs reported & 0 & 1 \\
+Study population & 4 & 0 &  & &  \\}
+\newcommand{\LynxSentence}{Lynx-8B, a published faithfulness checker run with its own prompt, reaches 40/69 (B fixed 19/24, false alarms on A 11/24, C kept 8/21).}
+\newcommand{\NNineWrong}{2}
+\newcommand{\NNineSI}{2}
+\newcommand{\NNineAmb}{0}
+\newcommand{\NNineBWrong}{2/17}
+\newcommand{\NNineBSI}{2/17}
+\newcommand{\NNineNoAns}{0}
+\newcommand{\NNineRightWrongReason}{1}
+\newcommand{\NNineAutoSI}{0}
+\newcommand{\NNineAccNone}{49/51}
+\newcommand{\NNineCiNone}{[0.90, 1.00]}
+\newcommand{\NNineAccRules}{47/51}
+\newcommand{\NNineCiRules}{[0.82, 1.00]}
+\newcommand{\NNineFixRules}{1/2}
+\newcommand{\NNineKeepRules}{46/49}
+\newcommand{\NNineSIFixRules}{1/2}
+\newcommand{\NNineAccCk}{50/51}
+\newcommand{\NNineCiCk}{[0.94, 1.00]}
+\newcommand{\NNineFixCk}{1/2}
+\newcommand{\NNineKeepCk}{49/49}
+\newcommand{\NNineSIFixCk}{1/2}
+\newcommand{\NNineAccQbrJ}{51/51}
+\newcommand{\NNineCiQbrJ}{[1.00, 1.00]}
+\newcommand{\NNineFixQbrJ}{2/2}
+\newcommand{\NNineKeepQbrJ}{49/49}
+\newcommand{\NNineSIFixQbrJ}{2/2}
+\newcommand{\NNineAccQbrBF}{51/51}
+\newcommand{\NNineCiQbrBF}{[1.00, 1.00]}
+\newcommand{\NNineFixQbrBF}{2/2}
+\newcommand{\NNineKeepQbrBF}{49/49}
+\newcommand{\NNineSIFixQbrBF}{2/2}
+\newcommand{\NNineCertQbrBF}{20/20}
+\newcommand{\NNineAccQbr}{51/51}
+\newcommand{\NNineCiQbr}{[1.00, 1.00]}
+\newcommand{\NNineFixQbr}{2/2}
+\newcommand{\NNineKeepQbr}{49/49}
+\newcommand{\NNineSIFixQbr}{2/2}
+\newcommand{\NNineCertQbr}{19/19}
+\newcommand{\NNineCertNoSource}{1}
+\newcommand{\NNineCertBoundFirst}{20}
+\newcommand{\NNineQbrErrors}{0}
+\newcommand{\NNinePairQbrSourceBoundVsJudgeChecklist}{1/0}
+\newcommand{\NNinePairPQbrSourceBoundVsJudgeChecklist}{=1}
+\newcommand{\NNinePairQbrSourceBoundVsQbrJudgeOnly}{0/0}
+\newcommand{\NNinePairPQbrSourceBoundVsQbrJudgeOnly}{=1}
+\newcommand{\NNinePairJudgeChecklistVsRules}{4/1}
+\newcommand{\NNinePairPJudgeChecklistVsRules}{=0.38}
+\newcommand{\NFourWrong}{3}
+\newcommand{\NFourSI}{2}
+\newcommand{\NFourAmb}{0}
+\newcommand{\NFourBWrong}{2/17}
+\newcommand{\NFourBSI}{2/17}
+\newcommand{\NFourNoAns}{0}
+\newcommand{\NFourRightWrongReason}{1}
+\newcommand{\NFourAutoSI}{2}
+\newcommand{\NFourAccNone}{48/51}
+\newcommand{\NFourCiNone}{[0.84, 1.00]}
+\newcommand{\NFourAccRules}{42/51}
+\newcommand{\NFourCiRules}{[0.69, 0.94]}
+\newcommand{\NFourFixRules}{2/3}
+\newcommand{\NFourKeepRules}{40/48}
+\newcommand{\NFourSIFixRules}{2/2}
+\newcommand{\NFourAccJudge}{48/51}
+\newcommand{\NFourCiJudge}{[0.84, 1.00]}
+\newcommand{\NFourFixJudge}{2/3}
+\newcommand{\NFourKeepJudge}{46/48}
+\newcommand{\NFourSIFixJudge}{2/2}
+\newcommand{\NFourAccCk}{49/51}
+\newcommand{\NFourCiCk}{[0.88, 1.00]}
+\newcommand{\NFourFixCk}{2/3}
+\newcommand{\NFourKeepCk}{47/48}
+\newcommand{\NFourSIFixCk}{2/2}
+\newcommand{\NFourAccQbrJ}{50/51}
+\newcommand{\NFourCiQbrJ}{[0.94, 1.00]}
+\newcommand{\NFourFixQbrJ}{2/3}
+\newcommand{\NFourKeepQbrJ}{48/48}
+\newcommand{\NFourSIFixQbrJ}{2/2}
+\newcommand{\NFourAccQbrBF}{50/51}
+\newcommand{\NFourCiQbrBF}{[0.94, 1.00]}
+\newcommand{\NFourFixQbrBF}{2/3}
+\newcommand{\NFourKeepQbrBF}{48/48}
+\newcommand{\NFourSIFixQbrBF}{2/2}
+\newcommand{\NFourCertQbrBF}{17/17}
+\newcommand{\NFourAccQbr}{50/51}
+\newcommand{\NFourCiQbr}{[0.94, 1.00]}
+\newcommand{\NFourFixQbr}{2/3}
+\newcommand{\NFourKeepQbr}{48/48}
+\newcommand{\NFourSIFixQbr}{2/2}
+\newcommand{\NFourCertQbr}{17/17}
+\newcommand{\NFourCertNoSource}{0}
+\newcommand{\NFourCertBoundFirst}{17}
+\newcommand{\NFourQbrErrors}{0}
+\newcommand{\NFourPairQbrSourceBoundVsJudgeChecklist}{1/0}
+\newcommand{\NFourPairPQbrSourceBoundVsJudgeChecklist}{=1}
+\newcommand{\NFourPairQbrSourceBoundVsQbrJudgeOnly}{0/0}
+\newcommand{\NFourPairPQbrSourceBoundVsQbrJudgeOnly}{=1}
+\newcommand{\NFourPairJudgeChecklistVsJudge}{1/0}
+\newcommand{\NFourPairPJudgeChecklistVsJudge}{=1}
+\newcommand{\NFourPairJudgeChecklistVsRules}{7/0}
+\newcommand{\NFourPairPJudgeChecklistVsRules}{=0.016}
+\newcommand{\NOneFiveWrong}{16}
+\newcommand{\NOneFiveSI}{3}
+\newcommand{\NOneFiveAmb}{1}
+\newcommand{\NOneFiveBWrong}{9/17}
+\newcommand{\NOneFiveBSI}{3/17}
+\newcommand{\NOneFiveNoAns}{2}
+\newcommand{\NOneFiveRightWrongReason}{3}
+\newcommand{\NOneFiveAutoSI}{2}
+\newcommand{\NOneFiveAccNone}{35/49}
+\newcommand{\NOneFiveCiNone}{[0.57, 0.84]}
+\newcommand{\NOneFiveAccRules}{34/49}
+\newcommand{\NOneFiveCiRules}{[0.55, 0.83]}
+\newcommand{\NOneFiveFixRules}{2/14}
+\newcommand{\NOneFiveKeepRules}{32/35}
+\newcommand{\NOneFiveSIFixRules}{1/3}
+\newcommand{\NOneFiveAccCk}{45/49}
+\newcommand{\NOneFiveCiCk}{[0.84, 0.98]}
+\newcommand{\NOneFiveFixCk}{14/14}
+\newcommand{\NOneFiveKeepCk}{31/35}
+\newcommand{\NOneFiveSIFixCk}{3/3}
+\newcommand{\NOneFiveAccQbrJ}{46/49}
+\newcommand{\NOneFiveCiQbrJ}{[0.87, 1.00]}
+\newcommand{\NOneFiveFixQbrJ}{14/14}
+\newcommand{\NOneFiveKeepQbrJ}{32/35}
+\newcommand{\NOneFiveSIFixQbrJ}{3/3}
+\newcommand{\NOneFiveAccQbrBF}{47/49}
+\newcommand{\NOneFiveCiQbrBF}{[0.90, 1.00]}
+\newcommand{\NOneFiveFixQbrBF}{14/14}
+\newcommand{\NOneFiveKeepQbrBF}{33/35}
+\newcommand{\NOneFiveSIFixQbrBF}{3/3}
+\newcommand{\NOneFiveCertQbrBF}{17/17}
+\newcommand{\NOneFiveAccQbr}{47/49}
+\newcommand{\NOneFiveCiQbr}{[0.90, 1.00]}
+\newcommand{\NOneFiveFixQbr}{14/14}
+\newcommand{\NOneFiveKeepQbr}{33/35}
+\newcommand{\NOneFiveSIFixQbr}{3/3}
+\newcommand{\NOneFiveCertQbr}{17/17}
+\newcommand{\NOneFiveCertNoSource}{0}
+\newcommand{\NOneFiveCertBoundFirst}{17}
+\newcommand{\NOneFiveQbrErrors}{1}
+\newcommand{\NOneFivePairQbrSourceBoundVsJudgeChecklist}{2/0}
+\newcommand{\NOneFivePairPQbrSourceBoundVsJudgeChecklist}{=0.5}
+\newcommand{\NOneFivePairQbrSourceBoundVsQbrJudgeOnly}{1/0}
+\newcommand{\NOneFivePairPQbrSourceBoundVsQbrJudgeOnly}{=1}
+\newcommand{\NOneFivePairJudgeChecklistVsRules}{14/3}
+\newcommand{\NOneFivePairPJudgeChecklistVsRules}{=0.013}
+\newcommand{\NSmolWrong}{22}
+\newcommand{\NSmolSI}{2}
+\newcommand{\NSmolAmb}{4}
+\newcommand{\NSmolBWrong}{9/17}
+\newcommand{\NSmolBSI}{1/17}
+\newcommand{\NSmolNoAns}{6}
+\newcommand{\NSmolRightWrongReason}{6}
+\newcommand{\NSmolAutoSI}{2}
+\newcommand{\NHStrong}{4/5}
+\newcommand{\NHWeak}{5/38}
+\newcommand{\NHP}{=0.0046}
+\newcommand{\NNItems}{17}
+\newcommand{\NNCases}{51}
+\newcommand{\NNFin}{12}
+\newcommand{\NNSci}{5}
+\newcommand{\WNineWrong}{13}
+\newcommand{\WNineSI}{4}
+\newcommand{\WNineAmb}{1}
+\newcommand{\WNineBWrong}{5/41}
+\newcommand{\WNineBSI}{2/41}
+\newcommand{\WNineNoAns}{0}
+\newcommand{\WNineRightWrongReason}{0}
+\newcommand{\WNineAutoSI}{0}
+\newcommand{\WNineAccNone}{110/123}
+\newcommand{\WNineCiNone}{[0.82, 0.96]}
+\newcommand{\WNineAccRules}{110/123}
+\newcommand{\WNineCiRules}{[0.82, 0.96]}
+\newcommand{\WNineFixRules}{0/13}
+\newcommand{\WNineKeepRules}{110/110}
+\newcommand{\WNineSIFixRules}{0/4}
+\newcommand{\WNineAccJudge}{114/123}
+\newcommand{\WNineCiJudge}{[0.87, 0.98]}
+\newcommand{\WNineFixJudge}{5/13}
+\newcommand{\WNineKeepJudge}{109/110}
+\newcommand{\WNineSIFixJudge}{1/4}
+\newcommand{\WNineAccCk}{115/123}
+\newcommand{\WNineCiCk}{[0.88, 0.98]}
+\newcommand{\WNineFixCk}{7/13}
+\newcommand{\WNineKeepCk}{108/110}
+\newcommand{\WNineSIFixCk}{2/4}
+\newcommand{\WNineAccQbrJ}{116/123}
+\newcommand{\WNineCiQbrJ}{[0.89, 0.98]}
+\newcommand{\WNineFixQbrJ}{9/13}
+\newcommand{\WNineKeepQbrJ}{107/110}
+\newcommand{\WNineSIFixQbrJ}{2/4}
+\newcommand{\WNineAccQbrBF}{116/123}
+\newcommand{\WNineCiQbrBF}{[0.89, 0.98]}
+\newcommand{\WNineFixQbrBF}{10/13}
+\newcommand{\WNineKeepQbrBF}{106/110}
+\newcommand{\WNineSIFixQbrBF}{3/4}
+\newcommand{\WNineCertQbrBF}{12/14}
+\newcommand{\WNineAccQbr}{117/123}
+\newcommand{\WNineCiQbr}{[0.90, 0.98]}
+\newcommand{\WNineFixQbr}{10/13}
+\newcommand{\WNineKeepQbr}{107/110}
+\newcommand{\WNineSIFixQbr}{3/4}
+\newcommand{\WNineCertQbr}{12/13}
+\newcommand{\WNineCertNoSource}{1}
+\newcommand{\WNineCertBoundFirst}{14}
+\newcommand{\WNineQbrErrors}{0}
+\newcommand{\WNinePairQbrSourceBoundVsJudgeChecklist}{3/1}
+\newcommand{\WNinePairPQbrSourceBoundVsJudgeChecklist}{=0.62}
+\newcommand{\WNinePairQbrSourceBoundVsQbrJudgeOnly}{1/0}
+\newcommand{\WNinePairPQbrSourceBoundVsQbrJudgeOnly}{=1}
+\newcommand{\WNinePairJudgeChecklistVsJudge}{3/2}
+\newcommand{\WNinePairPJudgeChecklistVsJudge}{=1}
+\newcommand{\WNinePairJudgeChecklistVsRules}{7/2}
+\newcommand{\WNinePairPJudgeChecklistVsRules}{=0.18}
+\newcommand{\WFourWrong}{12}
+\newcommand{\WFourSI}{5}
+\newcommand{\WFourAmb}{0}
+\newcommand{\WFourBWrong}{5/41}
+\newcommand{\WFourBSI}{3/41}
+\newcommand{\WFourNoAns}{0}
+\newcommand{\WFourRightWrongReason}{0}
+\newcommand{\WFourAutoSI}{1}
+\newcommand{\WFourAccNone}{111/123}
+\newcommand{\WFourCiNone}{[0.85, 0.96]}
+\newcommand{\WFourAccRules}{111/123}
+\newcommand{\WFourCiRules}{[0.85, 0.96]}
+\newcommand{\WFourFixRules}{0/12}
+\newcommand{\WFourKeepRules}{111/111}
+\newcommand{\WFourSIFixRules}{0/5}
+\newcommand{\WFourAccJudge}{115/123}
+\newcommand{\WFourCiJudge}{[0.89, 0.98]}
+\newcommand{\WFourFixJudge}{6/12}
+\newcommand{\WFourKeepJudge}{109/111}
+\newcommand{\WFourSIFixJudge}{2/5}
+\newcommand{\WFourAccCk}{115/123}
+\newcommand{\WFourCiCk}{[0.89, 0.98]}
+\newcommand{\WFourFixCk}{5/12}
+\newcommand{\WFourKeepCk}{110/111}
+\newcommand{\WFourSIFixCk}{2/5}
+\newcommand{\WFourAccQbrJ}{113/123}
+\newcommand{\WFourCiQbrJ}{[0.86, 0.97]}
+\newcommand{\WFourFixQbrJ}{6/12}
+\newcommand{\WFourKeepQbrJ}{107/111}
+\newcommand{\WFourSIFixQbrJ}{3/5}
+\newcommand{\WFourAccQbrBF}{114/123}
+\newcommand{\WFourCiQbrBF}{[0.87, 0.98]}
+\newcommand{\WFourFixQbrBF}{7/12}
+\newcommand{\WFourKeepQbrBF}{107/111}
+\newcommand{\WFourSIFixQbrBF}{3/5}
+\newcommand{\WFourCertQbrBF}{9/9}
+\newcommand{\WFourAccQbr}{114/123}
+\newcommand{\WFourCiQbr}{[0.87, 0.98]}
+\newcommand{\WFourFixQbr}{7/12}
+\newcommand{\WFourKeepQbr}{107/111}
+\newcommand{\WFourSIFixQbr}{3/5}
+\newcommand{\WFourCertQbr}{7/7}
+\newcommand{\WFourCertNoSource}{2}
+\newcommand{\WFourCertBoundFirst}{9}
+\newcommand{\WFourQbrErrors}{2}
+\newcommand{\WFourPairQbrSourceBoundVsJudgeChecklist}{2/3}
+\newcommand{\WFourPairPQbrSourceBoundVsJudgeChecklist}{=1}
+\newcommand{\WFourPairQbrSourceBoundVsQbrJudgeOnly}{1/0}
+\newcommand{\WFourPairPQbrSourceBoundVsQbrJudgeOnly}{=1}
+\newcommand{\WFourPairJudgeChecklistVsJudge}{2/2}
+\newcommand{\WFourPairPJudgeChecklistVsJudge}{=1}
+\newcommand{\WFourPairJudgeChecklistVsRules}{5/1}
+\newcommand{\WFourPairPJudgeChecklistVsRules}{=0.22}
+\newcommand{\WOneFiveWrong}{55}
+\newcommand{\WOneFiveSI}{11}
+\newcommand{\WOneFiveAmb}{6}
+\newcommand{\WOneFiveBWrong}{19/41}
+\newcommand{\WOneFiveBSI}{6/41}
+\newcommand{\WOneFiveNoAns}{4}
+\newcommand{\WOneFiveRightWrongReason}{3}
+\newcommand{\WOneFiveAutoSI}{4}
+\newcommand{\WSmolWrong}{64}
+\newcommand{\WSmolSI}{3}
+\newcommand{\WSmolAmb}{1}
+\newcommand{\WSmolBWrong}{17/41}
+\newcommand{\WSmolBSI}{2/41}
+\newcommand{\WSmolNoAns}{9}
+\newcommand{\WSmolRightWrongReason}{7}
+\newcommand{\WSmolAutoSI}{2}
+\newcommand{\WHStrong}{9/25}
+\newcommand{\WHWeak}{14/119}
+\newcommand{\WHP}{=0.0057}
+\newcommand{\WNItems}{41}
+\newcommand{\WNCases}{123}
+\newcommand{\WNFin}{28}
+\newcommand{\WNSci}{13}
+\newcommand{\NNineWrongRate}{4\%}
+\newcommand{\NNineWrongRateCi}{[0\%, 9\%]}
+\newcommand{\NNineSIRate}{4\%}
+\newcommand{\NNineSIRateCi}{[0\%, 9\%]}
+\newcommand{\NFourWrongRate}{6\%}
+\newcommand{\NFourWrongRateCi}{[0\%, 14\%]}
+\newcommand{\NFourSIRate}{4\%}
+\newcommand{\NFourSIRateCi}{[0\%, 9\%]}
+\newcommand{\NOneFiveWrongRate}{31\%}
+\newcommand{\NOneFiveWrongRateCi}{[18\%, 45\%]}
+\newcommand{\NOneFiveSIRate}{6\%}
+\newcommand{\NOneFiveSIRateCi}{[0\%, 11\%]}
+\newcommand{\NSmolWrongRate}{43\%}
+\newcommand{\NSmolWrongRateCi}{[27\%, 60\%]}
+\newcommand{\NSmolSIRate}{4\%}
+\newcommand{\NSmolSIRateCi}{[0\%, 9\%]}
+\newcommand{\NHShareDiff}{$+$67}
+\newcommand{\NHShareDiffCi}{[$+$47, $+$94]}
+\newcommand{\NHRateStrong}{4/102}
+\newcommand{\NHRateWeak}{5/102}
+\newcommand{\NHRateDiff}{$-$1}
+\newcommand{\NHRateDiffCi}{[$-$4, $+$2]}
+\newcommand{\NHLosoMin}{$+$55}
+\newcommand{\NHLosoMax}{$+$91}
+\newcommand{\NHLosoP}{=0.066}
+\newcommand{\NHSources}{10}
+\newcommand{\NHWrongStrong}{5}
+\newcommand{\NHWrongWeak}{38}
+\newcommand{\NHSIStrong}{4}
+\newcommand{\NHSIWeak}{5}
+\newcommand{\NHAnswers}{102}
+\newcommand{\NHXStrong}{4/4}
+\newcommand{\NHXWeak}{5/37}
+\newcommand{\NHXShareDiff}{$+$86}
+\newcommand{\NHXShareDiffCi}{[$+$76, $+$94]}
+\newcommand{\NHXP}{=0.0012}
+\newcommand{\NHXRateStrong}{4/100}
+\newcommand{\NHXRateWeak}{5/100}
+\newcommand{\NHXRateDiff}{$-$1}
+\newcommand{\NHXRateDiffCi}{[$-$4, $+$2]}
+\newcommand{\NHXLosoMin}{$+$84}
+\newcommand{\NHXLosoMax}{$+$91}
+\newcommand{\NHXLosoP}{=0.027}
+\newcommand{\NHXSources}{10}
+\newcommand{\NHXWrongStrong}{4}
+\newcommand{\NHXWrongWeak}{37}
+\newcommand{\NHXSIStrong}{4}
+\newcommand{\NHXSIWeak}{5}
+\newcommand{\NHXAnswers}{100}
+\newcommand{\NNineAnsNone}{49/51}
+\newcommand{\NNineEndNone}{49/51}
+\newcommand{\NNineAnsRules}{47/51}
+\newcommand{\NNineEndRules}{47/51}
+\newcommand{\NNineFixedRules}{1}
+\newcommand{\NNineBrokenRules}{3}
+\newcommand{\NNineDiffRules}{$-$4}
+\newcommand{\NNineDiffCiRules}{[$-$12, 0]}
+\newcommand{\NNineAnsCk}{50/51}
+\newcommand{\NNineEndCk}{50/51}
+\newcommand{\NNineFixedCk}{1}
+\newcommand{\NNineBrokenCk}{0}
+\newcommand{\NNineDiffCk}{$+$2}
+\newcommand{\NNineDiffCiCk}{[0, $+$6]}
+\newcommand{\NNineAnsQbrJ}{51/51}
+\newcommand{\NNineEndQbrJ}{51/51}
+\newcommand{\NNineFixedQbrJ}{2}
+\newcommand{\NNineBrokenQbrJ}{0}
+\newcommand{\NNineDiffQbrJ}{$+$4}
+\newcommand{\NNineDiffCiQbrJ}{[0, $+$9]}
+\newcommand{\NNineAnsQbr}{51/51}
+\newcommand{\NNineEndQbr}{51/51}
+\newcommand{\NNineFixedQbr}{2}
+\newcommand{\NNineBrokenQbr}{0}
+\newcommand{\NNineDiffQbr}{$+$4}
+\newcommand{\NNineDiffCiQbr}{[0, $+$9]}
+\newcommand{\NNineCertCov}{19/51}
+\newcommand{\NNineCertPrec}{19/19}
+\newcommand{\NNineCertCi}{[0.824, 1]}
+\newcommand{\NNineCertVsJ}{0/0}
+\newcommand{\NFourAnsNone}{48/51}
+\newcommand{\NFourEndNone}{48/51}
+\newcommand{\NFourAnsRules}{42/51}
+\newcommand{\NFourEndRules}{42/51}
+\newcommand{\NFourFixedRules}{2}
+\newcommand{\NFourBrokenRules}{8}
+\newcommand{\NFourDiffRules}{$-$12}
+\newcommand{\NFourDiffCiRules}{[$-$28, 0]}
+\newcommand{\NFourAnsJudge}{48/51}
+\newcommand{\NFourEndJudge}{48/51}
+\newcommand{\NFourFixedJudge}{2}
+\newcommand{\NFourBrokenJudge}{2}
+\newcommand{\NFourDiffJudge}{0}
+\newcommand{\NFourDiffCiJudge}{[$-$6, $+$5]}
+\newcommand{\NFourAnsCk}{49/51}
+\newcommand{\NFourEndCk}{49/51}
+\newcommand{\NFourFixedCk}{2}
+\newcommand{\NFourBrokenCk}{1}
+\newcommand{\NFourDiffCk}{$+$2}
+\newcommand{\NFourDiffCiCk}{[0, $+$6]}
+\newcommand{\NFourAnsQbrJ}{50/51}
+\newcommand{\NFourEndQbrJ}{50/51}
+\newcommand{\NFourFixedQbrJ}{2}
+\newcommand{\NFourBrokenQbrJ}{0}
+\newcommand{\NFourDiffQbrJ}{$+$4}
+\newcommand{\NFourDiffCiQbrJ}{[0, $+$9]}
+\newcommand{\NFourAnsQbr}{50/51}
+\newcommand{\NFourEndQbr}{50/51}
+\newcommand{\NFourFixedQbr}{2}
+\newcommand{\NFourBrokenQbr}{0}
+\newcommand{\NFourDiffQbr}{$+$4}
+\newcommand{\NFourDiffCiQbr}{[0, $+$9]}
+\newcommand{\NFourCertCov}{17/51}
+\newcommand{\NFourCertPrec}{17/17}
+\newcommand{\NFourCertCi}{[0.805, 1]}
+\newcommand{\NFourCertVsJ}{0/0}
+\newcommand{\NOneFiveAnsNone}{35/49}
+\newcommand{\NOneFiveEndNone}{35/51}
+\newcommand{\NOneFiveAnsRules}{34/49}
+\newcommand{\NOneFiveEndRules}{34/51}
+\newcommand{\NOneFiveFixedRules}{2}
+\newcommand{\NOneFiveBrokenRules}{3}
+\newcommand{\NOneFiveDiffRules}{$-$2}
+\newcommand{\NOneFiveDiffCiRules}{[$-$6, 0]}
+\newcommand{\NOneFiveAnsCk}{45/49}
+\newcommand{\NOneFiveEndCk}{45/51}
+\newcommand{\NOneFiveFixedCk}{14}
+\newcommand{\NOneFiveBrokenCk}{4}
+\newcommand{\NOneFiveDiffCk}{$+$20}
+\newcommand{\NOneFiveDiffCiCk}{[$+$4, $+$35]}
+\newcommand{\NOneFiveAnsQbrJ}{46/49}
+\newcommand{\NOneFiveEndQbrJ}{46/51}
+\newcommand{\NOneFiveFixedQbrJ}{14}
+\newcommand{\NOneFiveBrokenQbrJ}{3}
+\newcommand{\NOneFiveDiffQbrJ}{$+$22}
+\newcommand{\NOneFiveDiffCiQbrJ}{[$+$10, $+$35]}
+\newcommand{\NOneFiveAnsQbr}{47/49}
+\newcommand{\NOneFiveEndQbr}{47/51}
+\newcommand{\NOneFiveFixedQbr}{14}
+\newcommand{\NOneFiveBrokenQbr}{2}
+\newcommand{\NOneFiveDiffQbr}{$+$24}
+\newcommand{\NOneFiveDiffCiQbr}{[$+$14, $+$36]}
+\newcommand{\NOneFiveCertCov}{17/49}
+\newcommand{\NOneFiveCertPrec}{17/17}
+\newcommand{\NOneFiveCertCi}{[0.805, 1]}
+\newcommand{\NOneFiveCertVsJ}{1/0}
+\newcommand{\NSmolAnsNone}{29/46}
+\newcommand{\NSmolEndNone}{29/51}
+\newcommand{\WNineWrongRate}{11\%}
+\newcommand{\WNineWrongRateCi}{[3\%, 20\%]}
+\newcommand{\WNineSIRate}{3\%}
+\newcommand{\WNineSIRateCi}{[0\%, 8\%]}
+\newcommand{\WFourWrongRate}{10\%}
+\newcommand{\WFourWrongRateCi}{[4\%, 16\%]}
+\newcommand{\WFourSIRate}{4\%}
+\newcommand{\WFourSIRateCi}{[0\%, 8\%]}
+\newcommand{\WOneFiveWrongRate}{45\%}
+\newcommand{\WOneFiveWrongRateCi}{[38\%, 51\%]}
+\newcommand{\WOneFiveSIRate}{9\%}
+\newcommand{\WOneFiveSIRateCi}{[4\%, 14\%]}
+\newcommand{\WSmolWrongRate}{52\%}
+\newcommand{\WSmolWrongRateCi}{[45\%, 58\%]}
+\newcommand{\WSmolSIRate}{2\%}
+\newcommand{\WSmolSIRateCi}{[0\%, 5\%]}
+\newcommand{\WHShareDiff}{$+$24}
+\newcommand{\WHShareDiffCi}{[$-$9, $+$63]}
+\newcommand{\WHRateStrong}{9/246}
+\newcommand{\WHRateWeak}{14/246}
+\newcommand{\WHRateDiff}{$-$2}
+\newcommand{\WHRateDiffCi}{[$-$6, $+$2]}
+\newcommand{\WHLosoMin}{$+$12}
+\newcommand{\WHLosoMax}{$+$39}
+\newcommand{\WHLosoP}{=0.13}
+\newcommand{\WHSources}{18}
+\newcommand{\WHWrongStrong}{25}
+\newcommand{\WHWrongWeak}{119}
+\newcommand{\WHSIStrong}{9}
+\newcommand{\WHSIWeak}{14}
+\newcommand{\WHAnswers}{246}
+\newcommand{\WHXStrong}{9/15}
+\newcommand{\WHXWeak}{12/110}
+\newcommand{\WHXShareDiff}{$+$49}
+\newcommand{\WHXShareDiffCi}{[$-$7, $+$78]}
+\newcommand{\WHXP}{<0.001}
+\newcommand{\WHXRateStrong}{9/228}
+\newcommand{\WHXRateWeak}{12/228}
+\newcommand{\WHXRateDiff}{$-$1}
+\newcommand{\WHXRateDiffCi}{[$-$5, $+$3]}
+\newcommand{\WHXLosoMin}{$+$35}
+\newcommand{\WHXLosoMax}{$+$59}
+\newcommand{\WHXLosoP}{=0.0084}
+\newcommand{\WHXSources}{17}
+\newcommand{\WHXWrongStrong}{15}
+\newcommand{\WHXWrongWeak}{110}
+\newcommand{\WHXSIStrong}{9}
+\newcommand{\WHXSIWeak}{12}
+\newcommand{\WHXAnswers}{228}
+\newcommand{\WNineAnsNone}{110/123}
+\newcommand{\WNineEndNone}{110/123}
+\newcommand{\WNineAnsRules}{110/123}
+\newcommand{\WNineEndRules}{110/123}
+\newcommand{\WNineFixedRules}{0}
+\newcommand{\WNineBrokenRules}{0}
+\newcommand{\WNineDiffRules}{0}
+\newcommand{\WNineDiffCiRules}{[0, 0]}
+\newcommand{\WNineAnsJudge}{114/123}
+\newcommand{\WNineEndJudge}{114/123}
+\newcommand{\WNineFixedJudge}{5}
+\newcommand{\WNineBrokenJudge}{1}
+\newcommand{\WNineDiffJudge}{$+$3}
+\newcommand{\WNineDiffCiJudge}{[0, $+$7]}
+\newcommand{\WNineAnsCk}{115/123}
+\newcommand{\WNineEndCk}{115/123}
+\newcommand{\WNineFixedCk}{7}
+\newcommand{\WNineBrokenCk}{2}
+\newcommand{\WNineDiffCk}{$+$4}
+\newcommand{\WNineDiffCiCk}{[$-$2, $+$10]}
+\newcommand{\WNineAnsQbrJ}{116/123}
+\newcommand{\WNineEndQbrJ}{116/123}
+\newcommand{\WNineFixedQbrJ}{9}
+\newcommand{\WNineBrokenQbrJ}{3}
+\newcommand{\WNineDiffQbrJ}{$+$5}
+\newcommand{\WNineDiffCiQbrJ}{[$-$2, $+$11]}
+\newcommand{\WNineAnsQbr}{117/123}
+\newcommand{\WNineEndQbr}{117/123}
+\newcommand{\WNineFixedQbr}{10}
+\newcommand{\WNineBrokenQbr}{3}
+\newcommand{\WNineDiffQbr}{$+$6}
+\newcommand{\WNineDiffCiQbr}{[$-$1, $+$12]}
+\newcommand{\WNineCertCov}{13/123}
+\newcommand{\WNineCertPrec}{12/13}
+\newcommand{\WNineCertCi}{[0.64, 0.998]}
+\newcommand{\WNineCertVsJ}{1/0}
+\newcommand{\WFourAnsNone}{111/123}
+\newcommand{\WFourEndNone}{111/123}
+\newcommand{\WFourAnsRules}{111/123}
+\newcommand{\WFourEndRules}{111/123}
+\newcommand{\WFourFixedRules}{0}
+\newcommand{\WFourBrokenRules}{0}
+\newcommand{\WFourDiffRules}{0}
+\newcommand{\WFourDiffCiRules}{[0, 0]}
+\newcommand{\WFourAnsJudge}{115/123}
+\newcommand{\WFourEndJudge}{115/123}
+\newcommand{\WFourFixedJudge}{6}
+\newcommand{\WFourBrokenJudge}{2}
+\newcommand{\WFourDiffJudge}{$+$3}
+\newcommand{\WFourDiffCiJudge}{[$-$1, $+$8]}
+\newcommand{\WFourAnsCk}{115/123}
+\newcommand{\WFourEndCk}{115/123}
+\newcommand{\WFourFixedCk}{5}
+\newcommand{\WFourBrokenCk}{1}
+\newcommand{\WFourDiffCk}{$+$3}
+\newcommand{\WFourDiffCiCk}{[$+$1, $+$6]}
+\newcommand{\WFourAnsQbrJ}{113/123}
+\newcommand{\WFourEndQbrJ}{113/123}
+\newcommand{\WFourFixedQbrJ}{6}
+\newcommand{\WFourBrokenQbrJ}{4}
+\newcommand{\WFourDiffQbrJ}{$+$2}
+\newcommand{\WFourDiffCiQbrJ}{[$-$2, $+$5]}
+\newcommand{\WFourAnsQbr}{114/123}
+\newcommand{\WFourEndQbr}{114/123}
+\newcommand{\WFourFixedQbr}{7}
+\newcommand{\WFourBrokenQbr}{4}
+\newcommand{\WFourDiffQbr}{$+$2}
+\newcommand{\WFourDiffCiQbr}{[$-$1, $+$6]}
+\newcommand{\WFourCertCov}{7/123}
+\newcommand{\WFourCertPrec}{7/7}
+\newcommand{\WFourCertCi}{[0.59, 1]}
+\newcommand{\WFourCertVsJ}{1/0}
+\newcommand{\WOneFiveAnsNone}{68/119}
+\newcommand{\WOneFiveEndNone}{68/123}
+\newcommand{\WSmolAnsNone}{59/114}
+\newcommand{\WSmolEndNone}{59/123}
+\newcommand{\SIRows}{\begin{tabular}{@{}l l l p{11.2cm}@{}}
+\toprule
+Set & Item, case & By & Audit reason \\
+\midrule
+Discovery & garmin-ytd B & 4B & Quote is verbatim (Q3 segment sentence, 20\%). The user asks about year-to-date growth; the answer applies the quarterly 20\% and states that the year-to-date figure is not provided, although the table prints it (5\%). Decision flips. \\
+Discovery & garmin-ytd B & 9B & States that the outdoor segment grew 20\% 'for the 39-week period'; its own quote includes the table row whose 39-week change is 5\%. The quarterly 20\% (verbatim in the source) is applied to a year-to-date criterion and the decision flips. \\
+Discovery & pterygium-age B & 4B & Quote is verbatim (overall ARR 6.5 points). The user is 50; the abstract prints 11.1\% vs 11.5\% for ages 41-60. The overall effect is applied to the user and the decision flips. \\
+Discovery & pterygium-age B & 9B & Reads the 41-60 subgroup result (11.1\% vs 11.5\%, 'no difference') and still applies the overall 6.5-point reduction to a 50-year-old because the subgroup is not statistically significant. The overall value is verbatim in the source; the decision flips. \\
+Replication & conmed-intl-cc B & 4B & The user asks for constant-currency growth (12.8\%, printed). The answer decides on 13.8\%, printed for 'organic constant currency' (which excludes divested product lines), and passes a 12.95\% bar that 12.8\% fails. \\
+Replication & msft-ni-cc B & 4B & Source: 'increased 18\% (up 19\% in constant currency) on a non-GAAP basis'. The answer attributes the reported 18\% to constant currency and fails an 18.5\% bar. \\
+Replication & msft-ni-cc B & 9B & Source: 'increased 18\% (up 19\% in constant currency) on a non-GAAP basis'. The answer attributes the reported 18\% to constant currency and fails an 18.5\% bar that the printed 19\% meets. \\
+Replication & msft-oi-cc B & 4B & Source: 'increased 21\% (up 22\% in constant currency)'. The answer attributes the reported 21\% to constant currency and fails a 21.5\% bar that the printed 22\% meets. \\
+Replication & msft-oi-cc B & 9B & Source: 'increased 21\% (up 22\% in constant currency)'. The answer attributes the reported 21\% to constant currency and fails a 21.5\% constant-currency bar that the printed 22\% meets. The decision rests on a value printed under the other condition. \\
+Replication & vf-americas A & 4B & The user screens on whole-company reported revenue growth, printed as (4\%). The answer uses '+1\%' from the guidance table, which is printed for constant-currency revenue, and passes. \\
+Replication & vf-americas A & 9B & The user screens on whole-company reported revenue growth (printed as (4\%)). The answer uses '+1\%' from the guidance table, which is printed for constant-currency revenue excluding Dickies, and passes. The quote elides text, but both numbers are printed. \\
+Replication & vf-guidance A & 4B & The user asks about the guided figure (\textasciitilde{}\$315M). The answer decides on the actual \$364M, printed under the 'actual' condition, and passes; with the guided value the screen fails. \\
+Replication & vf-guidance A & 9B & The user asks about the guided figure (\textasciitilde{}\$315M, printed). The answer decides on the actual \$364M (printed, condition 'actual') and passes; with the guided value the screen fails. \\
+\bottomrule
+\end{tabular}}
+\newcommand{\NCertPooled}{36/36}
+\newcommand{\NCertPooledCi}{[0.90, 1]}
+\newcommand{\NCertPooledCov}{36/102}
+\newcommand{\NCertBoundFirstPooled}{37}
+\newcommand{\NCertNoSourcePooled}{1}
+\newcommand{\WCertPooled}{19/20}
+\newcommand{\WCertPooledCi}{[0.75, 0.999]}
+\newcommand{\WCertPooledCov}{20/246}
+\newcommand{\WCertBoundFirstPooled}{23}
+\newcommand{\WCertNoSourcePooled}{3}
+\newcommand{\AncWrongAssert}{8/13}
+\newcommand{\AncWrongHedge}{9/13}
+\newcommand{\AncRightAssert}{0/13}
+\newcommand{\AncRightHedge}{2/13}
+\newcommand{\AncChanged}{5}
+\newcommand{\AncPairs}{26}
+\newcommand{\MrRows}{132}
+\newcommand{\MrAgree}{130}
+\newcommand{\MrKappa}{0.98}
+\newcommand{\MrSI}{32}
+\newcommand{\MrSIOff}{0}
+\newcommand{\GvCases}{174}
+\newcommand{\GvMismatch}{0}
+\newcommand{\GvContested}{2}
+\newcommand{\GvTemplateItems}{3}
+\newcommand{\GvTemplateCases}{9}
+\newcommand{\NatTable}{\resizebox{\textwidth}{!}{\begin{tabular}{lcccccccccccc}
+\toprule
+ & \multicolumn{3}{c}{Discovery, Qwen3-4B} & \multicolumn{3}{c}{Discovery, Qwen3.5-9B (self)} & \multicolumn{3}{c}{Replication, Qwen3-4B} & \multicolumn{3}{c}{Replication, Qwen3.5-9B (self)} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(lr){8-10}\cmidrule(lr){11-13}
+Verifier & Acc. & Inapp. fixed & Right kept & Acc. & Inapp. fixed & Right kept & Acc. & Inapp. fixed & Right kept & Acc. & Inapp. fixed & Right kept \\
+\midrule
+No verifier & 48/51 & 0 & all & 49/51 & 0 & all & 111/123 & 0 & all & 110/123 & 0 & all \\
+Qualifier rules & 42/51 & 2/2 & 40/48 & 47/51 & 1/2 & 46/49 & 111/123 & 0/5 & 111/111 & 110/123 & 0/4 & 110/110 \\
+LLM judge & 48/51 & 2/2 & 46/48 & -- & -- & -- & 115/123 & 2/5 & 109/111 & 114/123 & 1/4 & 109/110 \\
+Checklist judge & 49/51 & 2/2 & 47/48 & 50/51 & 1/2 & 49/49 & 115/123 & 2/5 & 110/111 & 115/123 & 2/4 & 108/110 \\
+QBR & 50/51 & 2/2 & 48/48 & 51/51 & 2/2 & 49/49 & 114/123 & 3/5 & 107/111 & 117/123 & 3/4 & 107/110 \\
+\bottomrule
+\end{tabular}}}
+\newcommand{\NCasesAllNat}{305}
+\newcommand{\TQpCases}{69}
+\newcommand{\TQpStructured}{67}
+\newcommand{\TQpTraceable}{56}
+\newcommand{\TQpCertified}{46}
+\newcommand{\TQpUsesSource}{46}
+\newcommand{\TQpCertCorrect}{46}
+\newcommand{\TQpSourceCorrect}{46}
+\newcommand{\TQpNoSource}{0}
+\newcommand{\TQpRuleAcc}{63/69}
+\newcommand{\VQpCases}{45}
+\newcommand{\VQpStructured}{43}
+\newcommand{\VQpTraceable}{25}
+\newcommand{\VQpCertified}{10}
+\newcommand{\VQpUsesSource}{7}
+\newcommand{\VQpCertCorrect}{9}
+\newcommand{\VQpSourceCorrect}{7}
+\newcommand{\VQpNoSource}{3}
+\newcommand{\VQpRuleAcc}{34/45}
+\newcommand{\VSeenJudgeChecklist}{6/9}
+\newcommand{\VNewJudgeChecklist}{28/36}
+\newcommand{\VSeenQbr}{7/9}
+\newcommand{\VNewQbr}{27/36}
+\newcommand{\VSeenNoVerifier}{6/9}
+\newcommand{\VNewNoVerifier}{24/36}

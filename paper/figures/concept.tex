@@ -1,0 +1,49 @@
+% Figure 1: the failure and the benchmark design, using the real contrast-set item p-asana-starter (verbatim quote and cases).
+\definecolor{cSrc}{HTML}{52514E}\definecolor{cAns}{HTML}{2A78D6}\definecolor{cOk}{HTML}{0B7A3E}\definecolor{cBad}{HTML}{C0392B}
+\definecolor{cFill}{HTML}{F4F3EF}\definecolor{cAnsFill}{HTML}{EAF2FC}\definecolor{cBadFill}{HTML}{FBEAE8}\definecolor{cOkFill}{HTML}{E8F4EC}
+\providecommand{\hdr}{\scriptsize\bfseries}
+\newcommand{\ok}{\textcolor{cOk}{\ding{51}}}\newcommand{\bad}{\textcolor{cBad}{\ding{55}}}
+\begin{tikzpicture}[font=\footnotesize, >=Stealth,
+  box/.style={rounded corners=2pt, inner sep=4pt, align=left, anchor=north west},
+  hdr/.style={font=\scriptsize\bfseries},
+  cell/.style={minimum height=0.53cm, text width=4.05cm, align=center, inner sep=2pt, anchor=north west},
+  lab/.style={minimum height=0.53cm, text width=2.75cm, align=right, inner sep=2pt, anchor=north west, font=\scriptsize}]
+% ---- top row: source -> answer -> support check
+\node[box, draw=cSrc, fill=cFill, text width=4.75cm] (src) at (0,0)
+  {{\hdr\color{cSrc} SOURCE: Asana pricing page}\\[1pt]``\$10.99 Per user, per month \textbf{billed annually}. \$13.49 billed monthly''};
+\node[box, draw=cAns, fill=cAnsFill, text width=5.15cm] (ans) at (5.75,0)
+  {{\hdr\color{cAns} AI ANSWER, quoting the source}\\[1pt]``Asana Starter fits your limit. It costs \$10.99 per user per month.''};
+\node[box, draw=cOk, fill=cOkFill, text width=3.95cm] (sup) at (12.2,0)
+  {{\hdr\color{cOk} CITATION CHECK (NLI, Lynx)}\\[1pt]\ok\ \textbf{Supported}: the claim matches the source.};
+\draw[->, thick, cSrc] (src.east |- 0,-0.62) -- (ans.west |- 0,-0.62);
+\draw[->, thick, cSrc] (ans.east |- 0,-0.62) -- (sup.west |- 0,-0.62);
+% ---- grid: only the user's situation varies
+\begin{scope}[yshift=-0.72cm, yscale=0.86]
+\node[font=\scriptsize\itshape, text=cSrc, anchor=west] at (0,-1.68) {Same source, same answer; only the user's situation varies (5 users in every case):};
+\foreach \x/\t/\f in {2.95/{A: claim applies}/cFill, 7.05/{B: mismatch flips the decision}/cBadFill, 11.15/{C: mismatch, decision survives}/cFill}
+  \node[cell, fill=\f, font=\scriptsize\bfseries] at (\x,-2.0) {\t};
+\node[lab] at (0,-2.62) {User pays / hard limit};
+\node[cell] at (2.95,-2.62) {\textbf{annually}, \$60 / month};
+\node[cell] at (7.05,-2.62) {\textbf{monthly}, \$60 / month};
+\node[cell] at (11.15,-2.62) {\textbf{monthly}, \$70 / month};
+\node[lab] at (0,-3.24) {Price that applies};
+\node[cell] at (2.95,-3.24) {5 $\times$ \$10.99 = \$54.95: fits};
+\node[cell] at (7.05,-3.24) {5 $\times$ \$13.49 = \$67.45: \textbf{over}};
+\node[cell] at (11.15,-3.24) {5 $\times$ \$13.49 = \$67.45: fits};
+\node[lab] at (0,-3.86) {The AI answer is};
+\node[cell] at (2.95,-3.86) {\ok\ right};
+\node[cell, fill=cBadFill] at (7.05,-3.86) {\bad\ \textbf{wrong}};
+\node[cell] at (11.15,-3.86) {\ok\ right};
+\draw[cSrc!40] (0.1,-4.52) -- (15.2,-4.52);
+\node[lab] at (0,-4.58) {Citation check};
+\node[cell, text width=12.25cm] at (2.95,-4.58) {same verdict in A, B and C: \textbf{cannot see the error}};
+\node[lab] at (0,-5.20) {Flag any mismatch};
+\node[cell] at (2.95,-5.20) {keep};
+\node[cell] at (7.05,-5.20) {flag \ok};
+\node[cell] at (11.15,-5.20) {flag \bad\ false alarm};
+\node[lab, font=\scriptsize\bfseries] at (0,-5.82) {Needed: decide for this user};
+\node[cell, font=\footnotesize\bfseries, text=cOk] at (2.95,-5.82) {keep};
+\node[cell, font=\footnotesize\bfseries, text=cOk] at (7.05,-5.82) {fix: does not fit};
+\node[cell, font=\footnotesize\bfseries, text=cOk] at (11.15,-5.82) {keep};
+\end{scope}
+\end{tikzpicture}

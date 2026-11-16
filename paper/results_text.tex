@@ -1,0 +1,74 @@
+% Result-dependent prose. Numbers are generated macros (numbers.tex).
+\newcommand{\AbstractText}{%
+Citation verification asks whether a source supports a claim. In AI advice a quoted number can be supported and still wrong for the user, because the source prints it under a condition (a quarter rather than the year to date, a whole trial rather than the user's age group) that does not hold for that user. We define this \emph{supported-but-inapplicable} failure and score it by the decision the user ends with, on verbatim SEC earnings releases, PubMed abstracts and pricing pages in which only the user's situation varies, with harmless-mismatch controls and cited answers from four open assistants, audited case by case. In a discovery study and a pre-registered replication on \WNItems{} new items, capability removed other errors far faster than this one. In the replication the two strongest assistants made \WHWrongStrong{} wrong decisions in \WHAnswers{} answers against \WHWrongWeak{} for the two weakest, but \WHSIStrong{} against \WHSIWeak{} supported-but-inapplicable errors, which rose from \WHWeak{} to \WHStrong{} of wrong decisions (one-sided Fisher $p\WHP$). Claim-to-source checks cannot see the failure, and flagging every mismatch leaves decisions unchanged. A verifier given the user's situation raised accuracy on another model's answers in both studies but corrected \NFourSIFixCk{} and \WFourSIFixCk{} of these errors; every error it missed is one its own model also makes. Judge accuracy did not transfer across independently built sets, and code certificates validated computations that ignored the evidence until they required a source operand.}
+
+\newcommand{\ResultsNatural}{%
+\textbf{Other errors shrink with capability; inapplicability errors shrink far less.} In the discovery set the two weakest assistants were wrong on \NHWrongWeak{} of \NHAnswers{} answers and the two strongest on \NHWrongStrong, while supported-but-inapplicable errors stayed at \NHSIWeak{} and \NHSIStrong{} (Figure~\ref{fig:natural}; per-answer rate difference \NHRateDiff, source-clustered 95\% CI \NHRateDiffCi{} points). The pre-registered replication reproduces the pattern on \WNItems{} items from \WHSources{} sources: wrong decisions fell from \WHWrongWeak{} to \WHWrongStrong{} of \WHAnswers{} answers, inapplicability errors from \WHSIWeak{} to \WHSIStrong{} (per-answer difference \WHRateDiff, CI \WHRateDiffCi{} points). The pre-registered test compares their share of wrong decisions, \WHStrong{} against \WHWeak{}, and was met (one-sided Fisher $p\WHP$). The difference, \WHShareDiff{} points, has a source-clustered 95\% interval of \WHShareDiffCi{} and stays positive with any single source removed (\WHLosoMin{} to \WHLosoMax). Excluding the \GvTemplateItems{} items whose mechanically generated wording proved ambiguous gives \WHXStrong{} against \WHXWeak. The weakest assistant makes few because most of its \WSmolWrong{} wrong answers never select a printed value: they restate the threshold as a finding or give none. The error needs an assistant that reads numbers; capability then strips away the errors around it.
+
+\textbf{Where it occurs.} In the replication the two strongest assistants made the same four inapplicability errors, each on a value printed beside the applicable one, with the condition carried by a parenthetical or a table column. Both read Microsoft's ``increased 21\% (up 22\% in constant currency)'' as 21\% in constant currency, and the same construction for net income; both answered a question about VF's guided operating income with the actual \$364M from the guidance table, and a question about reported revenue with the table's constant-currency ``+1\%''. In the discovery set, for a 50-year-old patient, all four assistants applied a trial's overall 6.5-point reduction although the abstract prints 11.1\% versus 11.5\% for ages 41--60; Qwen3.5-9B read the subgroup and set it aside as not significant. For a year-to-date screen every answering assistant used the quarter's 20\% although the table prints the year-to-date 5\%.
+
+\textbf{Labels.} Gold decisions recompute from printed values for all \GvCases{} natural cases. A masked re-audit of \MrRows{} shuffled cases, with assistant, set, automatic type and first label hidden, reproduced \MrAgree{} labels ($\kappa=\MrKappa$) and all \MrSI{} supported-but-inapplicable labels.}
+
+\newcommand{\ResultsVerify}{%
+Table~\ref{tab:natural} reports verifiers on natural answers. On Qwen3-4B's discovery answers the checklist judge corrected both audited inapplicability errors and broke \NFourBrokenCk{} correct answer (accuracy \NFourDiffCk{} points, CI \NFourDiffCiCk); QBR corrected both and broke none (\NFourDiffQbr{} points, CI \NFourDiffCiQbr). The qualifier rule also flagged both but overturned \NFourBrokenRules{} correct answers (\NFourDiffRules{} points). In the replication the checklist judge fixed \WFourFixedCk{} and broke \WFourBrokenCk{} of Qwen3-4B's answers (\WFourDiffCk{} points, CI \WFourDiffCiCk) while the qualifier rule changed none, so the pre-registered H2 holds for it; QBR scored \WFourDiffQbr{} points (CI \WFourDiffCiQbr; \WFourFixedQbr{} fixed, \WFourBrokenQbr{} broken). Accuracy gains hide a blind spot: the checklist judge corrected \WFourSIFixCk{} inapplicability errors (QBR \WFourSIFixQbr), missing both Microsoft parentheticals and VF's constant-currency table value, three errors the 9B model also makes when answering. \ResultsVerifyRest}
+
+\newcommand{\ResultsVerifyRest}{\par
+\textbf{Self-verification.} On its own answers the 9B verifier corrected \NNineSIFixCk{} (discovery) and \WNineSIFixCk{} (replication) inapplicability errors, close to its rate on Qwen3-4B's answers. In the discovery set the error it missed in its own answer is one it corrected in Qwen3-4B's: it quoted 1,497,571 against 1,426,451, which is 5\%, and still affirmed its own 20\%. \SelfVerifyMisses{}  Stated certainty barely moves detection. In an exploratory probe that appended ``I am certain this is correct.'' or ``I am not fully certain this is correct.'' to \AncPairs{} verified answers and changed nothing else, \AncChanged{} verdicts changed: wrong answers were flagged in \AncWrongAssert{} (assertive) and \AncWrongHedge{} (hedged) cases, and hedging mainly cost correct answers (\AncRightAssert{} and \AncRightHedge{} flagged).}
+
+\newcommand{\SelfVerifyMisses}{QBR corrected \NNineSIFixQbr{} (discovery) and \WNineSIFixQbr{} (replication) of its own errors (replication: \WNineDiffQbr{} points, CI \WNineDiffCiQbr). One error, VF's constant-currency table value, was missed by every verifier on both assistants' answers.}
+\newcommand{\ResultsCert}{The flaw recurred on fresh data: on both assistants' replication answers the check withheld \WCertNoSourcePooled{} of \WCertBoundFirstPooled{} certificates whose computation used no source value, one of them the constant expression ``0'', which would have overturned a correct answer. Over both assistants, certified decisions were correct in \NCertPooled{} discovery cases (exact 95\% CI \NCertPooledCi; coverage \NCertPooledCov) and \WCertPooled{} replication cases (\WCertPooledCi; coverage \WCertPooledCov), above the 90\% of H3; the one wrong certificate read a sign convention backwards.}
+
+\newcommand{\DiscussionText}{The error that survives as assistants improve is not misreading but misapplying: the applicable value is printed, often inside the assistant's own quote, and the user's condition fails to select it. A claim-to-source check cannot target this failure, because the atomic fact is supported and quoted faithfully ($S=C=1$); the defect is in $A$, which depends on the user. Three requirements follow. Verifiers of AI advice must take the user's decision context as input, and should be tested for blind spots shared with the assistant: a situation-aware pass with a modest model raised accuracy on another model's answers, yet every inapplicability error it missed is one its own model also makes. Evaluations must score final decisions and include cases where a mismatch is harmless, on independently built data, or flag-everything verifiers and set-specific prompts look reliable. A certified tier must state the properties it checks, including that the computation depends on the evidence, together with its coverage.}
+
+\newcommand{\ConclusionText}{A faithful citation can carry a wrong recommendation when the condition printed with the number does not fit the user. Because this error survives as assistants improve and is invisible to claim-to-source checks, verification of AI advice has to be defined against the user's decision and evaluated on independently built data with harmless-mismatch controls.}
+
+\newcommand{\SupplementText}{Table~\ref{tab:si} lists every supported-but-inapplicable error of the two strongest assistants; Tables~\ref{tab:items}--\ref{tab:families} and the variants table give per-item held-out results, condition families and DCV/QBR variants.
+\begin{table}[H]
+\centering\scriptsize
+\caption{Every audited supported-but-inapplicable error of Qwen3-4B and Qwen3.5-9B, with the audit reason.}
+\label{tab:si}
+\SIRows
+\end{table}
+\begin{table}[H]
+\centering\footnotesize
+\caption{Held-out set per item: cases (A, B, C) each verifier ended correct; ``.'' = wrong final decision.}
+\label{tab:items}
+\begin{tabular}{llcccccc}
+\toprule
+Item & Condition family & None & Checklist & QBR w/o code & QBR & DCV & Rules \\
+\midrule
+\VItemRows
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering\footnotesize
+\begin{minipage}[t]{0.56\textwidth}\centering
+\captionof{table}{Condition families in the contrast and held-out sets (items).}
+\label{tab:families}
+\resizebox{\textwidth}{!}{\begin{tabular}{lcc@{\hskip 10pt}lcc}
+\toprule
+Family & Contr. & Held & Family & Contr. & Held \\
+\midrule
+\FamilyRowsTwoCol
+\bottomrule
+\end{tabular}}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.41\textwidth}\centering
+\captionof{table}{Variants on the contrast test split.}
+\resizebox{\textwidth}{!}{\begin{tabular}{lcccc}
+\toprule
+Variant & Acc. & B & C & Wrong \\
+\midrule
+\TAblRows
+\bottomrule
+\end{tabular}}
+\end{minipage}
+\end{table}}
+
+\newcommand{\EthicsText}{%
+\textbf{Limitations.} The natural-answer sets have \NNItems{} and \WNItems{} items from 10 and \WHSources{} source documents. Situations are written by the researchers, so error rates describe these decision tasks. Assistants are open models of at most 9B parameters, and every verifier uses one 4-bit 9B model, which is also one of the assistants. Items were authored with AI assistance from verbatim public text; audits were done by the author with AI assistance. The gold labels of \GvContested{} cases are contestable and \GvTemplateItems{} replication items (\GvTemplateCases{} cases) have ambiguous template wording. Each case has one threshold; multi-criterion choices are not evaluated.
+
+\textbf{Protocol.} The held-out pricing pages had been used earlier in the sprint while developing a decision tool (DecisionGap), and QBR's instructions quote one of their phrases (``then \$0.125 per GB''). The replication pre-registration states that situation templates are written before any replication source is read; they were written after the sources were fetched and screened for condition pairs, before any assistant ran. Source-clustered statistics, gold recomputation, the masked re-audit and the certainty probe were added after the replication data were collected; the probe's design was fixed before it ran. The direct-answer baseline failed on six held-out cases from a template bug. No item, prompt, threshold or method was changed after its evaluation.
+
+\textbf{Dual use and ethics.} Knowing which printed conditions assistants and verifiers miss could help write marketing that is literally true but misleading; the same benchmark exposes it. A verifier that labels output ``certified'' without stating what it checks invites unwarranted trust, which is why we report checked properties and coverage. All sources are public and no personal data was collected; SEC EDGAR and PubMed were accessed through their public interfaces within rate limits.}
