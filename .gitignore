@@ -1,0 +1,5 @@
+models/
+__pycache__/
+*.pyc
+server_*.log
+paper/main.pdf

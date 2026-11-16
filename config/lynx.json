@@ -1,0 +1,28 @@
+{
+  "model": "Lynx-8B-Instruct Q4_K_M",
+  "repo": "PatronusAI/Llama-3-Patronus-Lynx-8B-Instruct-Q4_K_M-GGUF",
+  "revision": "88f2d95e45c9869eacee63e8ce369768041035be",
+  "file": "patronus-lynx-8b-instruct-q4_k_m.gguf",
+  "download_url": "https://huggingface.co/PatronusAI/Llama-3-Patronus-Lynx-8B-Instruct-Q4_K_M-GGUF/resolve/88f2d95e45c9869eacee63e8ce369768041035be/patronus-lynx-8b-instruct-q4_k_m.gguf",
+  "license": "CC-BY-NC-4.0 (Meta Llama 3 terms also apply)",
+  "endpoint": "http://127.0.0.1:8084/v1",
+  "alias": "lynx-baseline",
+  "server_args": [
+    "-ngl",
+    "99",
+    "-c",
+    "4096",
+    "-np",
+    "1",
+    "-b",
+    "256",
+    "-ub",
+    "64",
+    "--cache-ram",
+    "0"
+  ],
+  "published_prompt": {
+    "source_url": "https://huggingface.co/PatronusAI/Llama-3-Patronus-Lynx-8B-Instruct/raw/5523f869eb5eecb4bca417b6e6d3532e746a9664/README.md",
+    "template": "Given the following QUESTION, DOCUMENT and ANSWER you must analyze the provided answer and determine whether it is faithful to the contents of the DOCUMENT. The ANSWER must not offer new information beyond the context provided in the DOCUMENT. The ANSWER also must not contradict information provided in the DOCUMENT. Output your final verdict by strictly following this format: \"PASS\" if the answer is faithful to the DOCUMENT and \"FAIL\" if the answer is not faithful to the DOCUMENT. Show your reasoning.\n\n--\nQUESTION (THIS DOES NOT COUNT AS BACKGROUND INFORMATION):\n{question}\n\n--\nDOCUMENT:\n{context}\n\n--\nANSWER:\n{answer}\n\n--\n\nYour output should be in JSON FORMAT with the keys \"REASONING\" and \"SCORE\":\n{{\"REASONING\": <your reasoning as bullet points>, \"SCORE\": <your final score>}}\n"
+  }
+}

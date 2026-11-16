@@ -1,0 +1,31 @@
+{
+  "model": "Qwen3.5-9B",
+  "repo": "unsloth/Qwen3.5-9B-GGUF",
+  "revision": "3885219b6810b007914f3a7950a8d1b469d598a5",
+  "file": "Qwen3.5-9B-Q4_K_M.gguf",
+  "license": "Apache-2.0",
+  "endpoint": "http://127.0.0.1:8083/v1",
+  "alias": "qwen3.5-9b",
+  "server_args": [
+    "--jinja",
+    "-ngl",
+    "28",
+    "-c",
+    "8192",
+    "-np",
+    "1",
+    "-b",
+    "128",
+    "-ub",
+    "64",
+    "--cache-ram",
+    "0",
+    "--reasoning",
+    "off",
+    "--chat-template-kwargs",
+    "{\"enable_thinking\":false}"
+  ],
+  "chat_template_kwargs": {
+    "enable_thinking": false
+  }
+}
