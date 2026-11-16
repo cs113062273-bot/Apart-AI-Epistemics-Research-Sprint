@@ -79,5 +79,27 @@
    "v2-hostinger-renewal",
    "v2-slack-period"
   ]
+ },
+ "natural_source_dependence": {
+  "discovery/qwen2.5-1.5b": {
+   "certified": 17,
+   "value_depends_on_source": 17
+  },
+  "discovery/qwen3-4b": {
+   "certified": 17,
+   "value_depends_on_source": 17
+  },
+  "discovery/qwen35-9b": {
+   "certified": 19,
+   "value_depends_on_source": 19
+  },
+  "replication/qwen3-4b": {
+   "certified": 7,
+   "value_depends_on_source": 7
+  },
+  "replication/qwen35-9b": {
+   "certified": 13,
+   "value_depends_on_source": 13
+  }
  }
 }

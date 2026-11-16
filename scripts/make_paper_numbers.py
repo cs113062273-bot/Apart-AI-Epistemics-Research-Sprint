@@ -283,6 +283,10 @@ def main():
               nbf = sum(int(b.split("/")[1]) for b in bfs)
               m(f"{P}CertPooled", f"{k}/{n}"); m(f"{P}CertPooledCi", f"[{lo:.2f}, {hi:.3f}]".replace("1.000", "1"))
               m(f"{P}CertPooledCov", f"{cov}/{tot}"); m(f"{P}CertBoundFirstPooled", nbf); m(f"{P}CertNoSourcePooled", nbf - n)
+              dep = json.loads((RES / "qbr_certificates.json").read_text(encoding="utf-8")).get("natural_source_dependence", {})
+              dd = [dep.get(f"{sname}/{mdl}") for mdl in ("qwen3-4b", "qwen35-9b")]
+              if all(dd):
+                  m(f"{P}CertDepends", f"{sum(x['value_depends_on_source'] for x in dd)}/{sum(x['certified'] for x in dd)}")
     # exploratory anchoring probe, masked re-audit, gold validity
     res = RES
     if (res / "certainty_probe/summary.json").exists():

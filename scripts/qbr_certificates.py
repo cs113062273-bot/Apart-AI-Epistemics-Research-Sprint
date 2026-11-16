@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 sys.path.insert(0, str(ROOT / "src"))
 import run_verifiers as R  # noqa: E402
-from applicability import _bound  # noqa: E402
+from applicability import _bound, _evaluate as R_eval  # noqa: E402
 
 
 def names(expr):
@@ -96,9 +96,44 @@ def seen_split():
     return res
 
 
+def depends_on_source(expr, ops):
+    """Does the value of the expression change when any source operand it uses is perturbed?"""
+    env = {k: o["value"] for k, o in ops.items()}
+    base = R_eval(expr, env)
+    for k in names(expr) or set():
+        if k in ops and ops[k]["from"] == "source":
+            for v in (env[k] * 1.5 + 1, env[k] * 0.5 - 1):
+                if abs(R_eval(expr, dict(env, **{k: v})) - base) > 1e-9:
+                    return True
+    return False
+
+
+def natural_dependence():
+    """Certificates that pass the source-operand check on natural answers: how many also depend numerically on a source value."""
+    out = {}
+    for s in ("discovery", "replication"):
+        for d in sorted((ROOT / "results" / s / "verifiers").iterdir()):
+            f = d / "qbr.jsonl"
+            if not f.exists():
+                continue
+            cert = dep = 0
+            for line in f.open(encoding="utf-8"):
+                r = json.loads(line)
+                if (r.get("trace") or {}).get("used") != "code":
+                    continue
+                raw = r["raw"]
+                ops = {o["name"]: o for o in raw["operands"]}
+                if not any(ops[k]["from"] == "source" for k in (names(raw["user_value_expression"]) or set()) if k in ops):
+                    continue  # withheld by the source-operand check
+                cert += 1
+                dep += depends_on_source(raw["user_value_expression"], ops)
+            out[f"{s}/{d.name}"] = {"certified": cert, "value_depends_on_source": dep}
+    return out
+
+
 def main():
     out = {"contrast_test": study("contrast", "test"), "heldout": study("heldout", R.SETS["heldout"][2]),
-           "heldout_seen_vs_new_condition_type": seen_split()}
+           "heldout_seen_vs_new_condition_type": seen_split(), "natural_source_dependence": natural_dependence()}
     (ROOT / "results/qbr_certificates.json").write_text(json.dumps(out, indent=1), encoding="utf-8")
     print(json.dumps(out, indent=1))
 
