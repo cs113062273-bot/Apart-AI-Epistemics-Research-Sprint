@@ -1,0 +1,11 @@
+{
+ "scope": "All 17 v1 test cases where the checklist judge's final decision was right and DCV's was wrong (no case was the reverse except 1). Classified by reading the logged DCV traces (results/applicability/test_dcv.jsonl). Diagnosis only; DCV was not changed afterwards and v1 test results stand as reported.",
+ "categories": {
+  "applicable variant excluded as a different quantity (source reading)": ["p-asana-advanced/B", "p-asana-advanced/C", "s-diabetes-faith/B", "s-eat-mortality/B", "s-eat-mortality/C", "f-figma-income/B"],
+  "user slots over-filled with conditions the user never stated, so no variant matched (user reading)": ["f-dexcom-margin/B", "f-dexcom-margin/C", "f-protolabs-margin/B", "f-protolabs-margin/C", "f-workiva-margin/B"],
+  "introductory/renewal term not labelled, so no renewal averaging (source reading)": ["p-proton-mail/B", "p-protonvpn-month/B", "p-protonvpn-plus/B"],
+  "studied population not carried into the membership check (source/user reading)": ["s-dexmed-pediatric/B", "s-icosapent-metsyn/B", "s-nasal-mask-bmi/B"]
+ },
+ "arithmetic_or_intervention_logic_errors": 0,
+ "conclusion": "Every disagreement came from forcing a 9B model to fill a fixed slot schema; none came from the deterministic selection, arithmetic or flip logic given correct readings."
+}

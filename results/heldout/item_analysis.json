@@ -1,0 +1,320 @@
+{
+ "per_item_cases_right": {
+  "v2-supabase-mau": {
+   "family": "quota_overage",
+   "dcv": "A.C",
+   "direct": "AB.",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "qbr": "A..",
+   "rules": "A.C",
+   "qbr-agree": "A..",
+   "qbr-judge_only": "A.."
+  },
+  "v2-supabase-disk": {
+   "family": "quota_overage",
+   "dcv": "A.C",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "qbr": "AB.",
+   "rules": "A.C",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "v2-postmark-basic": {
+   "family": "quota_overage",
+   "dcv": "A.C",
+   "direct": ".BC",
+   "judge": ".BC",
+   "judge_checklist": ".BC",
+   "qbr": "A.C",
+   "rules": "A.C",
+   "qbr-agree": "A.C",
+   "qbr-judge_only": "A.C"
+  },
+  "v2-postmark-pro": {
+   "family": "quota_overage",
+   "dcv": "A.C",
+   "direct": ".BC",
+   "judge": ".BC",
+   "judge_checklist": "ABC",
+   "qbr": "ABC",
+   "rules": "A.C",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "v2-wasabi-minimum": {
+   "family": "minimum_charge",
+   "dcv": "ABC",
+   "direct": "...",
+   "judge": "ABC",
+   "judge_checklist": "A.C",
+   "qbr": "A.C",
+   "rules": "A.C",
+   "qbr-agree": "A.C",
+   "qbr-judge_only": "A.C"
+  },
+  "v2-do-ssd": {
+   "family": "units_gib_gb",
+   "dcv": "A.C",
+   "direct": "...",
+   "judge": ".B.",
+   "judge_checklist": "ABC",
+   "qbr": ".BC",
+   "rules": "A.C",
+   "qbr-agree": "..C",
+   "qbr-judge_only": "A.C"
+  },
+  "v2-do-transfer": {
+   "family": "units_gib_gb",
+   "dcv": ".B.",
+   "direct": "...",
+   "judge": ".B.",
+   "judge_checklist": "...",
+   "qbr": "A.C",
+   "rules": "A.C",
+   "qbr-agree": "A.C",
+   "qbr-judge_only": "A.C"
+  },
+  "v2-bitwarden-cap": {
+   "family": "user_cap",
+   "dcv": ".B.",
+   "direct": "ABC",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "qbr": "ABC",
+   "rules": "A.C",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "v2-slack-period": {
+   "family": "billing_period",
+   "dcv": "ABC",
+   "direct": "AB.",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "v2-hostinger-renewal": {
+   "family": "intro_vs_renewal",
+   "dcv": "A.C",
+   "direct": ".B.",
+   "judge": "AB.",
+   "judge_checklist": "...",
+   "qbr": ".B.",
+   "rules": "A.C",
+   "qbr-agree": ".B.",
+   "qbr-judge_only": ".B."
+  },
+  "v2-crocs-segment": {
+   "family": "segment_vs_consolidated",
+   "dcv": "A.C",
+   "direct": "AB.",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "qbr": "ABC",
+   "rules": "A.C",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "v2-crocs-wholesale-cc": {
+   "family": "currency_basis",
+   "dcv": ".BC",
+   "direct": ".BC",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "qbr": "AB.",
+   "rules": "A.C",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "v2-heydude-wholesale-cc": {
+   "family": "currency_basis",
+   "dcv": "A.C",
+   "direct": "..C",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "qbr": "AB.",
+   "rules": "A.C",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "v2-hinge-guidance": {
+   "family": "guidance_vs_reported",
+   "dcv": "..C",
+   "direct": ".B.",
+   "judge": "AB.",
+   "judge_checklist": "...",
+   "qbr": "ABC",
+   "rules": "A.C",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "v2-hinge-gaap": {
+   "family": "gaap_basis",
+   "dcv": "A..",
+   "direct": "A.C",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  }
+ },
+ "qbr_code_tier_cases": [
+  {
+   "item": "v2-postmark-basic",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "v2-do-ssd",
+   "label": "A",
+   "verdict": "incorrect",
+   "ok": false
+  },
+  {
+   "item": "v2-do-ssd",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "v2-slack-period",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "v2-hinge-guidance",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "v2-hinge-guidance",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "v2-hinge-guidance",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "v2-hinge-gaap",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "v2-hinge-gaap",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "v2-hinge-gaap",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  }
+ ],
+ "paired": [
+  {
+   "x": "qbr",
+   "y": "judge_checklist",
+   "x_only_right": 7,
+   "y_only_right": 7,
+   "exact_mcnemar_p": 1.0,
+   "diff": 0.0,
+   "diff_item_bootstrap_ci95": [
+    -0.2,
+    0.222
+   ],
+   "items_x_better": 3,
+   "items_y_better": 5
+  },
+  {
+   "x": "qbr",
+   "y": "qbr-judge_only",
+   "x_only_right": 2,
+   "y_only_right": 1,
+   "exact_mcnemar_p": 1.0,
+   "diff": 0.022,
+   "diff_item_bootstrap_ci95": [
+    0.0,
+    0.067
+   ],
+   "items_x_better": 1,
+   "items_y_better": 0
+  },
+  {
+   "x": "qbr-judge_only",
+   "y": "judge_checklist",
+   "x_only_right": 7,
+   "y_only_right": 8,
+   "exact_mcnemar_p": 1.0,
+   "diff": -0.022,
+   "diff_item_bootstrap_ci95": [
+    -0.222,
+    0.2
+   ],
+   "items_x_better": 3,
+   "items_y_better": 6
+  },
+  {
+   "x": "judge_checklist",
+   "y": "judge",
+   "x_only_right": 8,
+   "y_only_right": 6,
+   "exact_mcnemar_p": 0.7905,
+   "diff": 0.044,
+   "diff_item_bootstrap_ci95": [
+    -0.156,
+    0.222
+   ],
+   "items_x_better": 7,
+   "items_y_better": 4
+  },
+  {
+   "x": "qbr",
+   "y": "dcv",
+   "x_only_right": 15,
+   "y_only_right": 9,
+   "exact_mcnemar_p": 0.3075,
+   "diff": 0.133,
+   "diff_item_bootstrap_ci95": [
+    -0.022,
+    0.311
+   ],
+   "items_x_better": 6,
+   "items_y_better": 3
+  }
+ ],
+ "no_verifier_per_item": {
+  "v2-supabase-mau": "A.C",
+  "v2-supabase-disk": "A.C",
+  "v2-postmark-basic": "A.C",
+  "v2-postmark-pro": "A.C",
+  "v2-wasabi-minimum": "A.C",
+  "v2-do-ssd": "A.C",
+  "v2-do-transfer": "A.C",
+  "v2-bitwarden-cap": "A.C",
+  "v2-slack-period": "A.C",
+  "v2-hostinger-renewal": "A.C",
+  "v2-crocs-segment": "A.C",
+  "v2-crocs-wholesale-cc": "A.C",
+  "v2-heydude-wholesale-cc": "A.C",
+  "v2-hinge-guidance": "A.C",
+  "v2-hinge-gaap": "A.C"
+ }
+}

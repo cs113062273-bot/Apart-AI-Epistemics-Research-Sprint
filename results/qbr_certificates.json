@@ -1,0 +1,83 @@
+{
+ "contrast_test": {
+  "cases": 69,
+  "structured_output": 67,
+  "all_used_traceable": 56,
+  "all_used_traceable_and_compatible": 46,
+  "certified": 46,
+  "certified_uses_source": 46,
+  "certified_correct": 46,
+  "certified_uses_source_correct": 46,
+  "certified_without_source": [],
+  "source_rule_accuracy": 63
+ },
+ "heldout": {
+  "cases": 45,
+  "structured_output": 43,
+  "all_used_traceable": 25,
+  "all_used_traceable_and_compatible": 10,
+  "certified": 10,
+  "certified_uses_source": 7,
+  "certified_correct": 9,
+  "certified_uses_source_correct": 7,
+  "certified_without_source": [
+   {
+    "item": "v2-postmark-basic",
+    "label": "A",
+    "expression": "0",
+    "limit": "user_budget_limit",
+    "correct": true
+   },
+   {
+    "item": "v2-do-ssd",
+    "label": "A",
+    "expression": "user_requirement",
+    "limit": "user_requirement",
+    "correct": false
+   },
+   {
+    "item": "v2-do-ssd",
+    "label": "B",
+    "expression": "user_requirement",
+    "limit": "user_requirement",
+    "correct": true
+   }
+  ],
+  "source_rule_accuracy": 34
+ },
+ "heldout_seen_vs_new_condition_type": {
+  "judge_checklist": {
+   "seen_type": "6/9",
+   "new_type": "28/36"
+  },
+  "qbr": {
+   "seen_type": "7/9",
+   "new_type": "27/36"
+  },
+  "qbr-judge_only": {
+   "seen_type": "6/9",
+   "new_type": "27/36"
+  },
+  "judge": {
+   "seen_type": "6/9",
+   "new_type": "26/36"
+  },
+  "rules": {
+   "seen_type": "6/9",
+   "new_type": "24/36"
+  },
+  "dcv": {
+   "seen_type": "6/9",
+   "new_type": "22/36"
+  },
+  "no_verifier": {
+   "seen_type": "6/9",
+   "new_type": "24/36"
+  },
+  "seen_type_items": [
+   "v2-hinge-gaap",
+   "v2-hostinger-renewal",
+   "v2-slack-period"
+  ]
+ }
+}

@@ -1,0 +1,716 @@
+{
+ "per_item_cases_right": {
+  "p-asana-advanced": {
+   "family": "billing_period",
+   "dcv": "A..",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": "A.C",
+   "nli_answer": "A.C",
+   "nli_claim": "A.C",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "p-notion-domain": {
+   "family": "billing_period",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": ".B.",
+   "nli_answer": ".BC",
+   "nli_claim": "A.C",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-basecamp-unlimited": {
+   "family": "billing_period",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": ".B.",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-proton-unlimited": {
+   "family": "intro_vs_renewal",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": ".B.",
+   "nli_answer": "A.C",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-protonvpn-plus": {
+   "family": "intro_vs_renewal",
+   "dcv": "A.C",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": ".BC",
+   "nli_answer": "A.C",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "p-proton-mail": {
+   "family": "intro_vs_renewal",
+   "dcv": "A.C",
+   "direct": "ABC",
+   "judge": ".B.",
+   "judge_checklist": "ABC",
+   "lynx": ".B.",
+   "nli_answer": "A.C",
+   "nli_claim": "A.C",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "p-protonvpn-month": {
+   "family": "intro_vs_renewal",
+   "dcv": "A.C",
+   "direct": ".BC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": ".BC",
+   "nli_answer": "A.C",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-loom-business": {
+   "family": "per_user",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "lynx": ".BC",
+   "nli_answer": "A.C",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-tailscale-standard": {
+   "family": "per_user",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "lynx": ".BC",
+   "nli_answer": "A.C",
+   "nli_claim": "A.C",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-notion-plus": {
+   "family": "per_user",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "lynx": "A.C",
+   "nli_answer": "A.C",
+   "nli_claim": "A.C",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "p-hetzner-bx11": {
+   "family": "tax_basis",
+   "dcv": "ABC",
+   "direct": "...",
+   "judge": "AB.",
+   "judge_checklist": "AB.",
+   "lynx": ".B.",
+   "nli_answer": "A.C",
+   "nli_claim": ".B.",
+   "qbr": "AB.",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "p-hetzner-bx21": {
+   "family": "tax_basis",
+   "dcv": "ABC",
+   "direct": "A..",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": ".B.",
+   "nli_answer": "A.C",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "f-workiva-margin": {
+   "family": "gaap_basis",
+   "dcv": "A..",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "AB.",
+   "lynx": "AB.",
+   "nli_answer": ".B.",
+   "nli_claim": "A.C",
+   "qbr": "AB.",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "f-protolabs-margin": {
+   "family": "gaap_basis",
+   "dcv": "A..",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": "AB.",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "f-dexcom-margin": {
+   "family": "gaap_basis",
+   "dcv": "A..",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": "AB.",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "f-protolabs-eps": {
+   "family": "gaap_basis",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "lynx": "AB.",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "f-figma-income": {
+   "family": "gaap_basis",
+   "dcv": "A..",
+   "direct": "AB.",
+   "judge": "AB.",
+   "judge_checklist": "AB.",
+   "lynx": ".B.",
+   "nli_answer": "A.C",
+   "nli_claim": "A.C",
+   "qbr": "AB.",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "f-emcor-income": {
+   "family": "reporting_period",
+   "dcv": "ABC",
+   "direct": "ABC",
+   "judge": "AB.",
+   "judge_checklist": "ABC",
+   "lynx": "AB.",
+   "nli_answer": ".BC",
+   "nli_claim": ".B.",
+   "qbr": "AB.",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "s-diabetes-faith": {
+   "family": "relative_vs_absolute",
+   "dcv": "A..",
+   "direct": "..C",
+   "judge": "ABC",
+   "judge_checklist": "AB.",
+   "lynx": "AB.",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "AB.",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "s-eat-mortality": {
+   "family": "relative_vs_absolute",
+   "dcv": "A..",
+   "direct": "A..",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "lynx": "ABC",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "AB.",
+   "rules": "AB.",
+   "qbr-agree": "AB.",
+   "qbr-judge_only": "AB."
+  },
+  "s-sacubitril": {
+   "family": "relative_vs_absolute",
+   "dcv": "ABC",
+   "direct": "A.C",
+   "judge": "ABC",
+   "judge_checklist": "ABC",
+   "lynx": "ABC",
+   "nli_answer": ".B.",
+   "nli_claim": ".B.",
+   "qbr": "ABC",
+   "rules": "AB.",
+   "qbr-agree": "ABC",
+   "qbr-judge_only": "ABC"
+  },
+  "s-nasal-mask-bmi": {
+   "family": "population_scope",
+   "dcv": "A.",
+   "direct": "AB",
+   "judge": "AB",
+   "judge_checklist": "AB",
+   "lynx": "A.",
+   "nli_answer": "A.",
+   "nli_claim": ".B",
+   "qbr": "AB",
+   "rules": "A.",
+   "qbr-agree": "AB",
+   "qbr-judge_only": "AB"
+  },
+  "s-dexmed-pediatric": {
+   "family": "population_scope",
+   "dcv": "A.",
+   "direct": "AB",
+   "judge": "AB",
+   "judge_checklist": "AB",
+   "lynx": "A.",
+   "nli_answer": ".B",
+   "nli_claim": "A.",
+   "qbr": "AB",
+   "rules": "A.",
+   "qbr-agree": "AB",
+   "qbr-judge_only": "AB"
+  },
+  "s-icosapent-metsyn": {
+   "family": "population_scope",
+   "dcv": "A.",
+   "direct": "AB",
+   "judge": "AB",
+   "judge_checklist": "AB",
+   "lynx": "A.",
+   "nli_answer": ".B",
+   "nli_claim": "A.",
+   "qbr": "AB",
+   "rules": "A.",
+   "qbr-agree": "AB",
+   "qbr-judge_only": "AB"
+  }
+ },
+ "qbr_code_tier_cases": [
+  {
+   "item": "p-asana-advanced",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-asana-advanced",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-asana-advanced",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-notion-domain",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-notion-domain",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-notion-domain",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-basecamp-unlimited",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-basecamp-unlimited",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-basecamp-unlimited",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-proton-unlimited",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-proton-unlimited",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-proton-unlimited",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-protonvpn-plus",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-protonvpn-plus",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-protonvpn-plus",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-proton-mail",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-proton-mail",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-proton-mail",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-loom-business",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-loom-business",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-tailscale-standard",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-tailscale-standard",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-tailscale-standard",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-notion-plus",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "p-notion-plus",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "p-notion-plus",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-workiva-margin",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-protolabs-margin",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-protolabs-margin",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "f-protolabs-margin",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-protolabs-eps",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-protolabs-eps",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "f-protolabs-eps",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-figma-income",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-figma-income",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "f-emcor-income",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "f-emcor-income",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "s-diabetes-faith",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "s-diabetes-faith",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "s-eat-mortality",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "s-eat-mortality",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "s-sacubitril",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "s-sacubitril",
+   "label": "B",
+   "verdict": "incorrect",
+   "ok": true
+  },
+  {
+   "item": "s-sacubitril",
+   "label": "C",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "s-nasal-mask-bmi",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  },
+  {
+   "item": "s-icosapent-metsyn",
+   "label": "A",
+   "verdict": "correct",
+   "ok": true
+  }
+ ],
+ "paired": [
+  {
+   "x": "qbr",
+   "y": "judge_checklist",
+   "x_only_right": 0,
+   "y_only_right": 2,
+   "exact_mcnemar_p": 0.5,
+   "diff": -0.029,
+   "diff_item_bootstrap_ci95": [
+    -0.072,
+    0.0
+   ],
+   "items_x_better": 0,
+   "items_y_better": 2
+  },
+  {
+   "x": "qbr",
+   "y": "qbr-judge_only",
+   "x_only_right": 3,
+   "y_only_right": 0,
+   "exact_mcnemar_p": 0.25,
+   "diff": 0.043,
+   "diff_item_bootstrap_ci95": [
+    0.0,
+    0.101
+   ],
+   "items_x_better": 3,
+   "items_y_better": 0
+  },
+  {
+   "x": "qbr-judge_only",
+   "y": "judge_checklist",
+   "x_only_right": 0,
+   "y_only_right": 5,
+   "exact_mcnemar_p": 0.0625,
+   "diff": -0.072,
+   "diff_item_bootstrap_ci95": [
+    -0.13,
+    -0.014
+   ],
+   "items_x_better": 0,
+   "items_y_better": 5
+  },
+  {
+   "x": "judge_checklist",
+   "y": "judge",
+   "x_only_right": 12,
+   "y_only_right": 1,
+   "exact_mcnemar_p": 0.0034,
+   "diff": 0.159,
+   "diff_item_bootstrap_ci95": [
+    0.072,
+    0.246
+   ],
+   "items_x_better": 11,
+   "items_y_better": 1
+  },
+  {
+   "x": "qbr",
+   "y": "dcv",
+   "x_only_right": 16,
+   "y_only_right": 2,
+   "exact_mcnemar_p": 0.0013,
+   "diff": 0.203,
+   "diff_item_bootstrap_ci95": [
+    0.087,
+    0.319
+   ],
+   "items_x_better": 13,
+   "items_y_better": 2
+  }
+ ],
+ "no_verifier_per_item": {
+  "p-asana-advanced": "A.C",
+  "p-notion-domain": "A.C",
+  "p-basecamp-unlimited": "A.C",
+  "p-proton-unlimited": "A.C",
+  "p-protonvpn-plus": "A.C",
+  "p-proton-mail": "A.C",
+  "p-protonvpn-month": "A.C",
+  "p-loom-business": "A.C",
+  "p-tailscale-standard": "A.C",
+  "p-notion-plus": "A.C",
+  "p-hetzner-bx11": "A.C",
+  "p-hetzner-bx21": "A.C",
+  "f-workiva-margin": "A.C",
+  "f-protolabs-margin": "A.C",
+  "f-dexcom-margin": "A.C",
+  "f-protolabs-eps": "A.C",
+  "f-figma-income": "A.C",
+  "f-emcor-income": "A.C",
+  "s-diabetes-faith": "A.C",
+  "s-eat-mortality": "A.C",
+  "s-sacubitril": "A.C",
+  "s-nasal-mask-bmi": "A.",
+  "s-dexmed-pediatric": "A.",
+  "s-icosapent-metsyn": "A."
+ }
+}
