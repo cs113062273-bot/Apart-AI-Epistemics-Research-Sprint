@@ -1,0 +1,53 @@
+[
+ {
+  "item": "v3-garmin-ytd",
+  "label": "B",
+  "family": "reporting_period",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 10% year over year for the year to date (the first 39 weeks).",
+  "truth": "fails",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "decision": "passes",
+  "auto_type": "applicable_value_misused",
+  "explanation": "The source text states that revenue from the outdoor segment increased 20% year over year for the 39-week period, which exceeds the 10% threshold required by the user's condition.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches... (In thousands, except per share information) 13-Weeks Ended ... 39-Weeks Ended ... Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "quote_verbatim": false,
+  "quote_numbers_in_source": true,
+  "cites_trap": true,
+  "cites_applicable": true
+ },
+ {
+  "item": "v3-garmin-ytd",
+  "label": "C",
+  "family": "reporting_period",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 3% year over year for the year to date (the first 39 weeks).",
+  "truth": "passes",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "decision": "passes",
+  "auto_type": "correct_with_trap_value",
+  "explanation": "The source text states that revenue from the outdoor segment increased 20% year over year for the 39-week period, which exceeds the 3% threshold.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches.",
+  "quote_verbatim": true,
+  "quote_numbers_in_source": true,
+  "cites_trap": true,
+  "cites_applicable": false
+ },
+ {
+  "item": "v3-pterygium-age",
+  "label": "B",
+  "family": "population_scope",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft only if, for patients like me, it lowers recurrence by at least 3 percentage points.",
+  "truth": "no",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "decision": "yes",
+  "auto_type": "applicable_value_misused",
+  "explanation": "The source states that the overall recurrence rate was 8.3% with conjunctival autograft (CAG) versus 14.8% with amniotic membrane transplantation (AMT), resulting in an absolute risk reduction (ARR) of 6.5 percentage points. While the source notes that the difference in younger patients (20-40 years) was larger (21.1% vs 0%), it explicitly states that the group aged >60 years was too small to interpret and that the difference in patients aged 41-60 years showed no difference (11.1% vs 11.5%). However, the overall study result for the entire cohort shows a reduction of 6.5 percentage points, which exceeds your 3 percentage point bar. Since the source does not provide a specific, statistically significant breakdown for the 41-60 age group that contradicts the overall finding, the overall data supports meeting your criteria.",
+  "quote": "Recurrence was lower with CAG than AMT (8.3% vs 14.8%; Fisher's exact p=0.044), with an unadjusted OR for AMT of 1.93 (95% CI: 1.02-3.65), ARR of 6.5% points...",
+  "quote_verbatim": true,
+  "quote_numbers_in_source": true,
+  "cites_trap": true,
+  "cites_applicable": true
+ }
+]

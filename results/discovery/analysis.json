@@ -1,0 +1,812 @@
+{
+ "qwen35-9b": {
+  "prevalence": {
+   "cases_total": 51,
+   "cases_answered": 51,
+   "A": {
+    "n": 17,
+    "wrong": 0,
+    "wrong_rate_ci95": [
+     0.0,
+     0.184
+    ],
+    "types": {
+     "correct": 17
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "B": {
+    "n": 17,
+    "wrong": 2,
+    "wrong_rate_ci95": [
+     0.033,
+     0.343
+    ],
+    "types": {
+     "correct": 15,
+     "applicable_value_misused": 2
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "C": {
+    "n": 17,
+    "wrong": 0,
+    "wrong_rate_ci95": [
+     0.0,
+     0.184
+    ],
+    "types": {
+     "correct": 16,
+     "correct_with_trap_value": 1
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "all": {
+    "n": 51,
+    "wrong": 2,
+    "types": {
+     "correct": 48,
+     "applicable_value_misused": 2,
+     "correct_with_trap_value": 1
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 17,
+    "B": 17,
+    "C": 17
+   },
+   "by_label": {
+    "A": {},
+    "B": {
+     "supported_inapplicable": 2
+    },
+    "C": {
+     "right_with_inapplicable_value": 1
+    }
+   },
+   "totals": {
+    "supported_inapplicable": 2,
+    "right_with_inapplicable_value": 1
+   },
+   "wrong_total": 2,
+   "B_supported_inapplicable": "2/17",
+   "B_supported_inapplicable_or_ambiguous": "2/17",
+   "B_wrong": "2/17",
+   "gold_contestable": []
+  },
+  "verifiers": {
+   "no_verifier": {
+    "decision_accuracy": "49/51",
+    "ci95": [
+     0.902,
+     1.0
+    ]
+   },
+   "judge_checklist": {
+    "decision_accuracy": "50/51",
+    "ci95": [
+     0.941,
+     1.0
+    ],
+    "wrong_fixed": "1/2",
+    "right_kept": "49/49",
+    "si_fixed": "1/2",
+    "errors": 0
+   },
+   "qbr": {
+    "decision_accuracy": "51/51",
+    "ci95": [
+     1.0,
+     1.0
+    ],
+    "wrong_fixed": "2/2",
+    "right_kept": "49/49",
+    "si_fixed": "2/2",
+    "errors": 0,
+    "certified": "20/20",
+    "decided_by": {
+     "code": 20,
+     "judge (operand not verified)": 29,
+     "judge (computation unusable)": 2
+    }
+   },
+   "rules": {
+    "decision_accuracy": "47/51",
+    "ci95": [
+     0.824,
+     1.0
+    ],
+    "wrong_fixed": "1/2",
+    "right_kept": "46/49",
+    "si_fixed": "1/2",
+    "errors": 0
+   },
+   "qbr-judge_only": {
+    "decision_accuracy": "51/51",
+    "ci95": [
+     1.0,
+     1.0
+    ],
+    "wrong_fixed": "2/2",
+    "right_kept": "49/49",
+    "si_fixed": "2/2",
+    "errors": 0
+   },
+   "qbr-source_bound": {
+    "decision_accuracy": "51/51",
+    "ci95": [
+     1.0,
+     1.0
+    ],
+    "wrong_fixed": "2/2",
+    "right_kept": "49/49",
+    "si_fixed": "2/2",
+    "errors": 0,
+    "certified": "19/19",
+    "decided_by": {
+     "code": 19,
+     "judge (operand not verified)": 29,
+     "judge (computation uses no source value)": 1,
+     "judge (computation unusable)": 2
+    }
+   },
+   "paired": [
+    {
+     "x": "qbr-source_bound",
+     "y": "judge_checklist",
+     "x_only": 1,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "qbr-source_bound",
+     "y": "qbr-judge_only",
+     "x_only": 0,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "rules",
+     "x_only": 4,
+     "y_only": 1,
+     "p": 0.375
+    }
+   ]
+  }
+ },
+ "qwen3-4b": {
+  "prevalence": {
+   "cases_total": 51,
+   "cases_answered": 51,
+   "A": {
+    "n": 17,
+    "wrong": 0,
+    "wrong_rate_ci95": [
+     0.0,
+     0.184
+    ],
+    "types": {
+     "correct": 17
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "B": {
+    "n": 17,
+    "wrong": 2,
+    "wrong_rate_ci95": [
+     0.033,
+     0.343
+    ],
+    "types": {
+     "correct": 15,
+     "supported_inapplicable": 2
+    },
+    "supported_inapplicable": 2,
+    "supported_inapplicable_ci95": [
+     0.033,
+     0.343
+    ]
+   },
+   "C": {
+    "n": 17,
+    "wrong": 1,
+    "wrong_rate_ci95": [
+     0.01,
+     0.27
+    ],
+    "types": {
+     "correct": 15,
+     "correct_with_trap_value": 1,
+     "applicable_value_misused": 1
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "all": {
+    "n": 51,
+    "wrong": 3,
+    "types": {
+     "correct": 47,
+     "supported_inapplicable": 2,
+     "correct_with_trap_value": 1,
+     "applicable_value_misused": 1
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 17,
+    "B": 17,
+    "C": 17
+   },
+   "by_label": {
+    "A": {},
+    "B": {
+     "supported_inapplicable": 2
+    },
+    "C": {
+     "right_with_inapplicable_value": 1,
+     "numeric_or_reasoning_error": 1
+    }
+   },
+   "totals": {
+    "supported_inapplicable": 2,
+    "right_with_inapplicable_value": 1,
+    "numeric_or_reasoning_error": 1
+   },
+   "wrong_total": 3,
+   "B_supported_inapplicable": "2/17",
+   "B_supported_inapplicable_or_ambiguous": "2/17",
+   "B_wrong": "2/17",
+   "gold_contestable": [
+    [
+     "v3-pterygium-age",
+     "C"
+    ]
+   ]
+  },
+  "verifiers": {
+   "no_verifier": {
+    "decision_accuracy": "48/51",
+    "ci95": [
+     0.843,
+     1.0
+    ]
+   },
+   "judge": {
+    "decision_accuracy": "48/51",
+    "ci95": [
+     0.843,
+     1.0
+    ],
+    "wrong_fixed": "2/3",
+    "right_kept": "46/48",
+    "si_fixed": "2/2",
+    "errors": 0
+   },
+   "judge_checklist": {
+    "decision_accuracy": "49/51",
+    "ci95": [
+     0.882,
+     1.0
+    ],
+    "wrong_fixed": "2/3",
+    "right_kept": "47/48",
+    "si_fixed": "2/2",
+    "errors": 0
+   },
+   "qbr": {
+    "decision_accuracy": "50/51",
+    "ci95": [
+     0.941,
+     1.0
+    ],
+    "wrong_fixed": "2/3",
+    "right_kept": "48/48",
+    "si_fixed": "2/2",
+    "errors": 0,
+    "certified": "17/17",
+    "decided_by": {
+     "code": 17,
+     "judge (operand not verified)": 33,
+     "judge (computation unusable)": 1
+    }
+   },
+   "rules": {
+    "decision_accuracy": "42/51",
+    "ci95": [
+     0.686,
+     0.941
+    ],
+    "wrong_fixed": "2/3",
+    "right_kept": "40/48",
+    "si_fixed": "2/2",
+    "errors": 0
+   },
+   "qbr-judge_only": {
+    "decision_accuracy": "50/51",
+    "ci95": [
+     0.941,
+     1.0
+    ],
+    "wrong_fixed": "2/3",
+    "right_kept": "48/48",
+    "si_fixed": "2/2",
+    "errors": 0
+   },
+   "qbr-source_bound": {
+    "decision_accuracy": "50/51",
+    "ci95": [
+     0.941,
+     1.0
+    ],
+    "wrong_fixed": "2/3",
+    "right_kept": "48/48",
+    "si_fixed": "2/2",
+    "errors": 0,
+    "certified": "17/17",
+    "decided_by": {
+     "code": 17,
+     "judge (operand not verified)": 33,
+     "judge (computation unusable)": 1
+    }
+   },
+   "paired": [
+    {
+     "x": "qbr-source_bound",
+     "y": "judge_checklist",
+     "x_only": 1,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "qbr-source_bound",
+     "y": "qbr-judge_only",
+     "x_only": 0,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "judge",
+     "x_only": 1,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "rules",
+     "x_only": 7,
+     "y_only": 0,
+     "p": 0.0156
+    }
+   ]
+  }
+ },
+ "qwen2.5-1.5b": {
+  "prevalence": {
+   "cases_total": 51,
+   "cases_answered": 49,
+   "A": {
+    "n": 17,
+    "wrong": 2,
+    "wrong_rate_ci95": [
+     0.033,
+     0.343
+    ],
+    "types": {
+     "correct": 14,
+     "applicable_value_misused": 2,
+     "correct_with_trap_value": 1
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "B": {
+    "n": 17,
+    "wrong": 9,
+    "wrong_rate_ci95": [
+     0.31,
+     0.738
+    ],
+    "types": {
+     "correct": 8,
+     "supported_inapplicable": 2,
+     "applicable_value_misused": 6,
+     "no_answer": 1
+    },
+    "supported_inapplicable": 2,
+    "supported_inapplicable_ci95": [
+     0.033,
+     0.343
+    ]
+   },
+   "C": {
+    "n": 17,
+    "wrong": 5,
+    "wrong_rate_ci95": [
+     0.133,
+     0.531
+    ],
+    "types": {
+     "correct": 10,
+     "applicable_value_misused": 4,
+     "correct_with_trap_value": 2,
+     "no_answer": 1
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "all": {
+    "n": 51,
+    "wrong": 16,
+    "types": {
+     "correct": 32,
+     "applicable_value_misused": 12,
+     "correct_with_trap_value": 3,
+     "supported_inapplicable": 2,
+     "no_answer": 2
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 17,
+    "B": 17,
+    "C": 17
+   },
+   "by_label": {
+    "A": {
+     "numeric_or_reasoning_error": 2,
+     "right_for_wrong_reason": 1
+    },
+    "B": {
+     "supported_inapplicable": 3,
+     "ambiguous_value": 1,
+     "numeric_or_reasoning_error": 4,
+     "no_answer": 1
+    },
+    "C": {
+     "numeric_or_reasoning_error": 3,
+     "other_printed_value": 1,
+     "right_with_inapplicable_value": 2,
+     "no_answer": 1
+    }
+   },
+   "totals": {
+    "numeric_or_reasoning_error": 9,
+    "right_for_wrong_reason": 1,
+    "supported_inapplicable": 3,
+    "ambiguous_value": 1,
+    "no_answer": 2,
+    "other_printed_value": 1,
+    "right_with_inapplicable_value": 2
+   },
+   "wrong_total": 16,
+   "B_supported_inapplicable": "3/17",
+   "B_supported_inapplicable_or_ambiguous": "4/17",
+   "B_wrong": "9/17",
+   "gold_contestable": []
+  },
+  "verifiers": {
+   "no_verifier": {
+    "decision_accuracy": "35/49",
+    "ci95": [
+     0.574,
+     0.84
+    ]
+   },
+   "judge_checklist": {
+    "decision_accuracy": "45/49",
+    "ci95": [
+     0.84,
+     0.98
+    ],
+    "wrong_fixed": "14/14",
+    "right_kept": "31/35",
+    "si_fixed": "3/3",
+    "errors": 1
+   },
+   "qbr": {
+    "decision_accuracy": "47/49",
+    "ci95": [
+     0.896,
+     1.0
+    ],
+    "wrong_fixed": "14/14",
+    "right_kept": "33/35",
+    "si_fixed": "3/3",
+    "errors": 1,
+    "certified": "17/17",
+    "decided_by": {
+     "code": 17,
+     "judge (operand not verified)": 28,
+     "judge (computation unusable)": 3,
+     "error": 1
+    }
+   },
+   "rules": {
+    "decision_accuracy": "34/49",
+    "ci95": [
+     0.549,
+     0.833
+    ],
+    "wrong_fixed": "2/14",
+    "right_kept": "32/35",
+    "si_fixed": "1/3",
+    "errors": 0
+   },
+   "qbr-judge_only": {
+    "decision_accuracy": "46/49",
+    "ci95": [
+     0.872,
+     1.0
+    ],
+    "wrong_fixed": "14/14",
+    "right_kept": "32/35",
+    "si_fixed": "3/3",
+    "errors": 1
+   },
+   "qbr-source_bound": {
+    "decision_accuracy": "47/49",
+    "ci95": [
+     0.896,
+     1.0
+    ],
+    "wrong_fixed": "14/14",
+    "right_kept": "33/35",
+    "si_fixed": "3/3",
+    "errors": 1,
+    "certified": "17/17",
+    "decided_by": {
+     "code": 17,
+     "judge (operand not verified)": 28,
+     "judge (computation unusable)": 3,
+     "error": 1
+    }
+   },
+   "paired": [
+    {
+     "x": "qbr-source_bound",
+     "y": "judge_checklist",
+     "x_only": 2,
+     "y_only": 0,
+     "p": 0.5
+    },
+    {
+     "x": "qbr-source_bound",
+     "y": "qbr-judge_only",
+     "x_only": 1,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "rules",
+     "x_only": 14,
+     "y_only": 3,
+     "p": 0.0127
+    }
+   ]
+  }
+ },
+ "smollm2-1.7b": {
+  "prevalence": {
+   "cases_total": 51,
+   "cases_answered": 46,
+   "A": {
+    "n": 17,
+    "wrong": 5,
+    "wrong_rate_ci95": [
+     0.133,
+     0.531
+    ],
+    "types": {
+     "correct": 11,
+     "other": 1,
+     "no_answer": 2,
+     "applicable_value_misused": 1,
+     "correct_with_trap_value": 1,
+     "supported_inapplicable": 1
+    },
+    "supported_inapplicable": 1,
+    "supported_inapplicable_ci95": [
+     0.01,
+     0.27
+    ]
+   },
+   "B": {
+    "n": 17,
+    "wrong": 9,
+    "wrong_rate_ci95": [
+     0.31,
+     0.738
+    ],
+    "types": {
+     "correct": 6,
+     "applicable_value_misused": 5,
+     "correct_with_trap_value": 2,
+     "no_answer": 1,
+     "other": 2,
+     "supported_inapplicable": 1
+    },
+    "supported_inapplicable": 1,
+    "supported_inapplicable_ci95": [
+     0.01,
+     0.27
+    ]
+   },
+   "C": {
+    "n": 17,
+    "wrong": 8,
+    "wrong_rate_ci95": [
+     0.262,
+     0.69
+    ],
+    "types": {
+     "other": 2,
+     "correct": 6,
+     "applicable_value_misused": 4,
+     "correct_with_trap_value": 3,
+     "no_answer": 2
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.184
+    ]
+   },
+   "all": {
+    "n": 51,
+    "wrong": 22,
+    "types": {
+     "correct": 23,
+     "other": 5,
+     "no_answer": 5,
+     "applicable_value_misused": 10,
+     "correct_with_trap_value": 6,
+     "supported_inapplicable": 2
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 17,
+    "B": 17,
+    "C": 17
+   },
+   "by_label": {
+    "A": {
+     "no_answer": 3,
+     "unfaithful_quote": 1,
+     "right_for_wrong_reason": 1,
+     "supported_inapplicable": 1
+    },
+    "B": {
+     "ambiguous_value": 4,
+     "right_for_wrong_reason": 2,
+     "no_answer": 1,
+     "numeric_or_reasoning_error": 2,
+     "other_printed_value": 1,
+     "supported_inapplicable": 1
+    },
+    "C": {
+     "unfaithful_quote": 1,
+     "numeric_or_reasoning_error": 4,
+     "right_for_wrong_reason": 3,
+     "no_answer": 2,
+     "other_printed_value": 1
+    }
+   },
+   "totals": {
+    "no_answer": 6,
+    "unfaithful_quote": 2,
+    "right_for_wrong_reason": 6,
+    "supported_inapplicable": 2,
+    "ambiguous_value": 4,
+    "numeric_or_reasoning_error": 6,
+    "other_printed_value": 2
+   },
+   "wrong_total": 22,
+   "B_supported_inapplicable": "1/17",
+   "B_supported_inapplicable_or_ambiguous": "5/17",
+   "B_wrong": "9/17",
+   "gold_contestable": []
+  },
+  "verifiers": null
+ },
+ "H1": {
+  "strong_si_of_wrong": "4/5",
+  "weak_si_of_wrong": "5/38",
+  "fisher_one_sided_p": 0.0046
+ },
+ "by_family": {
+  "analysis_population": {
+   "cases": 3,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "currency_basis": {
+   "cases": 9,
+   "by_assistant": {
+    "qwen2.5-1.5b": 1
+   },
+   "distinct_cases": 1
+  },
+  "gaap_basis": {
+   "cases": 12,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "guidance_vs_reported": {
+   "cases": 6,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "outcome_mismatch": {
+   "cases": 3,
+   "by_assistant": {
+    "smollm2-1.7b": 1
+   },
+   "distinct_cases": 1
+  },
+  "population_scope": {
+   "cases": 3,
+   "by_assistant": {
+    "qwen35-9b": 1,
+    "qwen3-4b": 1,
+    "qwen2.5-1.5b": 1,
+    "smollm2-1.7b": 1
+   },
+   "distinct_cases": 1
+  },
+  "relative_vs_absolute": {
+   "cases": 6,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "reporting_period": {
+   "cases": 3,
+   "by_assistant": {
+    "qwen35-9b": 1,
+    "qwen3-4b": 1,
+    "qwen2.5-1.5b": 1
+   },
+   "distinct_cases": 1
+  },
+  "segment_vs_consolidated": {
+   "cases": 6,
+   "by_assistant": {},
+   "distinct_cases": 0
+  }
+ },
+ "H1_sensitivity": null
+}

@@ -1,0 +1,926 @@
+{
+ "r001": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-cem-outcome",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r002": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-coupang-gp-cc",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r003": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-nepa-emesis",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r004": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-align-gaap",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r005": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-nepa-nausea",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r006": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-conmed-segment",
+  "label": "A",
+  "first": "ambiguous_value"
+ },
+ "r007": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-pulmonx-intl",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r008": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-vf-guidance",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r009": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-align-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r010": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-alphabet-services",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r011": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-chx-wound",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r012": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-alphabet-services",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r013": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-msft-ni-cc",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r014": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-fossil-americas",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r015": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-garmin-ytd",
+  "label": "C",
+  "first": "right_for_wrong_reason"
+ },
+ "r016": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-coupang-gp-cc",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r017": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-fossil-americas",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r018": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-ranpak-cc",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r019": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-webtoon-cc",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r020": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-vf-dtc-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r021": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-adtran-gaap",
+  "label": "B",
+  "first": "right_for_wrong_reason"
+ },
+ "r022": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-ranpak-ytd",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r023": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-pterygium-age",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r024": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-pulmonx-intl-cc",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r025": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-coupang-cc",
+  "label": "A",
+  "first": "ambiguous_value"
+ },
+ "r026": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-vf-americas",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r027": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-conmed-intl-cc",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r028": {
+  "set": "v3",
+  "model": "qwen35-9b",
+  "item": "v3-garmin-ytd",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r029": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-adtran-guidance",
+  "label": "A",
+  "first": "right_for_wrong_reason"
+ },
+ "r030": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-ranpak-aebitda-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r031": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-vf-guidance",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r032": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-chx-readmission",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r033": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-align-gaap",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r034": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-urokinase-mortality",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r035": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-nike-direct",
+  "label": "B",
+  "first": "right_for_wrong_reason"
+ },
+ "r036": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-alphabet-search",
+  "label": "B",
+  "first": "right_for_wrong_reason"
+ },
+ "r037": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-appendix-pp",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r038": {
+  "set": "v3",
+  "model": "qwen35-9b",
+  "item": "v3-pterygium-age",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r039": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-alphabet-cloud",
+  "label": "C",
+  "first": "right_for_wrong_reason"
+ },
+ "r040": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-urokinase-mortality",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r041": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-probiotics-arr",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r042": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-appendix-pp",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r043": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-appendix-pp",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r044": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-chx-wound",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r045": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-fossil-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r046": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-pterygium-age",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r047": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-chx-readmission",
+  "label": "A",
+  "first": "right_for_wrong_reason"
+ },
+ "r048": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-garmin-ytd",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r049": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-align-cc",
+  "label": "A",
+  "first": "other_printed_value"
+ },
+ "r050": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-nike-direct",
+  "label": "C",
+  "first": "right_for_wrong_reason"
+ },
+ "r051": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-webtoon-guidance",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r052": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-webtoon-cc",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r053": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-conmed-segment",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r054": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-appendix-outcome",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r055": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-probiotics-arr",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r056": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-probiotics-outcome",
+  "label": "A",
+  "first": "right_for_wrong_reason"
+ },
+ "r057": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-nepa-emesis",
+  "label": "A",
+  "first": "ambiguous_value"
+ },
+ "r058": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-adtran-gaap",
+  "label": "C",
+  "first": "right_for_wrong_reason"
+ },
+ "r059": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-appendix-pp",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r060": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-cem-outcome",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r061": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-conmed-intl-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r062": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-zoom-cc",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r063": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-appendix-outcome",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r064": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-pulmonx-us",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r065": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-msft-oi-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r066": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-zoom-cc",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r067": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-coupang-gp-cc",
+  "label": "C",
+  "first": "other_printed_value"
+ },
+ "r068": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-msft-ni-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r069": {
+  "set": "v3",
+  "model": "qwen35-9b",
+  "item": "v3-garmin-ytd",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r070": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-msft-ni-gaap",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r071": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-appendix-outcome",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r072": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-urokinase-lvo",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r073": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-conmed-cc",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r074": {
+  "set": "v3",
+  "model": "qwen3-4b",
+  "item": "v3-pterygium-age",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r075": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-pterygium-age",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r076": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-ranpak-aebitda-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r077": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-zoom-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r078": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-webtoon-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r079": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-zoom-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r080": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-appendix-outcome",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r081": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-adtran-guidance",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r082": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-vf-americas",
+  "label": "A",
+  "first": "right_for_wrong_reason"
+ },
+ "r083": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-msft-oi-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r084": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-esketamine-pp",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r085": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-alphabet-cloud",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r086": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-vf-guidance",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r087": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-vf-dtc-cc",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r088": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-reuteri-arr",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r089": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-vf-americas",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r090": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-urokinase-mortality",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r091": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-pterygium-arr",
+  "label": "B",
+  "first": "other_printed_value"
+ },
+ "r092": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-vf-americas",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r093": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-align-gaap",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r094": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-align-cc",
+  "label": "A",
+  "first": "other_printed_value"
+ },
+ "r095": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-appendix-outcome",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r096": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-appendix-outcome",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r097": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-alphabet-cloud",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r098": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-nepa-nausea",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r099": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-pulmonx-intl",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r100": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-probiotics-outcome",
+  "label": "A",
+  "first": "supported_inapplicable"
+ },
+ "r101": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-garmin-ytd",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r102": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-coupang-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r103": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-pulmonx-us",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r104": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-chx-wound",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r105": {
+  "set": "v3",
+  "model": "qwen3-4b",
+  "item": "v3-garmin-ytd",
+  "label": "C",
+  "first": "right_with_inapplicable_value"
+ },
+ "r106": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-lulu-cd",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r107": {
+  "set": "v3",
+  "model": "qwen3-4b",
+  "item": "v3-garmin-ytd",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r108": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-chx-readmission",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r109": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-alphabet-cloud",
+  "label": "B",
+  "first": "right_for_wrong_reason"
+ },
+ "r110": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-vf-dtc-cc",
+  "label": "B",
+  "first": "right_for_wrong_reason"
+ },
+ "r111": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-conmed-cc",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r112": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-fossil-asia",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r113": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-pulmonx-intl",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r114": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-vf-guidance",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r115": {
+  "set": "v3",
+  "model": "qwen3-4b",
+  "item": "v3-pterygium-age",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r116": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-msft-ni-cc",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r117": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-lulu-cd",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r118": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-coupang-gp-cc",
+  "label": "A",
+  "first": "other_printed_value"
+ },
+ "r119": {
+  "set": "v4",
+  "model": "qwen35-9b",
+  "item": "v4-coupang-gp-cc",
+  "label": "A",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r120": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-urokinase-lvo",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r121": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-fossil-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r122": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-lulu-americas",
+  "label": "B",
+  "first": "ambiguous_value"
+ },
+ "r123": {
+  "set": "v3",
+  "model": "qwen2.5-1.5b",
+  "item": "v3-nike-direct",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r124": {
+  "set": "v3",
+  "model": "smollm2-1.7b",
+  "item": "v3-adtran-gaap",
+  "label": "A",
+  "first": "unfaithful_quote"
+ },
+ "r125": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-msft-ni-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r126": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-vf-americas",
+  "label": "C",
+  "first": "supported_inapplicable"
+ },
+ "r127": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-coupang-gp-cc",
+  "label": "A",
+  "first": "other_printed_value"
+ },
+ "r128": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-ranpak-cc",
+  "label": "A",
+  "first": "other_printed_value"
+ },
+ "r129": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-calcifediol-outcome",
+  "label": "C",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r130": {
+  "set": "v4",
+  "model": "smollm2-1.7b",
+  "item": "v4-msft-ni-gaap",
+  "label": "B",
+  "first": "numeric_or_reasoning_error"
+ },
+ "r131": {
+  "set": "v4",
+  "model": "qwen3-4b",
+  "item": "v4-conmed-intl-cc",
+  "label": "B",
+  "first": "supported_inapplicable"
+ },
+ "r132": {
+  "set": "v4",
+  "model": "qwen2.5-1.5b",
+  "item": "v4-vf-americas",
+  "label": "A",
+  "first": "supported_inapplicable"
+ }
+}

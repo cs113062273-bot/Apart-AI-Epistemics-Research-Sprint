@@ -1,0 +1,32 @@
+{
+ "rows": 132,
+ "exact_agreement": 130,
+ "kappa_all_categories": 0.978,
+ "si_vs_rest": {
+  "both_si": 32,
+  "first_only": 0,
+  "second_only": 0,
+  "neither": 100,
+  "kappa": 1.0
+ },
+ "disagreements": [
+  {
+   "rid": "r091",
+   "set": "v3",
+   "model": "smollm2-1.7b",
+   "item": "v3-pterygium-arr",
+   "label": "B",
+   "first": "other_printed_value",
+   "second": "numeric_or_reasoning_error"
+  },
+  {
+   "rid": "r124",
+   "set": "v3",
+   "model": "smollm2-1.7b",
+   "item": "v3-adtran-gaap",
+   "label": "A",
+   "first": "unfaithful_quote",
+   "second": "numeric_or_reasoning_error"
+  }
+ ]
+}

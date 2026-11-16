@@ -1,0 +1,21 @@
+[
+ {"item": "v3-zoom-cc", "label": "A", "category": "numeric_or_reasoning_error", "reason": "Cites the applicable 4.9% and states it does not meet 4.8%."},
+ {"item": "v3-zoom-cc", "label": "B", "category": "supported_inapplicable", "reason": "Verbatim quote of reported growth (4.9%) applied to a constant-currency criterion; the constant-currency 4.7% is printed in the next sentence. Decision flips."},
+ {"item": "v3-zoom-cc", "label": "C", "category": "numeric_or_reasoning_error", "reason": "Claims the question gives no threshold (it does: 4.5%) and answers fails."},
+ {"item": "v3-lulu-cd", "label": "B", "category": "ambiguous_value", "reason": "Cites both -4% (reported) and -5% (constant dollar) and calls the result within the 4.5% threshold, which only the reported -4% satisfies; consistent with applying the inapplicable value, but the answer does not say which value it compared."},
+ {"item": "v3-lulu-cd", "label": "C", "category": "other_printed_value", "reason": "Decides on comparable sales (-9%/-10%), a different printed metric, instead of net revenue."},
+ {"item": "v3-lulu-americas", "label": "B", "category": "numeric_or_reasoning_error", "reason": "Cites the applicable Americas -8% and calls it within a 6% limit."},
+ {"item": "v3-nike-direct", "label": "C", "category": "numeric_or_reasoning_error", "reason": "Cites the applicable -9% and says it fell more than 10%."},
+ {"item": "v3-garmin-ytd", "label": "B", "category": "supported_inapplicable", "reason": "Verbatim quote of the Q3 segment sentence (20%) presented as 39-week growth; the table prints the year-to-date 5%. Decision flips."},
+ {"item": "v3-garmin-ytd", "label": "C", "category": "right_with_inapplicable_value", "reason": "Q3 20% applied to a year-to-date question; right only because the 3% threshold is low."},
+ {"item": "v3-adtran-gaap", "label": "C", "category": "numeric_or_reasoning_error", "reason": "Cites the applicable -0.3% and says it is below -1%."},
+ {"item": "v3-rci-gaap", "label": "B", "category": "numeric_or_reasoning_error", "reason": "Quotes the applicable GAAP 31.2% and says it meets 31.5%."},
+ {"item": "v3-probiotics-arr", "label": "A", "category": "numeric_or_reasoning_error", "reason": "Lists both values, claims the source gives no threshold, and quotes an unrelated sentence about bias."},
+ {"item": "v3-probiotics-arr", "label": "B", "category": "no_answer", "reason": "No parsable answer."},
+ {"item": "v3-probiotics-outcome", "label": "A", "category": "right_for_wrong_reason", "reason": "Uses the diarrhea ARR (1.6%) for a colonization question and says 1.6 meets 2; the decision is right by accident."},
+ {"item": "v3-probiotics-outcome", "label": "B", "category": "numeric_or_reasoning_error", "reason": "Cites the applicable 1.6% and says it meets a 2-point bar."},
+ {"item": "v3-probiotics-outcome", "label": "C", "category": "no_answer", "reason": "No parsable answer."},
+ {"item": "v3-pterygium-arr", "label": "B", "category": "numeric_or_reasoning_error", "reason": "Cites the applicable 6.5 points and says it meets 10."},
+ {"item": "v3-pterygium-age", "label": "B", "category": "supported_inapplicable", "reason": "Applies the overall 6.5-point reduction to a 50-year-old and explicitly sets aside the 41-60 subgroup (11.1% vs 11.5%) printed in its own quote. Automatic typing labelled it applicable_value_misused because the quote contains the subgroup numbers."},
+ {"item": "v3-pterygium-age", "label": "C", "category": "right_with_inapplicable_value", "reason": "Overall 6.5 points applied to a 50-year-old; right only because the bar is any reduction."}
+]

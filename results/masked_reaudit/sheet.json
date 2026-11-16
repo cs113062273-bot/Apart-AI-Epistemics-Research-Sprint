@@ -1,0 +1,1322 @@
+[
+ {
+  "rid": "r001",
+  "context": "I'll have preoperative contrast-enhanced mammography only if the absolute reduction versus control in the reoperation rate is at least 1.55 percentage points.",
+  "applicable_text": "(7.9% [16 of 202] vs 10% [22 of 213]",
+  "trap_text": "(17% [35 of 202] vs 18% [39 of 213]",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source excerpt states that the added value of preoperative contrast-enhanced mammography (CEM) for preoperative breast cancer staging in a randomized controlled trial (PROCEM) was assessed. The primary outcome was a 10% change in treatment due to preoperative CEM findings. Secondary outcomes included differences in reoperation and mastectomy rates between groups and accuracy of malignant extent estimation with CEM, mammography/tomosynthesis, and US using histopathologic extent as the reference, assessed with Bland-Altman statistics and concordance analysis. Subgroup analyses were performed according to menopausal status, breast density, histopathologic type of cancer, lesion size, and presence of microcalcifications at baseline imaging. Treatment was changed in 17 of 202 participants (8.4%) based on CEM findings. No evidence of differences was observed between the CEM and control groups with regard to mastectomy (17% vs 18%) or reoperation (7.9% vs 10%). CEM showed the closest agreement with histopathologic malignant extent (bias, 3.5 mm), outperforming mammography and/or tomosynthesis (4.8 mm) and US (10.7 mm) overall and in nine of 10 predefined subgroups, except for ductal carcinoma in situ.",
+  "quote": "Added Value of Preoperative Contrast Enhanced Mammography in Staging of Malignant Breast Lesions (PROCEM): A Randomized Controlled Trial."
+ },
+ {
+  "rid": "r002",
+  "context": "I buy Coupang only if its latest-quarter gross profit growth year over year on a constant currency basis is at least -4.5%.",
+  "applicable_text": "3% YoY on a constant currency basis",
+  "trap_text": "decreasing 6% YoY on a reported basis",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Coupang's gross profit margin decreased by 364 bps YoY on a reported basis, and on a constant currency basis, the gross profit margin decreased by 3% YoY. However, the question asks about gross profit growth year over year on a constant currency basis, not margin. The gross profit itself decreased by 3% YoY on a constant currency basis (as noted in the gross profit margin decline and the context of constant currency revenue growth). Since the gross profit declined (i.e., negative growth) by 3% on a constant currency basis, which is less than -4.5%, the company fails the screen.",
+  "quote": "Gross profit margin was 25.7%, a decrease of 364 bps YoY. Excluding FC fire-related costs, gross profit was $2.7 billion, and gross profit margin was 26.7%."
+ },
+ {
+  "rid": "r003",
+  "context": "I'll use NEPA only if the gain over standard care in the rate of no emesis is at least 12.4 percentage points.",
+  "applicable_text": "(92.2% vs 80.0%)",
+  "trap_text": "(89.1% vs 77.3%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that NEPA meets the bar of being risk-tailored antiemetic prophylaxis with NEPA in Chinese cancer patients receiving moderately emetogenic chemotherapy: MyRisk study subgroup analysis. This study is the first to apply a validated risk algorithm to guide antiemetic prophylaxis in Chinese MEC patients. MyRisk was a phase IV, randomized, open-label, multinational trial (NCT04817189) enrolling adult patients with a high-risk CINV score (≥13), scheduled for 3 cycles of MEC.",
+  "quote": "Risk-tailored antiemetic prophylaxis with NEPA in Chinese cancer patients receiving moderately emetogenic chemotherapy: MyRisk study subgroup analysis."
+ },
+ {
+  "rid": "r004",
+  "context": "I buy Align Technology only if its Q3'26 operating margin on a non-GAAP (adjusted) basis is at least 20.55%.",
+  "applicable_text": "Non-GAAP operating margin was 24.4%",
+  "trap_text": "operating margin was 16.7%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt indicates that Align Technology's Q3'26 operating margin on a non-GAAP basis was 16.7%, which is below the threshold of 20.55% set by the user. Therefore, Align Technology fails the screen.",
+  "quote": "Q3'26 operating margin was 16.7%, compared with 9.7% in Q3'25. Non-GAAP operating margin was 24.4% (1) , up 0.5 points year-over-year or up approximately 1.4 points at constant currency"
+ },
+ {
+  "rid": "r005",
+  "context": "I'll use NEPA only if the gain over standard care in the rate of no significant nausea is at least 11.05 percentage points.",
+  "applicable_text": "(80.6% vs 70.7%)",
+  "trap_text": "(92.2% vs 80.0%)",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source states that NEPA showed a numerically higher overall complete response rate than SoC (89.1% vs 77.3%; odds ratio = 2.39, 95% confidence interval = 0.57-9.98) as well as higher rates of no emesis (92.2% vs 80.0%) and no significant nausea (80.6% vs 70.7%) across delayed and overall phases across all cycles. However, these differences were not statistically significant. NEPA was well tolerated across all 3 cycles, with no serious adverse events. In this Chinese subgroup analysis, risk-tailored prophylaxis with NEPA provided effective and safe control of delayed and overall CINV. Although statistically insignificant, consistent numerical benefits support consideration of neurokinin-1 receptor antagonist-based strategies for high-risk MEC patients. Future studies with larger sample sizes in the Chinese population are warranted to permit statistical evaluation.",
+  "quote": "Although statistically insignificant, consistent numerical benefits support consideration of neurokinin-1 receptor antagonist-based strategies for high-risk MEC patients."
+ },
+ {
+  "rid": "r006",
+  "context": "I buy CONMED only if the latest-quarter sales growth year over year of the whole company, as reported is at least 6.2%.",
+  "applicable_text": "decreased 0.7% year-over-year as reported",
+  "trap_text": "International sales increased 13.1% as reported",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The CONMED Corporation reports third quarter 2026 financial results, including net sales, adjusted diluted earnings per share, and updated full year 2026 guidance. The company's third quarter net sales decreased 0.7% year-over-year, but increased 6.7% on an organic constant currency (2) basis. Domestic sales decreased 11.0% as reported, and international sales increased 13.1% as reported. Diluted earnings per share (GAAP) were $0.66, up 613.7%, while adjusted diluted earnings per share (2) were $1.04, down 3.2%. The company's latest quarter organic, constant currency net sales growth was consistent with its expectations and its adjusted diluted EPS exceeded them, reflecting the team's strong execution.",
+  "quote": "On July 22, 2026, the Company announced the AirSeal® Robotic Solution is now indicated for use with Intuitive’s 8 mm hex cannulas used as part of the Intuitive da Vinci 5 platform."
+ },
+ {
+  "rid": "r007",
+  "context": "I buy Pulmonx only if the latest-quarter revenue growth year over year, as reported, of its international business is at least 5.5%.",
+  "applicable_text": "a 5% increase compared to the third quarter of 2025",
+  "trap_text": "a 6% increase from $21.5 million",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt indicates that Pulmonx's international revenue grew 9% year-over-year on a GAAP and constant currency basis, which is greater than the 5.5% threshold set by the user. Therefore, Pulmonx passes the screen.",
+  "quote": "International revenue growth was tempered by an absence of sales to the Company’s distributor in China as we restart commercial activity in the region following the renewal of our Chinese registration certificate."
+ },
+ {
+  "rid": "r008",
+  "context": "I buy VF Corporation only if its Q2'27 adjusted operating income as guided by the company before the quarter is at least $339.5 million.",
+  "applicable_text": "Operating income (adjusted) ~ $315M",
+  "trap_text": "$364M Above",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that the adjusted operating income (OI) ex Dickies® for Q2'27 is $364M, which is well above the guidance of approximately $315M. Since $364M is greater than the required $339.5 million, the company passes the screen.",
+  "quote": "Adjusted OI ex Dickies® of $364M, well above guidance of approximately $315M"
+ },
+ {
+  "rid": "r009",
+  "context": "I buy Align Technology only if the year-over-year change in its non-GAAP operating margin at constant currency is at least 1.85 points.",
+  "applicable_text": "up approximately 1.4 points at constant currency",
+  "trap_text": "up 0.5 points year-over-year",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Align Technology passes my screen.",
+  "quote": "Align Technology, Inc. (Nasdaq: ALGN), a leading global medical device company that designs, manufactures, and sells the Invisalign ® System of clear aligners, iTero™ intraoral scanners, and exocad™ CAD/CAM software for digital orthodontics and restorative dentistry, today reported financial results for the third quarter ("
+ },
+ {
+  "rid": "r010",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Alphabet as a whole is at least 18%.",
+  "applicable_text": "Consolidated Alphabet revenues increased 25%",
+  "trap_text": "Google Services revenues increased 11%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt provided does not contain the necessary information to answer the user's question. To answer the user's question, the source excerpt must contain the following information: 'Consolidated Alphabet revenues increased 25% to $127.6 billion, reflected strong performance across the business and our 13th consecutive quarter of double-digit revenue growth.'",
+  "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflected strong performance across the business and our 13th consecutive quarter of double-digit revenue growth."
+ },
+ {
+  "rid": "r011",
+  "context": "I'll accept chlorhexidine vaginal cleansing only if the absolute reduction in surgical site infection is at least 5.8 percentage points.",
+  "applicable_text": "(1.4% vs. 5.4%",
+  "trap_text": "(3.4% vs. 11.0%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that the co-primary outcomes were postcesarean endometritis and surgical site infection (SSI). The co-primary outcomes were reduced by chlorhexidine vaginal cleansing, with a risk ratio (RR) of 0.303 (95% CI 0.139-0.662) for postcesarean endometritis and a RR of 0.269 (95% CI 0.110-0.656) for SSI. These results indicate that chlorhexidine vaginal cleansing significantly reduced both co-primary outcomes.",
+  "quote": "Chlorhexidine vaginal cleansing significantly reduced both co-primary outcomes: postcesarean endometritis (1.9% vs. 6.3%; RR 0.303, 95% CI 0.139-0.662; P = 0.001) and SSI (1.4% vs. 5.4%; RR 0.269, 95% CI 0.110-0.656; P = 0.002)."
+ },
+ {
+  "rid": "r012",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Google Services is at least 18%.",
+  "applicable_text": "Google Services revenues increased 11%",
+  "trap_text": "Consolidated Alphabet revenues increased 25%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that Google Services revenues increased 11% to $96.3 billion, which is the highest it has been in the last five years. This information is directly related to the user's condition of buying Alphabet only if the latest-quarter revenue growth year over year of Google Services is at least 18%. Therefore, the answer is 'passes'.",
+  "quote": "Google Services revenues increased 11% to $96.3 billion, led by 12% growth in Google Search & other with the year-over-year Search query growth rate the highest it has been in the last five years."
+ },
+ {
+  "rid": "r013",
+  "context": "I buy Microsoft only if its latest-quarter non-GAAP net income growth year over year as reported is at least 18.5%.",
+  "applicable_text": "increased 18% (up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "trap_text": "(up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt mentions that Microsoft Corp. announced the following results for the quarter ended September 30, 2026, as compared to the corresponding period of last fiscal year. It states that the non-GAAP net income was $36.6 billion and increased 32% on a GAAP basis, and was $36.4 billion and increased 18% (up 19% in constant currency) on a non-GAAP basis. The question asks if Microsoft passes the screen if its latest-quarter non-GAAP net income growth year over year as reported is at least 18.5%. Since the non-GAAP net income growth is 32% (which is greater than 18.5%), Microsoft passes the screen.",
+  "quote": "Non-GAAP results exclude the impact from investments in OpenAI, explained in the Non-GAAP Definition section below"
+ },
+ {
+  "rid": "r014",
+  "context": "I buy Fossil Group only if the latest-quarter net sales growth in constant currency of its Americas region is at least 1.05%.",
+  "applicable_text": "the Americas increased 0.1%",
+  "trap_text": "2.0% in constant currency",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Fossil Group passes my screen as its latest-quarter net sales growth in constant currency of its Americas region is at least 1.05% (1.05% vs. 0.4% in the given excerpt).",
+  "quote": "Fossil Group passes my screen as its latest-quarter net sales growth in constant currency of its Americas region is at least 1.05% (1.05% vs. 0.4% in the given excerpt)."
+ },
+ {
+  "rid": "r015",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 3% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The Garmin 8-K EX-99.1 earnings release highlights the company's record consolidated revenue of $1.99 billion, a 12% increase compared to the prior year quarter. Gross and operating margins expanded to 63.3% and 30.8% respectively, resulting in $231 million of operating income. During the quarter, the company launched the CIRQA Smart Band, a screenless wearable offering rich wellness and fitness insights, and the Edge 1060 and Edge Explore 3 series, an easy-to-use bike computer for riders of all levels. The company also launched the fēnix 9 and fēnix 9 Pro series, with an all-titanium watch case option and the largest available AMOLED screen in its flagship adventure watch lineup. During the quarter, the company announced the certification of an all-glass retrofit cockpit for the original Cessna CitationJet and the e1000 airplanes, and the certification of Garmin Autoland on the PC-12 Pro and the e1000 airplanes. The company also made important updates to Garmin Pilot, adding SmartCharts coverage for Canada and Mexico, as well as Mobile Clearance Delivery which allows pilots to obtain clearances electronically through the Garmin Pilot app. The company's revenue from the marine segment increased 16% in the third quarter, led by the sonar product category, with gross and operating margins of 64% and 30%, resulting in $94 million of operating income. During the quarter, the company launched the next generation LiveScope 2, delivering live sonar images with improved range and clarity. The company also expanded its sailboat product lineup with the GMI 40 instrument display and the SmartDrive brushless linear steering actuator. The company's revenue from the auto OEM segment decreased 20% during the third quarter, primarily due to domain controllers.",
+  "quote": "Garmin 8-K EX-99.1 earnings release (SEC EDGAR):"
+ },
+ {
+  "rid": "r016",
+  "context": "I buy Coupang only if its latest-quarter gross profit growth year over year on a constant currency basis is at least -4.5%.",
+  "applicable_text": "3% YoY on a constant currency basis",
+  "trap_text": "decreasing 6% YoY on a reported basis",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The Coupang's latest-quarter gross profit growth year over year on a constant currency basis is -4.5%. Therefore, the answer is 'fails'.",
+  "quote": "Therefore, the answer is 'fails'."
+ },
+ {
+  "rid": "r017",
+  "context": "I buy Fossil Group only if the latest-quarter net sales growth in constant currency of its Americas region is at least -0.85%.",
+  "applicable_text": "the Americas increased 0.1%",
+  "trap_text": "2.0% in constant currency",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The Fossil Group's latest-quarter net sales growth in the Americas region is 0.1% in constant currency. This is not at least -0.85%, so the answer is 'fails'.",
+  "quote": "From a regional view in constant currency, Asia net sales increased 15.1% and the Americas increased 0.1%,"
+ },
+ {
+  "rid": "r018",
+  "context": "I buy Ranpak only if its latest-quarter net revenue growth year over year on a constant currency basis is at least 2.85%.",
+  "applicable_text": "or 3.4% on a constant currency basis",
+  "trap_text": "net revenue growth of 2.3%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt shows that Ranpak's net revenue growth year over year on a constant currency basis for the third quarter was 2.3%, or 3.4% on a constant currency basis, inclusive of a $1.2 million provision for warrants. This is less than the 2.85% threshold set by the user. Therefore, Ranpak fails the screen.",
+  "quote": "While volatility has stepped up markedly since the end of the second quarter, we believe we are executing well on the things that are in our control and expect to achieve our"
+ },
+ {
+  "rid": "r019",
+  "context": "I buy WEBTOON only if its latest-quarter revenue growth year over year on a constant currency basis is at least -1.9%.",
+  "applicable_text": "Revenue Growth on a Constant Currency Basis of 0.2%",
+  "trap_text": "Third Quarter Revenue Decline of 4.0%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt states that WEBTOON's revenue growth on a constant currency basis for the third quarter was 0.2%. Since 0.2% is greater than the user's threshold of -1.9%, the screen is not passed.",
+  "quote": "Revenue on a constant currency basis was $378.6 million, increasing 0.2%"
+ },
+ {
+  "rid": "r020",
+  "context": "I buy VF Corporation only if its latest-quarter global DTC revenue growth versus last year in constant currency (C$), excluding Dickies is at least 4%.",
+  "applicable_text": "+3% C$ ex Dickies® ◦ Americas",
+  "trap_text": "+1% vs. LY or +3% C$",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The user's question is about the VF Corporation's latest-quarter global DTC revenue growth versus last year in constant currency (C$), excluding Dickies. The user wants to know if VF Corporation passes their screen if its latest-quarter global DTC revenue growth versus last year in constant currency (C$), excluding Dickies is at least 4%. The answer is 'passes'.",
+  "quote": "I buy VF Corporation only if its latest-quarter global DTC revenue growth versus last year in constant currency (C$), excluding Dickies is at least 4%."
+ },
+ {
+  "rid": "r021",
+  "context": "I use GAAP operating margin: I buy only if the latest quarter's figure is at least 2%.",
+  "applicable_text": "GAAP operating margin of -0.3%",
+  "trap_text": "non-GAAP operating margin of 5.0%",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The source excerpt states that ADTRAN's non-GAAP operating margin is expected to be between 1.0% and 5.0%. To pass my screen, the latest quarter's figure must be at least 2%. Therefore, the answer is 'fails' because the latest quarter's non-GAAP operating margin is 3.0% (as stated in the source excerpt).",
+  "quote": "Non-GAAP operating margin is expected to be between 1.0% and 5.0% reflecting historical seasonality, availability of supply and timing of large customer projects."
+ },
+ {
+  "rid": "r022",
+  "context": "I buy Ranpak only if Automation revenue growth year over year (constant currency, excluding warrants) for the latest quarter is at least 53.15%.",
+  "applicable_text": "revenue growth of 26.9% year over year",
+  "trap_text": "year-to-date results in Automation up 79.4%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Ranpak Holdings Corp. (NYSE: PACK) third quarter 2026 financial results report, as stated in the source excerpt, shows that the company's third quarter 2026 financial results include a 5.1% year-over-year increase in the third quarter, a 6.1% year-over-year increase on a constant currency basis, and a 79.4% year-over-year increase on a constant currency basis excluding warrants. This information is sufficient to answer the user's question.",
+  "quote": "We are pleased to grow our top-line and AEBITDA in the third quarter as our diversification into Automation continues to drive growth and differentiate us from our competition. Automation delivered another strong quarter with revenue growth of 26.9% year over year on a constant currency basis and excluding warrants, bringing year-to-date results in Automation up 79.4% on a constant currency basis and excluding warrants."
+ },
+ {
+  "rid": "r023",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft only if, for patients like me, it lowers recurrence by at least 3 percentage points.",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that CAG was associated with lower recurrence than AMT, with an unadjusted OR of 1.93, ARR of 6.5%, RRR of 44.1%, and NNT of 15.3. For the given situation, the patient is 50 years old, and the patient is choosing between CAG and AMT, the patient wants CAG to be associated with lower recurrence by at least 3 percentage points. The patient's question is whether choosing CAG over AMT meets the bar.",
+  "quote": "To compare recurrence after conjunctival autograft (CAG) and amniotic membrane transplantation (AMT) for primary pterygium and to identify unadjusted predictors of recurrence, with an exploratory analysis by age group."
+ },
+ {
+  "rid": "r024",
+  "context": "I buy Pulmonx only if its latest-quarter international revenue growth year over year as reported is at least 5.5%.",
+  "applicable_text": "a 5% increase compared to the third quarter of 2025",
+  "trap_text": "a 6% increase on a constant currency basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that Pulmonx's international revenue grew 9% year-over-year on a GAAP and constant currency basis, which is above the threshold of 5.5%. Therefore, Pulmonx passes the screen.",
+  "quote": "International revenue growth was tempered by an absence of sales to the Company’s distributor in China as we restart commercial activity in the region following the renewal of our Chinese registration certificate."
+ },
+ {
+  "rid": "r025",
+  "context": "I buy Coupang only if its latest-quarter total net revenue growth year over year as reported is at least 9%.",
+  "applicable_text": "up 7% YoY on a reported basis and 11%",
+  "trap_text": "11% YoY on a constant currency basis. • Gross profit",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Coupang's total net revenues for the third quarter of 2026 were $10.0 billion, which is up 7% year-over-year on a reported basis and 11% year-over-year on a constant currency basis. This meets the threshold of at least 9% growth as reported, so Coupang passes the screen.",
+  "quote": "Q3 2026 Consolidated Highlights: • Total net revenues were $10.0 billion, up 7% YoY on a reported basis and 11% YoY on a constant currency basis."
+ },
+ {
+  "rid": "r026",
+  "context": "I buy VF Corporation only if the latest-quarter revenue growth versus last year of the whole company, as reported is at least -3%.",
+  "applicable_text": "Revenue (4%) vs. LY",
+  "trap_text": "Americas region remains strong, (2%) vs. LY",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source text states that VF Corporation's reported revenue was '~ Flat +1% vs. LY'. Since +1% is greater than -3%, the company meets the user's condition of having revenue growth of at least -3%.",
+  "quote": "Revenue % vs. LY ... ~ Flat +1%"
+ },
+ {
+  "rid": "r027",
+  "context": "I buy CONMED only if its latest-quarter international sales growth year over year on a constant currency basis is at least 12.65%.",
+  "applicable_text": "increased 12.8% on a constant currency",
+  "trap_text": "International sales increased 13.1% as reported",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The CONMED Corporation's third quarter 2026 financial results report, as provided in the source excerpt, states that third quarter 2026 international sales growth was 13.1%. This is greater than the 12.65% threshold specified in the user's situation.",
+  "quote": "On July 22, 2026, the Company announced the AirSeal® Robotic Solution is now indicated for use with Intuitive’s 8 mm hex cannulas used as part of the Intuitive da Vinci 5 platform."
+ },
+ {
+  "rid": "r028",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 3% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The source text states that revenue from the outdoor segment increased 20% year over year for the 39-week period, which exceeds the 3% threshold.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches."
+ },
+ {
+  "rid": "r029",
+  "context": "I buy only if the non-GAAP operating margin for the quarter just reported was at least 3%.",
+  "applicable_text": "non-GAAP operating margin of 5.0%",
+  "trap_text": "within a range of 1.0% to 5.0%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The non-GAAP operating margin for the third quarter was 42.1%, which is greater than the threshold of 3%. Therefore, the non-GAAP operating margin 'passes' the threshold.",
+  "quote": "non-GAAP operating margin of 42.1%, including benefit of approximately 200 basis points from IEEPA 1 refunds."
+ },
+ {
+  "rid": "r030",
+  "context": "I buy Ranpak only if its latest-quarter AEBITDA growth year over year on a constant currency basis is at least 5.6%.",
+  "applicable_text": "was up 6.1% on a constant currency basis",
+  "trap_text": "5.1% to $22.5 million",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt shows that Ranpak's AEBITDA growth year over year on a constant currency basis was 5.1% for the quarter. This is less than the 5.6% threshold set by the user. Therefore, Ranpak fails the screen.",
+  "quote": "While volatility has stepped up markedly since the end of the second quarter, we believe we are executing well on the things that are in our control and expect to achieve our"
+ },
+ {
+  "rid": "r031",
+  "context": "I buy VF Corporation only if its Q2'27 adjusted operating income as guided by the company before the quarter is at least $339.5 million.",
+  "applicable_text": "Operating income (adjusted) ~ $315M",
+  "trap_text": "$364M Above",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows VF Corporation's Q2'27 adjusted operating income as $364M, which is above the company's guidance of approximately $315M. This meets the condition of being at least $339.5 million. Therefore, VF Corporation passes the screen.",
+  "quote": "We are delivering sustainable and profitable growth on our path to achieve our full-year guidance and medium-term targets, as the upside potential in our business becomes even more evident."
+ },
+ {
+  "rid": "r032",
+  "context": "I'll accept chlorhexidine vaginal cleansing only if the absolute reduction in composite wound complications is at least 6.25 percentage points.",
+  "applicable_text": "(3.4% vs. 11.0%",
+  "trap_text": "readmission for infection (1.4% vs. 6.3%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that the co-primary outcome of composite wound complications was reduced by 3.4% in the chlorhexidine group compared to 11.0% in the control group. This reduction is not at least 6.25 percentage points, so chlorhexidine vaginal cleansing does not meet the user's bar.",
+  "quote": "The co-primary outcome effects persisted after adjustment and in sensitivity analyses."
+ },
+ {
+  "rid": "r033",
+  "context": "I buy Align Technology only if its Q3'26 operating margin on a non-GAAP (adjusted) basis is at least 28.25%.",
+  "applicable_text": "Non-GAAP operating margin was 24.4%",
+  "trap_text": "operating margin was 16.7%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Align Technology passes my screen as its Q3'26 operating margin on a non-GAAP (adjusted) basis is at least 28.25% (1).",
+  "quote": "Q3'26 operating margin was 16.7%, compared with 9.7% in Q3'25. Non-GAAP operating margin was 24.4% (1) , up 0.5 points year-over-year or up approximately 1.4 points at constant currency"
+ },
+ {
+  "rid": "r034",
+  "context": "I'll have urokinase thrombolysis only if the relative reduction in 90-day mortality (1 minus the risk ratio) for patients without large vessel occlusion (as I have) is at least 0.24.",
+  "applicable_text": "adjusted RR 0.52",
+  "trap_text": "adjusted RR 0.04",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source indicates that the risk-benefit profile of thrombolytic therapy in minor stroke patients with large vessel occlusion (LVO) remains uncertain. The analysis found that urokinase intravenous thrombolysis was not associated with a 90-day excellent functional outcome in minor stroke patients, either in LVO patients or in non-LVO patients compared with the best medical treatment (BMT). The analysis also found no significant interaction between groups and no improvement in 90-day functional outcomes with urokinase thrombolysis in minor stroke patients, irrespective of LVO presence, while maintaining a comparable safety profile with regard to mortality and symptomatic intracranial hemorrhage (sICH). Therefore, urokinase thrombolysis does not meet the bar set by the user.",
+  "quote": "In the LVO group, UK thrombolysis showed a non-significant trend toward reduced mortality (adjusted RR 0.04, 95% CI 0.01-1.65), whereas no such effect was observed in non-LVO patients (adjusted RR 0.52, 95% CI 0.11-2.52). No significant interaction was found between groups (p for interaction = 0.25). In addition, there were no patients who experienced sICH in subgroup analysis."
+ },
+ {
+  "rid": "r035",
+  "context": "I track NIKE Direct and stay invested only if its revenue fell no more than 8.5% year over year last quarter on a currency-neutral basis.",
+  "applicable_text": "down 9 percent on a currency-neutral basis, due to a 13 percent",
+  "trap_text": "down 8 percent on a reported basis and down 9 percent on a currency-neutral basis, due to a 13 percent",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Nike's NIKE Direct revenues fell by 8% on a currency-neutral basis, which is less than the 8.5% year-over-year decrease required to pass the screen.",
+  "quote": "Revenues for NIKE Direct were $4.1 billion, down 8 percent on a reported and currency-neutral basis, due to a 13 percent decrease in NIKE Brand Digital and a 5 percent decrease in NIKE-owned stores."
+ },
+ {
+  "rid": "r036",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Google Search & other is at least 18.5%.",
+  "applicable_text": "12% growth in Google Search & other",
+  "trap_text": "Consolidated Alphabet revenues increased 25%",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Alphabet's revenue increased 25% to $127.6 billion, reflecting strong performance across the business and the company's 13th consecutive quarter of double-digit revenue growth. This information does not mention the year-over-year Search query growth rate, which is the highest it has been in the last five years. Therefore, the answer 'fails' because Alphabet does not pass my screen based on the given criteria.",
+  "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflected strong performance across the business and our 13th consecutive quarter of double-digit revenue growth."
+ },
+ {
+  "rid": "r037",
+  "context": "I'll switch to oral antibiotics only if the reduction in abscess risk versus intravenous antibiotics (negative means oral is worse) in the per-protocol analysis is at least -1.75 percentage points.",
+  "applicable_text": "absolute risk difference, 1.8%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that the 3-day oral antibiotic regimen was non-inferior to intravenous antibiotic therapy in preventing intra-abdominal abscess after laparoscopic appendectomy for complicated appendicitis. This means that the reduction in abscess risk in the per-protocol analysis is at least -1.75 percentage points, which is the bar you mentioned.",
+  "quote": "The 3-day oral antibiotic regimen was non-inferior to intravenous antibiotic therapy in preventing intra-abdominal abscess after laparoscopic appendectomy for complicated appendicitis."
+ },
+ {
+  "rid": "r038",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft only if, for patients like me, it lowers recurrence by at least 3 percentage points.",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source states that the overall recurrence rate was 8.3% with conjunctival autograft (CAG) versus 14.8% with amniotic membrane transplantation (AMT), resulting in an absolute risk reduction (ARR) of 6.5 percentage points. While the source notes that the difference in younger patients (20-40 years) was larger (21.1% vs 0%), it explicitly states that the group aged >60 years was too small to interpret and that the difference in patients aged 41-60 years showed no difference (11.1% vs 11.5%). However, the overall study result for the entire cohort shows a reduction of 6.5 percentage points, which exceeds your 3 percentage point bar. Since the source does not provide a specific, statistically significant breakdown for the 41-60 age group that contradicts the overall finding, the overall data supports meeting your criteria.",
+  "quote": "Recurrence was lower with CAG than AMT (8.3% vs 14.8%; Fisher's exact p=0.044), with an unadjusted OR for AMT of 1.93 (95% CI: 1.02-3.65), ARR of 6.5% points..."
+ },
+ {
+  "rid": "r039",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Google Cloud is at least 142%.",
+  "applicable_text": "revenues increased 103%",
+  "trap_text": "Consolidated Alphabet revenues increased 25%",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The user is asking if Alphabet passes their screen based on the condition that the latest-quarter revenue growth year over year of Google Cloud is at least 142%.",
+  "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflected strong performance across the business and our 13th consecutive quarter of double-digit revenue growth."
+ },
+ {
+  "rid": "r040",
+  "context": "I'll have urokinase thrombolysis only if the relative reduction in 90-day mortality (1 minus the risk ratio) for patients without large vessel occlusion (as I have) is at least 0.24.",
+  "applicable_text": "adjusted RR 0.52",
+  "trap_text": "adjusted RR 0.04",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source excerpt states that urokinase thrombolysis does not meet the bar of having a relative reduction in 90-day mortality of at least 0.24 for patients without large vessel occlusion.",
+  "quote": "The source excerpt states that urokinase thrombolysis does not meet the bar of having a relative reduction in 90-day mortality of at least 0.24 for patients without large vessel occlusion."
+ },
+ {
+  "rid": "r041",
+  "context": "I'm starting antibiotics. I'll take probiotics only if they cut my risk of C difficile-associated diarrhea by at least 1 percentage point in absolute terms.",
+  "applicable_text": "absolute risk reduction (ARR) of 1.6%",
+  "trap_text": "relative risk reduction (RRR) of 50%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that probiotics may result in a small absolute risk reduction (ARR) of 1.6% (incidence of 1.6% [110/6787] in the probiotic group versus 3.2% [203/6392] in the control group), and a relative risk reduction (RRR) of 50% (RR 0.50, 95% CI 0.38 to 0.64; P < 0.001; low-certainty evidence).",
+  "quote": "Probiotics for the prevention of Clostridioides difficile-associated diarrhea in adults and children. Probiotics are live microbial preparations that, when administered in adequate amounts, may confer a health benefit to the host, and are a potential C difficile infection prevention strategy. To assess the benefits and harms of probiotics for preventing C difficile-associated diarrhea (CDAD) in adults and children receiving an antibiotic for any reason. We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, and Ovid Embase from 18 March 2017 (search date of the previous version of the review) to 3 March 2025. We included randomized controlled trials with a placebo, alternative prophylaxis, or no-treatment control investigating probiotics (any strain or dose) for the prevention of CDAD in adults and children receiving an antibiotic for any reason."
+ },
+ {
+  "rid": "r042",
+  "context": "I'll switch to oral antibiotics only if the reduction in abscess risk versus intravenous antibiotics (negative means oral is worse) in the intention-to-treat analysis is at least -1.85 percentage points.",
+  "applicable_text": "absolute risk difference, 1.9%",
+  "trap_text": "absolute risk difference, 1.8%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "Based on the source excerpt, the reduction in abscess risk versus intravenous antibiotics (negative means oral is worse) in the intention-to-treat analysis is -1.85 percentage points. Therefore, yes, oral antibiotics meet the bar.",
+  "quote": "Based on this source, does oral antibiotics meet my bar? Answer: yes"
+ },
+ {
+  "rid": "r043",
+  "context": "I'll switch to oral antibiotics only if the reduction in abscess risk versus intravenous antibiotics (negative means oral is worse) in the per-protocol analysis is at least -1.75 percentage points.",
+  "applicable_text": "absolute risk difference, 1.8%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source states that in the per-protocol analysis, the intra-abdominal abscess incidence was 4.9% for oral antibiotics and 3.0% for intravenous antibiotics. The absolute risk difference is 1.8%, which is less than the required -1.75 percentage points for non-inferiority. Therefore, oral antibiotics meet the bar.",
+  "quote": "In the per-protocol analysis, abscess occurred in 19 of 395 and 9 of 294 patients; weighted incidences were 4.9% and 3.0% (absolute risk difference, 1.8%; 90% c.i., -0.3 to 3.9)."
+ },
+ {
+  "rid": "r044",
+  "context": "I'll accept chlorhexidine vaginal cleansing only if the absolute reduction in composite wound complications is at least 9.4 percentage points.",
+  "applicable_text": "(3.4% vs. 11.0%",
+  "trap_text": "(1.4% vs. 5.4%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "Based on the source excerpt, the absolute reduction in composite wound complications is 9.4 percentage points. Therefore, the answer is 'yes'.",
+  "quote": "Based on this source, does chlorhexidine vaginal cleansing meet my bar? Answer 'yes' or 'no'."
+ },
+ {
+  "rid": "r045",
+  "context": "I buy Fossil Group only if its latest-quarter net sales growth year over year in constant currency is at least 2.8%.",
+  "applicable_text": "2.0% in constant currency",
+  "trap_text": "an increase of 0.4% on a reported basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Fossil Group's latest-quarter net sales growth year over year in constant currency is 2.8% (2.0% in constant currency), which is the required threshold for me to pass your screen.",
+  "quote": "Net sales totaled $271.2 million, an increase of 0.4% on a reported basis and 2.0% in constant currency, compared to $270.2 million in the third quarter of fiscal 2025."
+ },
+ {
+  "rid": "r046",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft if, for patients like me, it lowers recurrence at all (by more than 0 percentage points).",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "truth": "yes",
+  "decision": "yes",
+  "explanation": "Yes, choosing conjunctival autograft over amniotic membrane transplantation meets your bar. The study found that the recurrence rate was lower with conjunctival autograft (8.3%) compared to amniotic membrane transplantation (14.8%). The unadjusted odds ratio for amniotic membrane transplantation was 1.93, indicating a 6.5% point reduction in recurrence risk. This meets your requirement of lowering recurrence by more than 0 percentage points.",
+  "quote": "Recurrence was lower with CAG than AMT (8.3% vs 14.8%; Fisher's exact p=0.044), with an unadjusted OR for AMT of 1.93 (95% CI: 1.02-3.65), ARR of 6.5% points, RRR of 44.1%, and NNT of 15.3."
+ },
+ {
+  "rid": "r047",
+  "context": "I'll accept chlorhexidine vaginal cleansing only if the absolute reduction in composite wound complications is at least 6.25 percentage points.",
+  "applicable_text": "(3.4% vs. 11.0%",
+  "trap_text": "readmission for infection (1.4% vs. 6.3%",
+  "truth": "yes",
+  "decision": "yes",
+  "explanation": "The source excerpt states that the co-primary outcomes were postcesarean endometritis and surgical site infection (SSI). The co-primary outcomes were reduced by chlorhexidine vaginal cleansing, with a risk ratio (RR) of 0.303 (95% CI 0.139-0.662) for postcesarean endometritis and a RR of 0.269 (95% CI 0.110-0.656) for SSI. These results indicate that chlorhexidine vaginal cleansing significantly reduced both co-primary outcomes.",
+  "quote": "Chlorhexidine vaginal cleansing significantly reduced both co-primary outcomes: postcesarean endometritis (1.9% vs. 6.3%; RR 0.303, 95% CI 0.139-0.662; P = 0.001) and SSI (1.4% vs. 5.4%; RR 0.269, 95% CI 0.110-0.656; P = 0.002)."
+ },
+ {
+  "rid": "r048",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 10% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Garmin 8-K EX-99.1 earnings release shows that the outdoor segment revenue grew 20% year over year for the 39-week period ending September 27, 2026. This meets the criteria of growing at least 10% year over year for the year to date. Therefore, Garmin passes the screen.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches."
+ },
+ {
+  "rid": "r049",
+  "context": "I buy Align Technology only if the year-over-year change in its non-GAAP operating margin as reported is at least 0.95 points.",
+  "applicable_text": "up 0.5 points year-over-year",
+  "trap_text": "up approximately 1.4 points at constant currency",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt indicates that Align Technology's Q3'26 non-GAAP operating margin was 16.7%, compared with 9.7% in Q3'25. The user's screen requires a non-GAAP operating margin of at least 0.95 points. Since 16.7% is greater than 0.95%, Align Technology passes the screen.",
+  "quote": "Q3'26 non-GAAP operating margin was 24.4% (1) , up 0.5 points year-over-year or up approximately 1.4 points at constant currency"
+ },
+ {
+  "rid": "r050",
+  "context": "I track NIKE Direct and stay invested only if its revenue fell no more than 10% year over year last quarter on a currency-neutral basis.",
+  "applicable_text": "down 9 percent on a currency-neutral basis, due to a 13 percent",
+  "trap_text": "down 8 percent on a reported basis and down 9 percent on a currency-neutral basis, due to a 13 percent",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The source excerpt states that Nike's NIKE Direct revenue fell by 8% on a currency-neutral basis, which is less than the 10% threshold set by the user.",
+  "quote": "Revenues for NIKE Direct were $4.1 billion, down 8 percent on a reported and currency-neutral basis, due to a 13 percent decrease in NIKE Brand Digital and a 5 percent decrease in NIKE-owned stores."
+ },
+ {
+  "rid": "r051",
+  "context": "I buy WEBTOON only if revenue growth on a constant currency basis at the low end of the company's outlook for next quarter is at least 13.4%.",
+  "applicable_text": "in the range of 9.0%-12.0%",
+  "trap_text": "Revenue Growth on a Constant Currency Basis of 0.2%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The company's revenue growth on a constant currency basis is at the low end of the company's outlook for next quarter, which is 13.4%. This is within the range of 9.0% to 12.0%, which is the range of revenue growth.",
+  "quote": "We expect revenue growth on a constant currency basis in the range of 9.0%-12.0% for the fourth quarter 2026, representing revenue in the range of $371-$381 million, based on current FX rates."
+ },
+ {
+  "rid": "r052",
+  "context": "I buy WEBTOON only if its latest-quarter revenue growth year over year as reported is at least -1.9%.",
+  "applicable_text": "Third Quarter Revenue Decline of 4.0%",
+  "trap_text": "Revenue Growth on a Constant Currency Basis of 0.2%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that WEBTOON's third quarter revenue growth was 4.0%, driven by declines in Paid Content and IP Adaptations, partially offset by growth in Advertising. This growth is within the guidance ranges, so it does not 'fails' to meet the condition.",
+  "quote": "Net Loss was $7.5 million, compared to $11.1 million in the prior year. The improvement was driven primarily by higher gross profit and an income tax benefit, partially offset by increased marketing investment and higher foreign currency losses."
+ },
+ {
+  "rid": "r053",
+  "context": "I buy CONMED only if the latest-quarter sales growth year over year of its international business, as reported is at least 20%.",
+  "applicable_text": "International sales increased 13.1% as reported",
+  "trap_text": "decreased 0.7% year-over-year as reported",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt indicates that CONMED Corporation reported financial results for the third quarter ended September 30, 2026. The key points are: 1. Sales of $335.6 million decreased 0.7% year-over-year as reported and decreased 0.8% on a constant currency basis. 2. Excluding the impact of the Company’s previously announced strategic exits of GI product offerings, net sales increased 6.7% on an organic constant currency basis. 3. International sales increased 13.1% as reported, increased 12.8% on a constant currency basis, and increased 13.8% on an organic constant currency basis. 4. Diluted earnings per share (GAAP) were $0.66, up 613.7%. 5. Adjusted diluted earnings per share (2) were $1.04, down 3.2%. The source also mentions that the company's AirSeal® Robotic Solution is now indicated for use with Intuitive's 8 mm hex cannulas used as part of the Intuitive da Vinci 5 platform. Based on the information provided, CONMED's international sales growth as reported is 13.1%, which meets the criteria of being at least 20% for the latest-quarter sales growth year over year of its international business, as reported. Therefore, CONMED passes the screen.",
+  "quote": "Third Quarter 2026 Highlights (1) • Sales of $335.6 million decreased 0.7% year-over-year as reported and decreased 0.8% on a constant currency (2) basis. • Excluding the impact of the Company’s previously announced strategic exits of GI product offerings, net sales increased 6.7% on an organic constant currency (2) (3) basis. • Domestic sales decreased 11.0% as reported and increased 0.8% on an organic (2)(3) basis. • International sales increased 13.1% as reported, increased 12.8% on a constant currency (2) basis, and increased 13.8% on an organic constant currency (2)(3) basis. • Diluted earnings per share (GAAP) were $0.66, up 613.7%. • Adjusted diluted earnings per share (2) were $1.04, down 3.2%."
+ },
+ {
+  "rid": "r054",
+  "context": "I'll switch to oral antibiotics only if the reduction versus intravenous antibiotics (negative means oral is worse) in readmission is at least -6.1 percentage points.",
+  "applicable_text": "increased readmission (difference, 4.7%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that oral antibiotics increased readmission by 4.7 percentage points (difference, 4.7%; 95% c.i., 0.5 to 8.9). Your condition requires a reduction (negative difference) of at least -6.1 percentage points. Since 4.7% is a positive increase and not a reduction of -6.1% or lower, the condition is not met.",
+  "quote": "Oral antibiotics shortened hospital stay (-41.1 h; 95% c.i., -46.7 to -35.6) but increased readmission (difference, 4.7%; 95% c.i., 0.5 to 8.9)."
+ },
+ {
+  "rid": "r055",
+  "context": "I'm starting antibiotics. I'll take probiotics only if they cut my risk of C difficile-associated diarrhea by at least 2 percentage points in absolute terms.",
+  "applicable_text": "absolute risk reduction (ARR) of 1.6%",
+  "trap_text": "relative risk reduction (RRR) of 50%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source states that probiotics may result in a small absolute risk reduction of 1.6% (incidence of 1.6% [110/6787] in the probiotic group versus 3.2% [203/6392] in the control group), and a relative risk reduction (RRR) of 50% (RR 0.50, 95% CI 0.38 to 0.64; P < 0.001; low-certainty evidence).",
+  "quote": "Probiotics may result in a small absolute risk reduction of 1.6% (incidence of 1.6% [110/6787] in the probiotic group versus 3.2% [203/6392] in the control group), and an RRR of 50% (RR 0.50, 95% CI 0.38 to 0.64; P < 0.001; low-certainty evidence)."
+ },
+ {
+  "rid": "r056",
+  "context": "I'm starting antibiotics. What I care about is carrying C difficile in my stool (colonization); I'll take probiotics only if they cut that by at least 2 percentage points in absolute terms.",
+  "applicable_text": "(ARR 2.1%;",
+  "trap_text": "absolute risk reduction (ARR) of 1.6%",
+  "truth": "yes",
+  "decision": "yes",
+  "explanation": "The source indicates that probiotics may result in a small absolute risk reduction (ARR) of 1.6% in the incidence of CDAD. This means that taking probiotics could potentially reduce the risk of CDAD by 1.6 percentage points. Since your bar is to reduce that by at least 2 percentage points, taking probiotics would meet your bar.",
+  "quote": "Although we noted a high risk of bias in individual studies for sequence generation or allocation concealment, this did not impact our findings."
+ },
+ {
+  "rid": "r057",
+  "context": "I'll use NEPA only if the gain over standard care in the rate of complete response is at least 12 percentage points.",
+  "applicable_text": "(89.1% vs 77.3%",
+  "trap_text": "(92.2% vs 80.0%)",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "Yes, NEPA meets the user's bar.",
+  "quote": "NEPA showed a numerically higher overall complete response rate than SoC (89.1% vs 77.3%; odds ratio = 2.39, 95% confidence interval = 0.57-9.98) as well as higher rates of no emesis (92.2% vs 80.0%) and no significant nausea (80.6% vs 70.7%) across delayed and overall phases across all cycles."
+ },
+ {
+  "rid": "r058",
+  "context": "I use GAAP operating margin: I buy only if the latest quarter's figure is at least -1%, i.e. roughly break-even or better.",
+  "applicable_text": "GAAP operating margin of -0.3%",
+  "trap_text": "non-GAAP operating margin of 5.0%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The source excerpt states that ADTRAN's non-GAAP operating margin is expected to be between 1.0% and 5.0%, which is within the range of -1% to 5%. This means that the latest quarter's figure is expected to be at least -1%, which is roughly break-even or better, thus 'passes' the user's screen.",
+  "quote": "Non-GAAP operating margin of 42.1%, including benefit of approximately 200 basis points from IEEPA 1 refunds."
+ },
+ {
+  "rid": "r059",
+  "context": "I'll switch to oral antibiotics only if the reduction in abscess risk versus intravenous antibiotics (negative means oral is worse) in the per-protocol analysis is at least -1.75 percentage points.",
+  "applicable_text": "absolute risk difference, 1.8%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The per-protocol analysis in the source text reports an absolute risk difference of 1.8% (oral minus intravenous). Your condition requires this difference to be at least -1.75 percentage points. Since 1.8% is greater than -1.75%, the condition is met.",
+  "quote": "In the per-protocol analysis, abscess occurred in 19 of 395 and 9 of 294 patients; weighted incidences were 4.9% and 3.0% (absolute risk difference, 1.8%; 90% c.i., -0.3 to 3.9)."
+ },
+ {
+  "rid": "r060",
+  "context": "I'll have preoperative contrast-enhanced mammography only if the absolute reduction versus control in the reoperation rate is at least 1.55 percentage points.",
+  "applicable_text": "(7.9% [16 of 202] vs 10% [22 of 213]",
+  "trap_text": "(17% [35 of 202] vs 18% [39 of 213]",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "No",
+  "quote": "No evidence of differences was observed between the CEM and control groups with regard to mastectomy (17% [35 of 202] vs 18% [39 of 213]; P = .78) or reoperation (7.9% [16 of 202] vs 10% [22 of 213]; P = .39) rates."
+ },
+ {
+  "rid": "r061",
+  "context": "I buy CONMED only if its latest-quarter international sales growth year over year on a constant currency basis is at least 12.95%.",
+  "applicable_text": "increased 12.8% on a constant currency",
+  "trap_text": "International sales increased 13.1% as reported",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt indicates that CONMED Corporation reported financial results for the third quarter ended September 30, 2026. Specifically, it mentions that international sales increased 13.1% as reported, increased 12.8% on a constant currency basis, and increased 13.8% on an organic constant currency basis. The threshold for passing the screen is that CONMED's latest-quarter international sales growth year over year on a constant currency basis must be at least 12.95%. Since the actual growth rate (13.8%) is higher than the threshold (12.95%), CONMED passes the screen.",
+  "quote": "International sales increased 13.1% as reported, increased 12.8% on a constant currency (2) basis, and increased 13.8% on an organic constant currency (2)(3) basis."
+ },
+ {
+  "rid": "r062",
+  "context": "I only buy if latest-quarter revenue grew at least 4.8% year over year, as reported.",
+  "applicable_text": "up 4.9% year over year",
+  "trap_text": "up 4.7% year over year",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "Zoom fails the screen test because its revenue for the second quarter of 2027 was $1,277.2 million, which is 4.9% higher than the $1,238.4 million reported in the second quarter of 2026. This does not meet the requirement of revenue growth of at least 4.8% year over year.",
+  "quote": "• Revenue: Total revenue for the second quarter was $1,277.2 million, up 4.9% year over year."
+ },
+ {
+  "rid": "r063",
+  "context": "I'll switch to oral antibiotics only if the reduction versus intravenous antibiotics (negative means oral is worse) in intra-abdominal abscess is at least -3.3 percentage points.",
+  "applicable_text": "absolute risk difference, 1.9%",
+  "trap_text": "increased readmission (difference, 4.7%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that the absolute risk difference in intra-abdominal abscess between oral and intravenous antibiotics was 1.9% (oral minus intravenous), meaning oral antibiotics had a 1.9% lower risk of abscess. Since your bar is a reduction of at least -3.3 percentage points (i.e., oral antibiotics being worse by at least 3.3 percentage points), and the actual reduction is only 1.9 percentage points (positive, indicating oral is better), oral antibiotics do not meet your bar. The reduction is not at least -3.3 percentage points; in fact, it is positive, meaning oral is better, not worse.",
+  "quote": "weighted 30-day incidences were 6.8% and 4.9% (absolute risk difference, 1.9%; 90% c.i., -0.4 to 4.2)"
+ },
+ {
+  "rid": "r064",
+  "context": "I buy Pulmonx only if the latest-quarter revenue growth year over year of its U.S. business is at least 7.5%.",
+  "applicable_text": "a 7% increase from the third quarter of 2025",
+  "trap_text": "a 6% increase from $21.5 million",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Pulmonx's revenue growth in the third quarter of 2026 was 6%, which is less than the required 7.5%. Therefore, the answer is 'fails'.",
+  "quote": "Pulmonx. With a fully staffed U.S. sales leadership team, a more focused global commercial team, and a realigned cost structure, we are confident in our ability to build on this momentum and deliver growth while advancing our longer-term strategic priorities."
+ },
+ {
+  "rid": "r065",
+  "context": "I buy Microsoft only if its latest-quarter operating income growth year over year in constant currency is at least 21.5%.",
+  "applicable_text": "(up 22% in constant currency)",
+  "trap_text": "increased 21% (up 22% in constant currency)",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source text states that Microsoft's operating income increased 21% in constant currency. Since 21% is less than the required threshold of 21.5%, the condition is not met.",
+  "quote": "Operating income was $45.9 billion and increased 21% (up 22% in constant currency)"
+ },
+ {
+  "rid": "r066",
+  "context": "I only buy if latest-quarter revenue grew at least 4.8% year over year in constant currency, so exchange rates don't flatter the number.",
+  "applicable_text": "up 4.7% year over year",
+  "trap_text": "up 4.9% year over year",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that the second quarter revenue was $1,277.2 million, up 4.9% year over year. Adjusting for foreign currency impact, revenue in constant currency was $1,274.5 million, up 4.7% year over year. Enterprise revenue was $787.5 million, up 7.8% year over year, and Online revenue was $489.7 million, up 0.6% year over year. The excerpt also mentions that GAAP income from operations for the second quarter was $314.3 million, compared to GAAP income from operations of $321.7 million in the second quarter of fiscal year 2026. For the second quarter, GAAP operating margin was 24.6% and non-GAAP operating margin was 40.0%. GAAP net income for the second quarter was $1,542.4 million, or $5.15 per share, compared to GAAP net income of $358.6 million, or $1.16 per share, in the second quarter of fiscal year 2026. Non-GAAP net income for the second quarter, which adjusts for stock-based compensation expense and related payroll taxes, gains on strategic investments, net, acquisition-related expenses, litigation settlements, net, and the tax effects on non-GAAP adjustments, was $464.0 million, or $1.55 per share.",
+  "quote": "GAAP income from operations for the second quarter was $314.3 million, compared to GAAP income from operations of $321.7 million in the second quarter of fiscal year 2026. Non-GAAP income from operations, which adjusts for stock-based compensation expense and related payroll taxes, acquisition-related expenses, and litigation settlements, net, was $510.3 million for the second quarter, compared to non-GAAP income from operations of $503.2 million in the second quarter of fiscal year 2026."
+ },
+ {
+  "rid": "r067",
+  "context": "I buy Coupang only if its latest-quarter gross profit growth year over year on a constant currency basis is at least -1.5%.",
+  "applicable_text": "3% YoY on a constant currency basis",
+  "trap_text": "decreasing 6% YoY on a reported basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that Coupang's gross profit growth on a constant currency basis for the third quarter of 2026 was 11% YoY. This is greater than the threshold of -1.5% that you set for your screen. Therefore, Coupang passes your screen.",
+  "quote": "Q3 2026 Consolidated Highlights: • Total net revenues were $10.0 billion, up 7% YoY on a reported basis and 11% YoY on a constant currency basis."
+ },
+ {
+  "rid": "r068",
+  "context": "I buy Microsoft only if its latest-quarter non-GAAP net income growth year over year in constant currency is at least 18.5%.",
+  "applicable_text": "(up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "trap_text": "increased 18% (up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source text states that non-GAAP net income increased 18% in constant currency. Since 18% is less than the required 18.5% threshold, the screen is not passed.",
+  "quote": "Net income was $36.6 billion and increased 32% on a GAAP basis, and was $36.4 billion and increased 18% (up 19% in constant currency) on a non-GAAP basis"
+ },
+ {
+  "rid": "r069",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 10% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source text states that revenue from the outdoor segment increased 20% year over year for the 39-week period, which exceeds the 10% threshold required by the user's condition.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches... (In thousands, except per share information) 13-Weeks Ended ... 39-Weeks Ended ... Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%"
+ },
+ {
+  "rid": "r070",
+  "context": "I buy Microsoft only if its latest-quarter net income growth year over year on a non-GAAP basis is at least 11%.",
+  "applicable_text": "increased 18% (up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "trap_text": "increased 32% on a GAAP basis, and was $36.4 billion",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt provided does not contain the necessary information to answer the user's question. It does not mention Microsoft's latest-quarter net income growth year over year on a non-GAAP basis, which is the key factor in determining whether Microsoft passes the user's screen.",
+  "quote": "We are delivering greater capability, choice, control, and cost efficiency for customers across our entire stack,"
+ },
+ {
+  "rid": "r071",
+  "context": "I'll switch to oral antibiotics only if the reduction versus intravenous antibiotics (negative means oral is worse) in readmission is at least -3.3 percentage points.",
+  "applicable_text": "increased readmission (difference, 4.7%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that the 3-day oral antibiotic regimen was non-inferior to intravenous antibiotic therapy in preventing intra-abdominal abscess after laparoscopic appendectomy for complicated appendicitis. This means that oral antibiotics meet the bar of not being worse than intravenous antibiotics.",
+  "quote": "oral antibiotics meet the bar"
+ },
+ {
+  "rid": "r072",
+  "context": "I'll have urokinase thrombolysis only if the risk ratio for an excellent 90-day outcome for patients with large vessel occlusion (as I have) is at least 1.46.",
+  "applicable_text": "adjusted risk ratio [RR] 1.90",
+  "trap_text": "adjusted RR 1.02",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source excerpt states that the risk-benefit profile of thrombolytic therapy in minor stroke patients with large vessel occlusion (LVO) remains uncertain. This post-hoc exploratory analysis included patients from the TRUST trial with available vascular imaging data, categorized in the LVO and the non-LVO group. Each group was further divided into the UK thrombolysis group and the BMT group. Primary efficacy outcome was the proportion of patients achieving a modified Rankin Scale (mRS) score of 0-1 at 90 days. Safety outcomes included symptomatic intracranial hemorrhage (sICH) within 36 h and all-cause mortality within 90 days. Of the 999 patients enrolled in the TRUST trial, 605 were included in the current study. UK thrombolysis was not associated with a 90-day excellent functional outcome in minor stroke patients, either in LVO patients (adjusted risk ratio [RR] 1.90, 95% CI 0.63-2.26) or in non-LVO patients (adjusted RR 1.02, 95% CI 0.84-1.23) compared with the BMT group (p for interaction = 0.41). In the LVO group, UK thrombolysis showed a non-significant trend toward reduced mortality (adjusted RR 0.04, 95% CI 0.01-1.65), whereas no such effect was observed in non-LVO patients (adjusted RR 0.52, 95% CI 0.11-2.52). No significant interaction was found between groups (p for interaction = 0.25). In addition, there were no patients who experienced sICH in subgroup analysis. This subgroup analysis found no improvement in 90-day functional outcomes with UK thrombolysis in minor stroke patients, irrespective of LVO presence, while maintaining a comparable safety profile with regard to mortality and sICH.",
+  "quote": "The risk-benefit profile of thrombolytic therapy in minor stroke patients with large vessel occlusion (LVO) remains uncertain."
+ },
+ {
+  "rid": "r073",
+  "context": "I buy CONMED only if its latest-quarter sales growth year over year as reported is at least -0.75%.",
+  "applicable_text": "decreased 0.7% year-over-year as reported",
+  "trap_text": "decreased 0.8% on a constant currency",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt indicates that CONMED Corporation reported third quarter 2026 financial results. The sales growth as reported was $335.6 million, which is -0.75% year-over-year. Since this is less than the threshold of -0.75%, CONMED fails the screen.",
+  "quote": "On July 22, 2026, the Company announced the AirSeal® Robotic Solution is now indicated for use with Intuitive’s 8 mm hex cannulas used as part of the Intuitive da Vinci 5 platform."
+ },
+ {
+  "rid": "r074",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft only if, for patients like me, it lowers recurrence by at least 3 percentage points.",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source states that the recurrence rate was 8.3% with conjunctival autograft (CAG) versus 14.8% with amniotic membrane transplantation (AMT), resulting in an absolute risk reduction (ARR) of 6.5 percentage points. Since 6.5 percentage points is greater than the 3 percentage point threshold specified in the question, choosing CAG meets the bar. The exact text from the source supporting this is: 'Recurrence was lower with CAG than AMT (8.3% vs 14.8%; Fisher's exact p=0.044), with an unadjusted OR for AMT of 1.93 (95% CI: 1.02-3.65), ARR of 6.5% points, RRR of 44.1%, and NNT of 15.3.'",
+  "quote": "Recurrence was lower with CAG than AMT (8.3% vs 14.8%; Fisher's exact p=0.044), with an unadjusted OR for AMT of 1.93 (95% CI: 1.02-3.65), ARR of 6.5% points, RRR of 44.1%, and NNT of 15.3."
+ },
+ {
+  "rid": "r075",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft only if, for patients like me, it lowers recurrence by at least 3 percentage points.",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source indicates that the recurrence rate for conjunctival autograft (CAG) is 8.3% and for amniotic membrane transplantation (AMT) is 14.8%. The unadjusted odds ratio for AMT is 1.93, which translates to a 6.5% point reduction in recurrence. This meets the bar of lowering recurrence by at least 3 percentage points, as 6.5% is greater than 3%. However, the source does not provide a direct comparison for patients aged 50, so the conclusion is based on the available data. The source also notes that the difference is not statistically significant in older patients, but this does not affect the decision for younger patients. Therefore, yes, choosing conjunctival autograft over amniotic membrane transplantation meets the bar for patients like you, who are 50 years old.",
+  "quote": "Recurrence-free probability at 12 months was 91.7% with CAG and 85.2% with AMT (log-rank p=0.041). In exploratory age-stratified analyses, recurrence was 0% (0/54) with CAG vs 21.1% (15/71) with AMT in patients aged 20-40 years, with no difference in patients aged 41-60 years (11.1% vs 11.5%); the group aged >60 years (n=12) was too small to interpret."
+ },
+ {
+  "rid": "r076",
+  "context": "I buy Ranpak only if its latest-quarter AEBITDA growth year over year on a constant currency basis is at least 6.6%.",
+  "applicable_text": "was up 6.1% on a constant currency basis",
+  "trap_text": "5.1% to $22.5 million",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that Ranpak's AEBITDA growth year over year on a constant currency basis was 6.6% for the year-to-date period. This meets the criteria set by the user, who buys Ranpak only if its AEBITDA growth is at least 6.6%. Therefore, Ranpak passes the screen.",
+  "quote": "Year-to-date AEBITDA increased $5.3 million, or 9.6%, to $60.5 million and was up 6.0% on a constant currency basis."
+ },
+ {
+  "rid": "r077",
+  "context": "I only buy if latest-quarter revenue grew at least 4.8% year over year in constant currency, so exchange rates don't flatter the number.",
+  "applicable_text": "up 4.7% year over year",
+  "trap_text": "up 4.9% year over year",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that Zoom's revenue for the second quarter was $1,277.2 million, which is up 4.9% year over year. This meets the requirement of growing at least 4.8% in constant currency. Therefore, Zoom passes the screen.",
+  "quote": "Second Quarter Fiscal Year 2027 Financial Highlights: • Revenue: Total revenue for the second quarter was $1,277.2 million, up 4.9% year over year."
+ },
+ {
+  "rid": "r078",
+  "context": "I buy WEBTOON only if its latest-quarter revenue growth year over year on a constant currency basis is at least -1.9%.",
+  "applicable_text": "Revenue Growth on a Constant Currency Basis of 0.2%",
+  "trap_text": "Third Quarter Revenue Decline of 4.0%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "WEBTOON Entertainment Inc. reported a revenue growth of -4.0% on a constant currency basis in the third quarter of 2026. This is below the threshold of -1.9% that you set for your screen. Therefore, WEBTOON fails the screen.",
+  "quote": "WEBTOON Entertainment Inc. (“WEBTOON Entertainment” or “the Company”), a leading global entertainment company and home to some of the world’s largest storytelling platforms, today announced results for its third quarter ended September 30, 2026."
+ },
+ {
+  "rid": "r079",
+  "context": "I only buy if latest-quarter revenue grew at least 4.5% year over year in constant currency, so exchange rates don't flatter the number.",
+  "applicable_text": "up 4.7% year over year",
+  "trap_text": "up 4.9% year over year",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt does not provide a clear threshold for the revenue growth rate that would make Zoom pass the screen. The question asks if Zoom passes a screen based on a specific revenue growth rate, but the source does not specify this threshold. Therefore, the answer is 'fails'. The source does not provide enough information to determine if Zoom meets the criteria for passing the screen.",
+  "quote": "Second Quarter Fiscal Year 2027 Financial Highlights: • Revenue: Total revenue for the second quarter was $1,277.2 million, up 4.9% year over year. Adjusting for foreign currency impact, revenue in constant currency was $1,274.5 million, up 4.7% year over year."
+ },
+ {
+  "rid": "r080",
+  "context": "I'll switch to oral antibiotics only if the reduction versus intravenous antibiotics (negative means oral is worse) in readmission is at least -6.1 percentage points.",
+  "applicable_text": "increased readmission (difference, 4.7%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that oral antibiotics increased readmission by 4.7 percentage points compared to intravenous antibiotics (difference, 4.7%; 95% c.i., 0.5 to 8.9). Since the reduction in readmission (negative difference) for oral antibiotics is +4.7 percentage points (i.e., oral antibiotics led to a higher readmission rate), it does not meet the criterion of at least -6.1 percentage points (a reduction of 6.1 percentage points). Therefore, oral antibiotics do not meet the bar.",
+  "quote": "increased readmission (difference, 4.7%; 95% c.i., 0.5 to 8.9)"
+ },
+ {
+  "rid": "r081",
+  "context": "I look forward: I buy only if the low end of the company's outlook for next quarter's non-GAAP operating margin is at least 0.5%.",
+  "applicable_text": "within a range of 1.0% to 5.0%",
+  "trap_text": "non-GAAP operating margin of 5.0%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt states that ADTRAN's non-GAAP operating margin is expected to be between 1.0% and 5.0%. To pass my screen, the low end of the company's outlook for next quarter's non-GAAP operating margin must be at least 0.5%.",
+  "quote": "Non-GAAP operating margin is expected to be within a range of 1.0% to 5.0% reflecting historical seasonality, availability of supply and timing of large customer projects."
+ },
+ {
+  "rid": "r082",
+  "context": "I buy VF Corporation only if the latest-quarter revenue growth versus last year of the whole company, as reported is at least -3%.",
+  "applicable_text": "Revenue (4%) vs. LY",
+  "trap_text": "Americas region remains strong, (2%) vs. LY",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The source excerpt states that VF Corporation's Q2'27 revenue growth is at least -3% versus last year, which means it does not meet the condition of the user's screen. Therefore, the answer is 'fails'.",
+  "quote": "VF Corporation's Q2'27 revenue growth is at least -3% versus last year, which means it does not meet the condition of the user's screen. Therefore, the answer is 'fails'."
+ },
+ {
+  "rid": "r083",
+  "context": "I buy Microsoft only if its latest-quarter operating income growth year over year in constant currency is at least 21.5%.",
+  "applicable_text": "(up 22% in constant currency)",
+  "trap_text": "increased 21% (up 22% in constant currency)",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Microsoft's operating income increased 21% in constant currency for the quarter ended September 30, 2026. Your screening criterion requires at least 21.5% year-over-year growth in constant currency. Since 21% is less than 21.5%, the condition is not met.",
+  "quote": "Operating income was $45.9 billion and increased 21% (up 22% in constant currency)"
+ },
+ {
+  "rid": "r084",
+  "context": "I want the effect in patients who actually received the treatment as planned (per-protocol): esketamine must lower sleep disturbance on day 3 by at least 11.6 percentage points.",
+  "applicable_text": "(12.8% vs 24.2%",
+  "trap_text": "risk difference, -11.84 percentage points",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that a single subanesthetic dose of esketamine was associated with a lower incidence of short-term PSD on POD 3 in women undergoing oocyte retrieval under intravenous anesthesia. This means that the subanesthetic dose of esketamine reduces the incidence of PSD on day 3.",
+  "quote": "A single subanesthetic dose of esketamine was associated with a lower incidence of short-term PSD on POD 3 in women undergoing oocyte retrieval under intravenous anesthesia."
+ },
+ {
+  "rid": "r085",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Google Cloud is at least 142%.",
+  "applicable_text": "revenues increased 103%",
+  "trap_text": "Consolidated Alphabet revenues increased 25%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that Google Cloud revenues increased 103% to $30.7 billion. This is significantly higher than the threshold of 142% for passing the screen. Therefore, Alphabet passes the screen.",
+  "quote": "Google Cloud delivered record growth as revenues increased 103% to $30.7 billion, led by strong growth in Google Cloud Platform (GCP) across enterprise AI infrastructure and enterprise AI solutions, as well as core GCP services."
+ },
+ {
+  "rid": "r086",
+  "context": "I buy VF Corporation only if its Q2'27 adjusted operating income as guided by the company before the quarter is at least $339.5 million.",
+  "applicable_text": "Operating income (adjusted) ~ $315M",
+  "trap_text": "$364M Above",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source text states that the adjusted operating income excluding Dickies® was $364M, which is well above the company's guidance of approximately $315M. Since $364M is greater than your required threshold of $339.5M, the condition is met.",
+  "quote": "Adjusted OI ex Dickies® of $364M, well above guidance of approximately $315M"
+ },
+ {
+  "rid": "r087",
+  "context": "I buy VF Corporation only if its latest-quarter global DTC revenue growth versus last year as reported is at least 2%.",
+  "applicable_text": "+1% vs. LY or +3% C$",
+  "trap_text": "+3% C$ ex Dickies® ◦ Americas",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The VF Corporation's latest-quarter global DTC revenue growth versus last year as reported is at least 2%.",
+  "quote": "VF Corporation 8-K EX-99.1 earnings release (SEC EDGAR):"
+ },
+ {
+  "rid": "r088",
+  "context": "I'll take L. reuteri lozenges during radiotherapy only if the reduction in severe oral mucositis in absolute terms (as a fraction of patients) is at least 0.31.",
+  "applicable_text": "absolute risk reduction 23.8 percentage points",
+  "trap_text": "relative risk 0.61",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that L. reuteri supplementation reduced the incidence of severe oral mucositis (SOM) in patients undergoing radiotherapy for malignant head and neck tumors. The primary endpoint was met, with a lower incidence of SOM in the L. reuteri group compared to the placebo group. The secondary endpoints included SOM onset and duration, and safety outcomes were monitored throughout the study. The primary endpoint was met, with a lower incidence of SOM in the L. reuteri group compared to the placebo group. The secondary endpoints were also met, and no significant safety concerns were observed. These findings indicate that L. reuteri supplementation reduces SOM incidence and severity in patients with head and neck cancer receiving radiotherapy.",
+  "quote": "These findings indicate that L. reuteri supplementation reduces SOM incidence and severity in patients with head and neck cancer receiving radiotherapy."
+ },
+ {
+  "rid": "r089",
+  "context": "I buy VF Corporation only if the latest-quarter revenue growth versus last year of its Americas region, as reported is at least -1%.",
+  "applicable_text": "Americas region remains strong, (2%) vs. LY",
+  "trap_text": "Revenue (4%) vs. LY",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that the Q2'27 revenue growth in the Americas region is at least -1% (flat) and the revenue growth in the ex Dickies® region is at least +1% (flat). Therefore, VF Corporation passes the screen.",
+  "quote": "Disclosed Q2’27 figures are shown on both reported and adjusted excluding Dickies® (“ex Dickies® ”) bases VF Q2’27 results ahead of guidance Guidance Actual Actual vs. Guidance Revenue % vs. LY 1 (C$) ~ Flat +1% Above Operating income (adjusted) ~ $315M $364M Above • Revenue (4%) vs. LY ◦ Revenue ex Dickies® +1% vs. LY or +3% C$ ex Dickies® ◦ Americas region remains strong, (2%) vs. LY or +5% C$ ex Dickies® , reflecting sustained growth across channels ◦ Continued momentum at The North Face® , +4% vs. LY ◦ Vans® (9.8%) vs. LY; global DTC returned to growth, with Wholesale improvement expected in H2'27 ◦ Timberland® +4% vs. LY, driven by continued strength in the Americas • Operating income (OI) of $368M and operating margin (OM) of 13.7%, up 250 bps vs. LY ◦ Adjusted OI ex Dickies® of $364M, well above guidance of approximately $315M; adjusted OM ex Dickies® of 13.5%,"
+ },
+ {
+  "rid": "r090",
+  "context": "I'll have urokinase thrombolysis only if the relative reduction in 90-day mortality (1 minus the risk ratio) for patients with large vessel occlusion (as I have) is at least 0.72.",
+  "applicable_text": "adjusted RR 0.04",
+  "trap_text": "adjusted RR 0.52",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source indicates that the risk-benefit profile of thrombolytic therapy in minor stroke patients with large vessel occlusion (LVO) remains uncertain. The analysis found that urokinase intravenous thrombolysis was not associated with a 90-day excellent functional outcome in minor stroke patients, either in LVO patients or in non-LVO patients compared with the best medical treatment (BMT). The risk ratio for 90-day mortality in the LVO group was 0.04, which is below the threshold of 0.72. Therefore, urokinase thrombolysis does not meet the bar set by the user.",
+  "quote": "In the LVO group, UK thrombolysis showed a non-significant trend toward reduced mortality (adjusted RR 0.04, 95% CI 0.01-1.65), whereas no such effect was observed in non-LVO patients (adjusted RR 0.52, 95% CI 0.11-2.52)."
+ },
+ {
+  "rid": "r091",
+  "context": "I need pterygium surgery. I'll choose conjunctival autograft only if it lowers my recurrence risk by at least 10 percentage points in absolute terms.",
+  "applicable_text": "ARR of 6.5% points",
+  "trap_text": "RRR of 44.1%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that the recurrence rate was 11.7% with CAG and 14.8% with AMT. To compare the recurrence rates, we need to find the difference between the two rates. The difference is 14.8% - 11.7% = 3.1%. To express this difference in absolute terms, we need to find the absolute difference between the two rates. The absolute difference is 14.8% - 11.7% = 3.1%. Therefore, the answer is yes.",
+  "quote": "To compare the recurrence rates, we need to find the difference between the two rates. The difference is 14.8% - 11.7% = 3.1%. To express this difference in absolute terms, we need to find the absolute difference between the two rates. The absolute difference is 14.8% - 11.7% = 3.1%."
+ },
+ {
+  "rid": "r092",
+  "context": "I buy VF Corporation only if the latest-quarter revenue growth versus last year of the whole company, as reported is at least -3%.",
+  "applicable_text": "Revenue (4%) vs. LY",
+  "trap_text": "Americas region remains strong, (2%) vs. LY",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that VF Corporation's revenue for Q2'27 was 'flat +1% above' last year, meaning the revenue growth versus last year was +1%. Since this is greater than -3%, the company passes the screen.",
+  "quote": "Revenue % vs. LY 1 (C$) ~ Flat +1% Above"
+ },
+ {
+  "rid": "r093",
+  "context": "I buy Align Technology only if its Q3'26 operating margin on a non-GAAP (adjusted) basis is at least 28.25%.",
+  "applicable_text": "Non-GAAP operating margin was 24.4%",
+  "trap_text": "operating margin was 16.7%",
+  "truth": "fails",
+  "decision": "fails",
+  "explanation": "The source excerpt indicates that Align Technology's Q3'26 non-GAAP operating margin was 16.7% (1), which is below the threshold of 28.25% set by the user. Therefore, Align Technology fails the screen.",
+  "quote": "Q3'26 non-GAAP operating margin was 16.7% (1), compared with 9.7% in Q3'25."
+ },
+ {
+  "rid": "r094",
+  "context": "I buy Align Technology only if the year-over-year change in its non-GAAP operating margin as reported is at least 0.95 points.",
+  "applicable_text": "up 0.5 points year-over-year",
+  "trap_text": "up approximately 1.4 points at constant currency",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Align Technology passes my screen as it reported a non-GAAP operating margin of 70.4% in Q3'26, which is at least 0.95 points higher than the previous quarter.",
+  "quote": "Q3'26 gross margin was 68.7%. On a non-GAAP basis, Q3'26 gross margin was 70.4% (1) , flat year-over-year or up approximately 0.7 points at constant currency"
+ },
+ {
+  "rid": "r095",
+  "context": "I'll switch to oral antibiotics only if the reduction versus intravenous antibiotics (negative means oral is worse) in readmission is at least -6.1 percentage points.",
+  "applicable_text": "increased readmission (difference, 4.7%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "yes",
+  "decision": "yes",
+  "explanation": "The source states that the per-protocol analysis showed an absolute risk difference of 1.8% for intra-abdominal abscess between oral and intravenous antibiotics. The non-inferiority margin was 5%, so the result meets the non-inferiority criterion.",
+  "quote": "In the per-protocol analysis, abscess occurred in 19 of 395 and 9 of 294 patients; weighted incidences were 4.9% and 3.0% (absolute risk difference, 1.9%; 90% c.i., -0.4 to 4.2), meeting non-inferiority."
+ },
+ {
+  "rid": "r096",
+  "context": "I'll switch to oral antibiotics only if the reduction versus intravenous antibiotics (negative means oral is worse) in readmission is at least -3.3 percentage points.",
+  "applicable_text": "increased readmission (difference, 4.7%",
+  "trap_text": "absolute risk difference, 1.9%",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source states that the per-protocol analysis showed an absolute risk difference of 1.8% for intra-abdominal abscess between oral and intravenous antibiotics. The non-inferiority margin was 5%, and the absolute risk difference (1.8%) is less than the margin (5%). Therefore, the answer is 'yes', oral antibiotics meet the bar of reducing readmission by at least -3.3 percentage points.",
+  "quote": "In the per-protocol analysis, abscess occurred in 19 of 395 and 9 of 294 patients; weighted incidences were 4.9% and 3.0% (absolute risk difference, 1.9%; 90% c.i., -0.4 to 4.2), meeting non-inferiority."
+ },
+ {
+  "rid": "r097",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Alphabet as a whole is at least 64%.",
+  "applicable_text": "Consolidated Alphabet revenues increased 25%",
+  "trap_text": "revenues increased 103%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2026.",
+  "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflecting strong performance across the business and our 13th consecutive quarter of double-digit revenue growth."
+ },
+ {
+  "rid": "r098",
+  "context": "I'll use NEPA only if the gain over standard care in the rate of no significant nausea is at least 11.05 percentage points.",
+  "applicable_text": "(80.6% vs 70.7%)",
+  "trap_text": "(92.2% vs 80.0%)",
+  "truth": "no",
+  "decision": "yes",
+  "explanation": "The source excerpt states that NEPA meets the bar of being a ",
+  "quote": ", "
+ },
+ {
+  "rid": "r099",
+  "context": "I buy Pulmonx only if the latest-quarter revenue growth year over year, as reported, of its international business is at least 4.5%.",
+  "applicable_text": "a 5% increase compared to the third quarter of 2025",
+  "trap_text": "a 6% increase from $21.5 million",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Pulmonx's international revenue growth was 5% compared to the third quarter of 2025, which is less than the required 4.5% growth. Therefore, Pulmonx fails to pass the user's screen.",
+  "quote": "Pulmonx. “With a fully staffed U.S. sales leadership team, a more focused global commercial team, and a realigned cost structure, we are confident in our ability to build on this momentum and deliver growth while advancing our longer-term strategic priorities.” Third Quarter 2026 Financial Results Total worldwide revenue in the third quarter of 2026 was $22.8 million, a 6% increase from $21.5 million in the third quarter of 2025 on both a GAAP and constant currency basis. U.S. revenue was $14.9 million, a 7% increase from the third quarter of 2025. International revenue was $7.9 million, a 5% increase compared to the third quarter of 2025, and a 6% increase on a constant currency basis. International revenue growth was tempered by an absence of sales to the Company’s distributor in China as we restart commercial activity in the region following the renewal of our Chinese registration certificate. Excluding China, international revenue grew 9% year-over-year on a GAAP and constant currency basis."
+ },
+ {
+  "rid": "r100",
+  "context": "I'm starting antibiotics. What I care about is carrying C difficile in my stool (colonization); I'll take probiotics only if they cut that by at least 2 percentage points in absolute terms.",
+  "applicable_text": "(ARR 2.1%;",
+  "trap_text": "absolute risk reduction (ARR) of 1.6%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that probiotics may result in a small absolute risk reduction (ARR) of 1.6% (incidence of 1.6% [110/6787] in the probiotic group versus 3.2% [203/6392] in the control group), and a relative risk reduction (RRR) of 50% (RR 0.50, 95% CI 0.38 to 0.64; P < 0.001; low-certainty evidence).",
+  "quote": "Probiotics for the prevention of Clostridioides difficile-associated diarrhea in adults and children. Probiotics are live microbial preparations that, when administered in adequate amounts, may confer a health benefit to the host, and are a potential C difficile infection prevention strategy. To assess the benefits and harms of probiotics for preventing C difficile-associated diarrhea (CDAD) in adults and children receiving an antibiotic for any reason. We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, and Ovid Embase from 18 March 2017 (search date of the previous version of the review) to 3 March 2025. We included randomized controlled trials with a placebo, alternative prophylaxis, or no-treatment control investigating probiotics (any strain or dose) for the prevention of CDAD in adults and children receiving an antibiotic for any reason."
+ },
+ {
+  "rid": "r101",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 3% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The Garmin 8-K EX-99.1 earnings release shows that the outdoor segment revenue grew 20% in the third quarter, which is higher than the 3% threshold you set for the year to date. Therefore, Garmin passes your screen.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches."
+ },
+ {
+  "rid": "r102",
+  "context": "I buy Coupang only if its latest-quarter total net revenue growth year over year on a constant currency basis is at least 13%.",
+  "applicable_text": "11% YoY on a constant currency basis. • Gross profit",
+  "trap_text": "up 7% YoY on a reported basis and 11%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Coupang's latest-quarter total net revenue growth year over year on a constant currency basis is 13% (up 7% YoY and 11% YoY). Therefore, it passes my screen.",
+  "quote": "Q3 2026 Consolidated Highlights: • Total net revenues were $10.0 billion, up 7% YoY on a reported basis and 11% YoY on a constant currency basis."
+ },
+ {
+  "rid": "r103",
+  "context": "I buy Pulmonx only if the latest-quarter revenue growth year over year of its U.S. business is at least 6.5%.",
+  "applicable_text": "a 7% increase from the third quarter of 2025",
+  "trap_text": "a 6% increase from $21.5 million",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt shows Pulmonx's total worldwide revenue growth of 6% in the third quarter of 2026 compared to the third quarter of 2025. The U.S. revenue growth was 7% and international revenue growth was 5% on a constant currency basis. The international revenue growth was also 6% on a GAAP basis, but this was tempered by the absence of sales to the Company’s distributor in China. Excluding China, international revenue grew 9% year-over-year on a GAAP and constant currency basis. The gross profit was $17.4 million, which is 76% of revenue, and the gross margin was 75% for the same period in 2025. The operating expenses were not provided in the excerpt, but the gross margin is a key indicator of profitability. Given that the U.S. revenue growth is 7% and the international revenue growth is 5% on a constant currency basis, Pulmonx does not pass the screen as it does not meet the 6.5% threshold for U.S. revenue growth. Therefore, the answer is 'fails'.",
+  "quote": "Pulmonx. “With a fully staffed U.S. sales leadership team, a more focused global commercial team, and a realigned cost structure, we are confident in our ability to build on this momentum and deliver growth while advancing our longer-term strategic priorities.” Third Quarter 2026 Financial Results Total worldwide revenue in the third quarter of 2026 was $22.8 million, a 6% increase from $21.5 million in the third quarter of 2025 on both a GAAP and constant currency basis. U.S. revenue was $14.9 million, a 7% increase from the third quarter of 2025. International revenue was $7.9 million, a 5% increase compared to the third quarter of 2025, and a 6% increase on a constant currency basis. International revenue growth was tempered by an absence of sales to the Company’s distributor in China as we restart commercial activity in the region following the renewal of our Chinese registration certificate."
+ },
+ {
+  "rid": "r104",
+  "context": "I'll accept chlorhexidine vaginal cleansing only if the absolute reduction in composite wound complications is at least 5.8 percentage points.",
+  "applicable_text": "(3.4% vs. 11.0%",
+  "trap_text": "(1.4% vs. 5.4%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that the co-primary outcome of composite wound complications was reduced by 3.4% in the chlorhexidine group compared to 11.0% in the control group. This reduction is less than 5.8 percentage points. Therefore, chlorhexidine vaginal cleansing does not meet the user's bar of an absolute reduction of at least 5.8 percentage points in composite wound complications.",
+  "quote": "The co-primary outcome effects persisted after adjustment and in sensitivity analyses."
+ },
+ {
+  "rid": "r105",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 3% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "The source excerpt states that Garmin's Outdoor segment revenue increased 20% in the third quarter, with growth primarily driven by adventure watches. The segment's revenue growth is explicitly stated as 20%, which is well above the required 3% year-over-year growth for the year to date (first 39 weeks). Since the third quarter revenue growth is already 20%, and the growth is broad-based and consistent with the segment's performance, it is reasonable to conclude that the year-to-date growth meets or exceeds the 3% threshold. Therefore, Garmin passes the screen.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches."
+ },
+ {
+  "rid": "r106",
+  "context": "I hold retailers only if latest-quarter net revenue fell no more than 4.5% year over year on a constant dollar basis.",
+  "applicable_text": "decreased 5% on a constant dollar basis",
+  "trap_text": "Net revenue decreased 4%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Lululemon's second quarter net revenue decreased 4% to $2.4 billion, or 5% on a constant dollar basis. This is within the 4.5% threshold you specified for passing the screen. Therefore, Lululemon passes your screen.",
+  "quote": "For the second quarter of 2026, compared to the second quarter of 2025: • Net revenue decreased 4% to $2.4 billion, or decreased 5% on a constant dollar basis."
+ },
+ {
+  "rid": "r107",
+  "context": "I care about Garmin's outdoor segment: I hold only if its revenue grew at least 10% year over year for the year to date (the first 39 weeks).",
+  "applicable_text": "Outdoor 597,301 497,598 20% 1,497,571 1,426,451 5%",
+  "trap_text": "outdoor segment increased 20%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that Garmin's Outdoor segment revenue increased 20% in the third quarter, with growth primarily driven by adventure watches. The segment's revenue growth is explicitly noted as 20%, which meets the requirement of at least a 10% year-over-year growth for the year to date (first 39 weeks). Since the third quarter revenue growth is 20%, and the segment's growth is described as broad-based and driven by adventure watches, it is reasonable to infer that the year-to-date growth for the outdoor segment meets or exceeds the 10% threshold. The exact year-to-date (39-week) growth is not provided, but the 20% quarterly growth and the context of broad-based growth suggest it is likely to meet the 10% threshold. Therefore, Garmin passes the screen.",
+  "quote": "Outdoor: Revenue from the outdoor segment increased 20% in the third quarter with growth primarily driven by adventure watches."
+ },
+ {
+  "rid": "r108",
+  "context": "I'll accept chlorhexidine vaginal cleansing only if the absolute reduction in readmission for infection is at least 3.55 percentage points.",
+  "applicable_text": "readmission for infection (1.4% vs. 6.3%",
+  "trap_text": "(3.4% vs. 11.0%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that the co-primary outcome of readmission for infection was 1.4% in the chlorhexidine group and 6.3% in the control group. The absolute reduction in readmission for infection is 6.3% - 1.4% = 4.9%. This is less than the 3.55 percentage points required by the user's bar. Therefore, chlorhexidine vaginal cleansing does not meet the user's bar.",
+  "quote": "The co-primary outcome effects persisted after adjustment and in sensitivity analyses. Treatment effects were in the same direction across premature rupture of membranes (PROM) and obesity subgroups with no significant interaction, although the SSI reduction reached significance overall and in the non-obese stratum but not within the obese stratum."
+ },
+ {
+  "rid": "r109",
+  "context": "I buy Alphabet only if the latest-quarter revenue growth year over year of Google Cloud is at least 64%.",
+  "applicable_text": "revenues increased 103%",
+  "trap_text": "Consolidated Alphabet revenues increased 25%",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2026.",
+  "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflecting strong performance across the business and our 13th consecutive quarter of double-digit revenue growth."
+ },
+ {
+  "rid": "r110",
+  "context": "I buy VF Corporation only if its latest-quarter global DTC revenue growth versus last year in constant currency (C$), excluding Dickies is at least 2%.",
+  "applicable_text": "+3% C$ ex Dickies® ◦ Americas",
+  "trap_text": "+1% vs. LY or +3% C$",
+  "truth": "passes",
+  "decision": "passes",
+  "explanation": "VF Corporation's latest-quarter global DTC revenue growth versus last year in constant currency (C$), excluding Dickies is 2%. This meets the criteria of at least 2% as specified in your screen. Therefore, VF Corporation passes your screen.",
+  "quote": "Revenue (4%) vs. LY ◦ Revenue ex Dickies® +1% vs. LY, ahead of guidance of flat C$ vs. LY"
+ },
+ {
+  "rid": "r111",
+  "context": "I buy CONMED only if its latest-quarter sales growth year over year on a constant currency basis is at least -0.85%.",
+  "applicable_text": "decreased 0.8% on a constant currency",
+  "trap_text": "decreased 0.7% year-over-year as reported",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt indicates that CONMED Corporation reported a 0.7% decrease in sales year-over-year on a reported basis and a 0.8% decrease on a constant currency basis. This means that CONMED's sales growth is not meeting the threshold of -0.85% as required by the user's screen criteria.",
+  "quote": "Third Quarter 2026 Highlights (1) • Sales of $335.6 million decreased 0.7% year-over-year as reported and decreased 0.8% on a constant currency (2) basis."
+ },
+ {
+  "rid": "r112",
+  "context": "I buy Fossil Group only if the latest-quarter net sales growth in constant currency of the whole company is at least 8.55%.",
+  "applicable_text": "2.0% in constant currency",
+  "trap_text": "Asia net sales increased 15.1%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Fossil Group passes my screen as the latest-quarter net sales growth in constant currency of the whole company is at least 8.55% (2.0% in constant currency compared to 0.4% in reported basis).",
+  "quote": "Net sales totaled $271.2 million, an increase of 0.4% on a reported basis and 2.0% in constant currency, compared to $270.2 million in the third quarter of fiscal 2025."
+ },
+ {
+  "rid": "r113",
+  "context": "I buy Pulmonx only if the latest-quarter revenue growth year over year, as reported, of the whole company is at least 5.5%.",
+  "applicable_text": "a 6% increase from $21.5 million",
+  "trap_text": "a 5% increase compared to the third quarter of 2025",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt states that Pulmonx's revenue growth was 6% in the third quarter of 2026, which is less than the required 5.5% growth. Therefore, the answer is 'fails'.",
+  "quote": "Pulmonx. With a fully staffed U.S. sales leadership team, a more focused global commercial team, and a realigned cost structure, we are confident in our ability to build on this momentum and deliver growth while advancing our longer-term strategic priorities."
+ },
+ {
+  "rid": "r114",
+  "context": "I buy VF Corporation only if its Q2'27 adjusted operating income as actually reported for the quarter is at least $339.5 million.",
+  "applicable_text": "$364M Above",
+  "trap_text": "Operating income (adjusted) ~ $315M",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source text states that the Adjusted Operating Income excluding Dickies® was $364M, which is above the guidance of $315M. However, the text does not explicitly state the total Adjusted Operating Income for the quarter, only the 'Operating income (adjusted)' of $315M (which appears to be a typo in the source text given the context of the bullet point below it) or the 'Operating income' of $368M. The specific figure for 'Adjusted operating income as actually reported' is not clearly defined as a single total number in the provided text, making it impossible to verify if it meets the $339.5M threshold based strictly on the excerpt.",
+  "quote": "Adjusted OI ex Dickies® of $364M, well above guidance of approximately $315M; adjusted OM ex Dickies® of 13.5%"
+ },
+ {
+  "rid": "r115",
+  "context": "I'm 50 and need pterygium surgery. I'll choose conjunctival autograft if, for patients like me, it lowers recurrence at all (by more than 0 percentage points).",
+  "applicable_text": "(11.1% vs 11.5%)",
+  "trap_text": "ARR of 6.5% points",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that recurrence was lower with conjunctival autograft (CAG) than with amniotic membrane transplantation (AMT), with an absolute risk reduction (ARR) of 6.5 percentage points (8.3% vs 14.8%). Since the patient is 50 years old, and the study includes an exploratory age-stratified analysis showing that in patients aged 41–60 years, there was no significant difference in recurrence (11.1% vs 11.5%), the benefit of CAG over AMT in this age group is not statistically significant. The study notes that the difference in younger patients (20–40 years) is hypothesis-generating and requires confirmation, and no significant difference was found in the 41–60 age group. Therefore, for a 50-year-old patient, the evidence does not show a reduction in recurrence by more than 0 percentage points. The bar is met only if there is a reduction of more than 0 percentage points, but the data show no significant difference in this age group. Thus, the answer is no.",
+  "quote": "In exploratory age-stratified analyses, recurrence was 0% (0/54) with CAG vs 21.1% (15/71) with AMT in patients aged 20-40 years, with no difference in patients aged 41-60 years (11.1% vs 11.5%); the group aged >60 years (n=12) was too small to interpret."
+ },
+ {
+  "rid": "r116",
+  "context": "I buy Microsoft only if its latest-quarter non-GAAP net income growth year over year in constant currency is at least 18.5%.",
+  "applicable_text": "(up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "trap_text": "increased 18% (up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt mentions that Microsoft Corp. announced the following results for the quarter ended September 30, 2026, as compared to the corresponding period of last fiscal year. It states that the non-GAAP net income was $36.6 billion and increased 32% on a GAAP basis, and was $36.4 billion and increased 18% (up 19% in constant currency) on a non-GAAP basis. The question asks if Microsoft passes the screen if its latest-quarter non-GAAP net income growth year over year in constant currency is at least 18.5%. Since the non-GAAP net income growth is 18% (up 19% in constant currency), Microsoft fails the screen.",
+  "quote": "Non-GAAP results exclude the impact from investments in OpenAI, explained in the Non-GAAP Definition section below"
+ },
+ {
+  "rid": "r117",
+  "context": "I hold retailers only if latest-quarter net revenue fell no more than 4.5% year over year on a constant dollar basis.",
+  "applicable_text": "decreased 5% on a constant dollar basis",
+  "trap_text": "Net revenue decreased 4%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that net revenue decreased 4% to $2.4 billion, or decreased 5% on a constant dollar basis. This information is used to answer the user's question about Lululemon's performance.",
+  "quote": "For the second quarter of 2026, compared to the second quarter of 2025: • Net revenue decreased 4% to $2.4 billion, or decreased 5% on a constant dollar basis."
+ },
+ {
+  "rid": "r118",
+  "context": "I buy Coupang only if its latest-quarter gross profit growth year over year as reported is at least -4.5%.",
+  "applicable_text": "decreasing 6% YoY on a reported basis",
+  "trap_text": "3% YoY on a constant currency basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The Coupang's latest-quarter gross profit growth year over year as reported is 7%, which is greater than the required threshold of -4.5%. Therefore, the Coupang passes my screen.",
+  "quote": "Coupang's latest-quarter gross profit growth year over year as reported is 7%, which is greater than the required threshold of -4.5%. Therefore, the Coupang passes my screen."
+ },
+ {
+  "rid": "r119",
+  "context": "I buy Coupang only if its latest-quarter gross profit growth year over year as reported is at least -4.5%.",
+  "applicable_text": "decreasing 6% YoY on a reported basis",
+  "trap_text": "3% YoY on a constant currency basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source states that Coupang's gross profit decreased 6% year over year on a reported basis. Since a 6% decrease is greater than the threshold of a 4.5% decrease (which is -4.5%), the company meets the user's condition.",
+  "quote": "Gross profit was $2.6 billion, decreasing 6% YoY on a reported basis"
+ },
+ {
+  "rid": "r120",
+  "context": "I'll have urokinase thrombolysis only if the risk ratio for an excellent 90-day outcome for patients without large vessel occlusion (as I have) is at least 0.58.",
+  "applicable_text": "adjusted RR 1.02",
+  "trap_text": "adjusted risk ratio [RR] 1.90",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source excerpt states that urokinase thrombolysis does not meet the bar of having a 90-day excellent functional outcome in patients with large vessel occlusion (LVO). Therefore, the answer is 'no'.",
+  "quote": "The risk-benefit profile of thrombolytic therapy in minor stroke patients with large vessel occlusion (LVO) remains uncertain."
+ },
+ {
+  "rid": "r121",
+  "context": "I buy Fossil Group only if its latest-quarter net sales growth year over year in constant currency is at least 1.2%.",
+  "applicable_text": "2.0% in constant currency",
+  "trap_text": "an increase of 0.4% on a reported basis",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The Fossil Group's latest-quarter net sales growth year over year in constant currency is 0.4%, which is less than the required 1.2% threshold. Therefore, the Fossil Group fails to pass my screen.",
+  "quote": "Fossil Group's latest-quarter net sales growth year over year in constant currency is 0.4%"
+ },
+ {
+  "rid": "r122",
+  "context": "My thesis is about its Americas business: I hold only if Americas net revenue fell no more than 6% year over year in the latest quarter.",
+  "applicable_text": "Americas net revenue decreased 8%",
+  "trap_text": "Net revenue decreased 4%",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that Americas net revenue decreased 8% to $2.4 billion, or decreased 5% on a constant dollar basis. This information is used to determine if the thesis is met.",
+  "quote": "Net revenue decreased 4% to $2.4 billion, or decreased 5% on a constant dollar basis."
+ },
+ {
+  "rid": "r123",
+  "context": "I track NIKE Direct and stay invested only if its revenue fell no more than 10% year over year last quarter on a currency-neutral basis.",
+  "applicable_text": "down 9 percent on a currency-neutral basis, due to a 13 percent",
+  "trap_text": "down 8 percent on a reported basis and down 9 percent on a currency-neutral basis, due to a 13 percent",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source excerpt shows that NIKE Direct revenues were down 8% on a reported basis and 9% on a currency-neutral basis. This means NIKE Direct revenues fell more than 10% year over year on a currency-neutral basis, which does not meet the screen criteria of not falling more than 10% year over year on a currency-neutral basis. Therefore, Nike fails the screen.",
+  "quote": "◦ Revenues for NIKE Direct revenues were $4.1 billion, down 8 percent on a reported basis and down 9 percent on a currency-neutral basis, due to a 13 percent decrease in NIKE Brand Digital and a 5 percent decrease in NIKE-owned stores."
+ },
+ {
+  "rid": "r124",
+  "context": "I use non-GAAP operating margin: I buy only if the latest quarter's figure is at least 2%.",
+  "applicable_text": "non-GAAP operating margin of 5.0%",
+  "trap_text": "GAAP operating margin of -0.3%",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The non-GAAP operating margin is expected to be within a range of 1.0% to 5.0% reflecting historical seasonality, availability of supply and timing of large customer projects.",
+  "quote": "non-GAAP operating margin of 42.1%, including benefit of approximately 200 basis points from IEEPA 1 refunds."
+ },
+ {
+  "rid": "r125",
+  "context": "I buy Microsoft only if its latest-quarter non-GAAP net income growth year over year in constant currency is at least 18.5%.",
+  "applicable_text": "(up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "trap_text": "increased 18% (up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "truth": "passes",
+  "decision": "fails",
+  "explanation": "The source states that Microsoft's non-GAAP net income increased 18% in constant currency for the quarter ended September 30, 2026. The user's screening criterion is that non-GAAP net income growth year over year in constant currency must be at least 18.5%. Since 18% is less than 18.5%, the condition is not met.",
+  "quote": "Net income was $36.6 billion and increased 32% on a GAAP basis, and was $36.4 billion and increased 18% (up 19% in constant currency) on a non-GAAP basis"
+ },
+ {
+  "rid": "r126",
+  "context": "I buy VF Corporation only if the latest-quarter revenue growth versus last year of its Americas region, as reported is at least -1%.",
+  "applicable_text": "Americas region remains strong, (2%) vs. LY",
+  "trap_text": "Revenue (4%) vs. LY",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that VF Corporation's revenue growth in the Americas region, as reported, was +1% vs. LY. This is above the threshold of -1% that you set for your screen. Therefore, VF Corporation passes your screen.",
+  "quote": "Revenue (4%) vs. LY ◦ Revenue ex Dickies® +1% vs. LY, ahead of guidance of flat C$ vs. LY"
+ },
+ {
+  "rid": "r127",
+  "context": "I buy Coupang only if its latest-quarter gross profit growth year over year as reported is at least -4.5%.",
+  "applicable_text": "decreasing 6% YoY on a reported basis",
+  "trap_text": "3% YoY on a constant currency basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Coupang's latest-quarter gross profit growth year over year as reported is 11% YoY, which is greater than the threshold of -4.5% set by the user. Therefore, Coupang passes the screen.",
+  "quote": "Gross profit was $2.6 billion, decreasing 6% YoY on a reported basis and 3% YoY on a constant currency basis."
+ },
+ {
+  "rid": "r128",
+  "context": "I buy Ranpak only if its latest-quarter net revenue growth year over year as reported is at least 2.85%.",
+  "applicable_text": "net revenue growth of 2.3%",
+  "trap_text": "or 3.4% on a constant currency basis",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt shows that Ranpak's net revenue growth year over year as reported was 5.1%, which is greater than or equal to 2.85% (the threshold set by the user). Therefore, Ranpak passes the user's screen.",
+  "quote": "5.1%, or $1.1 million, year over year, and up 6.1% on a constant currency basis"
+ },
+ {
+  "rid": "r129",
+  "context": "I'll take weekly calcifediol only if the gain over placebo in the share of women reaching a 25(OH)D level of at least 30 ng/mL is at least 0.9 percentage points.",
+  "applicable_text": "≥30 ng/mL (21.4% vs. 0%",
+  "trap_text": "≥20 ng/mL (68.2% vs. 5.8%",
+  "truth": "yes",
+  "decision": "no",
+  "explanation": "The source states that weekly calcifediol 100 µg demonstrated superior efficacy versus placebo from week 4 in women achieving ≥20 ng/mL (68.2% vs. 5.8%; p < 0.001) or ≥30 ng/mL (21.4% vs. 0%; p < 0.001). The gain over placebo in the share of women reaching a 25(OH)D level of at least 30 ng/mL is 21.4% - 5.8% = 15.6 percentage points. This is less than the 0.9 percentage points required by the user's bar. Therefore, weekly calcifediol does not meet the user's bar.",
+  "quote": "Weekly calcifediol 100 µg demonstrated superior efficacy versus placebo from week 4 in women achieving ≥20 ng/mL (68.2% vs. 5.8%; p < 0.001) or ≥30 ng/mL (21.4% vs. 0%; p < 0.001),"
+ },
+ {
+  "rid": "r130",
+  "context": "I buy Microsoft only if its latest-quarter net income growth year over year on a non-GAAP basis is at least 25%.",
+  "applicable_text": "increased 18% (up 19% in constant currency) on a non-GAAP basis • Diluted",
+  "trap_text": "increased 32% on a GAAP basis, and was $36.4 billion",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "Microsoft's latest-quarter net income growth year over year on a non-GAAP basis is at least 25% (4.92/4.89 = 1.005 or 100.5%).",
+  "quote": "We are delivering greater capability, choice, control, and cost efficiency for customers across our entire stack,"
+ },
+ {
+  "rid": "r131",
+  "context": "I buy CONMED only if its latest-quarter international sales growth year over year on a constant currency basis is at least 12.95%.",
+  "applicable_text": "increased 12.8% on a constant currency",
+  "trap_text": "International sales increased 13.1% as reported",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt states that international sales increased 13.1% as reported and increased 13.8% on an organic constant currency basis. The question specifies that CONMED must have at least 12.95% international sales growth on a constant currency basis. Since 13.8% (organic constant currency) exceeds 12.95%, the condition is met.",
+  "quote": "International sales increased 13.1% as reported, increased 12.8% on a constant currency (2) basis, and increased 13.8% on an organic constant currency (2)(3) basis."
+ },
+ {
+  "rid": "r132",
+  "context": "I buy VF Corporation only if the latest-quarter revenue growth versus last year of the whole company, as reported is at least -3%.",
+  "applicable_text": "Revenue (4%) vs. LY",
+  "trap_text": "Americas region remains strong, (2%) vs. LY",
+  "truth": "fails",
+  "decision": "passes",
+  "explanation": "The source excerpt indicates that VF Corporation's revenue growth for the second quarter of 2027 was +1% compared to the same quarter in 2026. This is within the range of -3% to +3% as shown in the table. Therefore, VF Corporation passes the screen as it meets the condition of having a revenue growth of at least -3%.",
+  "quote": "Revenue % vs. LY 1 (C$) ~ Flat +1% Above"
+ }
+]

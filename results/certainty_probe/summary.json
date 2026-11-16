@@ -1,0 +1,8 @@
+{
+ "wrong/assertive": "8/13 flagged as incorrect",
+ "wrong/hedged": "9/13 flagged as incorrect",
+ "right/assertive": "0/13 flagged as incorrect",
+ "right/hedged": "2/13 flagged as incorrect",
+ "verdict_changed_between_variants": 5,
+ "pairs": 26
+}

@@ -1,0 +1,327 @@
+{
+ "split": "v4",
+ "cases": 123,
+ "no_verifier_decision_accuracy": "110/123",
+ "arms": {
+  "judge": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "114/123",
+   "decision_accuracy_ci95": [
+    0.867,
+    0.961
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.87,
+    0.976
+   ],
+   "items_all_cases_right": "34/41",
+   "B_wrong_answer_caught_and_fixed": "38/41",
+   "B_flagged_any": "2/41",
+   "C_kept_irrelevant_mismatch": "40/41",
+   "A_false_alarm": "3/41",
+   "defer_when_answer_right": 0,
+   "calls": 123,
+   "seconds": 6865,
+   "B_fixed_by_family": {
+    "analysis_population": "0/1",
+    "currency_basis": "11/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "3/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 4,
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 3,
+    "this_only_right": 2,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "judge_checklist": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "115/123",
+   "decision_accuracy_ci95": [
+    0.877,
+    0.967
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.878,
+    0.984
+   ],
+   "items_all_cases_right": "36/41",
+   "B_wrong_answer_caught_and_fixed": "38/41",
+   "B_flagged_any": "4/41",
+   "C_kept_irrelevant_mismatch": "40/41",
+   "A_false_alarm": "4/41",
+   "defer_when_answer_right": 0,
+   "calls": 123,
+   "seconds": 3596,
+   "B_fixed_by_family": {
+    "analysis_population": "0/1",
+    "currency_basis": "12/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "2/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 5,
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 0,
+    "this_only_right": 0,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "qbr": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "116/123",
+   "decision_accuracy_ci95": [
+    0.887,
+    0.972
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.886,
+    0.984
+   ],
+   "items_all_cases_right": "36/41",
+   "B_wrong_answer_caught_and_fixed": "40/41",
+   "B_flagged_any": "6/41",
+   "C_kept_irrelevant_mismatch": "39/41",
+   "A_false_alarm": "6/41",
+   "defer_when_answer_right": 0,
+   "calls": 123,
+   "seconds": 4064,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "13/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "2/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 8,
+   "decided_by": {
+    "code": "12/14 right",
+    "judge": "104/109 right"
+   },
+   "unbound_operand_reasons": {
+    "printed condition not in the verifiable lexicon": 49,
+    "value not printed in quote": 6,
+    "user condition words not in the user's situation": 12,
+    "condition words not in quote": 30,
+    "quote not found in source": 15,
+    "period: printed 'quarter' but the user's situation does not state one": 5,
+    "accounting: printed 'non-GAAP' but the user's situation does not state one": 3,
+    "condition words are not in a clause that prints only this number": 12,
+    "quote not found in user": 2,
+    "clause prints several numbers but no condition words were given": 2
+   },
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 2,
+    "this_only_right": 3,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "rules": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "110/123",
+   "decision_accuracy_ci95": [
+    0.828,
+    0.937
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.821,
+    0.959
+   ],
+   "items_all_cases_right": "32/41",
+   "B_wrong_answer_caught_and_fixed": "36/41",
+   "B_flagged_any": "0/41",
+   "C_kept_irrelevant_mismatch": "41/41",
+   "A_false_alarm": "0/41",
+   "defer_when_answer_right": 0,
+   "calls": 0,
+   "seconds": 0,
+   "B_fixed_by_family": {
+    "analysis_population": "0/1",
+    "currency_basis": "10/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "1/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "3/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 0,
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 7,
+    "this_only_right": 2,
+    "exact_mcnemar_p": 0.1797
+   }
+  },
+  "qbr-agree": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "115/123",
+   "decision_accuracy_ci95": [
+    0.877,
+    0.967
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.878,
+    0.984
+   ],
+   "items_all_cases_right": "35/41",
+   "B_wrong_answer_caught_and_fixed": "39/41",
+   "B_flagged_any": "6/41",
+   "C_kept_irrelevant_mismatch": "39/41",
+   "A_false_alarm": "6/41",
+   "defer_when_answer_right": 1,
+   "calls": 123,
+   "seconds": 4064,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "12/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "2/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 7,
+   "decided_by": {
+    "code": "11/12 right",
+    "defer": "0/2 right",
+    "judge": "104/109 right"
+   },
+   "unbound_operand_reasons": {
+    "printed condition not in the verifiable lexicon": 49,
+    "value not printed in quote": 6,
+    "user condition words not in the user's situation": 12,
+    "condition words not in quote": 30,
+    "quote not found in source": 15,
+    "period: printed 'quarter' but the user's situation does not state one": 5,
+    "accounting: printed 'non-GAAP' but the user's situation does not state one": 3,
+    "condition words are not in a clause that prints only this number": 12,
+    "quote not found in user": 2,
+    "clause prints several numbers but no condition words were given": 2
+   },
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 2,
+    "this_only_right": 2,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "qbr-judge_only": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "116/123",
+   "decision_accuracy_ci95": [
+    0.887,
+    0.972
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.894,
+    0.984
+   ],
+   "items_all_cases_right": "35/41",
+   "B_wrong_answer_caught_and_fixed": "39/41",
+   "B_flagged_any": "5/41",
+   "C_kept_irrelevant_mismatch": "39/41",
+   "A_false_alarm": "5/41",
+   "defer_when_answer_right": 0,
+   "calls": 123,
+   "seconds": 4064,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "12/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "2/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 7,
+   "decided_by": {
+    "correct": "107/111 right",
+    "incorrect": "9/12 right"
+   },
+   "unbound_operand_reasons": {},
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 1,
+    "this_only_right": 2,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "qbr-source_bound": {
+   "cases": 123,
+   "errors": 0,
+   "decision_accuracy": "117/123",
+   "decision_accuracy_ci95": [
+    0.898,
+    0.977
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.902,
+    0.984
+   ],
+   "items_all_cases_right": "36/41",
+   "B_wrong_answer_caught_and_fixed": "40/41",
+   "B_flagged_any": "6/41",
+   "C_kept_irrelevant_mismatch": "39/41",
+   "A_false_alarm": "5/41",
+   "defer_when_answer_right": 0,
+   "calls": 123,
+   "seconds": 4064,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "13/13",
+    "gaap_basis": "2/2",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "8/8",
+    "population_scope": "2/3",
+    "relative_vs_absolute": "1/1",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "10/10"
+   },
+   "wrong_interventions_on_right_answers": 7,
+   "decided_by": {
+    "code": "12/13 right",
+    "judge": "105/110 right"
+   },
+   "unbound_operand_reasons": {
+    "printed condition not in the verifiable lexicon": 49,
+    "value not printed in quote": 6,
+    "user condition words not in the user's situation": 12,
+    "condition words not in quote": 30,
+    "quote not found in source": 15,
+    "period: printed 'quarter' but the user's situation does not state one": 5,
+    "accounting: printed 'non-GAAP' but the user's situation does not state one": 3,
+    "condition words are not in a clause that prints only this number": 12,
+    "quote not found in user": 2,
+    "clause prints several numbers but no condition words were given": 2
+   },
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 1,
+    "this_only_right": 3,
+    "exact_mcnemar_p": 0.625
+   }
+  }
+ }
+}

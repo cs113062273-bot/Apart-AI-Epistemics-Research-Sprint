@@ -1,0 +1,273 @@
+{
+ "split": "v3",
+ "cases": 51,
+ "no_verifier_decision_accuracy": "49/51",
+ "arms": {
+  "judge_checklist": {
+   "cases": 51,
+   "errors": 0,
+   "decision_accuracy": "50/51",
+   "decision_accuracy_ci95": [
+    0.897,
+    0.997
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.941,
+    1.0
+   ],
+   "items_all_cases_right": "16/17",
+   "B_wrong_answer_caught_and_fixed": "16/17",
+   "B_flagged_any": "1/17",
+   "C_kept_irrelevant_mismatch": "17/17",
+   "A_false_alarm": "0/17",
+   "defer_when_answer_right": 0,
+   "calls": 51,
+   "seconds": 2589,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "3/3",
+    "gaap_basis": "4/4",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "1/1",
+    "population_scope": "1/1",
+    "relative_vs_absolute": "2/2",
+    "reporting_period": "0/1",
+    "segment_vs_consolidated": "2/2"
+   },
+   "wrong_interventions_on_right_answers": 0,
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 0,
+    "this_only_right": 0,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "qbr": {
+   "cases": 51,
+   "errors": 0,
+   "decision_accuracy": "51/51",
+   "decision_accuracy_ci95": [
+    0.93,
+    1.0
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    1.0,
+    1.0
+   ],
+   "items_all_cases_right": "17/17",
+   "B_wrong_answer_caught_and_fixed": "17/17",
+   "B_flagged_any": "2/17",
+   "C_kept_irrelevant_mismatch": "17/17",
+   "A_false_alarm": "0/17",
+   "defer_when_answer_right": 0,
+   "calls": 51,
+   "seconds": 2307,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "3/3",
+    "gaap_basis": "4/4",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "1/1",
+    "population_scope": "1/1",
+    "relative_vs_absolute": "2/2",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "2/2"
+   },
+   "wrong_interventions_on_right_answers": 0,
+   "decided_by": {
+    "code": "20/20 right",
+    "judge": "31/31 right"
+   },
+   "unbound_operand_reasons": {
+    "printed condition not in the verifiable lexicon": 17,
+    "condition words not in quote": 13,
+    "condition words are not in a clause that prints only this number": 1,
+    "quote not found in source": 3,
+    "value not printed in quote": 1
+   },
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 0,
+    "this_only_right": 1,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "rules": {
+   "cases": 51,
+   "errors": 0,
+   "decision_accuracy": "47/51",
+   "decision_accuracy_ci95": [
+    0.815,
+    0.969
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    0.824,
+    1.0
+   ],
+   "items_all_cases_right": "14/17",
+   "B_wrong_answer_caught_and_fixed": "15/17",
+   "B_flagged_any": "2/17",
+   "C_kept_irrelevant_mismatch": "15/17",
+   "A_false_alarm": "0/17",
+   "defer_when_answer_right": 0,
+   "calls": 0,
+   "seconds": 0,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "3/3",
+    "gaap_basis": "4/4",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "1/1",
+    "population_scope": "0/1",
+    "relative_vs_absolute": "1/2",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "2/2"
+   },
+   "wrong_interventions_on_right_answers": 2,
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 4,
+    "this_only_right": 1,
+    "exact_mcnemar_p": 0.375
+   }
+  },
+  "qbr-agree": {
+   "cases": 51,
+   "errors": 0,
+   "decision_accuracy": "51/51",
+   "decision_accuracy_ci95": [
+    0.93,
+    1.0
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    1.0,
+    1.0
+   ],
+   "items_all_cases_right": "17/17",
+   "B_wrong_answer_caught_and_fixed": "17/17",
+   "B_flagged_any": "2/17",
+   "C_kept_irrelevant_mismatch": "17/17",
+   "A_false_alarm": "0/17",
+   "defer_when_answer_right": 0,
+   "calls": 51,
+   "seconds": 2307,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "3/3",
+    "gaap_basis": "4/4",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "1/1",
+    "population_scope": "1/1",
+    "relative_vs_absolute": "2/2",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "2/2"
+   },
+   "wrong_interventions_on_right_answers": 0,
+   "decided_by": {
+    "code": "20/20 right",
+    "judge": "31/31 right"
+   },
+   "unbound_operand_reasons": {
+    "printed condition not in the verifiable lexicon": 17,
+    "condition words not in quote": 13,
+    "condition words are not in a clause that prints only this number": 1,
+    "quote not found in source": 3,
+    "value not printed in quote": 1
+   },
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 0,
+    "this_only_right": 1,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "qbr-judge_only": {
+   "cases": 51,
+   "errors": 0,
+   "decision_accuracy": "51/51",
+   "decision_accuracy_ci95": [
+    0.93,
+    1.0
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    1.0,
+    1.0
+   ],
+   "items_all_cases_right": "17/17",
+   "B_wrong_answer_caught_and_fixed": "17/17",
+   "B_flagged_any": "2/17",
+   "C_kept_irrelevant_mismatch": "17/17",
+   "A_false_alarm": "0/17",
+   "defer_when_answer_right": 0,
+   "calls": 51,
+   "seconds": 2307,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "3/3",
+    "gaap_basis": "4/4",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "1/1",
+    "population_scope": "1/1",
+    "relative_vs_absolute": "2/2",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "2/2"
+   },
+   "wrong_interventions_on_right_answers": 0,
+   "decided_by": {
+    "correct": "49/49 right",
+    "incorrect": "2/2 right"
+   },
+   "unbound_operand_reasons": {},
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 0,
+    "this_only_right": 1,
+    "exact_mcnemar_p": 1.0
+   }
+  },
+  "qbr-source_bound": {
+   "cases": 51,
+   "errors": 0,
+   "decision_accuracy": "51/51",
+   "decision_accuracy_ci95": [
+    0.93,
+    1.0
+   ],
+   "decision_accuracy_item_bootstrap_ci95": [
+    1.0,
+    1.0
+   ],
+   "items_all_cases_right": "17/17",
+   "B_wrong_answer_caught_and_fixed": "17/17",
+   "B_flagged_any": "2/17",
+   "C_kept_irrelevant_mismatch": "17/17",
+   "A_false_alarm": "0/17",
+   "defer_when_answer_right": 0,
+   "calls": 51,
+   "seconds": 2307,
+   "B_fixed_by_family": {
+    "analysis_population": "1/1",
+    "currency_basis": "3/3",
+    "gaap_basis": "4/4",
+    "guidance_vs_reported": "2/2",
+    "outcome_mismatch": "1/1",
+    "population_scope": "1/1",
+    "relative_vs_absolute": "2/2",
+    "reporting_period": "1/1",
+    "segment_vs_consolidated": "2/2"
+   },
+   "wrong_interventions_on_right_answers": 0,
+   "decided_by": {
+    "code": "19/19 right",
+    "judge": "32/32 right"
+   },
+   "unbound_operand_reasons": {
+    "printed condition not in the verifiable lexicon": 17,
+    "condition words not in quote": 13,
+    "condition words are not in a clause that prints only this number": 1,
+    "quote not found in source": 3,
+    "value not printed in quote": 1
+   },
+   "vs_judge_checklist_paired": {
+    "judge_checklist_only_right": 0,
+    "this_only_right": 1,
+    "exact_mcnemar_p": 1.0
+   }
+  }
+ }
+}

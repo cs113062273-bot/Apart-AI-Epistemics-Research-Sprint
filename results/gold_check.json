@@ -1,0 +1,67 @@
+{
+ "discovery": {
+  "cases": 51,
+  "recomputed_gold_mismatches": [],
+  "snippets_not_printed": [],
+  "gold_contestable_cases": [
+   [
+    "v3-pterygium-age",
+    "C"
+   ]
+  ],
+  "template_ambiguous_cases": [],
+  "template_ambiguous_items": [],
+  "cases_in_template_ambiguous_items": 0
+ },
+ "replication": {
+  "cases": 123,
+  "recomputed_gold_mismatches": [],
+  "snippets_not_printed": [],
+  "gold_contestable_cases": [
+   [
+    "v4-urokinase-lvo",
+    "A"
+   ]
+  ],
+  "template_ambiguous_cases": [
+   [
+    "v4-appendix-outcome",
+    "A"
+   ],
+   [
+    "v4-appendix-outcome",
+    "B"
+   ],
+   [
+    "v4-appendix-outcome",
+    "C"
+   ],
+   [
+    "v4-appendix-pp",
+    "A"
+   ],
+   [
+    "v4-appendix-pp",
+    "B"
+   ],
+   [
+    "v4-appendix-pp",
+    "C"
+   ],
+   [
+    "v4-urokinase-lvo",
+    "A"
+   ],
+   [
+    "v4-urokinase-lvo",
+    "C"
+   ]
+  ],
+  "template_ambiguous_items": [
+   "v4-appendix-outcome",
+   "v4-appendix-pp",
+   "v4-urokinase-lvo"
+  ],
+  "cases_in_template_ambiguous_items": 9
+ }
+}

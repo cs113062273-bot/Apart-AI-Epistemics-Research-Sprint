@@ -1,0 +1,775 @@
+{
+ "qwen35-9b": {
+  "prevalence": {
+   "cases_total": 123,
+   "cases_answered": 123,
+   "A": {
+    "n": 41,
+    "wrong": 6,
+    "wrong_rate_ci95": [
+     0.069,
+     0.284
+    ],
+    "types": {
+     "correct": 35,
+     "applicable_value_misused": 5,
+     "other": 1
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "B": {
+    "n": 41,
+    "wrong": 5,
+    "wrong_rate_ci95": [
+     0.053,
+     0.255
+    ],
+    "types": {
+     "correct": 36,
+     "applicable_value_misused": 5
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "C": {
+    "n": 41,
+    "wrong": 2,
+    "wrong_rate_ci95": [
+     0.013,
+     0.161
+    ],
+    "types": {
+     "correct": 39,
+     "applicable_value_misused": 2
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "all": {
+    "n": 123,
+    "wrong": 13,
+    "types": {
+     "correct": 110,
+     "applicable_value_misused": 12,
+     "other": 1
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 41,
+    "B": 41,
+    "C": 41
+   },
+   "by_label": {
+    "A": {
+     "numeric_or_reasoning_error": 4,
+     "supported_inapplicable": 2
+    },
+    "B": {
+     "ambiguous_value": 1,
+     "supported_inapplicable": 2,
+     "numeric_or_reasoning_error": 2
+    },
+    "C": {
+     "numeric_or_reasoning_error": 2
+    }
+   },
+   "totals": {
+    "numeric_or_reasoning_error": 8,
+    "supported_inapplicable": 4,
+    "ambiguous_value": 1
+   },
+   "wrong_total": 13,
+   "B_supported_inapplicable": "2/41",
+   "B_supported_inapplicable_or_ambiguous": "3/41",
+   "B_wrong": "5/41",
+   "gold_contestable": [
+    [
+     "v4-urokinase-lvo",
+     "A"
+    ]
+   ]
+  },
+  "verifiers": {
+   "no_verifier": {
+    "decision_accuracy": "110/123",
+    "ci95": [
+     0.821,
+     0.959
+    ]
+   },
+   "judge": {
+    "decision_accuracy": "114/123",
+    "ci95": [
+     0.87,
+     0.976
+    ],
+    "wrong_fixed": "5/13",
+    "right_kept": "109/110",
+    "si_fixed": "1/4",
+    "errors": 0
+   },
+   "judge_checklist": {
+    "decision_accuracy": "115/123",
+    "ci95": [
+     0.878,
+     0.984
+    ],
+    "wrong_fixed": "7/13",
+    "right_kept": "108/110",
+    "si_fixed": "2/4",
+    "errors": 0
+   },
+   "qbr": {
+    "decision_accuracy": "116/123",
+    "ci95": [
+     0.886,
+     0.984
+    ],
+    "wrong_fixed": "10/13",
+    "right_kept": "106/110",
+    "si_fixed": "3/4",
+    "errors": 0,
+    "certified": "12/14",
+    "decided_by": {
+     "judge (operand not verified)": 109,
+     "code": 14
+    }
+   },
+   "rules": {
+    "decision_accuracy": "110/123",
+    "ci95": [
+     0.821,
+     0.959
+    ],
+    "wrong_fixed": "0/13",
+    "right_kept": "110/110",
+    "si_fixed": "0/4",
+    "errors": 0
+   },
+   "qbr-judge_only": {
+    "decision_accuracy": "116/123",
+    "ci95": [
+     0.894,
+     0.984
+    ],
+    "wrong_fixed": "9/13",
+    "right_kept": "107/110",
+    "si_fixed": "2/4",
+    "errors": 0
+   },
+   "qbr-source_bound": {
+    "decision_accuracy": "117/123",
+    "ci95": [
+     0.902,
+     0.984
+    ],
+    "wrong_fixed": "10/13",
+    "right_kept": "107/110",
+    "si_fixed": "3/4",
+    "errors": 0,
+    "certified": "12/13",
+    "decided_by": {
+     "judge (operand not verified)": 109,
+     "code": 13,
+     "judge (computation uses no source value)": 1
+    }
+   },
+   "paired": [
+    {
+     "x": "qbr-source_bound",
+     "y": "judge_checklist",
+     "x_only": 3,
+     "y_only": 1,
+     "p": 0.625
+    },
+    {
+     "x": "qbr-source_bound",
+     "y": "qbr-judge_only",
+     "x_only": 1,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "judge",
+     "x_only": 3,
+     "y_only": 2,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "rules",
+     "x_only": 7,
+     "y_only": 2,
+     "p": 0.1797
+    }
+   ]
+  }
+ },
+ "qwen3-4b": {
+  "prevalence": {
+   "cases_total": 123,
+   "cases_answered": 123,
+   "A": {
+    "n": 41,
+    "wrong": 5,
+    "wrong_rate_ci95": [
+     0.053,
+     0.255
+    ],
+    "types": {
+     "correct": 36,
+     "applicable_value_misused": 4,
+     "supported_inapplicable": 1
+    },
+    "supported_inapplicable": 1,
+    "supported_inapplicable_ci95": [
+     0.004,
+     0.126
+    ]
+   },
+   "B": {
+    "n": 41,
+    "wrong": 5,
+    "wrong_rate_ci95": [
+     0.053,
+     0.255
+    ],
+    "types": {
+     "correct": 36,
+     "applicable_value_misused": 5
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "C": {
+    "n": 41,
+    "wrong": 2,
+    "wrong_rate_ci95": [
+     0.013,
+     0.161
+    ],
+    "types": {
+     "correct": 39,
+     "applicable_value_misused": 2
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "all": {
+    "n": 123,
+    "wrong": 12,
+    "types": {
+     "correct": 111,
+     "applicable_value_misused": 11,
+     "supported_inapplicable": 1
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 41,
+    "B": 41,
+    "C": 41
+   },
+   "by_label": {
+    "A": {
+     "supported_inapplicable": 2,
+     "numeric_or_reasoning_error": 3
+    },
+    "B": {
+     "numeric_or_reasoning_error": 2,
+     "supported_inapplicable": 3
+    },
+    "C": {
+     "numeric_or_reasoning_error": 2
+    }
+   },
+   "totals": {
+    "supported_inapplicable": 5,
+    "numeric_or_reasoning_error": 7
+   },
+   "wrong_total": 12,
+   "B_supported_inapplicable": "3/41",
+   "B_supported_inapplicable_or_ambiguous": "3/41",
+   "B_wrong": "5/41",
+   "gold_contestable": [
+    [
+     "v4-urokinase-lvo",
+     "A"
+    ]
+   ]
+  },
+  "verifiers": {
+   "no_verifier": {
+    "decision_accuracy": "111/123",
+    "ci95": [
+     0.846,
+     0.959
+    ]
+   },
+   "judge": {
+    "decision_accuracy": "115/123",
+    "ci95": [
+     0.886,
+     0.976
+    ],
+    "wrong_fixed": "6/12",
+    "right_kept": "109/111",
+    "si_fixed": "2/5",
+    "errors": 0
+   },
+   "judge_checklist": {
+    "decision_accuracy": "115/123",
+    "ci95": [
+     0.886,
+     0.976
+    ],
+    "wrong_fixed": "5/12",
+    "right_kept": "110/111",
+    "si_fixed": "2/5",
+    "errors": 0
+   },
+   "qbr": {
+    "decision_accuracy": "114/123",
+    "ci95": [
+     0.87,
+     0.976
+    ],
+    "wrong_fixed": "7/12",
+    "right_kept": "107/111",
+    "si_fixed": "3/5",
+    "errors": 2,
+    "certified": "9/9",
+    "decided_by": {
+     "judge (operand not verified)": 111,
+     "code": 9,
+     "insufficient": 1,
+     "error": 2
+    }
+   },
+   "rules": {
+    "decision_accuracy": "111/123",
+    "ci95": [
+     0.846,
+     0.959
+    ],
+    "wrong_fixed": "0/12",
+    "right_kept": "111/111",
+    "si_fixed": "0/5",
+    "errors": 0
+   },
+   "qbr-judge_only": {
+    "decision_accuracy": "113/123",
+    "ci95": [
+     0.862,
+     0.967
+    ],
+    "wrong_fixed": "6/12",
+    "right_kept": "107/111",
+    "si_fixed": "3/5",
+    "errors": 2
+   },
+   "qbr-source_bound": {
+    "decision_accuracy": "114/123",
+    "ci95": [
+     0.87,
+     0.976
+    ],
+    "wrong_fixed": "7/12",
+    "right_kept": "107/111",
+    "si_fixed": "3/5",
+    "errors": 2,
+    "certified": "7/7",
+    "decided_by": {
+     "judge (operand not verified)": 111,
+     "code": 7,
+     "insufficient": 1,
+     "judge (computation uses no source value)": 2,
+     "error": 2
+    }
+   },
+   "paired": [
+    {
+     "x": "qbr-source_bound",
+     "y": "judge_checklist",
+     "x_only": 2,
+     "y_only": 3,
+     "p": 1.0
+    },
+    {
+     "x": "qbr-source_bound",
+     "y": "qbr-judge_only",
+     "x_only": 1,
+     "y_only": 0,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "judge",
+     "x_only": 2,
+     "y_only": 2,
+     "p": 1.0
+    },
+    {
+     "x": "judge_checklist",
+     "y": "rules",
+     "x_only": 5,
+     "y_only": 1,
+     "p": 0.2188
+    }
+   ]
+  }
+ },
+ "qwen2.5-1.5b": {
+  "prevalence": {
+   "cases_total": 123,
+   "cases_answered": 119,
+   "A": {
+    "n": 41,
+    "wrong": 20,
+    "wrong_rate_ci95": [
+     0.343,
+     0.635
+    ],
+    "types": {
+     "correct": 21,
+     "applicable_value_misused": 12,
+     "other": 5,
+     "no_answer": 3
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "B": {
+    "n": 41,
+    "wrong": 19,
+    "wrong_rate_ci95": [
+     0.321,
+     0.613
+    ],
+    "types": {
+     "applicable_value_misused": 14,
+     "other": 2,
+     "correct": 21,
+     "correct_with_trap_value": 1,
+     "supported_inapplicable": 3
+    },
+    "supported_inapplicable": 3,
+    "supported_inapplicable_ci95": [
+     0.025,
+     0.194
+    ]
+   },
+   "C": {
+    "n": 41,
+    "wrong": 16,
+    "wrong_rate_ci95": [
+     0.257,
+     0.543
+    ],
+    "types": {
+     "correct_with_trap_value": 2,
+     "correct": 23,
+     "applicable_value_misused": 12,
+     "supported_inapplicable": 1,
+     "other": 2,
+     "no_answer": 1
+    },
+    "supported_inapplicable": 1,
+    "supported_inapplicable_ci95": [
+     0.004,
+     0.126
+    ]
+   },
+   "all": {
+    "n": 123,
+    "wrong": 55,
+    "types": {
+     "correct": 65,
+     "applicable_value_misused": 38,
+     "other": 9,
+     "no_answer": 4,
+     "correct_with_trap_value": 3,
+     "supported_inapplicable": 4
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 41,
+    "B": 41,
+    "C": 41
+   },
+   "by_label": {
+    "A": {
+     "other_printed_value": 3,
+     "ambiguous_value": 2,
+     "supported_inapplicable": 4,
+     "numeric_or_reasoning_error": 8,
+     "no_answer": 3
+    },
+    "B": {
+     "supported_inapplicable": 6,
+     "numeric_or_reasoning_error": 9,
+     "right_for_wrong_reason": 1,
+     "ambiguous_value": 4
+    },
+    "C": {
+     "right_with_inapplicable_value": 2,
+     "other_printed_value": 1,
+     "supported_inapplicable": 1,
+     "numeric_or_reasoning_error": 13,
+     "no_answer": 1
+    }
+   },
+   "totals": {
+    "other_printed_value": 4,
+    "ambiguous_value": 6,
+    "supported_inapplicable": 11,
+    "numeric_or_reasoning_error": 30,
+    "no_answer": 4,
+    "right_for_wrong_reason": 1,
+    "right_with_inapplicable_value": 2
+   },
+   "wrong_total": 55,
+   "B_supported_inapplicable": "6/41",
+   "B_supported_inapplicable_or_ambiguous": "10/41",
+   "B_wrong": "19/41",
+   "gold_contestable": []
+  },
+  "verifiers": null
+ },
+ "smollm2-1.7b": {
+  "prevalence": {
+   "cases_total": 123,
+   "cases_answered": 114,
+   "A": {
+    "n": 41,
+    "wrong": 21,
+    "wrong_rate_ci95": [
+     0.365,
+     0.657
+    ],
+    "types": {
+     "other": 10,
+     "correct": 18,
+     "correct_with_trap_value": 2,
+     "applicable_value_misused": 10,
+     "no_answer": 1
+    },
+    "supported_inapplicable": 0,
+    "supported_inapplicable_ci95": [
+     0.0,
+     0.086
+    ]
+   },
+   "B": {
+    "n": 41,
+    "wrong": 17,
+    "wrong_rate_ci95": [
+     0.278,
+     0.566
+    ],
+    "types": {
+     "correct": 22,
+     "no_answer": 5,
+     "other": 9,
+     "supported_inapplicable": 1,
+     "applicable_value_misused": 2,
+     "correct_with_trap_value": 2
+    },
+    "supported_inapplicable": 1,
+    "supported_inapplicable_ci95": [
+     0.004,
+     0.126
+    ]
+   },
+   "C": {
+    "n": 41,
+    "wrong": 26,
+    "wrong_rate_ci95": [
+     0.481,
+     0.764
+    ],
+    "types": {
+     "applicable_value_misused": 8,
+     "other": 14,
+     "correct": 12,
+     "correct_with_trap_value": 3,
+     "no_answer": 3,
+     "supported_inapplicable": 1
+    },
+    "supported_inapplicable": 1,
+    "supported_inapplicable_ci95": [
+     0.004,
+     0.126
+    ]
+   },
+   "all": {
+    "n": 123,
+    "wrong": 64,
+    "types": {
+     "other": 33,
+     "correct": 52,
+     "correct_with_trap_value": 7,
+     "applicable_value_misused": 20,
+     "no_answer": 9,
+     "supported_inapplicable": 2
+    }
+   }
+  },
+  "audit": {
+   "n_per_label": {
+    "A": 41,
+    "B": 41,
+    "C": 41
+   },
+   "by_label": {
+    "A": {
+     "numeric_or_reasoning_error": 16,
+     "other_printed_value": 2,
+     "right_for_wrong_reason": 2,
+     "ambiguous_value": 1,
+     "supported_inapplicable": 1,
+     "no_answer": 1
+    },
+    "B": {
+     "no_answer": 5,
+     "numeric_or_reasoning_error": 10,
+     "supported_inapplicable": 2,
+     "right_for_wrong_reason": 2
+    },
+    "C": {
+     "numeric_or_reasoning_error": 23,
+     "right_with_inapplicable_value": 2,
+     "no_answer": 3,
+     "right_for_wrong_reason": 1
+    }
+   },
+   "totals": {
+    "numeric_or_reasoning_error": 49,
+    "other_printed_value": 2,
+    "right_for_wrong_reason": 5,
+    "ambiguous_value": 1,
+    "supported_inapplicable": 3,
+    "no_answer": 9,
+    "right_with_inapplicable_value": 2
+   },
+   "wrong_total": 64,
+   "B_supported_inapplicable": "2/41",
+   "B_supported_inapplicable_or_ambiguous": "2/41",
+   "B_wrong": "17/41",
+   "gold_contestable": [
+    [
+     "v4-urokinase-lvo",
+     "A"
+    ]
+   ]
+  },
+  "verifiers": null
+ },
+ "H1": {
+  "strong_si_of_wrong": "9/25",
+  "weak_si_of_wrong": "14/119",
+  "fisher_one_sided_p": 0.0057
+ },
+ "by_family": {
+  "analysis_population": {
+   "cases": 3,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "currency_basis": {
+   "cases": 39,
+   "by_assistant": {
+    "qwen35-9b": 2,
+    "qwen3-4b": 3,
+    "qwen2.5-1.5b": 5,
+    "smollm2-1.7b": 1
+   },
+   "distinct_cases": 8
+  },
+  "gaap_basis": {
+   "cases": 6,
+   "by_assistant": {
+    "qwen2.5-1.5b": 1
+   },
+   "distinct_cases": 1
+  },
+  "guidance_vs_reported": {
+   "cases": 6,
+   "by_assistant": {
+    "qwen35-9b": 1,
+    "qwen3-4b": 1,
+    "qwen2.5-1.5b": 1
+   },
+   "distinct_cases": 1
+  },
+  "outcome_mismatch": {
+   "cases": 24,
+   "by_assistant": {
+    "qwen2.5-1.5b": 1,
+    "smollm2-1.7b": 1
+   },
+   "distinct_cases": 1
+  },
+  "population_scope": {
+   "cases": 9,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "relative_vs_absolute": {
+   "cases": 3,
+   "by_assistant": {},
+   "distinct_cases": 0
+  },
+  "reporting_period": {
+   "cases": 3,
+   "by_assistant": {
+    "smollm2-1.7b": 1
+   },
+   "distinct_cases": 1
+  },
+  "segment_vs_consolidated": {
+   "cases": 30,
+   "by_assistant": {
+    "qwen35-9b": 1,
+    "qwen3-4b": 1,
+    "qwen2.5-1.5b": 3
+   },
+   "distinct_cases": 3
+  }
+ },
+ "H1_sensitivity": {
+  "excluded_items": [
+   "v4-appendix-outcome",
+   "v4-appendix-pp",
+   "v4-urokinase-lvo"
+  ],
+  "strong_si_of_wrong": "9/15",
+  "weak_si_of_wrong": "12/110",
+  "fisher_one_sided_p": 0.0001
+ }
+}

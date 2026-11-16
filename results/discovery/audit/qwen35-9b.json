@@ -1,0 +1,8 @@
+[
+ {"item": "v3-garmin-ytd", "label": "B", "category": "supported_inapplicable",
+  "reason": "States that the outdoor segment grew 20% 'for the 39-week period'; its own quote includes the table row whose 39-week change is 5%. The quarterly 20% (verbatim in the source) is applied to a year-to-date criterion and the decision flips. Automatic typing labelled it applicable_value_misused because the quote contains the table row."},
+ {"item": "v3-garmin-ytd", "label": "C", "category": "right_with_inapplicable_value",
+  "reason": "Same attribution of the quarterly 20% to the 39-week period; right only because the true 5% also meets 3%."},
+ {"item": "v3-pterygium-age", "label": "B", "category": "supported_inapplicable",
+  "reason": "Reads the 41-60 subgroup result (11.1% vs 11.5%, 'no difference') and still applies the overall 6.5-point reduction to a 50-year-old because the subgroup is not statistically significant. The overall value is verbatim in the source; the decision flips. Automatic typing labelled it applicable_value_misused because both values are cited."}
+]

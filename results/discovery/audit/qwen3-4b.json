@@ -1,0 +1,11 @@
+[
+ {"item": "v3-garmin-ytd", "label": "B", "category": "supported_inapplicable",
+  "reason": "Quote is verbatim (Q3 segment sentence, 20%). The user asks about year-to-date growth; the answer applies the quarterly 20% and states that the year-to-date figure is not provided, although the table prints it (5%). Decision flips."},
+ {"item": "v3-garmin-ytd", "label": "C", "category": "right_with_inapplicable_value",
+  "reason": "Same quarterly 20% applied to a year-to-date question; the decision is right only because the 3% threshold is also met by the true year-to-date 5%."},
+ {"item": "v3-pterygium-age", "label": "B", "category": "supported_inapplicable",
+  "reason": "Quote is verbatim (overall ARR 6.5 points). The user is 50; the abstract prints 11.1% vs 11.5% for ages 41-60. The overall effect is applied to the user and the decision flips."},
+ {"item": "v3-pterygium-age", "label": "C", "category": "numeric_or_reasoning_error",
+  "reason": "Uses the applicable subgroup values (11.1% vs 11.5%) but answers no because the difference is not statistically significant, whereas the user's stated criterion is any point reduction (>0). Gold is contestable: a reader could treat a non-significant 0.4-point difference as no reduction.",
+  "gold_contestable": true}
+]
