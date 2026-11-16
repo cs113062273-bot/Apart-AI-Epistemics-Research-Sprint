@@ -1,0 +1,3330 @@
+{
+"page": "Slack pricing",
+"url": "https://slack.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 21,
+"text": "Skip to main content\n"
+},
+{
+"id": "S1L2",
+"start": 21,
+"end": 29,
+"text": "Product\n"
+},
+{
+"id": "S1L3",
+"start": 29,
+"end": 41,
+"text": "COLLABORATE\n"
+},
+{
+"id": "S1L4",
+"start": 41,
+"end": 73,
+"text": "Channels Chat and work together\n"
+},
+{
+"id": "S1L5",
+"start": 73,
+"end": 115,
+"text": "Slack Connect Work with external partners\n"
+},
+{
+"id": "S1L6",
+"start": 115,
+"end": 158,
+"text": "Meetings & Video Video chat with your team\n"
+},
+{
+"id": "S1L7",
+"start": 158,
+"end": 194,
+"text": "Canvas Create, edit, and share docs\n"
+},
+{
+"id": "S1L8",
+"start": 194,
+"end": 225,
+"text": "Lists Manage projects in Slack\n"
+},
+{
+"id": "S1L9",
+"start": 225,
+"end": 238,
+"text": "WORK WITH AI\n"
+},
+{
+"id": "S1L10",
+"start": 238,
+"end": 273,
+"text": "Slackbot Meet your new AI teammate\n"
+},
+{
+"id": "S1L11",
+"start": 273,
+"end": 317,
+"text": "Slack Code New Build with people and agents\n"
+},
+{
+"id": "S1L12",
+"start": 317,
+"end": 354,
+"text": "Native AI Save time with built-in AI\n"
+},
+{
+"id": "S1L13",
+"start": 354,
+"end": 396,
+"text": "Agentforce Team up with Salesforce agents\n"
+},
+{
+"id": "S1L14",
+"start": 396,
+"end": 404,
+"text": "CONNECT\n"
+},
+{
+"id": "S1L15",
+"start": 404,
+"end": 452,
+"text": "Apps & Integrations Connect your favorite tools\n"
+},
+{
+"id": "S1L16",
+"start": 452,
+"end": 491,
+"text": "Native CRM Grow customer relationships\n"
+},
+{
+"id": "S1L17",
+"start": 491,
+"end": 537,
+"text": "Salesforce in Slack Put customer data to work\n"
+},
+{
+"id": "S1L18",
+"start": 537,
+"end": 582,
+"text": "Enterprise Search Find answers from anywhere\n"
+},
+{
+"id": "S1L19",
+"start": 582,
+"end": 588,
+"text": "BUILD\n"
+},
+{
+"id": "S1L20",
+"start": 588,
+"end": 639,
+"text": "Agentic Platform All your people, apps, and agents\n"
+},
+{
+"id": "S1L21",
+"start": 639,
+"end": 680,
+"text": "Workflow Builder Automate everyday tasks\n"
+},
+{
+"id": "S1L22",
+"start": 680,
+"end": 726,
+"text": "Trust & Security Keep work private and secure\n"
+},
+{
+"id": "S1L23",
+"start": 726,
+"end": 806,
+"text": "What's new See latest feature releases Slack Marketplace Browse over 2,600 apps\n"
+},
+{
+"id": "S1L24",
+"start": 806,
+"end": 832,
+"text": "Watch demo Download Slack\n"
+},
+{
+"id": "S1L25",
+"start": 832,
+"end": 851,
+"text": "See all features →\n"
+},
+{
+"id": "S1L26",
+"start": 851,
+"end": 861,
+"text": "Solutions\n"
+},
+{
+"id": "S1L27",
+"start": 861,
+"end": 875,
+"text": "BY DEPARTMENT\n"
+},
+{
+"id": "S1L28",
+"start": 875,
+"end": 885,
+"text": "Frontline\n"
+},
+{
+"id": "S1L29",
+"start": 885,
+"end": 897,
+"text": "Engineering\n"
+},
+{
+"id": "S1L30",
+"start": 897,
+"end": 900,
+"text": "IT\n"
+},
+{
+"id": "S1L31",
+"start": 900,
+"end": 917,
+"text": "Customer Service\n"
+},
+{
+"id": "S1L32",
+"start": 917,
+"end": 923,
+"text": "Sales\n"
+},
+{
+"id": "S1L33",
+"start": 923,
+"end": 942,
+"text": "Project Management\n"
+},
+{
+"id": "S1L34",
+"start": 942,
+"end": 952,
+"text": "Marketing\n"
+},
+{
+"id": "S1L35",
+"start": 952,
+"end": 968,
+"text": "Human Resources\n"
+},
+{
+"id": "S1L36",
+"start": 968,
+"end": 977,
+"text": "Security\n"
+},
+{
+"id": "S1L37",
+"start": 977,
+"end": 989,
+"text": "BY INDUSTRY\n"
+},
+{
+"id": "S1L38",
+"start": 989,
+"end": 1018,
+"text": "Manufacturing, Auto & Energy\n"
+},
+{
+"id": "S1L39",
+"start": 1018,
+"end": 1029,
+"text": "Technology\n"
+},
+{
+"id": "S1L40",
+"start": 1029,
+"end": 1035,
+"text": "Media\n"
+},
+{
+"id": "S1L41",
+"start": 1035,
+"end": 1050,
+"text": "Small Business\n"
+},
+{
+"id": "S1L42",
+"start": 1050,
+"end": 1069,
+"text": "Financial Services\n"
+},
+{
+"id": "S1L43",
+"start": 1069,
+"end": 1076,
+"text": "Retail\n"
+},
+{
+"id": "S1L44",
+"start": 1076,
+"end": 1090,
+"text": "Public Sector\n"
+},
+{
+"id": "S1L45",
+"start": 1090,
+"end": 1100,
+"text": "Education\n"
+},
+{
+"id": "S1L46",
+"start": 1100,
+"end": 1123,
+"text": "Health & Life Sciences\n"
+},
+{
+"id": "S1L47",
+"start": 1123,
+"end": 1135,
+"text": "BY USE CASE\n"
+},
+{
+"id": "S1L48",
+"start": 1135,
+"end": 1151,
+"text": "Manage Projects\n"
+},
+{
+"id": "S1L49",
+"start": 1151,
+"end": 1172,
+"text": "Client Collaboration\n"
+},
+{
+"id": "S1L50",
+"start": 1172,
+"end": 1195,
+"text": "Run Effective Meetings\n"
+},
+{
+"id": "S1L51",
+"start": 1195,
+"end": 1215,
+"text": "Pipeline Management\n"
+},
+{
+"id": "S1L52",
+"start": 1215,
+"end": 1239,
+"text": "Internal Communications\n"
+},
+{
+"id": "S1L53",
+"start": 1239,
+"end": 1256,
+"text": "Project Tracking\n"
+},
+{
+"id": "S1L54",
+"start": 1256,
+"end": 1272,
+"text": "Lead Management\n"
+},
+{
+"id": "S1L55",
+"start": 1272,
+"end": 1290,
+"text": "Team Productivity\n"
+},
+{
+"id": "S1L56",
+"start": 1290,
+"end": 1310,
+"text": "Employee Onboarding\n"
+},
+{
+"id": "S1L57",
+"start": 1310,
+"end": 1324,
+"text": "Time Tracking\n"
+},
+{
+"id": "S1L58",
+"start": 1324,
+"end": 1344,
+"text": "Find Answers Faster\n"
+},
+{
+"id": "S1L59",
+"start": 1344,
+"end": 1394,
+"text": "Template gallery Start work faster with templates\n"
+},
+{
+"id": "S1L60",
+"start": 1394,
+"end": 1420,
+"text": "Watch demo Download Slack\n"
+},
+{
+"id": "S1L61",
+"start": 1420,
+"end": 1440,
+"text": "See all solutions →\n"
+},
+{
+"id": "S1L62",
+"start": 1440,
+"end": 1451,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L63",
+"start": 1451,
+"end": 1461,
+"text": "Resources\n"
+},
+{
+"id": "S1L64",
+"start": 1461,
+"end": 1470,
+"text": "Discover\n"
+},
+{
+"id": "S1L65",
+"start": 1470,
+"end": 1481,
+"text": "What's New\n"
+},
+{
+"id": "S1L66",
+"start": 1481,
+"end": 1499,
+"text": "Resources Library\n"
+},
+{
+"id": "S1L67",
+"start": 1499,
+"end": 1516,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L68",
+"start": 1516,
+"end": 1523,
+"text": "Events\n"
+},
+{
+"id": "S1L69",
+"start": 1523,
+"end": 1529,
+"text": "Learn\n"
+},
+{
+"id": "S1L70",
+"start": 1529,
+"end": 1534,
+"text": "Blog\n"
+},
+{
+"id": "S1L71",
+"start": 1534,
+"end": 1547,
+"text": "Product Tour\n"
+},
+{
+"id": "S1L72",
+"start": 1547,
+"end": 1559,
+"text": "Help Center\n"
+},
+{
+"id": "S1L73",
+"start": 1559,
+"end": 1574,
+"text": "Slack vs Teams\n"
+},
+{
+"id": "S1L74",
+"start": 1574,
+"end": 1580,
+"text": "Build\n"
+},
+{
+"id": "S1L75",
+"start": 1580,
+"end": 1591,
+"text": "Developers\n"
+},
+{
+"id": "S1L76",
+"start": 1591,
+"end": 1607,
+"text": "Slack Community\n"
+},
+{
+"id": "S1L77",
+"start": 1607,
+"end": 1623,
+"text": "Partner Program\n"
+},
+{
+"id": "S1L78",
+"start": 1623,
+"end": 1638,
+"text": "Partner Offers\n"
+},
+{
+"id": "S1L79",
+"start": 1638,
+"end": 1685,
+"text": "AI era of work The future of enterprise growth\n"
+},
+{
+"id": "S1L80",
+"start": 1685,
+"end": 1711,
+"text": "Watch demo Download Slack\n"
+},
+{
+"id": "S1L81",
+"start": 1711,
+"end": 1719,
+"text": "Pricing\n"
+},
+{
+"id": "S1L82",
+"start": 1719,
+"end": 1726,
+"text": "Search\n"
+},
+{
+"id": "S1L83",
+"start": 1726,
+"end": 1760,
+"text": "Sign in Talk to sales Get started\n"
+},
+{
+"id": "S1L84",
+"start": 1760,
+"end": 1772,
+"text": "Get started\n"
+},
+{
+"id": "S1L85",
+"start": 1772,
+"end": 1777,
+"text": "Back\n"
+},
+{
+"id": "S1L86",
+"start": 1777,
+"end": 1785,
+"text": "Product\n"
+},
+{
+"id": "S1L87",
+"start": 1785,
+"end": 1797,
+"text": "COLLABORATE\n"
+},
+{
+"id": "S1L88",
+"start": 1797,
+"end": 1829,
+"text": "Channels Chat and work together\n"
+},
+{
+"id": "S1L89",
+"start": 1829,
+"end": 1871,
+"text": "Slack Connect Work with external partners\n"
+},
+{
+"id": "S1L90",
+"start": 1871,
+"end": 1914,
+"text": "Meetings & Video Video chat with your team\n"
+},
+{
+"id": "S1L91",
+"start": 1914,
+"end": 1950,
+"text": "Canvas Create, edit, and share docs\n"
+},
+{
+"id": "S1L92",
+"start": 1950,
+"end": 1981,
+"text": "Lists Manage projects in Slack\n"
+},
+{
+"id": "S1L93",
+"start": 1981,
+"end": 1994,
+"text": "WORK WITH AI\n"
+},
+{
+"id": "S1L94",
+"start": 1994,
+"end": 2029,
+"text": "Slackbot Meet your new AI teammate\n"
+},
+{
+"id": "S1L95",
+"start": 2029,
+"end": 2073,
+"text": "Slack Code New Build with people and agents\n"
+},
+{
+"id": "S1L96",
+"start": 2073,
+"end": 2110,
+"text": "Native AI Save time with built-in AI\n"
+},
+{
+"id": "S1L97",
+"start": 2110,
+"end": 2152,
+"text": "Agentforce Team up with Salesforce agents\n"
+},
+{
+"id": "S1L98",
+"start": 2152,
+"end": 2160,
+"text": "CONNECT\n"
+},
+{
+"id": "S1L99",
+"start": 2160,
+"end": 2208,
+"text": "Apps & Integrations Connect your favorite tools\n"
+},
+{
+"id": "S1L100",
+"start": 2208,
+"end": 2247,
+"text": "Native CRM Grow customer relationships\n"
+},
+{
+"id": "S1L101",
+"start": 2247,
+"end": 2293,
+"text": "Salesforce in Slack Put customer data to work\n"
+},
+{
+"id": "S1L102",
+"start": 2293,
+"end": 2338,
+"text": "Enterprise Search Find answers from anywhere\n"
+},
+{
+"id": "S1L103",
+"start": 2338,
+"end": 2344,
+"text": "BUILD\n"
+},
+{
+"id": "S1L104",
+"start": 2344,
+"end": 2395,
+"text": "Agentic Platform All your people, apps, and agents\n"
+},
+{
+"id": "S1L105",
+"start": 2395,
+"end": 2436,
+"text": "Workflow Builder Automate everyday tasks\n"
+},
+{
+"id": "S1L106",
+"start": 2436,
+"end": 2482,
+"text": "Trust & Security Keep work private and secure\n"
+},
+{
+"id": "S1L107",
+"start": 2482,
+"end": 2562,
+"text": "What's new See latest feature releases Slack Marketplace Browse over 2,600 apps\n"
+},
+{
+"id": "S1L108",
+"start": 2562,
+"end": 2572,
+"text": "Solutions\n"
+},
+{
+"id": "S1L109",
+"start": 2572,
+"end": 2586,
+"text": "BY DEPARTMENT\n"
+},
+{
+"id": "S1L110",
+"start": 2586,
+"end": 2596,
+"text": "Frontline\n"
+},
+{
+"id": "S1L111",
+"start": 2596,
+"end": 2608,
+"text": "Engineering\n"
+},
+{
+"id": "S1L112",
+"start": 2608,
+"end": 2611,
+"text": "IT\n"
+},
+{
+"id": "S1L113",
+"start": 2611,
+"end": 2628,
+"text": "Customer Service\n"
+},
+{
+"id": "S1L114",
+"start": 2628,
+"end": 2634,
+"text": "Sales\n"
+},
+{
+"id": "S1L115",
+"start": 2634,
+"end": 2653,
+"text": "Project Management\n"
+},
+{
+"id": "S1L116",
+"start": 2653,
+"end": 2663,
+"text": "Marketing\n"
+},
+{
+"id": "S1L117",
+"start": 2663,
+"end": 2679,
+"text": "Human Resources\n"
+},
+{
+"id": "S1L118",
+"start": 2679,
+"end": 2688,
+"text": "Security\n"
+},
+{
+"id": "S1L119",
+"start": 2688,
+"end": 2700,
+"text": "BY INDUSTRY\n"
+},
+{
+"id": "S1L120",
+"start": 2700,
+"end": 2729,
+"text": "Manufacturing, Auto & Energy\n"
+},
+{
+"id": "S1L121",
+"start": 2729,
+"end": 2740,
+"text": "Technology\n"
+},
+{
+"id": "S1L122",
+"start": 2740,
+"end": 2746,
+"text": "Media\n"
+},
+{
+"id": "S1L123",
+"start": 2746,
+"end": 2761,
+"text": "Small Business\n"
+},
+{
+"id": "S1L124",
+"start": 2761,
+"end": 2780,
+"text": "Financial Services\n"
+},
+{
+"id": "S1L125",
+"start": 2780,
+"end": 2787,
+"text": "Retail\n"
+},
+{
+"id": "S1L126",
+"start": 2787,
+"end": 2801,
+"text": "Public Sector\n"
+},
+{
+"id": "S1L127",
+"start": 2801,
+"end": 2811,
+"text": "Education\n"
+},
+{
+"id": "S1L128",
+"start": 2811,
+"end": 2834,
+"text": "Health & Life Sciences\n"
+},
+{
+"id": "S1L129",
+"start": 2834,
+"end": 2846,
+"text": "BY USE CASE\n"
+},
+{
+"id": "S1L130",
+"start": 2846,
+"end": 2862,
+"text": "Manage Projects\n"
+},
+{
+"id": "S1L131",
+"start": 2862,
+"end": 2883,
+"text": "Client Collaboration\n"
+},
+{
+"id": "S1L132",
+"start": 2883,
+"end": 2906,
+"text": "Run Effective Meetings\n"
+},
+{
+"id": "S1L133",
+"start": 2906,
+"end": 2926,
+"text": "Pipeline Management\n"
+},
+{
+"id": "S1L134",
+"start": 2926,
+"end": 2950,
+"text": "Internal Communications\n"
+},
+{
+"id": "S1L135",
+"start": 2950,
+"end": 2967,
+"text": "Project Tracking\n"
+},
+{
+"id": "S1L136",
+"start": 2967,
+"end": 2983,
+"text": "Lead Management\n"
+},
+{
+"id": "S1L137",
+"start": 2983,
+"end": 3001,
+"text": "Team Productivity\n"
+},
+{
+"id": "S1L138",
+"start": 3001,
+"end": 3021,
+"text": "Employee Onboarding\n"
+},
+{
+"id": "S1L139",
+"start": 3021,
+"end": 3035,
+"text": "Time Tracking\n"
+},
+{
+"id": "S1L140",
+"start": 3035,
+"end": 3055,
+"text": "Find Answers Faster\n"
+},
+{
+"id": "S1L141",
+"start": 3055,
+"end": 3105,
+"text": "Template gallery Start work faster with templates\n"
+},
+{
+"id": "S1L142",
+"start": 3105,
+"end": 3116,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L143",
+"start": 3116,
+"end": 3126,
+"text": "Resources\n"
+},
+{
+"id": "S1L144",
+"start": 3126,
+"end": 3135,
+"text": "Discover\n"
+},
+{
+"id": "S1L145",
+"start": 3135,
+"end": 3146,
+"text": "What's New\n"
+},
+{
+"id": "S1L146",
+"start": 3146,
+"end": 3164,
+"text": "Resources Library\n"
+},
+{
+"id": "S1L147",
+"start": 3164,
+"end": 3181,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L148",
+"start": 3181,
+"end": 3188,
+"text": "Events\n"
+},
+{
+"id": "S1L149",
+"start": 3188,
+"end": 3194,
+"text": "Learn\n"
+},
+{
+"id": "S1L150",
+"start": 3194,
+"end": 3199,
+"text": "Blog\n"
+},
+{
+"id": "S1L151",
+"start": 3199,
+"end": 3212,
+"text": "Product Tour\n"
+},
+{
+"id": "S1L152",
+"start": 3212,
+"end": 3224,
+"text": "Help Center\n"
+},
+{
+"id": "S1L153",
+"start": 3224,
+"end": 3239,
+"text": "Slack vs Teams\n"
+},
+{
+"id": "S1L154",
+"start": 3239,
+"end": 3245,
+"text": "Build\n"
+},
+{
+"id": "S1L155",
+"start": 3245,
+"end": 3256,
+"text": "Developers\n"
+},
+{
+"id": "S1L156",
+"start": 3256,
+"end": 3272,
+"text": "Slack Community\n"
+},
+{
+"id": "S1L157",
+"start": 3272,
+"end": 3288,
+"text": "Partner Program\n"
+},
+{
+"id": "S1L158",
+"start": 3288,
+"end": 3303,
+"text": "Partner Offers\n"
+},
+{
+"id": "S1L159",
+"start": 3303,
+"end": 3350,
+"text": "AI era of work The future of enterprise growth\n"
+},
+{
+"id": "S1L160",
+"start": 3350,
+"end": 3358,
+"text": "Pricing\n"
+},
+{
+"id": "S1L161",
+"start": 3358,
+"end": 3392,
+"text": "Talk to sales Get started Sign in\n"
+},
+{
+"id": "S1L162",
+"start": 3392,
+"end": 3433,
+"text": "Choose a paid plan built for businesses.\n"
+},
+{
+"id": "S1L163",
+"start": 3433,
+"end": 3493,
+"text": "Or start with the basics for free, and upgrade at any time.\n"
+},
+{
+"id": "S1L164",
+"start": 3493,
+"end": 3538,
+"text": "The world’s leading businesses rely on Slack\n"
+},
+{
+"id": "S1L165",
+"start": 3538,
+"end": 3558,
+"text": "Recommended for you\n"
+},
+{
+"id": "S1L166",
+"start": 3558,
+"end": 3563,
+"text": "Free\n"
+},
+{
+"id": "S1L167",
+"start": 3563,
+"end": 3601,
+"text": "A simpler way to chat and collaborate\n"
+},
+{
+"id": "S1L168",
+"start": 3601,
+"end": 3608,
+"text": "$0 USD\n"
+},
+{
+"id": "S1L169",
+"start": 3608,
+"end": 3621,
+"text": "free forever\n"
+},
+{
+"id": "S1L170",
+"start": 3621,
+"end": 3633,
+"text": "Get Started\n"
+},
+{
+"id": "S1L171",
+"start": 3633,
+"end": 3660,
+"text": "90 days of message history\n"
+},
+{
+"id": "S1L172",
+"start": 3660,
+"end": 3758,
+"text": "Messages are saved and searchable for 90 days. Upgrade to access the previous 12 months messages.\n"
+},
+{
+"id": "S1L173",
+"start": 3758,
+"end": 3772,
+"text": "Up to 10 apps\n"
+},
+{
+"id": "S1L174",
+"start": 3772,
+"end": 3885,
+"text": "Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more.\n"
+},
+{
+"id": "S1L175",
+"start": 3885,
+"end": 3898,
+"text": "1:1 meetings\n"
+},
+{
+"id": "S1L176",
+"start": 3898,
+"end": 4006,
+"text": "Work together in real time through audio and video meetings (including screen sharing) using Slack huddles.\n"
+},
+{
+"id": "S1L177",
+"start": 4006,
+"end": 4028,
+"text": "1:1 external messages\n"
+},
+{
+"id": "S1L178",
+"start": 4028,
+"end": 4139,
+"text": "Securely work alongside people outside of your company through one-to-one direct messages using Slack Connect.\n"
+},
+{
+"id": "S1L179",
+"start": 4139,
+"end": 4148,
+"text": "Basic AI\n"
+},
+{
+"id": "S1L180",
+"start": 4148,
+"end": 4174,
+"text": "AI conversation summaries\n"
+},
+{
+"id": "S1L181",
+"start": 4174,
+"end": 4183,
+"text": "Slackbot\n"
+},
+{
+"id": "S1L182",
+"start": 4183,
+"end": 4206,
+"text": "AI workflow generation\n"
+},
+{
+"id": "S1L183",
+"start": 4206,
+"end": 4216,
+"text": "AI search\n"
+},
+{
+"id": "S1L184",
+"start": 4216,
+"end": 4232,
+"text": "AI daily recaps\n"
+},
+{
+"id": "S1L185",
+"start": 4232,
+"end": 4250,
+"text": "AI file summaries\n"
+},
+{
+"id": "S1L186",
+"start": 4250,
+"end": 4275,
+"text": "Frontline teams (add-on)\n"
+},
+{
+"id": "S1L187",
+"start": 4275,
+"end": 4301,
+"text": "SAML-based single sign-on\n"
+},
+{
+"id": "S1L188",
+"start": 4301,
+"end": 4322,
+"text": "SCIM user management\n"
+},
+{
+"id": "S1L189",
+"start": 4322,
+"end": 4346,
+"text": "EMM integration support\n"
+},
+{
+"id": "S1L190",
+"start": 4346,
+"end": 4374,
+"text": "Native data loss prevention\n"
+},
+{
+"id": "S1L191",
+"start": 4374,
+"end": 4394,
+"text": "Recommended for you\n"
+},
+{
+"id": "S1L192",
+"start": 4394,
+"end": 4398,
+"text": "Pro\n"
+},
+{
+"id": "S1L193",
+"start": 4398,
+"end": 4430,
+"text": "Drive productivity in one place\n"
+},
+{
+"id": "S1L194",
+"start": 4430,
+"end": 4452,
+"text": "50% off for 3 months*\n"
+},
+{
+"id": "S1L195",
+"start": 4452,
+"end": 4468,
+"text": "$8.75 $4.38 USD\n"
+},
+{
+"id": "S1L196",
+"start": 4468,
+"end": 4506,
+"text": "per user / month, when paying monthly\n"
+},
+{
+"id": "S1L197",
+"start": 4506,
+"end": 4555,
+"text": "$7.25 USD per user / month, when paying annually\n"
+},
+{
+"id": "S1L198",
+"start": 4555,
+"end": 4567,
+"text": "Get Started\n"
+},
+{
+"id": "S1L199",
+"start": 4567,
+"end": 4593,
+"text": "Unlimited message history\n"
+},
+{
+"id": "S1L200",
+"start": 4593,
+"end": 4678,
+"text": "Every message, file, and conversation shared in Slack is saved and fully searchable.\n"
+},
+{
+"id": "S1L201",
+"start": 4678,
+"end": 4705,
+"text": "Unlimited app integrations\n"
+},
+{
+"id": "S1L202",
+"start": 4705,
+"end": 4818,
+"text": "Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more.\n"
+},
+{
+"id": "S1L203",
+"start": 4818,
+"end": 4833,
+"text": "Group meetings\n"
+},
+{
+"id": "S1L204",
+"start": 4833,
+"end": 4941,
+"text": "Work together in real time through audio and video meetings (including screen sharing) using Slack huddles.\n"
+},
+{
+"id": "S1L205",
+"start": 4941,
+"end": 4965,
+"text": "Group external messages\n"
+},
+{
+"id": "S1L206",
+"start": 4965,
+"end": 5066,
+"text": "Work securely with outside partners via DMs, group chats, or dedicated channels with up to 250 orgs.\n"
+},
+{
+"id": "S1L207",
+"start": 5066,
+"end": 5075,
+"text": "Basic AI\n"
+},
+{
+"id": "S1L208",
+"start": 5075,
+"end": 5101,
+"text": "AI conversation summaries\n"
+},
+{
+"id": "S1L209",
+"start": 5101,
+"end": 5212,
+"text": "Catch up on channels in just a click. Get meeting summaries with transcripts, key takeaways, and action items.\n"
+},
+{
+"id": "S1L210",
+"start": 5212,
+"end": 5221,
+"text": "Slackbot\n"
+},
+{
+"id": "S1L211",
+"start": 5221,
+"end": 5244,
+"text": "AI workflow generation\n"
+},
+{
+"id": "S1L212",
+"start": 5244,
+"end": 5254,
+"text": "AI search\n"
+},
+{
+"id": "S1L213",
+"start": 5254,
+"end": 5270,
+"text": "AI daily recaps\n"
+},
+{
+"id": "S1L214",
+"start": 5270,
+"end": 5288,
+"text": "AI file summaries\n"
+},
+{
+"id": "S1L215",
+"start": 5288,
+"end": 5313,
+"text": "Frontline teams (add-on)\n"
+},
+{
+"id": "S1L216",
+"start": 5313,
+"end": 5339,
+"text": "SAML-based single sign-on\n"
+},
+{
+"id": "S1L217",
+"start": 5339,
+"end": 5360,
+"text": "SCIM user management\n"
+},
+{
+"id": "S1L218",
+"start": 5360,
+"end": 5384,
+"text": "EMM integration support\n"
+},
+{
+"id": "S1L219",
+"start": 5384,
+"end": 5412,
+"text": "Native data loss prevention\n"
+},
+{
+"id": "S1L220",
+"start": 5412,
+"end": 5432,
+"text": "Recommended for you\n"
+},
+{
+"id": "S1L221",
+"start": 5432,
+"end": 5443,
+"text": "Best value\n"
+},
+{
+"id": "S1L222",
+"start": 5443,
+"end": 5464,
+"text": "Business+ Best value\n"
+},
+{
+"id": "S1L223",
+"start": 5464,
+"end": 5491,
+"text": "Scale with AI-powered work\n"
+},
+{
+"id": "S1L224",
+"start": 5491,
+"end": 5513,
+"text": "50% off for 3 months*\n"
+},
+{
+"id": "S1L225",
+"start": 5513,
+"end": 5524,
+"text": "$18 $9 USD\n"
+},
+{
+"id": "S1L226",
+"start": 5524,
+"end": 5562,
+"text": "per user / month, when paying monthly\n"
+},
+{
+"id": "S1L227",
+"start": 5562,
+"end": 5609,
+"text": "$15 USD per user / month, when paying annually\n"
+},
+{
+"id": "S1L228",
+"start": 5609,
+"end": 5621,
+"text": "Get Started\n"
+},
+{
+"id": "S1L229",
+"start": 5621,
+"end": 5647,
+"text": "Unlimited message history\n"
+},
+{
+"id": "S1L230",
+"start": 5647,
+"end": 5732,
+"text": "Every message, file, and conversation shared in Slack is saved and fully searchable.\n"
+},
+{
+"id": "S1L231",
+"start": 5732,
+"end": 5759,
+"text": "Unlimited app integrations\n"
+},
+{
+"id": "S1L232",
+"start": 5759,
+"end": 5872,
+"text": "Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more.\n"
+},
+{
+"id": "S1L233",
+"start": 5872,
+"end": 5887,
+"text": "Group meetings\n"
+},
+{
+"id": "S1L234",
+"start": 5887,
+"end": 5995,
+"text": "Work together in real time through audio and video meetings (including screen sharing) using Slack huddles.\n"
+},
+{
+"id": "S1L235",
+"start": 5995,
+"end": 6019,
+"text": "Group external messages\n"
+},
+{
+"id": "S1L236",
+"start": 6019,
+"end": 6120,
+"text": "Work securely with outside partners via DMs, group chats, or dedicated channels with up to 250 orgs.\n"
+},
+{
+"id": "S1L237",
+"start": 6120,
+"end": 6132,
+"text": "Advanced AI\n"
+},
+{
+"id": "S1L238",
+"start": 6132,
+"end": 6158,
+"text": "AI conversation summaries\n"
+},
+{
+"id": "S1L239",
+"start": 6158,
+"end": 6269,
+"text": "Catch up on channels in just a click. Get meeting summaries with transcripts, key takeaways, and action items.\n"
+},
+{
+"id": "S1L240",
+"start": 6269,
+"end": 6278,
+"text": "Slackbot\n"
+},
+{
+"id": "S1L241",
+"start": 6278,
+"end": 6398,
+"text": "Find answers, summarize channels, and work across your apps. 15 messages per user each week. Contact sales to add more.\n"
+},
+{
+"id": "S1L242",
+"start": 6398,
+"end": 6421,
+"text": "AI workflow generation\n"
+},
+{
+"id": "S1L243",
+"start": 6421,
+"end": 6507,
+"text": "Build workflows from a single prompt with the power of Slack AI and Workflow Builder.\n"
+},
+{
+"id": "S1L244",
+"start": 6507,
+"end": 6517,
+"text": "AI search\n"
+},
+{
+"id": "S1L245",
+"start": 6517,
+"end": 6637,
+"text": "Get clear answers from conversations and shared files—just type a question in your search bar. AI will handle the rest.\n"
+},
+{
+"id": "S1L246",
+"start": 6637,
+"end": 6653,
+"text": "AI daily recaps\n"
+},
+{
+"id": "S1L247",
+"start": 6653,
+"end": 6731,
+"text": "Get a daily digest of what’s happening across all of your teams and projects.\n"
+},
+{
+"id": "S1L248",
+"start": 6731,
+"end": 6749,
+"text": "AI file summaries\n"
+},
+{
+"id": "S1L249",
+"start": 6749,
+"end": 6832,
+"text": "Catch up on documents in a flash with smart AI summaries of files shared in Slack.\n"
+},
+{
+"id": "S1L250",
+"start": 6832,
+"end": 6857,
+"text": "Frontline teams (add-on)\n"
+},
+{
+"id": "S1L251",
+"start": 6857,
+"end": 6883,
+"text": "SAML-based single sign-on\n"
+},
+{
+"id": "S1L252",
+"start": 6883,
+"end": 6975,
+"text": "Sign in with your IDP of choice. Supports 12 SSO options including Okta, Google, and Azure.\n"
+},
+{
+"id": "S1L253",
+"start": 6975,
+"end": 6996,
+"text": "SCIM user management\n"
+},
+{
+"id": "S1L254",
+"start": 6996,
+"end": 7095,
+"text": "Slack supports member provisioning with SCIM. Use a connector app and supported identity provider.\n"
+},
+{
+"id": "S1L255",
+"start": 7095,
+"end": 7119,
+"text": "EMM integration support\n"
+},
+{
+"id": "S1L256",
+"start": 7119,
+"end": 7147,
+"text": "Native data loss prevention\n"
+},
+{
+"id": "S1L257",
+"start": 7147,
+"end": 7167,
+"text": "Recommended for you\n"
+},
+{
+"id": "S1L258",
+"start": 7167,
+"end": 7179,
+"text": "Enterprise+\n"
+},
+{
+"id": "S1L259",
+"start": 7179,
+"end": 7234,
+"text": "Maximize performance on the most comprehensive work OS\n"
+},
+{
+"id": "S1L260",
+"start": 7234,
+"end": 7242,
+"text": "$45 USD\n"
+},
+{
+"id": "S1L261",
+"start": 7242,
+"end": 7281,
+"text": "per user / month, when paying annually\n"
+},
+{
+"id": "S1L262",
+"start": 7281,
+"end": 7295,
+"text": "Contact Sales\n"
+},
+{
+"id": "S1L263",
+"start": 7295,
+"end": 7321,
+"text": "Unlimited message history\n"
+},
+{
+"id": "S1L264",
+"start": 7321,
+"end": 7406,
+"text": "Every message, file, and conversation shared in Slack is saved and fully searchable.\n"
+},
+{
+"id": "S1L265",
+"start": 7406,
+"end": 7433,
+"text": "Unlimited app integrations\n"
+},
+{
+"id": "S1L266",
+"start": 7433,
+"end": 7546,
+"text": "Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more.\n"
+},
+{
+"id": "S1L267",
+"start": 7546,
+"end": 7561,
+"text": "Group meetings\n"
+},
+{
+"id": "S1L268",
+"start": 7561,
+"end": 7669,
+"text": "Work together in real time through audio and video meetings (including screen sharing) using Slack huddles.\n"
+},
+{
+"id": "S1L269",
+"start": 7669,
+"end": 7693,
+"text": "Group external messages\n"
+},
+{
+"id": "S1L270",
+"start": 7693,
+"end": 7794,
+"text": "Work securely with outside partners via DMs, group chats, or dedicated channels with up to 250 orgs.\n"
+},
+{
+"id": "S1L271",
+"start": 7794,
+"end": 7814,
+"text": "Enterprise-Grade AI\n"
+},
+{
+"id": "S1L272",
+"start": 7814,
+"end": 7840,
+"text": "AI conversation summaries\n"
+},
+{
+"id": "S1L273",
+"start": 7840,
+"end": 7951,
+"text": "Catch up on channels in just a click. Get meeting summaries with transcripts, key takeaways, and action items.\n"
+},
+{
+"id": "S1L274",
+"start": 7951,
+"end": 7970,
+"text": "Unlimited Slackbot\n"
+},
+{
+"id": "S1L275",
+"start": 7970,
+"end": 8067,
+"text": "Find answers, summarize channels, and work across your apps. It’s unlimited for your whole team.\n"
+},
+{
+"id": "S1L276",
+"start": 8067,
+"end": 8090,
+"text": "AI workflow generation\n"
+},
+{
+"id": "S1L277",
+"start": 8090,
+"end": 8176,
+"text": "Build workflows from a single prompt with the power of Slack AI and Workflow Builder.\n"
+},
+{
+"id": "S1L278",
+"start": 8176,
+"end": 8194,
+"text": "Enterprise search\n"
+},
+{
+"id": "S1L279",
+"start": 8194,
+"end": 8271,
+"text": "Search across connected apps, databases, and systems with enterprise search.\n"
+},
+{
+"id": "S1L280",
+"start": 8271,
+"end": 8287,
+"text": "AI daily recaps\n"
+},
+{
+"id": "S1L281",
+"start": 8287,
+"end": 8365,
+"text": "Get a daily digest of what’s happening across all of your teams and projects.\n"
+},
+{
+"id": "S1L282",
+"start": 8365,
+"end": 8383,
+"text": "AI file summaries\n"
+},
+{
+"id": "S1L283",
+"start": 8383,
+"end": 8466,
+"text": "Catch up on documents in a flash with smart AI summaries of files shared in Slack.\n"
+},
+{
+"id": "S1L284",
+"start": 8466,
+"end": 8495,
+"text": "Frontline teams (add-on) New\n"
+},
+{
+"id": "S1L285",
+"start": 8495,
+"end": 8606,
+"text": "Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access.\n"
+},
+{
+"id": "S1L286",
+"start": 8606,
+"end": 8635,
+"text": "Multiple SAML configurations\n"
+},
+{
+"id": "S1L287",
+"start": 8635,
+"end": 8727,
+"text": "Sign in with your IDP of choice. Supports 12 SSO options including Okta, Google, and Azure.\n"
+},
+{
+"id": "S1L288",
+"start": 8727,
+"end": 8748,
+"text": "SCIM user management\n"
+},
+{
+"id": "S1L289",
+"start": 8748,
+"end": 8847,
+"text": "Slack supports member provisioning with SCIM. Use a connector app and supported identity provider.\n"
+},
+{
+"id": "S1L290",
+"start": 8847,
+"end": 8871,
+"text": "EMM integration support\n"
+},
+{
+"id": "S1L291",
+"start": 8871,
+"end": 8970,
+"text": "Control mobile data with Enterprise Mobility Management like VMware AirWatch or Ivanti MobileIron.\n"
+},
+{
+"id": "S1L292",
+"start": 8970,
+"end": 8998,
+"text": "Native data loss prevention\n"
+},
+{
+"id": "S1L293",
+"start": 8998,
+"end": 9208,
+"text": "Data loss prevention in Slack Connect scans messages and files sent by members of your organization to reduce the risk of sharing confidential, malicious, or personally identifiable content with external orgs.\n"
+},
+{
+"id": "S1L294",
+"start": 9208,
+"end": 9222,
+"text": "* Terms apply\n"
+},
+{
+"id": "S1L295",
+"start": 9222,
+"end": 9241,
+"text": "Terms & Conditions\n"
+},
+{
+"id": "S1L296",
+"start": 9241,
+"end": 9723,
+"text": "To be eligible for this limited-time offer, you must be purchasing the Slack Pro or Business+ plan online within the first 7 days of creating your team. For more information on Slack’s plans and features, see here Opens in new window . This 50% discount will only apply for the first 3 months from the date of your eligible upgraded plan (the “Discount Period”). After the Discount Period, Slack’s standard pricing will apply to the remainder of your plan and to any plan renewals.\n"
+},
+{
+"id": "S1L297",
+"start": 9723,
+"end": 10527,
+"text": "By redeeming this offer, you agree that these offer terms form part of and modify Slack’s Customer Terms of Service Opens in new window (or the terms of your written agreement regarding your use of Slack’s services) (your “Agreement”) entered into between you and the Slack entity identified in the Agreement and that, after the Discount Period, Slack’s then-current standard pricing set forth on Slack’s Pricing Page Opens in new window will apply to the remainder of your plan and to any plan renewals. Please see the terms of your Agreement for information on how to cancel or downgrade your paid subscription prior to any such renewal. If you redeem this offer and then cancel your paid Slack plan or downgrade to a free plan during the Discount Period, this offer may no longer be available to you.\n"
+},
+{
+"id": "S1L298",
+"start": 10527,
+"end": 10993,
+"text": "This offer cannot be combined with any other offer. Limit one offer per customer. Offer is non-transferable. This offer does not apply to annual plans or to upgrades to Slack’s Enterprise+ Plan. If you are interested in the Enterprise+ Plan, you can contact our Sales team Opens in new window for more information. This offer is available for a limited time only, and prior to redemption by you, Slack may end or modify this offer at any time without notice to you.\n"
+},
+{
+"id": "S1L299",
+"start": 10993,
+"end": 11014,
+"text": "Compare all features\n"
+},
+{
+"id": "S1L300",
+"start": 11014,
+"end": 11101,
+"text": "Free Get Started | Pro Get Started | Business+ Get Started | Enterprise+ Contact sales\n"
+},
+{
+"id": "S1L301",
+"start": 11101,
+"end": 11132,
+"text": "Productivity and collaboration\n"
+},
+{
+"id": "S1L302",
+"start": 11132,
+"end": 11275,
+"text": "Message and file history Search across people, channels, and files to find context and get new team members up to speed faster. | 90-day limit\n"
+},
+{
+"id": "S1L303",
+"start": 11275,
+"end": 11374,
+"text": "Channels Channels bring order and clarity to work — create them for every project, topic, or team.\n"
+},
+{
+"id": "S1L304",
+"start": 11374,
+"end": 11477,
+"text": "Search With your organization’s messages searchable, the answers you need are only a quick query away.\n"
+},
+{
+"id": "S1L305",
+"start": 11477,
+"end": 11578,
+"text": "Audio and video clips Share audio ideas or screen recordings with clips — all without leaving Slack.\n"
+},
+{
+"id": "S1L306",
+"start": 11578,
+"end": 11683,
+"text": "Slack Connect Collaborate securely with vendors, customers, and partners using Slack Connect. | 1:1 only\n"
+},
+{
+"id": "S1L307",
+"start": 11683,
+"end": 11810,
+"text": "Huddles Work together in real time through audio and video meetings (including screen sharing) using Slack huddles. | 1:1 only\n"
+},
+{
+"id": "S1L308",
+"start": 11810,
+"end": 11899,
+"text": "Canvases Create content like text, files, images, and videos directly in a Slack canvas.\n"
+},
+{
+"id": "S1L309",
+"start": 11899,
+"end": 11972,
+"text": "Lists Collaboratively manage projects and organize tasks in Slack lists.\n"
+},
+{
+"id": "S1L310",
+"start": 11972,
+"end": 12092,
+"text": "Customizable sections Keep projects and teams organized. Group channels and conversations into custom sidebar sections.\n"
+},
+{
+"id": "S1L311",
+"start": 12092,
+"end": 12254,
+"text": "Templates Access ready-to-use templates with automation. On Enterprise+, publish custom templates for your company. | User-created | User-created | Admin-created\n"
+},
+{
+"id": "S1L312",
+"start": 12254,
+"end": 12403,
+"text": "Add your frontline teams New Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access. | Add-on\n"
+},
+{
+"id": "S1L313",
+"start": 12403,
+"end": 12419,
+"text": "AI-powered work\n"
+},
+{
+"id": "S1L314",
+"start": 12419,
+"end": 12498,
+"text": "Thread and channel summaries Catch up on channels and threads in just a click.\n"
+},
+{
+"id": "S1L315",
+"start": 12498,
+"end": 12585,
+"text": "Huddles notes Get meeting summaries with transcripts, key takeaways, and action items.\n"
+},
+{
+"id": "S1L316",
+"start": 12585,
+"end": 12679,
+"text": "AI assistant apps Embed third-party agents and modern AI apps to work alongside you in Slack.\n"
+},
+{
+"id": "S1L317",
+"start": 12679,
+"end": 12864,
+"text": "Slackbot Find answers, summarize channels, and work across your apps. Limits vary by plan. Contact sales to add more. | Consumption based | Consumption based | Usage limits | Unlimited\n"
+},
+{
+"id": "S1L318",
+"start": 12864,
+"end": 12955,
+"text": "Daily recaps Get a daily digest of what’s happening across all of your teams and projects.\n"
+},
+{
+"id": "S1L319",
+"start": 12955,
+"end": 13043,
+"text": "File summaries Catch up on documents quickly with AI-powered summaries of shared files.\n"
+},
+{
+"id": "S1L320",
+"start": 13043,
+"end": 13140,
+"text": "AI language translations Translate messages and get Slack AI results in your preferred language.\n"
+},
+{
+"id": "S1L321",
+"start": 13140,
+"end": 13249,
+"text": "AI workflow generation Build workflows from a single prompt with the power of Slack AI and Workflow Builder.\n"
+},
+{
+"id": "S1L322",
+"start": 13249,
+"end": 13369,
+"text": "AI steps in Workflow Builder Enhance workflows with AI-powered steps like channel summaries for daily or weekly recaps.\n"
+},
+{
+"id": "S1L323",
+"start": 13369,
+"end": 13506,
+"text": "AI message explanations Instantly understand acronyms, projects, or jargon with clear explanations drawn from your team’s conversations.\n"
+},
+{
+"id": "S1L324",
+"start": 13506,
+"end": 13591,
+"text": "AI writing assistance in canvas AI helps create, structure, and polish your content.\n"
+},
+{
+"id": "S1L325",
+"start": 13591,
+"end": 13721,
+"text": "AI search Get clear answers from conversations and shared files—just type a question in your search bar. AI will handle the rest.\n"
+},
+{
+"id": "S1L326",
+"start": 13721,
+"end": 13816,
+"text": "Enterprise search Search across connected apps, databases, and systems with enterprise search.\n"
+},
+{
+"id": "S1L327",
+"start": 13816,
+"end": 13837,
+"text": "CRM capabilities New\n"
+},
+{
+"id": "S1L328",
+"start": 13837,
+"end": 14086,
+"text": "Bring Salesforce data into Slack channels Connect Salesforce records (such as accounts, cases, opportunities, leads, etc.) to dedicated Slack channels so customer conversations, context, and data are all side by side. Requires a Salesforce account.\n"
+},
+{
+"id": "S1L329",
+"start": 14086,
+"end": 14248,
+"text": "Track leads & deals Slack CRM: Track deals, log calls, and manage contacts in Slack. Ask Slackbot to surface account details and draft follow-ups. | Upon Request\n"
+},
+{
+"id": "S1L330",
+"start": 14248,
+"end": 14414,
+"text": "Manage support emails Slack CRM: Turn support emails into cases and manage them in Slack channels. Slackbot summarizes issues and helps draft replies. | Upon Request\n"
+},
+{
+"id": "S1L331",
+"start": 14414,
+"end": 14548,
+"text": "Prepare for meetings Slack CRM: Ask Slackbot to research accounts, draft emails, and keep customer records up to date. | Upon Request\n"
+},
+{
+"id": "S1L332",
+"start": 14548,
+"end": 14565,
+"text": "Automation tools\n"
+},
+{
+"id": "S1L333",
+"start": 14565,
+"end": 14712,
+"text": "Integrations with other apps Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more. | 10\n"
+},
+{
+"id": "S1L334",
+"start": 14712,
+"end": 14827,
+"text": "Deploy apps to Slack infrastructure Deploy custom functions run on Slack's secure infrastructure at no extra cost.\n"
+},
+{
+"id": "S1L335",
+"start": 14827,
+"end": 14917,
+"text": "Workflow Builder Automate routine tasks and processes right in Slack, no coding required.\n"
+},
+{
+"id": "S1L336",
+"start": 14917,
+"end": 15029,
+"text": "Conditional branching in Workflow Builder Create workflows with conditional logic in Slack, no coding required.\n"
+},
+{
+"id": "S1L337",
+"start": 15029,
+"end": 15147,
+"text": "Custom workflow steps Custom workflow steps let developers bring org-specific systems into workflows with Slack APIs.\n"
+},
+{
+"id": "S1L338",
+"start": 15147,
+"end": 15156,
+"text": "Security\n"
+},
+{
+"id": "S1L339",
+"start": 15156,
+"end": 15284,
+"text": "Data encryption at rest and in transit By default, Slack encrypts data at rest and in transit as part of our security controls.\n"
+},
+{
+"id": "S1L340",
+"start": 15284,
+"end": 15395,
+"text": "Two-factor authentication Add extra security so you never have to worry about your password being compromised.\n"
+},
+{
+"id": "S1L341",
+"start": 15395,
+"end": 15488,
+"text": "Session duration Require members to sign back in when they close Slack, or after a set time.\n"
+},
+{
+"id": "S1L342",
+"start": 15488,
+"end": 15604,
+"text": "Native device management Enforce policies like blocking jailbroken devices or file downloads on mobile and desktop.\n"
+},
+{
+"id": "S1L343",
+"start": 15604,
+"end": 15699,
+"text": "Access logs Access logs track sign-ins, dates, devices, and IPs to detect suspicious activity.\n"
+},
+{
+"id": "S1L344",
+"start": 15699,
+"end": 15867,
+"text": "Single sign-on (SSO) Sign in with your IDP of choice. Supports 12 SSO options including Okta, Google, and Azure. | OAuth with Google | SAML-based | Supports Multi-SAML\n"
+},
+{
+"id": "S1L345",
+"start": 15867,
+"end": 15998,
+"text": "Slack Enterprise Key Management Slack EKM secures sensitive data with your own encryption keys and AWS KMS activity logs. | Add-on\n"
+},
+{
+"id": "S1L346",
+"start": 15998,
+"end": 16145,
+"text": "Integration with Enterprise Mobility Management Control mobile data with Enterprise Mobility Management like VMware AirWatch or Ivanti MobileIron.\n"
+},
+{
+"id": "S1L347",
+"start": 16145,
+"end": 16248,
+"text": "Anomaly Event Response Defend against risks by automatically ending user sessions on anomalous events.\n"
+},
+{
+"id": "S1L348",
+"start": 16248,
+"end": 16259,
+"text": "Compliance\n"
+},
+{
+"id": "S1L349",
+"start": 16259,
+"end": 16402,
+"text": "Data retention policies Free Slack deletes data after 1 year. Paid plans keep it for life by default, with adjustable settings. | Up to 1 year\n"
+},
+{
+"id": "S1L350",
+"start": 16402,
+"end": 16505,
+"text": "Data residency For global teams, choose the region where certain types of data at rest will be stored.\n"
+},
+{
+"id": "S1L351",
+"start": 16505,
+"end": 16647,
+"text": "Data exports for all messages Workspace owners and admins can export data all workspace data, including private channels and direct messages.\n"
+},
+{
+"id": "S1L352",
+"start": 16647,
+"end": 16789,
+"text": "Data exports for all messages from a single user Workspace owners and admins can export data from all conversations a single user has joined.\n"
+},
+{
+"id": "S1L353",
+"start": 16789,
+"end": 16881,
+"text": "Native data loss prevention Scan external messages and files to prevent data loss or leaks.\n"
+},
+{
+"id": "S1L354",
+"start": 16881,
+"end": 17007,
+"text": "Information barriers Create info barriers between IDP groups to block certain DMs or huddles, avoiding conflicts of interest.\n"
+},
+{
+"id": "S1L355",
+"start": 17007,
+"end": 17122,
+"text": "Legal holds Place a legal hold on members to preserve their Slack data regardless of edits, deletes, or retention.\n"
+},
+{
+"id": "S1L356",
+"start": 17122,
+"end": 17217,
+"text": "Discovery API Use approved third-party apps to export or act on messages and files from Slack.\n"
+},
+{
+"id": "S1L357",
+"start": 17217,
+"end": 17318,
+"text": "Audit logs Audit logs track changes and usage. View in Slack, export CSV, or use the Audit Logs API.\n"
+},
+{
+"id": "S1L358",
+"start": 17318,
+"end": 17447,
+"text": "Support for HIPAA compliance Slack can be configured to support protected health information (PHI) in files and message content.\n"
+},
+{
+"id": "S1L359",
+"start": 17447,
+"end": 17462,
+"text": "Administration\n"
+},
+{
+"id": "S1L360",
+"start": 17462,
+"end": 17600,
+"text": "Workspaces Like a virtual office, a workspace is where work happens: all your channels, DMs, and tools live here. | 1 | 1 | 1 | Unlimited\n"
+},
+{
+"id": "S1L361",
+"start": 17600,
+"end": 17891,
+"text": "Manage channel posting permissions Control who can post or @mention everyone in channels. This keeps large announcement channels distraction-free. | Limited to #general channel only | Limited to #general channel only | Posting permissions in any channel | Posting permissions in any channel\n"
+},
+{
+"id": "S1L362",
+"start": 17891,
+"end": 18026,
+"text": "Admin analytics dashboards Analytics dashboard shows how your org uses Slack. Sort data to understand messages, channels, and members.\n"
+},
+{
+"id": "S1L363",
+"start": 18026,
+"end": 18164,
+"text": "SCIM user management Slack supports member provisioning with SCIM. Use a connector app and supported identity provider. | Supports guests\n"
+},
+{
+"id": "S1L364",
+"start": 18164,
+"end": 18252,
+"text": "Admin analytics API Retrieve analytics data for a given date as a compressed JSON file.\n"
+},
+{
+"id": "S1L365",
+"start": 18252,
+"end": 18369,
+"text": "Message activity analytics Owners, admins, or members can view message activity to measure impact of communications.\n"
+},
+{
+"id": "S1L366",
+"start": 18369,
+"end": 18472,
+"text": "Custom user groups Simplify team-wide comms by adding multiple people to a single user group @mention.\n"
+},
+{
+"id": "S1L367",
+"start": 18472,
+"end": 18541,
+"text": "Domain claiming Slack can help companies claim multiple web domains.\n"
+},
+{
+"id": "S1L368",
+"start": 18541,
+"end": 18647,
+"text": "Custom terms of service Org owners and admins can set custom rules for joining and using their Slack org.\n"
+},
+{
+"id": "S1L369",
+"start": 18647,
+"end": 18768,
+"text": "Granular roles Assign system roles to members or IDP groups. Choose if they manage admin tasks org-wide or by workspace.\n"
+},
+{
+"id": "S1L370",
+"start": 18768,
+"end": 18890,
+"text": "Manage flagged content Enterprise+ members can flag messages for review. Owners and admins can act and view flag history.\n"
+},
+{
+"id": "S1L371",
+"start": 18890,
+"end": 18904,
+"text": "Success Plans\n"
+},
+{
+"id": "S1L372",
+"start": 18904,
+"end": 19053,
+"text": "Standard Success Plan Free, always-on resources and essential support — live help via Help Agent and chat, with 2-business-day target case response.\n"
+},
+{
+"id": "S1L373",
+"start": 19053,
+"end": 19305,
+"text": "Premier Success Plan Personalized programs, expert guidance, and expedited support — live help via Help Agent, chat, and phone, with 24/7/365 1-hour target response for business-stopping issues.Available for purchases made via sales rep only. | Add-on\n"
+},
+{
+"id": "S1L374",
+"start": 19305,
+"end": 19625,
+"text": "Signature Success Plan A designated Customer Success Manager, specialized programs, and our fastest support — live help via Help Agent, chat, phone, and an emergency hotline, with 24/7/365 15-minute target response for business-stopping issues.Available for purchases made via sales rep only. | Add-on | Add-on | Add-on\n"
+},
+{
+"id": "S1L375",
+"start": 19625,
+"end": 19646,
+"text": "Compare all features\n"
+},
+{
+"id": "S1L376",
+"start": 19646,
+"end": 19677,
+"text": "Free Pro Business+ Enterprise+\n"
+},
+{
+"id": "S1L377",
+"start": 19677,
+"end": 19708,
+"text": "Productivity and collaboration\n"
+},
+{
+"id": "S1L378",
+"start": 19708,
+"end": 19733,
+"text": "Message and file history\n"
+},
+{
+"id": "S1L379",
+"start": 19733,
+"end": 19836,
+"text": "Search across people, channels, and files to find context and get new team members up to speed faster.\n"
+},
+{
+"id": "S1L380",
+"start": 19836,
+"end": 19849,
+"text": "90-day limit\n"
+},
+{
+"id": "S1L381",
+"start": 19849,
+"end": 19858,
+"text": "Channels\n"
+},
+{
+"id": "S1L382",
+"start": 19858,
+"end": 19948,
+"text": "Channels bring order and clarity to work — create them for every project, topic, or team.\n"
+},
+{
+"id": "S1L383",
+"start": 19948,
+"end": 19955,
+"text": "Search\n"
+},
+{
+"id": "S1L384",
+"start": 19955,
+"end": 20051,
+"text": "With your organization’s messages searchable, the answers you need are only a quick query away.\n"
+},
+{
+"id": "S1L385",
+"start": 20051,
+"end": 20073,
+"text": "Audio and video clips\n"
+},
+{
+"id": "S1L386",
+"start": 20073,
+"end": 20152,
+"text": "Share audio ideas or screen recordings with clips — all without leaving Slack.\n"
+},
+{
+"id": "S1L387",
+"start": 20152,
+"end": 20166,
+"text": "Slack Connect\n"
+},
+{
+"id": "S1L388",
+"start": 20166,
+"end": 20246,
+"text": "Collaborate securely with vendors, customers, and partners using Slack Connect.\n"
+},
+{
+"id": "S1L389",
+"start": 20246,
+"end": 20255,
+"text": "1:1 only\n"
+},
+{
+"id": "S1L390",
+"start": 20255,
+"end": 20263,
+"text": "Huddles\n"
+},
+{
+"id": "S1L391",
+"start": 20263,
+"end": 20371,
+"text": "Work together in real time through audio and video meetings (including screen sharing) using Slack huddles.\n"
+},
+{
+"id": "S1L392",
+"start": 20371,
+"end": 20380,
+"text": "1:1 only\n"
+},
+{
+"id": "S1L393",
+"start": 20380,
+"end": 20389,
+"text": "Canvases\n"
+},
+{
+"id": "S1L394",
+"start": 20389,
+"end": 20469,
+"text": "Create content like text, files, images, and videos directly in a Slack canvas.\n"
+},
+{
+"id": "S1L395",
+"start": 20469,
+"end": 20475,
+"text": "Lists\n"
+},
+{
+"id": "S1L396",
+"start": 20475,
+"end": 20542,
+"text": "Collaboratively manage projects and organize tasks in Slack lists.\n"
+},
+{
+"id": "S1L397",
+"start": 20542,
+"end": 20564,
+"text": "Customizable sections\n"
+},
+{
+"id": "S1L398",
+"start": 20564,
+"end": 20662,
+"text": "Keep projects and teams organized. Group channels and conversations into custom sidebar sections.\n"
+},
+{
+"id": "S1L399",
+"start": 20662,
+"end": 20672,
+"text": "Templates\n"
+},
+{
+"id": "S1L400",
+"start": 20672,
+"end": 20778,
+"text": "Access ready-to-use templates with automation. On Enterprise+, publish custom templates for your company.\n"
+},
+{
+"id": "S1L401",
+"start": 20778,
+"end": 20818,
+"text": "User-created User-created Admin-created\n"
+},
+{
+"id": "S1L402",
+"start": 20818,
+"end": 20847,
+"text": "Add your frontline teams New\n"
+},
+{
+"id": "S1L403",
+"start": 20847,
+"end": 20958,
+"text": "Enterprise+ add-on giving field workers Slack for task management, agentic support & secure Salesforce access.\n"
+},
+{
+"id": "S1L404",
+"start": 20958,
+"end": 20965,
+"text": "Add-on\n"
+},
+{
+"id": "S1L405",
+"start": 20965,
+"end": 20981,
+"text": "AI-powered work\n"
+},
+{
+"id": "S1L406",
+"start": 20981,
+"end": 21010,
+"text": "Thread and channel summaries\n"
+},
+{
+"id": "S1L407",
+"start": 21010,
+"end": 21060,
+"text": "Catch up on channels and threads in just a click.\n"
+},
+{
+"id": "S1L408",
+"start": 21060,
+"end": 21074,
+"text": "Huddles notes\n"
+},
+{
+"id": "S1L409",
+"start": 21074,
+"end": 21147,
+"text": "Get meeting summaries with transcripts, key takeaways, and action items.\n"
+},
+{
+"id": "S1L410",
+"start": 21147,
+"end": 21165,
+"text": "AI assistant apps\n"
+},
+{
+"id": "S1L411",
+"start": 21165,
+"end": 21241,
+"text": "Embed third-party agents and modern AI apps to work alongside you in Slack.\n"
+},
+{
+"id": "S1L412",
+"start": 21241,
+"end": 21250,
+"text": "Slackbot\n"
+},
+{
+"id": "S1L413",
+"start": 21250,
+"end": 21359,
+"text": "Find answers, summarize channels, and work across your apps. Limits vary by plan. Contact sales to add more.\n"
+},
+{
+"id": "S1L414",
+"start": 21359,
+"end": 21418,
+"text": "Consumption based Consumption based Usage limits Unlimited\n"
+},
+{
+"id": "S1L415",
+"start": 21418,
+"end": 21431,
+"text": "Daily recaps\n"
+},
+{
+"id": "S1L416",
+"start": 21431,
+"end": 21509,
+"text": "Get a daily digest of what’s happening across all of your teams and projects.\n"
+},
+{
+"id": "S1L417",
+"start": 21509,
+"end": 21524,
+"text": "File summaries\n"
+},
+{
+"id": "S1L418",
+"start": 21524,
+"end": 21597,
+"text": "Catch up on documents quickly with AI-powered summaries of shared files.\n"
+},
+{
+"id": "S1L419",
+"start": 21597,
+"end": 21622,
+"text": "AI language translations\n"
+},
+{
+"id": "S1L420",
+"start": 21622,
+"end": 21694,
+"text": "Translate messages and get Slack AI results in your preferred language.\n"
+},
+{
+"id": "S1L421",
+"start": 21694,
+"end": 21717,
+"text": "AI workflow generation\n"
+},
+{
+"id": "S1L422",
+"start": 21717,
+"end": 21803,
+"text": "Build workflows from a single prompt with the power of Slack AI and Workflow Builder.\n"
+},
+{
+"id": "S1L423",
+"start": 21803,
+"end": 21832,
+"text": "AI steps in Workflow Builder\n"
+},
+{
+"id": "S1L424",
+"start": 21832,
+"end": 21923,
+"text": "Enhance workflows with AI-powered steps like channel summaries for daily or weekly recaps.\n"
+},
+{
+"id": "S1L425",
+"start": 21923,
+"end": 21947,
+"text": "AI message explanations\n"
+},
+{
+"id": "S1L426",
+"start": 21947,
+"end": 22060,
+"text": "Instantly understand acronyms, projects, or jargon with clear explanations drawn from your team’s conversations.\n"
+},
+{
+"id": "S1L427",
+"start": 22060,
+"end": 22092,
+"text": "AI writing assistance in canvas\n"
+},
+{
+"id": "S1L428",
+"start": 22092,
+"end": 22145,
+"text": "AI helps create, structure, and polish your content.\n"
+},
+{
+"id": "S1L429",
+"start": 22145,
+"end": 22155,
+"text": "AI search\n"
+},
+{
+"id": "S1L430",
+"start": 22155,
+"end": 22275,
+"text": "Get clear answers from conversations and shared files—just type a question in your search bar. AI will handle the rest.\n"
+},
+{
+"id": "S1L431",
+"start": 22275,
+"end": 22293,
+"text": "Enterprise search\n"
+},
+{
+"id": "S1L432",
+"start": 22293,
+"end": 22370,
+"text": "Search across connected apps, databases, and systems with enterprise search.\n"
+},
+{
+"id": "S1L433",
+"start": 22370,
+"end": 22387,
+"text": "CRM capabilities\n"
+},
+{
+"id": "S1L434",
+"start": 22387,
+"end": 22429,
+"text": "Bring Salesforce data into Slack channels\n"
+},
+{
+"id": "S1L435",
+"start": 22429,
+"end": 22636,
+"text": "Connect Salesforce records (such as accounts, cases, opportunities, leads, etc.) to dedicated Slack channels so customer conversations, context, and data are all side by side. Requires a Salesforce account.\n"
+},
+{
+"id": "S1L436",
+"start": 22636,
+"end": 22656,
+"text": "Track leads & deals\n"
+},
+{
+"id": "S1L437",
+"start": 22656,
+"end": 22783,
+"text": "Slack CRM: Track deals, log calls, and manage contacts in Slack. Ask Slackbot to surface account details and draft follow-ups.\n"
+},
+{
+"id": "S1L438",
+"start": 22783,
+"end": 22796,
+"text": "Upon Request\n"
+},
+{
+"id": "S1L439",
+"start": 22796,
+"end": 22818,
+"text": "Manage support emails\n"
+},
+{
+"id": "S1L440",
+"start": 22818,
+"end": 22947,
+"text": "Slack CRM: Turn support emails into cases and manage them in Slack channels. Slackbot summarizes issues and helps draft replies.\n"
+},
+{
+"id": "S1L441",
+"start": 22947,
+"end": 22960,
+"text": "Upon Request\n"
+},
+{
+"id": "S1L442",
+"start": 22960,
+"end": 22981,
+"text": "Prepare for meetings\n"
+},
+{
+"id": "S1L443",
+"start": 22981,
+"end": 23079,
+"text": "Slack CRM: Ask Slackbot to research accounts, draft emails, and keep customer records up to date.\n"
+},
+{
+"id": "S1L444",
+"start": 23079,
+"end": 23092,
+"text": "Upon Request\n"
+},
+{
+"id": "S1L445",
+"start": 23092,
+"end": 23103,
+"text": "Automation\n"
+},
+{
+"id": "S1L446",
+"start": 23103,
+"end": 23132,
+"text": "Integrations with other apps\n"
+},
+{
+"id": "S1L447",
+"start": 23132,
+"end": 23245,
+"text": "Choose from over 2,600 apps in the Slack App Directory — from Salesforce, Jira, Google Drive, ChatGPT, and more.\n"
+},
+{
+"id": "S1L448",
+"start": 23245,
+"end": 23248,
+"text": "10\n"
+},
+{
+"id": "S1L449",
+"start": 23248,
+"end": 23284,
+"text": "Deploy apps to Slack infrastructure\n"
+},
+{
+"id": "S1L450",
+"start": 23284,
+"end": 23363,
+"text": "Deploy custom functions run on Slack's secure infrastructure at no extra cost.\n"
+},
+{
+"id": "S1L451",
+"start": 23363,
+"end": 23380,
+"text": "Workflow Builder\n"
+},
+{
+"id": "S1L452",
+"start": 23380,
+"end": 23453,
+"text": "Automate routine tasks and processes right in Slack, no coding required.\n"
+},
+{
+"id": "S1L453",
+"start": 23453,
+"end": 23495,
+"text": "Conditional branching in Workflow Builder\n"
+},
+{
+"id": "S1L454",
+"start": 23495,
+"end": 23565,
+"text": "Create workflows with conditional logic in Slack, no coding required.\n"
+},
+{
+"id": "S1L455",
+"start": 23565,
+"end": 23587,
+"text": "Custom workflow steps\n"
+},
+{
+"id": "S1L456",
+"start": 23587,
+"end": 23683,
+"text": "Custom workflow steps let developers bring org-specific systems into workflows with Slack APIs.\n"
+},
+{
+"id": "S1L457",
+"start": 23683,
+"end": 23692,
+"text": "Security\n"
+},
+{
+"id": "S1L458",
+"start": 23692,
+"end": 23731,
+"text": "Data encryption at rest and in transit\n"
+},
+{
+"id": "S1L459",
+"start": 23731,
+"end": 23820,
+"text": "By default, Slack encrypts data at rest and in transit as part of our security controls.\n"
+},
+{
+"id": "S1L460",
+"start": 23820,
+"end": 23846,
+"text": "Two-factor authentication\n"
+},
+{
+"id": "S1L461",
+"start": 23846,
+"end": 23931,
+"text": "Add extra security so you never have to worry about your password being compromised.\n"
+},
+{
+"id": "S1L462",
+"start": 23931,
+"end": 23948,
+"text": "Session duration\n"
+},
+{
+"id": "S1L463",
+"start": 23948,
+"end": 24024,
+"text": "Require members to sign back in when they close Slack, or after a set time.\n"
+},
+{
+"id": "S1L464",
+"start": 24024,
+"end": 24049,
+"text": "Native device management\n"
+},
+{
+"id": "S1L465",
+"start": 24049,
+"end": 24140,
+"text": "Enforce policies like blocking jailbroken devices or file downloads on mobile and desktop.\n"
+},
+{
+"id": "S1L466",
+"start": 24140,
+"end": 24152,
+"text": "Access logs\n"
+},
+{
+"id": "S1L467",
+"start": 24152,
+"end": 24235,
+"text": "Access logs track sign-ins, dates, devices, and IPs to detect suspicious activity.\n"
+},
+{
+"id": "S1L468",
+"start": 24235,
+"end": 24256,
+"text": "Single sign-on (SSO)\n"
+},
+{
+"id": "S1L469",
+"start": 24256,
+"end": 24348,
+"text": "Sign in with your IDP of choice. Supports 12 SSO options including Okta, Google, and Azure.\n"
+},
+{
+"id": "S1L470",
+"start": 24348,
+"end": 24397,
+"text": "OAuth with Google SAML-based Supports Multi-SAML\n"
+},
+{
+"id": "S1L471",
+"start": 24397,
+"end": 24429,
+"text": "Slack Enterprise Key Management\n"
+},
+{
+"id": "S1L472",
+"start": 24429,
+"end": 24519,
+"text": "Slack EKM secures sensitive data with your own encryption keys and AWS KMS activity logs.\n"
+},
+{
+"id": "S1L473",
+"start": 24519,
+"end": 24526,
+"text": "Add-on\n"
+},
+{
+"id": "S1L474",
+"start": 24526,
+"end": 24574,
+"text": "Integration with Enterprise Mobility Management\n"
+},
+{
+"id": "S1L475",
+"start": 24574,
+"end": 24673,
+"text": "Control mobile data with Enterprise Mobility Management like VMware AirWatch or Ivanti MobileIron.\n"
+},
+{
+"id": "S1L476",
+"start": 24673,
+"end": 24696,
+"text": "Anomaly Event Response\n"
+},
+{
+"id": "S1L477",
+"start": 24696,
+"end": 24776,
+"text": "Defend against risks by automatically ending user sessions on anomalous events.\n"
+},
+{
+"id": "S1L478",
+"start": 24776,
+"end": 24787,
+"text": "Compliance\n"
+},
+{
+"id": "S1L479",
+"start": 24787,
+"end": 24811,
+"text": "Data retention policies\n"
+},
+{
+"id": "S1L480",
+"start": 24811,
+"end": 24915,
+"text": "Free Slack deletes data after 1 year. Paid plans keep it for life by default, with adjustable settings.\n"
+},
+{
+"id": "S1L481",
+"start": 24915,
+"end": 24928,
+"text": "Up to 1 year\n"
+},
+{
+"id": "S1L482",
+"start": 24928,
+"end": 24943,
+"text": "Data residency\n"
+},
+{
+"id": "S1L483",
+"start": 24943,
+"end": 25031,
+"text": "For global teams, choose the region where certain types of data at rest will be stored.\n"
+},
+{
+"id": "S1L484",
+"start": 25031,
+"end": 25061,
+"text": "Data exports for all messages\n"
+},
+{
+"id": "S1L485",
+"start": 25061,
+"end": 25173,
+"text": "Workspace owners and admins can export data all workspace data, including private channels and direct messages.\n"
+},
+{
+"id": "S1L486",
+"start": 25173,
+"end": 25222,
+"text": "Data exports for all messages from a single user\n"
+},
+{
+"id": "S1L487",
+"start": 25222,
+"end": 25315,
+"text": "Workspace owners and admins can export data from all conversations a single user has joined.\n"
+},
+{
+"id": "S1L488",
+"start": 25315,
+"end": 25343,
+"text": "Native data loss prevention\n"
+},
+{
+"id": "S1L489",
+"start": 25343,
+"end": 25407,
+"text": "Scan external messages and files to prevent data loss or leaks.\n"
+},
+{
+"id": "S1L490",
+"start": 25407,
+"end": 25428,
+"text": "Information barriers\n"
+},
+{
+"id": "S1L491",
+"start": 25428,
+"end": 25533,
+"text": "Create info barriers between IDP groups to block certain DMs or huddles, avoiding conflicts of interest.\n"
+},
+{
+"id": "S1L492",
+"start": 25533,
+"end": 25545,
+"text": "Legal holds\n"
+},
+{
+"id": "S1L493",
+"start": 25545,
+"end": 25648,
+"text": "Place a legal hold on members to preserve their Slack data regardless of edits, deletes, or retention.\n"
+},
+{
+"id": "S1L494",
+"start": 25648,
+"end": 25662,
+"text": "Discovery API\n"
+},
+{
+"id": "S1L495",
+"start": 25662,
+"end": 25743,
+"text": "Use approved third-party apps to export or act on messages and files from Slack.\n"
+},
+{
+"id": "S1L496",
+"start": 25743,
+"end": 25754,
+"text": "Audit logs\n"
+},
+{
+"id": "S1L497",
+"start": 25754,
+"end": 25844,
+"text": "Audit logs track changes and usage. View in Slack, export CSV, or use the Audit Logs API.\n"
+},
+{
+"id": "S1L498",
+"start": 25844,
+"end": 25873,
+"text": "Support for HIPAA compliance\n"
+},
+{
+"id": "S1L499",
+"start": 25873,
+"end": 25973,
+"text": "Slack can be configured to support protected health information (PHI) in files and message content.\n"
+},
+{
+"id": "S1L500",
+"start": 25973,
+"end": 25988,
+"text": "Administration\n"
+},
+{
+"id": "S1L501",
+"start": 25988,
+"end": 25999,
+"text": "Workspaces\n"
+},
+{
+"id": "S1L502",
+"start": 25999,
+"end": 26102,
+"text": "Like a virtual office, a workspace is where work happens: all your channels, DMs, and tools live here.\n"
+},
+{
+"id": "S1L503",
+"start": 26102,
+"end": 26116,
+"text": "111 Unlimited\n"
+},
+{
+"id": "S1L504",
+"start": 26116,
+"end": 26151,
+"text": "Manage channel posting permissions\n"
+},
+{
+"id": "S1L505",
+"start": 26151,
+"end": 26263,
+"text": "Control who can post or @mention everyone in channels. This keeps large announcement channels distraction-free.\n"
+},
+{
+"id": "S1L506",
+"start": 26263,
+"end": 26399,
+"text": "Limited to #general channel only Limited to #general channel only Posting permissions in any channel Posting permissions in any channel\n"
+},
+{
+"id": "S1L507",
+"start": 26399,
+"end": 26426,
+"text": "Admin analytics dashboards\n"
+},
+{
+"id": "S1L508",
+"start": 26426,
+"end": 26534,
+"text": "Analytics dashboard shows how your org uses Slack. Sort data to understand messages, channels, and members.\n"
+},
+{
+"id": "S1L509",
+"start": 26534,
+"end": 26555,
+"text": "SCIM user management\n"
+},
+{
+"id": "S1L510",
+"start": 26555,
+"end": 26654,
+"text": "Slack supports member provisioning with SCIM. Use a connector app and supported identity provider.\n"
+},
+{
+"id": "S1L511",
+"start": 26654,
+"end": 26670,
+"text": "Supports guests\n"
+},
+{
+"id": "S1L512",
+"start": 26670,
+"end": 26690,
+"text": "Admin analytics API\n"
+},
+{
+"id": "S1L513",
+"start": 26690,
+"end": 26758,
+"text": "Retrieve analytics data for a given date as a compressed JSON file.\n"
+},
+{
+"id": "S1L514",
+"start": 26758,
+"end": 26785,
+"text": "Message activity analytics\n"
+},
+{
+"id": "S1L515",
+"start": 26785,
+"end": 26875,
+"text": "Owners, admins, or members can view message activity to measure impact of communications.\n"
+},
+{
+"id": "S1L516",
+"start": 26875,
+"end": 26894,
+"text": "Custom user groups\n"
+},
+{
+"id": "S1L517",
+"start": 26894,
+"end": 26978,
+"text": "Simplify team-wide comms by adding multiple people to a single user group @mention.\n"
+},
+{
+"id": "S1L518",
+"start": 26978,
+"end": 26994,
+"text": "Domain claiming\n"
+},
+{
+"id": "S1L519",
+"start": 26994,
+"end": 27047,
+"text": "Slack can help companies claim multiple web domains.\n"
+},
+{
+"id": "S1L520",
+"start": 27047,
+"end": 27071,
+"text": "Custom terms of service\n"
+},
+{
+"id": "S1L521",
+"start": 27071,
+"end": 27153,
+"text": "Org owners and admins can set custom rules for joining and using their Slack org.\n"
+},
+{
+"id": "S1L522",
+"start": 27153,
+"end": 27168,
+"text": "Granular roles\n"
+},
+{
+"id": "S1L523",
+"start": 27168,
+"end": 27274,
+"text": "Assign system roles to members or IDP groups. Choose if they manage admin tasks org-wide or by workspace.\n"
+},
+{
+"id": "S1L524",
+"start": 27274,
+"end": 27297,
+"text": "Manage flagged content\n"
+},
+{
+"id": "S1L525",
+"start": 27297,
+"end": 27396,
+"text": "Enterprise+ members can flag messages for review. Owners and admins can act and view flag history.\n"
+},
+{
+"id": "S1L526",
+"start": 27396,
+"end": 27410,
+"text": "Success Plans\n"
+},
+{
+"id": "S1L527",
+"start": 27410,
+"end": 27432,
+"text": "Standard Success Plan\n"
+},
+{
+"id": "S1L528",
+"start": 27432,
+"end": 27559,
+"text": "Free, always-on resources and essential support — live help via Help Agent and chat, with 2-business-day target case response.\n"
+},
+{
+"id": "S1L529",
+"start": 27559,
+"end": 27580,
+"text": "Premier Success Plan\n"
+},
+{
+"id": "S1L530",
+"start": 27580,
+"end": 27754,
+"text": "Personalized programs, expert guidance, and expedited support — live help via Help Agent, chat, and phone, with 24/7/365 1-hour target response for business-stopping issues.\n"
+},
+{
+"id": "S1L531",
+"start": 27754,
+"end": 27803,
+"text": "Available for purchases made via sales rep only.\n"
+},
+{
+"id": "S1L532",
+"start": 27803,
+"end": 27810,
+"text": "Add-on\n"
+},
+{
+"id": "S1L533",
+"start": 27810,
+"end": 27833,
+"text": "Signature Success Plan\n"
+},
+{
+"id": "S1L534",
+"start": 27833,
+"end": 28055,
+"text": "A designated Customer Success Manager, specialized programs, and our fastest support — live help via Help Agent, chat, phone, and an emergency hotline, with 24/7/365 15-minute target response for business-stopping issues.\n"
+},
+{
+"id": "S1L535",
+"start": 28055,
+"end": 28104,
+"text": "Available for purchases made via sales rep only.\n"
+},
+{
+"id": "S1L536",
+"start": 28104,
+"end": 28125,
+"text": "Add-on Add-on Add-on\n"
+},
+{
+"id": "S1L537",
+"start": 28125,
+"end": 28164,
+"text": "Leading the way in enterprise security\n"
+},
+{
+"id": "S1L538",
+"start": 28164,
+"end": 28203,
+"text": "Data encryption in transit and at rest\n"
+},
+{
+"id": "S1L539",
+"start": 28203,
+"end": 28251,
+"text": "Comprehensive compliance and assurance programs\n"
+},
+{
+"id": "S1L540",
+"start": 28251,
+"end": 28314,
+"text": "Audit logs, data loss prevention, single sign-on and much more\n"
+},
+{
+"id": "S1L541",
+"start": 28314,
+"end": 28340,
+"text": "Learn more about security\n"
+},
+{
+"id": "S1L542",
+"start": 28340,
+"end": 28367,
+"text": "Frequently Asked Questions\n"
+},
+{
+"id": "S1L543",
+"start": 28367,
+"end": 28438,
+"text": "How does Slack protect the security of my data when using AI features?\n"
+},
+{
+"id": "S1L544",
+"start": 28438,
+"end": 28754,
+"text": "AI in Slack runs in Slack’s trusted infrastructure, and upholds the security practices and compliance standards that customers expect from Slack itself. Slack does not share customer data with large language model (LLM) providers and does not use customer data to train LLMs. Visit our Help Center for more details.\n"
+},
+{
+"id": "S1L545",
+"start": 28754,
+"end": 28879,
+"text": "Our large language models are hosted directly within Slack’s AWS virtual private cloud, ensuring your data remains in-house.\n"
+},
+{
+"id": "S1L546",
+"start": 28879,
+"end": 28953,
+"text": "How can I pay for Slack? Can I pay by credit card, or can you invoice me?\n"
+},
+{
+"id": "S1L547",
+"start": 28953,
+"end": 29175,
+"text": "You can use a credit card to pay for any plan. If you choose to pay annually, you may be eligible to be invoiced and pay by ACH or wire transfer. Visit our Help Center for more details, or contact us to start the process.\n"
+},
+{
+"id": "S1L548",
+"start": 29175,
+"end": 29346,
+"text": "If you choose to pay by credit card, you’ll see the first credit card charge from Slack on the day you purchase a paid plan. Here are some other times you’ll see charges:\n"
+},
+{
+"id": "S1L549",
+"start": 29346,
+"end": 29395,
+"text": "On your monthly renewal date if you pay monthly.\n"
+},
+{
+"id": "S1L550",
+"start": 29395,
+"end": 29444,
+"text": "On your annual renewal date if you pay annually.\n"
+},
+{
+"id": "S1L551",
+"start": 29444,
+"end": 29552,
+"text": "On the last day of the month if you pay annually and there’s an outstanding balance for adding new members.\n"
+},
+{
+"id": "S1L552",
+"start": 29552,
+"end": 29667,
+"text": "You can change billing cycles or switch to invoicing at any time. Learn more about managing billing details here .\n"
+},
+{
+"id": "S1L553",
+"start": 29667,
+"end": 29802,
+"text": "Our team has several accounts which are not being actively used, but which we don’t want to disable. Do we still have to pay for them?\n"
+},
+{
+"id": "S1L554",
+"start": 29802,
+"end": 30000,
+"text": "At Slack, we believe you should only be billed for what you use. Members who take an action in Slack at any time within a 28-day period will be considered active for billing purposes. If someone you"
+}
+]
+}

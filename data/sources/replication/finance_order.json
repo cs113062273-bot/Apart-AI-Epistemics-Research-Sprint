@@ -1,0 +1,930 @@
+[
+ {
+  "name": "ALIGN TECHNOLOGY INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000077/algn-q326earningspressrele.htm",
+  "file_date": "2026-10-28",
+  "file": "00_ALIGNTECHNOLOGYINC.htm"
+ },
+ {
+  "name": "Coupang, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
+  "file_date": "2026-11-03",
+  "file": "01_CoupangInc.htm"
+ },
+ {
+  "name": "V F CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/103379/000010337926000134/q22027earningspressrelease.htm",
+  "file_date": "2026-10-28",
+  "file": "02_VFCORP.htm"
+ },
+ {
+  "name": "CONMED Corp",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/816956/000081695626000110/cnmdearningsrelease9302026.htm",
+  "file_date": "2026-10-28",
+  "file": "03_CONMEDCorp.htm"
+ },
+ {
+  "name": "EZCORP INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/876523/000087652326000074/a2026-q4pressreleaseex991.htm",
+  "file_date": "2026-11-12",
+  "file": "04_EZCORPINC.htm"
+ },
+ {
+  "name": "Ranpak Holdings Corp.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1712463/000162828026068022/a04pack-202609xex99x1.htm",
+  "file_date": "2026-10-29",
+  "file": "05_RanpakHoldingsCorp.htm"
+ },
+ {
+  "name": "Fossil Group, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/883569/000088356926000069/q32026ex991.htm",
+  "file_date": "2026-11-10",
+  "file": "06_FossilGroupInc.htm"
+ },
+ {
+  "name": "Pulmonx Corp",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1127537/000112753726000042/lung3q26earningsrelease102.htm",
+  "file_date": "2026-10-27",
+  "file": "07_PulmonxCorp.htm"
+ },
+ {
+  "name": "MICROSOFT CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-ex99_1.htm",
+  "file_date": "2026-10-28",
+  "file": "08_MICROSOFTCORP.htm"
+ },
+ {
+  "name": "WEBTOON Entertainment Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1997859/000199785926000098/wbtn-20261109xexx991.htm",
+  "file_date": "2026-11-09",
+  "file": "09_WEBTOONEntertainmentInc.htm"
+ },
+ {
+  "name": "Alphabet Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+  "file_date": "2026-10-28",
+  "file": "10_AlphabetInc.htm"
+ },
+ {
+  "name": "PRICESMART INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1041803/000104180326000041/psmt-20260831xexx991.htm",
+  "file_date": "2026-10-26",
+  "file": "11_PRICESMARTINC.htm"
+ },
+ {
+  "name": "QuidelOrtho Corp",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1906324/000190632426000040/qdel9272026ex991earningsre.htm",
+  "file_date": "2026-11-03",
+  "file": "12_QuidelOrthoCorp.htm"
+ },
+ {
+  "name": "ARROW ELECTRONICS, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/7536/000000753626000150/arw-ex99d1.htm",
+  "file_date": "2026-11-05",
+  "file": "13_ARROWELECTRONICSINC.htm"
+ },
+ {
+  "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/ibm-20261021xex991.htm",
+  "file_date": "2026-10-21",
+  "file": "14_INTERNATIONALBUSINESSMACHINESC.htm"
+ },
+ {
+  "name": "EURONET WORLDWIDE, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1029199/000155485526002206/ex991_1.htm",
+  "file_date": "2026-10-27",
+  "file": "15_EURONETWORLDWIDEINC.htm"
+ },
+ {
+  "name": "Acushnet Holdings Corp.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000179/ex991-q32026.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "METLIFE INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000058/ex991earningsreleasetables.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Cronos Group Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1656472/000165647226000074/pressreleaseq32026qformat.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "UNISYS CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000037/q32026earningsrelease.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "LEVI STRAUSS & CO",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/94845/000009484526000048/exhibit991-3q2026pressrele.htm",
+  "file_date": "2026-10-07"
+ },
+ {
+  "name": "MOODYS CORP /DE/",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026066594/a3q26earningsrelease.htm",
+  "file_date": "2026-10-21"
+ },
+ {
+  "name": "Sotera Health Co",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1822479/000182247926000055/november32026-ex991.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "MERIT MEDICAL SYSTEMS INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/856982/000085698226000051/mmsi-ex99d1.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "MATTEL INC /DE/",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/63276/000006327626000014/exhibit991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "RESMED INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/943819/000119312526437783/d170451dex991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "RALPH LAUREN CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026070619/rl-20260926ex991xpressrele.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "MOLSON COORS BEVERAGE CO",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/24545/000002454526000078/tapex99120260930-earningsr.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "WOLVERINE WORLD WIDE INC /DE/",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/110471/000162828026073067/earningsrelease2026-q3.htm",
+  "file_date": "2026-11-12"
+ },
+ {
+  "name": "Kraft Heinz Co",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000069/exhibit991-2026segmentrest.htm",
+  "file_date": "2026-10-07"
+ },
+ {
+  "name": "LAUREATE EDUCATION, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/912766/000091276626000004/laur09302026earningsreleas.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1383312/000138331226000030/ex991earningsrelease1q2027.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "Bausch & Lomb Corp",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1860742/000186074226000108/ex991q3-2026.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "Octave Intelligence plc",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/2083632/000162828026073094/exhibit991q3fy26.htm",
+  "file_date": "2026-11-12"
+ },
+ {
+  "name": "TANDEM DIABETES CARE INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000143/ex991-q3earningsrelease2026.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Amcor plc",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000029/exhibit991q12026transition.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "PEPSICO INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm",
+  "file_date": "2026-10-08"
+ },
+ {
+  "name": "Savers Value Village, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1883313/000188331326000072/pressreleaseex991_q3fy26xn.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "WATERS CORP /DE/",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1000697/000119312526444400/d22941dex991.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "WD 40 CO",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/105132/000010513226000086/wdfc-20261021xexx991.htm",
+  "file_date": "2026-10-21"
+ },
+ {
+  "name": "WW INTERNATIONAL, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/105319/000119312526448523/d135726dex991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "NETFLIX INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000290/ex991_q326.htm",
+  "file_date": "2026-10-20"
+ },
+ {
+  "name": "COMMVAULT SYSTEMS INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000032/q2fy27pressrelease.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "Under Armour, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1336917/000133691726000160/exhibit991-fiscal2027q2.htm",
+  "file_date": "2026-11-06"
+ },
+ {
+  "name": "Dynatrace, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1773383/000177338326000069/q2fy27-earningsreleaseex99.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "SYSCO CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602126000046/syy2027q1pressrelease.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "RESOURCES CONNECTION, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1084765/000108476526000078/rgpq1fy2027pressrelease.htm",
+  "file_date": "2026-10-07"
+ },
+ {
+  "name": "ZIMMER BIOMET HOLDINGS, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1136869/000119312526446145/zbh-ex99_1.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "ARTIVION, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/784199/000162828026071029/aort-2026x8k093026ex991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Criteo S.A.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1576427/000162828026069790/exhibit991-8xkq32026.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Kontoor Brands, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000072/a2026q3ktberexhibit991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "AMERICOLD REALTY TRUST",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1455863/000162828026070516/q32026-pressrelease.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "STARBUCKS CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000154/sbux-09272026xearningsrele.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "Keurig Dr Pepper Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000064/ex991-keurigdrpepperreport.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "EVERTEC, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1559865/000155986526000052/ex99109302026.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "TAPESTRY, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036126042034/ef20084882_ex99-1.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Garrett Motion Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1735707/000173570726000033/exhibit99_1-2026q3.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "ServiceNow, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000095/erq3fy262.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "Information Services Group Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1371489/000110465926120908/iii-ex99d1.htm",
+  "file_date": "2026-11-02"
+ },
+ {
+  "name": "BLACKBAUD INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1280058/000128005826000029/blkbq32026exhibit991.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "COLUMBIA SPORTSWEAR CO",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1050797/000105079726000148/colmfy26q3exhibit991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "INSULET CORP",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000190/podd2026-09x30ex991.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Rackspace Technology, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1810019/000181001926000113/rxt991_q32026.htm",
+  "file_date": "2026-11-09"
+ },
+ {
+  "name": "HERSHEY CO",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026068046/exhibit991_2026xq3.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "ROYAL CARIBBEAN CRUISES LTD",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000042/a2026q3earningsrelease.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "MESA LABORATORIES INC /CO/",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/724004/000143774926035915/ex_1040386.htm",
+  "file_date": "2026-11-09"
+ },
+ {
+  "name": "MCCORMICK & CO INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000326/mkcreportssolidthirdquar.htm",
+  "file_date": "2026-10-01"
+ },
+ {
+  "name": "BENTLEY SYSTEMS INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1031308/000103130826000032/a26q3exhibit991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "N-able, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834488/000183448826000057/nabl-20260930x8kxex991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Edwards Lifesciences Corp",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1099800/000109980026000053/ex-991q32026.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Norwegian Cruise Line Holdings Ltd.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1513761/000117184326006957/exh_991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "Callaway Golf Co",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/837465/000083746526000025/earningsreleaseq32026.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Uber Technologies, Inc",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000039/uberq326earningspressrelea.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Strategic Education, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000022/stra-20261105xexhibit991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "NCL CORP Ltd.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1318742/000117184326006954/exh_991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "TransUnion",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1552033/000155203326000056/exhibit99109302026.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "LivaNova PLC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1639691/000163969126000111/a3q2026earningspressrelease.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "STERIS plc",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1757898/000162828026070220/ste9302026ex991.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Xerox Holdings Corp",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1770450/000177045026000044/ex991xrx930268-ker.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "Capri Holdings Ltd",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000092/cpri8-k9262026exhibit991.htm",
+  "file_date": "2026-10-30"
+ },
+ {
+  "name": "Mondelez International, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026068233/mdlzearningsreleasecontent.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "W.W. GRAINGER, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/277135/000027713526000088/gww8kex991q32026.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Booking Holdings Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000044/q3-26bkngearningsrelease.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "TELEFLEX INC",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/96943/000009694326000107/ex991to11-5x2026req32026ea.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "NIQ Global Intelligence plc",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/2054696/000205469626000030/niqreportsthirdquarter20.htm",
+  "file_date": "2026-11-13"
+ },
+ {
+  "name": "Tradeweb Markets Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1758730/000175873026000143/tw-2026xq3xex991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "COGENT COMMUNICATIONS HOLDINGS, INC.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1158324/000110465926123047/tm2628890d1_ex99-1.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "EPAM Systems, Inc.",
+  "query": "constant currency",
+  "url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/exhibit99_q3x2026.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "RingCentral, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1384905/000138490526000058/rng-20260930x8kxex991.htm",
+  "file_date": "2026-10-22"
+ },
+ {
+  "name": "BLACKLINE, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1666134/000117184326007177/exh_991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "PLEXUS CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/785786/000078578626000062/plxsf26q4earningsrelease-e.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "Sprout Social, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1517375/000151737526000067/a3q26earningsrelease2.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "Arista Networks, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000252/ex991q326-earningsrelease.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "Fortinet, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "Bloom Energy Corp",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/ex991_q326financialresults.htm",
+  "file_date": "2026-10-22"
+ },
+ {
+  "name": "PayPal Holdings, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/pypl3q-26earningsrelease.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "Ultra Clean Holdings, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1275014/000162828026067578/q32026pressrelease.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "APPLIED MATERIALS INC /DE",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026073360/exhibit991q42026earningsre.htm",
+  "file_date": "2026-11-12"
+ },
+ {
+  "name": "8X8 INC /DE/",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1023731/000102373126000166/q2278-kexhibit991.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Lumentum Holdings Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026068655/lite_ex991xq1fy27.htm",
+  "file_date": "2026-11-02"
+ },
+ {
+  "name": "AXCELIS TECHNOLOGIES INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1113232/000110465926123080/tm2629011d1_ex99-1.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Atlassian Corp",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/ex991q1fy27.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Leidos Holdings, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000290/ldos100226q3pressreleaseex.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "PTC INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/857005/000119312526447186/ptc-ex99_1.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Tenable Holdings, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1660280/000166028026000050/q32026financialresults-ear.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "ILLUMINA, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000202/q326earningsrelease.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "APPFOLIO INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1433195/000143319526000062/appfq32026exhibit991.htm",
+  "file_date": "2026-10-22"
+ },
+ {
+  "name": "LAM RESEARCH CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/lrcx_exhibitx991xq1x2027.htm",
+  "file_date": "2026-10-21"
+ },
+ {
+  "name": "Freshworks Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1544522/000154452226000170/q326quarterlyearningsrelea.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "VIAVI SOLUTIONS INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/912093/000162828026070170/viavq1fy278-kex991.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Klaviyo, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835830/000183583026000045/confidentialfiscalq32026ea.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "POWER INTEGRATIONS INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/833640/000083364026000152/powi-20261104xexx991.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "Astera Labs, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000044/q326exhibit991.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "BIO-RAD LABORATORIES, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/12208/000001220826000057/bio-8k1142026xex991.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "AKAMAI TECHNOLOGIES INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "EXTREME NETWORKS INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526435112/extr-ex99_1.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "F5, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1048695/000104869526000074/ex991-q426earningsreleasef.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "JFrog Ltd",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1800667/000119312526449797/frog-ex99_1.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Amplitude, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1866692/000119312526447218/ampl-ex99_1.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "CISCO SYSTEMS, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/exhibit991pressrelease-q1f.htm",
+  "file_date": "2026-11-12"
+ },
+ {
+  "name": "ORACLE CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526435853/d75538dex991.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "Bioventus Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1665988/000166598826000050/bioventusex-991q32026.htm",
+  "file_date": "2026-11-02"
+ },
+ {
+  "name": "Motorola Solutions, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000041/msiq32026pressrelease.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "PDF SOLUTIONS INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1120914/000143774926035288/ex_1002246.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "OMNICELL, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/926326/000092632626000024/exhibit991q3-26.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "QUAKER CHEMICAL CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/81362/000162828026068281/kwr2026q3ex-991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "SANMINA CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/897723/000089772326000044/sanmina_exx991xoctober32026.htm",
+  "file_date": "2026-11-09"
+ },
+ {
+  "name": "Fulgent Genetics, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1674930/000119312526449799/flgt-ex99_1.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "CS Disco, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1625641/000162564126000191/q3fy2026earningsrelease.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "ONTO INNOVATION INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/704532/000119312526453582/onto-ex99_1.htm",
+  "file_date": "2026-11-09"
+ },
+ {
+  "name": "AvePoint, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1777921/000117184326007179/exh_991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "Blend Labs, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1855747/000185574726000071/exhibit991_q32026xpressrel.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "NETGEAR, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1122904/000119312526447309/ntgr-ex99_1.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "NETSCOUT SYSTEMS INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1078075/000107807526000153/ntct-ex99_1.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "BILL Holdings, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1786352/000162828026070994/bill-2026930xexx991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000156/crl3q26earningsrelease.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "CECO ENVIRONMENTAL CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526452685/ceco-ex99_1.htm",
+  "file_date": "2026-11-09"
+ },
+ {
+  "name": "Cloudflare, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "DROPBOX, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1467623/000146762326000058/q32026er-exhibit991q2xq4.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "TWILIO INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000106/twloq326ex991.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "BIOMARIN PHARMACEUTICAL INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847726000021/earningsrelease-2nov26ex991.htm",
+  "file_date": "2026-11-02"
+ },
+ {
+  "name": "HUBSPOT INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526447249/hubs-ex99_1.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "ALLEGRO MICROSYSTEMS, INC.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/866291/000119312526436963/algm-ex99_1.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "BRUKER CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1109354/000119312526446176/brkr-ex99_1.htm",
+  "file_date": "2026-11-04"
+ },
+ {
+  "name": "ON SEMICONDUCTOR CORP",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126041580/ef20084671_ex99-1.htm",
+  "file_date": "2026-11-02"
+ },
+ {
+  "name": "A10 Networks, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1580808/000162828026071062/q3-26exx99111052026earning.htm",
+  "file_date": "2026-11-05"
+ },
+ {
+  "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/818686/000117184326007054/exh_991.htm",
+  "file_date": "2026-11-03"
+ },
+ {
+  "name": "TYLER TECHNOLOGIES INC",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000056/a991earningsrelease-9302026.htm",
+  "file_date": "2026-10-28"
+ },
+ {
+  "name": "Marvell Technology, Inc.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/d81187dex991.htm",
+  "file_date": "2026-11-02"
+ },
+ {
+  "name": "Sandisk Corp",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/sndkq1-27ex991xpressrelease.htm",
+  "file_date": "2026-10-29"
+ },
+ {
+  "name": "NXP Semiconductors N.V.",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/nxp3q26exhibit991.htm",
+  "file_date": "2026-10-27"
+ },
+ {
+  "name": "Navitas Semiconductor Corp",
+  "query": "non-GAAP operating margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/1821769/000162828026069489/exhibit991-navitassemicond.htm",
+  "file_date": "2026-11-03"
+ }
+]

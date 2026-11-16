@@ -1,0 +1,852 @@
+{
+"page": "Hetzner Storage Box",
+"url": "https://www.hetzner.com/storage/storage-box/",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 26,
+"text": "THIS WEBSITE USES COOKIES\n"
+},
+{
+"id": "S1L2",
+"start": 26,
+"end": 352,
+"text": "We want you to have the best possible user experience on our website. We use cookies to analyze how visitors like you use our website, so we can make improvements. And we use cookies to make sure that the website functions normally. For more info, see our privacy policy . You can edit your cookie settings there at any time.\n"
+},
+{
+"id": "S1L3",
+"start": 352,
+"end": 394,
+"text": "Allow all cookies Allow necessary cookies\n"
+},
+{
+"id": "S1L4",
+"start": 394,
+"end": 396,
+"text": "×\n"
+},
+{
+"id": "S1L5",
+"start": 396,
+"end": 426,
+"text": "Choose your location settings\n"
+},
+{
+"id": "S1L6",
+"start": 426,
+"end": 435,
+"text": "Language\n"
+},
+{
+"id": "S1L7",
+"start": 435,
+"end": 468,
+"text": "Deutsch English Français Español\n"
+},
+{
+"id": "S1L8",
+"start": 468,
+"end": 477,
+"text": "Currency\n"
+},
+{
+"id": "S1L9",
+"start": 477,
+"end": 489,
+"text": "€ EUR $ USD\n"
+},
+{
+"id": "S1L10",
+"start": 489,
+"end": 503,
+"text": "Country (VAT)\n"
+},
+{
+"id": "S1L11",
+"start": 503,
+"end": 831,
+"text": "Country (VAT) All others Australia Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Norway Poland Portugal Romania Singapore Slovakia Slovenia South Africa Spain Sweden Switzerland Ukraine United Kingdom USA\n"
+},
+{
+"id": "S1L12",
+"start": 831,
+"end": 845,
+"text": "Save settings\n"
+},
+{
+"id": "S1L13",
+"start": 845,
+"end": 912,
+"text": "Automatically translated by AI. Discrepancies or errors may occur.\n"
+},
+{
+"id": "S1L14",
+"start": 912,
+"end": 919,
+"text": "Ask AI\n"
+},
+{
+"id": "S1L15",
+"start": 919,
+"end": 927,
+"text": "Console\n"
+},
+{
+"id": "S1L16",
+"start": 927,
+"end": 933,
+"text": "Robot\n"
+},
+{
+"id": "S1L17",
+"start": 933,
+"end": 942,
+"text": "konsoleH\n"
+},
+{
+"id": "S1L18",
+"start": 942,
+"end": 952,
+"text": "Dedicated\n"
+},
+{
+"id": "S1L19",
+"start": 952,
+"end": 1058,
+"text": "Server Finder Find the right server for you AX-Line AMD based performance EX-Line Intel based performance\n"
+},
+{
+"id": "S1L20",
+"start": 1058,
+"end": 1164,
+"text": "GPU-Line Maximum workloads & ai SX-Line For large amounts of data DX-Line Dell server for heavy computing\n"
+},
+{
+"id": "S1L21",
+"start": 1164,
+"end": 1207,
+"text": "Server Auction Refurbished dedicated deals\n"
+},
+{
+"id": "S1L22",
+"start": 1207,
+"end": 1285,
+"text": "Server Auction Save money and do good for the planet with refurbished servers\n"
+},
+{
+"id": "S1L23",
+"start": 1285,
+"end": 1319,
+"text": "from € 75.70 per month, excl. VAT\n"
+},
+{
+"id": "S1L24",
+"start": 1319,
+"end": 1325,
+"text": "Cloud\n"
+},
+{
+"id": "S1L25",
+"start": 1325,
+"end": 1365,
+"text": "Cloud Overview Affordable Cloud Hosting\n"
+},
+{
+"id": "S1L26",
+"start": 1365,
+"end": 1507,
+"text": "Cost-Optimized Perfect for test environments Regular Performance Best price-performance ratio General Purpose Ideal for business applications\n"
+},
+{
+"id": "S1L27",
+"start": 1507,
+"end": 1578,
+"text": "European Cloud Lower costs, more data sovereignty – with Hetzner Cloud\n"
+},
+{
+"id": "S1L28",
+"start": 1578,
+"end": 1586,
+"text": "Storage\n"
+},
+{
+"id": "S1L29",
+"start": 1586,
+"end": 1623,
+"text": "Object Storage S3-compatible storage\n"
+},
+{
+"id": "S1L30",
+"start": 1623,
+"end": 1656,
+"text": "Storage Box Cheap backup servers\n"
+},
+{
+"id": "S1L31",
+"start": 1656,
+"end": 1732,
+"text": "Sovereignty starts with hosting it yourself Start self-hosting with Hetzner\n"
+},
+{
+"id": "S1L32",
+"start": 1732,
+"end": 1740,
+"text": "Managed\n"
+},
+{
+"id": "S1L33",
+"start": 1740,
+"end": 1751,
+"text": "Web & Mail\n"
+},
+{
+"id": "S1L34",
+"start": 1751,
+"end": 1860,
+"text": "Webhosting Simple & cheap web hosting Domain Check Search for domains Registration Robot Domain registration\n"
+},
+{
+"id": "S1L35",
+"start": 1860,
+"end": 1868,
+"text": "Servers\n"
+},
+{
+"id": "S1L36",
+"start": 1868,
+"end": 1905,
+"text": "Managed Server Fully managed servers\n"
+},
+{
+"id": "S1L37",
+"start": 1905,
+"end": 1919,
+"text": "Cloud Storage\n"
+},
+{
+"id": "S1L38",
+"start": 1919,
+"end": 1956,
+"text": "Storage Share GDPR-compliant storage\n"
+},
+{
+"id": "S1L39",
+"start": 1956,
+"end": 2047,
+"text": "Need help? Find self service guides, technical details and helpful information in our Docs\n"
+},
+{
+"id": "S1L40",
+"start": 2047,
+"end": 2056,
+"text": "Services\n"
+},
+{
+"id": "S1L41",
+"start": 2056,
+"end": 2074,
+"text": "Domain & Security\n"
+},
+{
+"id": "S1L42",
+"start": 2074,
+"end": 2150,
+"text": "DNS Management Manage DNS entries and zones SSL-Certificate For any usecase\n"
+},
+{
+"id": "S1L43",
+"start": 2150,
+"end": 2158,
+"text": "Network\n"
+},
+{
+"id": "S1L44",
+"start": 2158,
+"end": 2207,
+"text": "Load Balancer Automatically distributing traffic\n"
+},
+{
+"id": "S1L45",
+"start": 2207,
+"end": 2220,
+"text": "For Business\n"
+},
+{
+"id": "S1L46",
+"start": 2220,
+"end": 2266,
+"text": "Custom Solutions Customized IT infrastructure\n"
+},
+{
+"id": "S1L47",
+"start": 2266,
+"end": 2357,
+"text": "Need help? Find self service guides, technical details and helpful information in our Docs\n"
+},
+{
+"id": "S1L48",
+"start": 2357,
+"end": 2367,
+"text": "Resources\n"
+},
+{
+"id": "S1L49",
+"start": 2367,
+"end": 2443,
+"text": "New Blog Inspiration, usecases & insights Newsletter Product news & updates\n"
+},
+{
+"id": "S1L50",
+"start": 2443,
+"end": 2546,
+"text": "Docs Self service and technical docs Tutorials Guides and how-tos Forum Community support & discussion\n"
+},
+{
+"id": "S1L51",
+"start": 2546,
+"end": 2635,
+"text": "Status System and service status API Automate via REST API Downloads Documents and forms\n"
+},
+{
+"id": "S1L52",
+"start": 2635,
+"end": 2650,
+"text": "Current topics\n"
+},
+{
+"id": "S1L53",
+"start": 2650,
+"end": 2683,
+"text": "Engineering Inference Experiment\n"
+},
+{
+"id": "S1L54",
+"start": 2683,
+"end": 2731,
+"text": "Engineering One-click self-hosting with coolify\n"
+},
+{
+"id": "S1L55",
+"start": 2731,
+"end": 2778,
+"text": "Engineering Your own vpn server with wireguard\n"
+},
+{
+"id": "S1L56",
+"start": 2778,
+"end": 2887,
+"text": "We noticed you're browsing from a different part of the world. Switch to settings tailored to your location?\n"
+},
+{
+"id": "S1L57",
+"start": 2887,
+"end": 2894,
+"text": "yes no\n"
+},
+{
+"id": "S1L58",
+"start": 2894,
+"end": 2908,
+"text": "Storage Boxes\n"
+},
+{
+"id": "S1L59",
+"start": 2908,
+"end": 2960,
+"text": "QUICK, SECURE AND CHEAP: OUR ONLINE BACKUP SOLUTION\n"
+},
+{
+"id": "S1L60",
+"start": 2960,
+"end": 2982,
+"text": "Compare Storage Boxes\n"
+},
+{
+"id": "S1L61",
+"start": 2982,
+"end": 3032,
+"text": "Our servers are available in different locations.\n"
+},
+{
+"id": "S1L62",
+"start": 3032,
+"end": 3037,
+"text": "BX11\n"
+},
+{
+"id": "S1L63",
+"start": 3037,
+"end": 3042,
+"text": "Type\n"
+},
+{
+"id": "S1L64",
+"start": 3042,
+"end": 3078,
+"text": "max/mo. € 3.20 per month, excl. VAT\n"
+},
+{
+"id": "S1L65",
+"start": 3078,
+"end": 3111,
+"text": "€ 0.0051 per hour, excl. VAT /hr\n"
+},
+{
+"id": "S1L66",
+"start": 3111,
+"end": 3117,
+"text": "Order\n"
+},
+{
+"id": "S1L67",
+"start": 3117,
+"end": 3127,
+"text": "setup fee\n"
+},
+{
+"id": "S1L68",
+"start": 3127,
+"end": 3132,
+"text": "once\n"
+},
+{
+"id": "S1L69",
+"start": 3132,
+"end": 3148,
+"text": "Product details\n"
+},
+{
+"id": "S1L70",
+"start": 3148,
+"end": 3153,
+"text": "BX21\n"
+},
+{
+"id": "S1L71",
+"start": 3153,
+"end": 3158,
+"text": "Type\n"
+},
+{
+"id": "S1L72",
+"start": 3158,
+"end": 3195,
+"text": "max/mo. € 10.90 per month, excl. VAT\n"
+},
+{
+"id": "S1L73",
+"start": 3195,
+"end": 3228,
+"text": "€ 0.0175 per hour, excl. VAT /hr\n"
+},
+{
+"id": "S1L74",
+"start": 3228,
+"end": 3234,
+"text": "Order\n"
+},
+{
+"id": "S1L75",
+"start": 3234,
+"end": 3244,
+"text": "setup fee\n"
+},
+{
+"id": "S1L76",
+"start": 3244,
+"end": 3249,
+"text": "once\n"
+},
+{
+"id": "S1L77",
+"start": 3249,
+"end": 3265,
+"text": "Product details\n"
+},
+{
+"id": "S1L78",
+"start": 3265,
+"end": 3270,
+"text": "BX31\n"
+},
+{
+"id": "S1L79",
+"start": 3270,
+"end": 3275,
+"text": "Type\n"
+},
+{
+"id": "S1L80",
+"start": 3275,
+"end": 3312,
+"text": "max/mo. € 20.80 per month, excl. VAT\n"
+},
+{
+"id": "S1L81",
+"start": 3312,
+"end": 3345,
+"text": "€ 0.0333 per hour, excl. VAT /hr\n"
+},
+{
+"id": "S1L82",
+"start": 3345,
+"end": 3351,
+"text": "Order\n"
+},
+{
+"id": "S1L83",
+"start": 3351,
+"end": 3361,
+"text": "setup fee\n"
+},
+{
+"id": "S1L84",
+"start": 3361,
+"end": 3366,
+"text": "once\n"
+},
+{
+"id": "S1L85",
+"start": 3366,
+"end": 3382,
+"text": "Product details\n"
+},
+{
+"id": "S1L86",
+"start": 3382,
+"end": 3387,
+"text": "BX41\n"
+},
+{
+"id": "S1L87",
+"start": 3387,
+"end": 3392,
+"text": "Type\n"
+},
+{
+"id": "S1L88",
+"start": 3392,
+"end": 3429,
+"text": "max/mo. € 40.60 per month, excl. VAT\n"
+},
+{
+"id": "S1L89",
+"start": 3429,
+"end": 3462,
+"text": "€ 0.0651 per hour, excl. VAT /hr\n"
+},
+{
+"id": "S1L90",
+"start": 3462,
+"end": 3468,
+"text": "Order\n"
+},
+{
+"id": "S1L91",
+"start": 3468,
+"end": 3478,
+"text": "setup fee\n"
+},
+{
+"id": "S1L92",
+"start": 3478,
+"end": 3483,
+"text": "once\n"
+},
+{
+"id": "S1L93",
+"start": 3483,
+"end": 3499,
+"text": "Product details\n"
+},
+{
+"id": "S1L94",
+"start": 3499,
+"end": 3508,
+"text": "Features\n"
+},
+{
+"id": "S1L95",
+"start": 3508,
+"end": 3556,
+"text": "Available storage | 1 TB | 5 TB | 10 TB | 20 TB\n"
+},
+{
+"id": "S1L96",
+"start": 3556,
+"end": 3574,
+"text": "Upgrade/Downgrade\n"
+},
+{
+"id": "S1L97",
+"start": 3574,
+"end": 3594,
+"text": "Traffic | Unlimited\n"
+},
+{
+"id": "S1L98",
+"start": 3594,
+"end": 3616,
+"text": "Free Internal Traffic\n"
+},
+{
+"id": "S1L99",
+"start": 3616,
+"end": 3659,
+"text": "Concurrent connections | 10 | 10 | 10 | 10\n"
+},
+{
+"id": "S1L100",
+"start": 3659,
+"end": 3882,
+"text": "Sub-Accounts With a sub-account, you can create another user and assign a directory for this user. When the user logs in, they will only be able to access the files that are saved in this directory. | 100 | 100 | 100 | 100\n"
+},
+{
+"id": "S1L101",
+"start": 3882,
+"end": 4107,
+"text": "Snapshots Using the snapshot function, you can create an image of your Storage Box and, if necessary, restore your Storage Box from this snapshot. Number of snapshots included in each Storage Box product. | 10 | 20 | 30 | 40\n"
+},
+{
+"id": "S1L102",
+"start": 4107,
+"end": 4286,
+"text": "Automated snapshots With automated snapshots, you can define a specific time (for example, Tuesdays at 5 PM) for when snapshots will be automatically created. | 10 | 20 | 30 | 40\n"
+},
+{
+"id": "S1L103",
+"start": 4286,
+"end": 4290,
+"text": "FTP\n"
+},
+{
+"id": "S1L104",
+"start": 4290,
+"end": 4295,
+"text": "FTPS\n"
+},
+{
+"id": "S1L105",
+"start": 4295,
+"end": 4300,
+"text": "SFTP\n"
+},
+{
+"id": "S1L106",
+"start": 4300,
+"end": 4304,
+"text": "SCP\n"
+},
+{
+"id": "S1L107",
+"start": 4304,
+"end": 4315,
+"text": "Samba/CIFS\n"
+},
+{
+"id": "S1L108",
+"start": 4315,
+"end": 4326,
+"text": "BorgBackup\n"
+},
+{
+"id": "S1L109",
+"start": 4326,
+"end": 4333,
+"text": "Restic\n"
+},
+{
+"id": "S1L110",
+"start": 4333,
+"end": 4340,
+"text": "Rclone\n"
+},
+{
+"id": "S1L111",
+"start": 4340,
+"end": 4354,
+"text": "rsync via SSH\n"
+},
+{
+"id": "S1L112",
+"start": 4354,
+"end": 4360,
+"text": "HTTPS\n"
+},
+{
+"id": "S1L113",
+"start": 4360,
+"end": 4367,
+"text": "WebDAV\n"
+},
+{
+"id": "S1L114",
+"start": 4367,
+"end": 4391,
+"text": "Usable as network drive\n"
+},
+{
+"id": "S1L115",
+"start": 4391,
+"end": 4438,
+"text": "Storage location | optional Germany or Finland\n"
+},
+{
+"id": "S1L116",
+"start": 4438,
+"end": 4457,
+"text": "Free Email Support\n"
+},
+{
+"id": "S1L117",
+"start": 4457,
+"end": 4574,
+"text": "Possible payment methods | bank transfer, credit card, Paypal and SEPA direct debit for accounts from SEPA countries\n"
+},
+{
+"id": "S1L118",
+"start": 4574,
+"end": 4605,
+"text": "Minimum Contract Period | none\n"
+},
+{
+"id": "S1L119",
+"start": 4605,
+"end": 4639,
+"text": "Cancellation period | immediately\n"
+},
+{
+"id": "S1L120",
+"start": 4639,
+"end": 4816,
+"text": "Data Processing Agreement Data Processing Agreement (DPA) in accordance with Article 28 of the GDPR (General Data Protection Regulation, a European Union regulation) | optional\n"
+},
+{
+"id": "S1L121",
+"start": 4816,
+"end": 4825,
+"text": "Features\n"
+},
+{
+"id": "S1L122",
+"start": 4825,
+"end": 4841,
+"text": "FLEXIBLE ACCESS\n"
+},
+{
+"id": "S1L123",
+"start": 4841,
+"end": 5060,
+"text": "You can use various access protocols such as FTP, SFTP, SCP, and RSYNC so that you can easily and securely access your Storage Box. You can even integrate your Storage Box into your own file system via Webdav or Samba.\n"
+},
+{
+"id": "S1L124",
+"start": 5060,
+"end": 5077,
+"text": "HIGH RELIABILITY\n"
+},
+{
+"id": "S1L125",
+"start": 5077,
+"end": 5337,
+"text": "Use the Snapshots feature to take a snapshot of your Storage Box and restore it if necessary. This increases the reliability of your data. You can either create snapshots manually or have them generated automatically based on your own personal configurations.\n"
+},
+{
+"id": "S1L126",
+"start": 5337,
+"end": 5354,
+"text": "FLEXIBLE STORAGE\n"
+},
+{
+"id": "S1L127",
+"start": 5354,
+"end": 5608,
+"text": "Be flexible with your Storage Box. You can scale it up or down to fit your current needs, and without losing data or having to migrate it manually. Just go to your Storage Box via Hetzner Console and change to the Storage Box capacity which fits better.\n"
+},
+{
+"id": "S1L128",
+"start": 5608,
+"end": 5635,
+"text": "Frequently Asked Questions\n"
+},
+{
+"id": "S1L129",
+"start": 5635,
+"end": 5689,
+"text": "How does Hetzner Online secure data on Storage Boxes?\n"
+},
+{
+"id": "S1L130",
+"start": 5689,
+"end": 6011,
+"text": "Your files on Storage Boxes are safeguarded with a RAID configuration which can withstand several drive failures. Therefore, there is a relatively small chance of data being lost. The data is not mirrored onto other servers. In addition, checksums for the individual data blocks are used to detect and correct bit errors.\n"
+},
+{
+"id": "S1L131",
+"start": 6011,
+"end": 6061,
+"text": "Can I give other people access to my Storage Box?\n"
+},
+{
+"id": "S1L132",
+"start": 6061,
+"end": 6369,
+"text": "You can create additional users for your Storage Box via the Hetzner Console administration interface. They can use the same protocols as the main user. Other users have access only to a designated subdirectory of the main user. However, the main user has full access to the directories of all sub-accounts.\n"
+},
+{
+"id": "S1L133",
+"start": 6369,
+"end": 6379,
+"text": "More FAQs\n"
+},
+{
+"id": "S1L134",
+"start": 6379,
+"end": 6407,
+"text": "Subscribe to our Newsletter\n"
+},
+{
+"id": "S1L135",
+"start": 6407,
+"end": 6415,
+"text": "Hetzner\n"
+},
+{
+"id": "S1L136",
+"start": 6415,
+"end": 6478,
+"text": "Company Our Customers Sustainability new Blog Career Pressroom\n"
+},
+{
+"id": "S1L137",
+"start": 6478,
+"end": 6486,
+"text": "Support\n"
+},
+{
+"id": "S1L138",
+"start": 6486,
+"end": 6539,
+"text": "Support Center Contact Downloads Hetzner Docs Status\n"
+},
+{
+"id": "S1L139",
+"start": 6539,
+"end": 6545,
+"text": "Legal\n"
+},
+{
+"id": "S1L140",
+"start": 6545,
+"end": 6640,
+"text": "Legal notice Data privacy System policies Terms and conditions Digital Services Act Abuse form\n"
+},
+{
+"id": "S1L141",
+"start": 6640,
+"end": 6695,
+"text": "© 2026 Hetzner Online GmbH. All Rights Reserved. Prices"
+}
+]
+}

@@ -1,0 +1,1608 @@
+{
+"page": "Wasabi pricing",
+"url": "https://wasabi.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 16,
+"text": "Skip to content\n"
+},
+{
+"id": "S1L2",
+"start": 16,
+"end": 36,
+"text": "Free Up Your Budget\n"
+},
+{
+"id": "S1L3",
+"start": 36,
+"end": 129,
+"text": "Predictable and affordable cloud storage pricing that's up to 80% less than the hyperscalers\n"
+},
+{
+"id": "S1L4",
+"start": 129,
+"end": 143,
+"text": "Pay as You Go\n"
+},
+{
+"id": "S1L5",
+"start": 143,
+"end": 155,
+"text": "Pay monthly\n"
+},
+{
+"id": "S1L6",
+"start": 155,
+"end": 190,
+"text": "No fees for egress or API requests\n"
+},
+{
+"id": "S1L7",
+"start": 190,
+"end": 209,
+"text": "Basic support plan\n"
+},
+{
+"id": "S1L8",
+"start": 209,
+"end": 221,
+"text": "Starting at\n"
+},
+{
+"id": "S1L9",
+"start": 221,
+"end": 236,
+"text": "$7.99 TB/month\n"
+},
+{
+"id": "S1L10",
+"start": 236,
+"end": 255,
+"text": "Start a Free Trial\n"
+},
+{
+"id": "S1L11",
+"start": 255,
+"end": 281,
+"text": "Reserved Capacity Storage\n"
+},
+{
+"id": "S1L12",
+"start": 281,
+"end": 320,
+"text": "Purchase in 1, 3, or 5-year increments\n"
+},
+{
+"id": "S1L13",
+"start": 320,
+"end": 355,
+"text": "No fees for egress or API requests\n"
+},
+{
+"id": "S1L14",
+"start": 355,
+"end": 376,
+"text": "Premium support plan\n"
+},
+{
+"id": "S1L15",
+"start": 376,
+"end": 414,
+"text": "Greater discounts for term & capacity\n"
+},
+{
+"id": "S1L16",
+"start": 414,
+"end": 425,
+"text": "Learn More\n"
+},
+{
+"id": "S1L17",
+"start": 425,
+"end": 446,
+"text": "Premium support plan\n"
+},
+{
+"id": "S1L18",
+"start": 446,
+"end": 493,
+"text": "For more information please visit Pricing FAQs\n"
+},
+{
+"id": "S1L19",
+"start": 493,
+"end": 530,
+"text": "No charge for egress or API requests\n"
+},
+{
+"id": "S1L20",
+"start": 530,
+"end": 789,
+"text": "You shouldn't need a business analyst to figure out your monthly storage bill. With Wasabi, you pay just one low rate for capacity only. No hidden fees means you can plan your budget to the penny and never go over it, no matter how much you access your data.\n"
+},
+{
+"id": "S1L21",
+"start": 789,
+"end": 833,
+"text": "Store more. Do more. Save more with Wasabi.\n"
+},
+{
+"id": "S1L22",
+"start": 833,
+"end": 845,
+"text": "Do the math\n"
+},
+{
+"id": "S1L23",
+"start": 845,
+"end": 895,
+"text": "Wasabi Pay as You Go pricing vs. the hyperscalers\n"
+},
+{
+"id": "S1L24",
+"start": 895,
+"end": 1069,
+"text": "See the incredible savings for yourself. Use our cost calculator to compare our flat-rate (starting at $7.99 per TB/month) Wasabi Hot Cloud Storage against the hyperscalers.\n"
+},
+{
+"id": "S1L25",
+"start": 1069,
+"end": 1299,
+"text": "Our calculator provides an estimate of your overall costs based on current hyperscaler fees for capacity and egress. Your actual fees depend on a number of variables, including actual usage, API requests, and geographic location.\n"
+},
+{
+"id": "S1L26",
+"start": 1299,
+"end": 1318,
+"text": "Need More Details?\n"
+},
+{
+"id": "S1L27",
+"start": 1318,
+"end": 1357,
+"text": "Calculate your total cost of ownership\n"
+},
+{
+"id": "S1L28",
+"start": 1357,
+"end": 1381,
+"text": "Review our Pricing FAQs\n"
+},
+{
+"id": "S1L29",
+"start": 1381,
+"end": 1394,
+"text": "Terms of Use\n"
+},
+{
+"id": "S1L30",
+"start": 1394,
+"end": 1416,
+"text": "Pay as You Go Pricing\n"
+},
+{
+"id": "S1L31",
+"start": 1416,
+"end": 1432,
+"text": "$0.00 per month\n"
+},
+{
+"id": "S1L32",
+"start": 1432,
+"end": 1447,
+"text": "$0.00 per year\n"
+},
+{
+"id": "S1L33",
+"start": 1447,
+"end": 1462,
+"text": "storage amount\n"
+},
+{
+"id": "S1L34",
+"start": 1462,
+"end": 1464,
+"text": "1\n"
+},
+{
+"id": "S1L35",
+"start": 1464,
+"end": 1467,
+"text": "TB\n"
+},
+{
+"id": "S1L36",
+"start": 1467,
+"end": 1469,
+"text": "​\n"
+},
+{
+"id": "S1L37",
+"start": 1469,
+"end": 1496,
+"text": "percent download per month\n"
+},
+{
+"id": "S1L38",
+"start": 1496,
+"end": 1499,
+"text": "20\n"
+},
+{
+"id": "S1L39",
+"start": 1499,
+"end": 1501,
+"text": "%\n"
+},
+{
+"id": "S1L40",
+"start": 1501,
+"end": 1503,
+"text": "​\n"
+},
+{
+"id": "S1L41",
+"start": 1503,
+"end": 1584,
+"text": "*billing estimates use base-2 system, estimates may not be exact due to rounding\n"
+},
+{
+"id": "S1L42",
+"start": 1584,
+"end": 1647,
+"text": "Organizations all over the world trust Wasabi with their data.\n"
+},
+{
+"id": "S1L43",
+"start": 1647,
+"end": 1678,
+"text": "See what customers are saying!\n"
+},
+{
+"id": "S1L44",
+"start": 1678,
+"end": 1816,
+"text": "Check out real reviews from verified users on Gartner Peer Insights and learn how they are using Wasabi to save, simplify and store more.\n"
+},
+{
+"id": "S1L45",
+"start": 1816,
+"end": 1842,
+"text": "Reserved Capacity Storage\n"
+},
+{
+"id": "S1L46",
+"start": 1842,
+"end": 1858,
+"text": "Greater savings\n"
+},
+{
+"id": "S1L47",
+"start": 1858,
+"end": 2070,
+"text": "Get even greater savings and cost predictability when you purchase a set amount of capacity in advance. It's ideal for enterprises wishing to scale capacity while delaying costly on-prem infrastructure upgrades.\n"
+},
+{
+"id": "S1L48",
+"start": 2070,
+"end": 2081,
+"text": "Learn More\n"
+},
+{
+"id": "S1L49",
+"start": 2081,
+"end": 2122,
+"text": "Purchase in 1-, 3-, or 5-year increments\n"
+},
+{
+"id": "S1L50",
+"start": 2122,
+"end": 2157,
+"text": "No fees for egress or API requests\n"
+},
+{
+"id": "S1L51",
+"start": 2157,
+"end": 2178,
+"text": "Premium support plan\n"
+},
+{
+"id": "S1L52",
+"start": 2178,
+"end": 2226,
+"text": "Pay as You Go | RCS (Reserved Capacity Storage)\n"
+},
+{
+"id": "S1L53",
+"start": 2226,
+"end": 2239,
+"text": "Fundamentals\n"
+},
+{
+"id": "S1L54",
+"start": 2239,
+"end": 2357,
+"text": "Price per TB | $7.99/month | Discounts determined by both the storage capacity purchased and the contract term length\n"
+},
+{
+"id": "S1L55",
+"start": 2357,
+"end": 2453,
+"text": "Pricing basis | Per-GB/day, billed for actual usage | Fixed rate for a purchased capacity block\n"
+},
+{
+"id": "S1L56",
+"start": 2453,
+"end": 2595,
+"text": "Commitment | Company email domain: 100 GB for 30 days Freemail Domain (e.g. Gmail, Yahoo, Outlook.com): 10 GB for 14 days | 25 TB to no limit\n"
+},
+{
+"id": "S1L57",
+"start": 2595,
+"end": 2640,
+"text": "Minimum storage duration | 90 days | 30 days\n"
+},
+{
+"id": "S1L58",
+"start": 2640,
+"end": 2763,
+"text": "Minimum monthly charge | Yes, tied to 1 TB active storage per account | No separate minimum. Cost fixed to purchased block\n"
+},
+{
+"id": "S1L59",
+"start": 2763,
+"end": 2791,
+"text": "Egress & API fees | $0 | $0\n"
+},
+{
+"id": "S1L60",
+"start": 2791,
+"end": 2799,
+"text": "Support\n"
+},
+{
+"id": "S1L61",
+"start": 2799,
+"end": 2835,
+"text": "Technical support | Basic | Premium\n"
+},
+{
+"id": "S1L62",
+"start": 2835,
+"end": 2854,
+"text": "Contract & Billing\n"
+},
+{
+"id": "S1L63",
+"start": 2854,
+"end": 2971,
+"text": "Contract term | Credit card | Fixed term (1, 3, or 5 years); auto-renews annually unless canceled (30+ days' notice)\n"
+},
+{
+"id": "S1L64",
+"start": 2971,
+"end": 2991,
+"text": "Reseller & Regional\n"
+},
+{
+"id": "S1L65",
+"start": 2991,
+"end": 3080,
+"text": "MSP/VAR resale | N/A | Yes, authorized MSPs/VARs can resell, with sub-account allocation\n"
+},
+{
+"id": "S1L66",
+"start": 3080,
+"end": 3133,
+"text": "Regional restriction | N/A | None, any Wasabi region\n"
+},
+{
+"id": "S1L67",
+"start": 3133,
+"end": 3163,
+"text": "Up to 80% less than Amazon S3\n"
+},
+{
+"id": "S1L68",
+"start": 3163,
+"end": 3197,
+"text": "Simple | Predictable | Affordable\n"
+},
+{
+"id": "S1L69",
+"start": 3197,
+"end": 3213,
+"text": "Try Wasabi Free\n"
+},
+{
+"id": "S1L70",
+"start": 3213,
+"end": 3227,
+"text": "Contact Sales\n"
+},
+{
+"id": "S1L71",
+"start": 3227,
+"end": 3235,
+"text": "Company\n"
+},
+{
+"id": "S1L72",
+"start": 3235,
+"end": 3248,
+"text": "About Wasabi\n"
+},
+{
+"id": "S1L73",
+"start": 3248,
+"end": 3264,
+"text": "Storage Regions\n"
+},
+{
+"id": "S1L74",
+"start": 3264,
+"end": 3273,
+"text": "Newsroom\n"
+},
+{
+"id": "S1L75",
+"start": 3273,
+"end": 3288,
+"text": "Press Releases\n"
+},
+{
+"id": "S1L76",
+"start": 3288,
+"end": 3304,
+"text": "Leadership Team\n"
+},
+{
+"id": "S1L77",
+"start": 3304,
+"end": 3312,
+"text": "Careers\n"
+},
+{
+"id": "S1L78",
+"start": 3312,
+"end": 3326,
+"text": "Product Terms\n"
+},
+{
+"id": "S1L79",
+"start": 3326,
+"end": 3334,
+"text": "Contact\n"
+},
+{
+"id": "S1L80",
+"start": 3334,
+"end": 3340,
+"text": "Learn\n"
+},
+{
+"id": "S1L81",
+"start": 3340,
+"end": 3354,
+"text": "All Resources\n"
+},
+{
+"id": "S1L82",
+"start": 3354,
+"end": 3359,
+"text": "Blog\n"
+},
+{
+"id": "S1L83",
+"start": 3359,
+"end": 3372,
+"text": "Case Studies\n"
+},
+{
+"id": "S1L84",
+"start": 3372,
+"end": 3388,
+"text": "Product Updates\n"
+},
+{
+"id": "S1L85",
+"start": 3388,
+"end": 3402,
+"text": "Documentation\n"
+},
+{
+"id": "S1L86",
+"start": 3402,
+"end": 3415,
+"text": "Integrations\n"
+},
+{
+"id": "S1L87",
+"start": 3415,
+"end": 3425,
+"text": "Cloud 101\n"
+},
+{
+"id": "S1L88",
+"start": 3425,
+"end": 3433,
+"text": "Support\n"
+},
+{
+"id": "S1L89",
+"start": 3433,
+"end": 3441,
+"text": "Popular\n"
+},
+{
+"id": "S1L90",
+"start": 3441,
+"end": 3466,
+"text": "Wasabi Hot Cloud Storage\n"
+},
+{
+"id": "S1L91",
+"start": 3466,
+"end": 3491,
+"text": "Storage Management Tools\n"
+},
+{
+"id": "S1L92",
+"start": 3491,
+"end": 3500,
+"text": "Security\n"
+},
+{
+"id": "S1L93",
+"start": 3500,
+"end": 3511,
+"text": "Compliance\n"
+},
+{
+"id": "S1L94",
+"start": 3511,
+"end": 3528,
+"text": "Cyber Resilience\n"
+},
+{
+"id": "S1L95",
+"start": 3528,
+"end": 3548,
+"text": "Backup and Recovery\n"
+},
+{
+"id": "S1L96",
+"start": 3548,
+"end": 3565,
+"text": "Become a Partner\n"
+},
+{
+"id": "S1L97",
+"start": 3565,
+"end": 3579,
+"text": "System Status\n"
+},
+{
+"id": "S1L98",
+"start": 3579,
+"end": 3592,
+"text": "Service URLs\n"
+},
+{
+"id": "S1L99",
+"start": 3592,
+"end": 3683,
+"text": "Privacy Policy Terms of Use Legal Web Accessibility Statement Trust Center Cookie Settings\n"
+},
+{
+"id": "S1L100",
+"start": 3683,
+"end": 3709,
+"text": "© 2026 Wasabi Technologies"
+},
+{
+"id": "S2L1",
+"start": 0,
+"end": 92,
+"text": "Backblaze announces multi-exabyte storage agreement with CoreWeave. Read the announcement ✕\n"
+},
+{
+"id": "S2L2",
+"start": 92,
+"end": 109,
+"text": "Partners Support\n"
+},
+{
+"id": "S2L3",
+"start": 109,
+"end": 117,
+"text": "Sign In\n"
+},
+{
+"id": "S2L4",
+"start": 117,
+"end": 131,
+"text": "Cloud Storage\n"
+},
+{
+"id": "S2L5",
+"start": 131,
+"end": 297,
+"text": "B2 Cloud Storage S3-compatible object storage for AI and apps B2 Overdrive Built for high-throughput workloads B2 for Neoclouds Neocloud-scale infrastructure storage\n"
+},
+{
+"id": "S2L6",
+"start": 297,
+"end": 307,
+"text": "Solutions\n"
+},
+{
+"id": "S2L7",
+"start": 307,
+"end": 611,
+"text": "Artificial Intelligence AI training and inference storage Cloud Application Data S3-compatible app backend storage Powered by Backblaze White-label B2 for your platform Content Delivery Media storage and delivery Backup & Archive Backup, DR, and ransomware Ransomware & DR Immutable backups and recovery\n"
+},
+{
+"id": "S2L8",
+"start": 611,
+"end": 635,
+"text": "Solutions by Industry →\n"
+},
+{
+"id": "S2L9",
+"start": 635,
+"end": 697,
+"text": "Neocloud Generative AI Media & Entertainment Sports Education\n"
+},
+{
+"id": "S2L10",
+"start": 697,
+"end": 705,
+"text": "Pricing\n"
+},
+{
+"id": "S2L11",
+"start": 705,
+"end": 718,
+"text": "Integrations\n"
+},
+{
+"id": "S2L12",
+"start": 718,
+"end": 815,
+"text": "Integration Partners Connect your tools with B2 AI Integrations B2 integrations for AI workflows\n"
+},
+{
+"id": "S2L13",
+"start": 815,
+"end": 825,
+"text": "Resources\n"
+},
+{
+"id": "S2L14",
+"start": 825,
+"end": 1149,
+"text": "Docs Technical documentation Resource Hub Guides, research, and insights Customer Stories Real-world case studies Trust Center Security, compliance, and privacy Why Backblaze Why teams choose Backblaze Drive Stats Hard drive reliability data Blog News, insights, and deep dives Startup Program Storage for growing companies\n"
+},
+{
+"id": "S2L15",
+"start": 1149,
+"end": 1165,
+"text": "Computer Backup\n"
+},
+{
+"id": "S2L16",
+"start": 1165,
+"end": 1299,
+"text": "Business Enterprise-grade endpoint backup Personal Unlimited Mac and PC backup Pricing Unlimited data protection, transparent pricing\n"
+},
+{
+"id": "S2L17",
+"start": 1299,
+"end": 1324,
+"text": "Start Free Contact Sales\n"
+},
+{
+"id": "S2L18",
+"start": 1324,
+"end": 1338,
+"text": "Cloud Storage\n"
+},
+{
+"id": "S2L19",
+"start": 1338,
+"end": 1385,
+"text": "B2 Cloud Storage B2 Overdrive B2 for Neoclouds\n"
+},
+{
+"id": "S2L20",
+"start": 1385,
+"end": 1395,
+"text": "Solutions\n"
+},
+{
+"id": "S2L21",
+"start": 1395,
+"end": 1513,
+"text": "Artificial Intelligence Cloud Application Data Powered by Backblaze Content Delivery Backup & Archive Ransomware & DR\n"
+},
+{
+"id": "S2L22",
+"start": 1513,
+"end": 1521,
+"text": "Pricing\n"
+},
+{
+"id": "S2L23",
+"start": 1521,
+"end": 1534,
+"text": "Integrations\n"
+},
+{
+"id": "S2L24",
+"start": 1534,
+"end": 1571,
+"text": "Integration Partners AI Integrations\n"
+},
+{
+"id": "S2L25",
+"start": 1571,
+"end": 1581,
+"text": "Resources\n"
+},
+{
+"id": "S2L26",
+"start": 1581,
+"end": 1676,
+"text": "Docs Resource Hub Customer Stories Trust Center Why Backblaze Drive Stats Blog Startup Program\n"
+},
+{
+"id": "S2L27",
+"start": 1676,
+"end": 1692,
+"text": "Computer Backup\n"
+},
+{
+"id": "S2L28",
+"start": 1692,
+"end": 1718,
+"text": "Business Personal Pricing\n"
+},
+{
+"id": "S2L29",
+"start": 1718,
+"end": 1727,
+"text": "Partners\n"
+},
+{
+"id": "S2L30",
+"start": 1727,
+"end": 1735,
+"text": "Support\n"
+},
+{
+"id": "S2L31",
+"start": 1735,
+"end": 1743,
+"text": "Sign In\n"
+},
+{
+"id": "S2L32",
+"start": 1743,
+"end": 1768,
+"text": "Start Free Contact Sales\n"
+},
+{
+"id": "S2L33",
+"start": 1768,
+"end": 1776,
+"text": "English\n"
+},
+{
+"id": "S2L34",
+"start": 1776,
+"end": 1785,
+"text": "Français\n"
+},
+{
+"id": "S2L35",
+"start": 1785,
+"end": 1810,
+"text": "B2 Cloud Storage Pricing\n"
+},
+{
+"id": "S2L36",
+"start": 1810,
+"end": 1855,
+"text": "Always-Hot Cloud Storage, Predictably Priced\n"
+},
+{
+"id": "S2L37",
+"start": 1855,
+"end": 1958,
+"text": "Enterprise-grade, security & compliance-ready, S3 compatible object storage—at a fraction of the cost.\n"
+},
+{
+"id": "S2L38",
+"start": 1958,
+"end": 1971,
+"text": "Backblaze B2\n"
+},
+{
+"id": "S2L39",
+"start": 1971,
+"end": 2089,
+"text": "Purpose-built for active archiving, backup, and recovery with compliance, media, and application workload management.\n"
+},
+{
+"id": "S2L40",
+"start": 2089,
+"end": 2099,
+"text": "Starts at\n"
+},
+{
+"id": "S2L41",
+"start": 2099,
+"end": 2115,
+"text": "$6.95 / TB / mo\n"
+},
+{
+"id": "S2L42",
+"start": 2115,
+"end": 2125,
+"text": "Get Quote\n"
+},
+{
+"id": "S2L43",
+"start": 2125,
+"end": 2136,
+"text": "Start Free\n"
+},
+{
+"id": "S2L44",
+"start": 2136,
+"end": 2183,
+"text": "Pay as you go monthly or for capacity annually\n"
+},
+{
+"id": "S2L45",
+"start": 2183,
+"end": 2229,
+"text": "No minimum file size or storage duration fees\n"
+},
+{
+"id": "S2L46",
+"start": 2229,
+"end": 2263,
+"text": "Assisted data migration available\n"
+},
+{
+"id": "S2L47",
+"start": 2263,
+"end": 2314,
+"text": "Discounts available with volume & term commitments\n"
+},
+{
+"id": "S2L48",
+"start": 2314,
+"end": 2343,
+"text": "Free egress up to 3x storage\n"
+},
+{
+"id": "S2L49",
+"start": 2343,
+"end": 2361,
+"text": "Free transactions\n"
+},
+{
+"id": "S2L50",
+"start": 2361,
+"end": 2384,
+"text": "Backblaze B2 Overdrive\n"
+},
+{
+"id": "S2L51",
+"start": 2384,
+"end": 2489,
+"text": "Designed to accelerate performance-critical workloads in AI/ML, HPC, research & life sciences, and more.\n"
+},
+{
+"id": "S2L52",
+"start": 2489,
+"end": 2499,
+"text": "Starts at\n"
+},
+{
+"id": "S2L53",
+"start": 2499,
+"end": 2513,
+"text": "$15 / TB / mo\n"
+},
+{
+"id": "S2L54",
+"start": 2513,
+"end": 2523,
+"text": "Get Quote\n"
+},
+{
+"id": "S2L55",
+"start": 2523,
+"end": 2567,
+"text": "Built on the Backblaze B2 foundation, plus:\n"
+},
+{
+"id": "S2L56",
+"start": 2567,
+"end": 2598,
+"text": "Terabit speed at exabyte scale\n"
+},
+{
+"id": "S2L57",
+"start": 2598,
+"end": 2651,
+"text": "Dedicated vaults with private networking integration\n"
+},
+{
+"id": "S2L58",
+"start": 2651,
+"end": 2686,
+"text": "White glove onboarding and support\n"
+},
+{
+"id": "S2L59",
+"start": 2686,
+"end": 2708,
+"text": "Unlimited free egress\n"
+},
+{
+"id": "S2L60",
+"start": 2708,
+"end": 2743,
+"text": "Multi-petabyte commitment required\n"
+},
+{
+"id": "S2L61",
+"start": 2743,
+"end": 2784,
+"text": "Active archive Low egress, rare deletion\n"
+},
+{
+"id": "S2L62",
+"start": 2784,
+"end": 2818,
+"text": "Backup & DR Retention-based churn\n"
+},
+{
+"id": "S2L63",
+"start": 2818,
+"end": 2865,
+"text": "Application storage Frequent reads and deletes\n"
+},
+{
+"id": "S2L64",
+"start": 2865,
+"end": 2900,
+"text": "Custom Start neutral, then tune it\n"
+},
+{
+"id": "S2L65",
+"start": 2900,
+"end": 2912,
+"text": "Stored data\n"
+},
+{
+"id": "S2L66",
+"start": 2912,
+"end": 2918,
+"text": "TB PB\n"
+},
+{
+"id": "S2L67",
+"start": 2918,
+"end": 2950,
+"text": "Average data stored each month.\n"
+},
+{
+"id": "S2L68",
+"start": 2950,
+"end": 2965,
+"text": "Monthly egress\n"
+},
+{
+"id": "S2L69",
+"start": 2965,
+"end": 2977,
+"text": "% of stored\n"
+},
+{
+"id": "S2L70",
+"start": 2977,
+"end": 2985,
+"text": "3× free\n"
+},
+{
+"id": "S2L71",
+"start": 2985,
+"end": 3012,
+"text": "Your Backblaze B2 estimate\n"
+},
+{
+"id": "S2L72",
+"start": 3012,
+"end": 3027,
+"text": "Monthly Annual\n"
+},
+{
+"id": "S2L73",
+"start": 3027,
+"end": 3030,
+"text": "$0\n"
+},
+{
+"id": "S2L74",
+"start": 3030,
+"end": 3079,
+"text": "Estimated monthly cost · all line items included\n"
+},
+{
+"id": "S2L75",
+"start": 3079,
+"end": 3144,
+"text": "vs. AWS S3 Google Cloud Storage Azure Blob Storage Cloudflare R2\n"
+},
+{
+"id": "S2L76",
+"start": 3144,
+"end": 3190,
+"text": "Adjust the workload to compare modeled costs.\n"
+},
+{
+"id": "S2L77",
+"start": 3190,
+"end": 3202,
+"text": "You save $0\n"
+},
+{
+"id": "S2L78",
+"start": 3202,
+"end": 3205,
+"text": "0%\n"
+},
+{
+"id": "S2L79",
+"start": 3205,
+"end": 3242,
+"text": "Free egress included this month 0 TB\n"
+},
+{
+"id": "S2L80",
+"start": 3242,
+"end": 3320,
+"text": "*Up to 3x of average monthly data stored, then $0.01/GB for additional egress\n"
+},
+{
+"id": "S2L81",
+"start": 3320,
+"end": 3499,
+"text": "This chart features published rates for the U.S. West region. Backblaze competitors’ rates can vary by region, amount stored, and other factors. View API call rate details here .\n"
+},
+{
+"id": "S2L82",
+"start": 3499,
+"end": 3510,
+"text": "Start Free\n"
+},
+{
+"id": "S2L83",
+"start": 3510,
+"end": 3524,
+"text": "Contact Sales\n"
+},
+{
+"id": "S2L84",
+"start": 3524,
+"end": 3564,
+"text": "Our pricing models have nothing to hide\n"
+},
+{
+"id": "S2L85",
+"start": 3564,
+"end": 3572,
+"text": "Monthly\n"
+},
+{
+"id": "S2L86",
+"start": 3572,
+"end": 3581,
+"text": "Annually\n"
+},
+{
+"id": "S2L87",
+"start": 3581,
+"end": 3594,
+"text": "Fundamentals\n"
+},
+{
+"id": "S2L88",
+"start": 3594,
+"end": 3620,
+"text": "Always-hot object storage\n"
+},
+{
+"id": "S2L89",
+"start": 3620,
+"end": 3655,
+"text": "First 10GB storage is always free.\n"
+},
+{
+"id": "S2L90",
+"start": 3655,
+"end": 3678,
+"text": "Free 3x monthly egress\n"
+},
+{
+"id": "S2L91",
+"start": 3678,
+"end": 3816,
+"text": "Egress above 3x monthly average storage is also free through many CDN and compute partners; otherwise, overage is billed at $0.01 per GB.\n"
+},
+{
+"id": "S2L92",
+"start": 3816,
+"end": 3842,
+"text": "No minimum file size fees\n"
+},
+{
+"id": "S2L93",
+"start": 3842,
+"end": 3875,
+"text": "No minimum storage duration fees\n"
+},
+{
+"id": "S2L94",
+"start": 3875,
+"end": 3890,
+"text": "Free API calls\n"
+},
+{
+"id": "S2L95",
+"start": 3890,
+"end": 4051,
+"text": "Class A, B, and C API calls are free for pay-as-you-go customers. Class D transactions cost $0.004 per 10,000 calls plus the first 2,500 calls per day are free.\n"
+},
+{
+"id": "S2L96",
+"start": 4051,
+"end": 4059,
+"text": "Support\n"
+},
+{
+"id": "S2L97",
+"start": 4059,
+"end": 4082,
+"text": "Implementation support\n"
+},
+{
+"id": "S2L98",
+"start": 4082,
+"end": 4089,
+"text": "Add-on\n"
+},
+{
+"id": "S2L99",
+"start": 4089,
+"end": 4105,
+"text": "Premium support\n"
+},
+{
+"id": "S2L100",
+"start": 4105,
+"end": 4112,
+"text": "Add-on\n"
+},
+{
+"id": "S2L101",
+"start": 4112,
+"end": 4137,
+"text": "Universal Data Migration\n"
+},
+{
+"id": "S2L102",
+"start": 4137,
+"end": 4144,
+"text": "Add-on\n"
+},
+{
+"id": "S2L103",
+"start": 4144,
+"end": 4171,
+"text": "With qualifying commitment\n"
+},
+{
+"id": "S2L104",
+"start": 4171,
+"end": 4179,
+"text": "Payment\n"
+},
+{
+"id": "S2L105",
+"start": 4179,
+"end": 4192,
+"text": "Billing term\n"
+},
+{
+"id": "S2L106",
+"start": 4192,
+"end": 4200,
+"text": "Monthly\n"
+},
+{
+"id": "S2L107",
+"start": 4200,
+"end": 4222,
+"text": "Annual from 1-5 years\n"
+},
+{
+"id": "S2L108",
+"start": 4222,
+"end": 4237,
+"text": "Billing timing\n"
+},
+{
+"id": "S2L109",
+"start": 4237,
+"end": 4245,
+"text": "Monthly\n"
+},
+{
+"id": "S2L110",
+"start": 4245,
+"end": 4260,
+"text": "Contract start\n"
+},
+{
+"id": "S2L111",
+"start": 4260,
+"end": 4267,
+"text": "Method\n"
+},
+{
+"id": "S2L112",
+"start": 4267,
+"end": 4290,
+"text": "Credit card or invoice\n"
+},
+{
+"id": "S2L113",
+"start": 4290,
+"end": 4298,
+"text": "Invoice\n"
+},
+{
+"id": "S2L114",
+"start": 4298,
+"end": 4303,
+"text": "$15K\n"
+},
+{
+"id": "S2L115",
+"start": 4303,
+"end": 4319,
+"text": "saved per month\n"
+},
+{
+"id": "S2L116",
+"start": 4319,
+"end": 4492,
+"text": "“From a cost of goods sold perspective, AWS pricing wasn’t a great fit. Backblaze was a drop-in API replacement with a much better cost structure—it was just a no-brainer.”\n"
+},
+{
+"id": "S2L117",
+"start": 4492,
+"end": 4503,
+"text": "Rory Petty\n"
+},
+{
+"id": "S2L118",
+"start": 4503,
+"end": 4529,
+"text": "Co-Founder & CTO, Tribute\n"
+},
+{
+"id": "S2L119",
+"start": 4529,
+"end": 4553,
+"text": "Read the customer story\n"
+},
+{
+"id": "S2L120",
+"start": 4553,
+"end": 4603,
+"text": "How Backblaze built high performance for low cost\n"
+},
+{
+"id": "S2L121",
+"start": 4603,
+"end": 4621,
+"text": "Specialized focus\n"
+},
+{
+"id": "S2L122",
+"start": 4621,
+"end": 4746,
+"text": "Backblaze focuses on reliable, always-hot object storage for top use cases, not pricey bells and whistles for outlier needs.\n"
+},
+{
+"id": "S2L123",
+"start": 4746,
+"end": 4750,
+"text": "CTA\n"
+},
+{
+"id": "S2L124",
+"start": 4750,
+"end": 4768,
+"text": "Innovative design\n"
+},
+{
+"id": "S2L125",
+"start": 4768,
+"end": 4876,
+"text": "Backblaze innovated on commodity hardware with intelligent software for high performance without high cost.\n"
+},
+{
+"id": "S2L126",
+"start": 4876,
+"end": 4880,
+"text": "CTA\n"
+},
+{
+"id": "S2L127",
+"start": 4880,
+"end": 4902,
+"text": "Scaled infrastructure\n"
+},
+{
+"id": "S2L128",
+"start": 4902,
+"end": 5003,
+"text": "Backblaze plans, buys, codes, and operates our storage cloud for cost efficiencies at exabyte scale.\n"
+},
+{
+"id": "S2L129",
+"start": 5003,
+"end": 5007,
+"text": "CTA\n"
+},
+{
+"id": "S2L130",
+"start": 5007,
+"end": 5018,
+"text": "Start Free\n"
+},
+{
+"id": "S2L131",
+"start": 5018,
+"end": 5032,
+"text": "Contact Sales\n"
+},
+{
+"id": "S2L132",
+"start": 5032,
+"end": 5037,
+"text": "FAQs\n"
+},
+{
+"id": "S2L133",
+"start": 5037,
+"end": 5092,
+"text": "What is B2 Overdrive and how is its pricing different?\n"
+},
+{
+"id": "S2L134",
+"start": 5092,
+"end": 5435,
+"text": "Backblaze B2 Overdrive is a high-throughput cloud object storage solution, engineered for workloads needing rapid data access. Built on top of Backblaze B2, pricing starts at $15 per TB/month for increased storage and networking throughput, and includes unlimited free egress to facilitate intensive data operations without prohibitive costs.\n"
+},
+{
+"id": "S2L135",
+"start": 5435,
+"end": 5472,
+"text": "Who is B2 Overdrive best suited for?\n"
+},
+{
+"id": "S2L136",
+"start": 5472,
+"end": 5723,
+"text": "B2 Overdrive is specifically designed for organizations with demanding, throughput-intensive applications like AI/ML training and inference, high-performance compute (HPC), large-scale data analytics, media processing pipelines, and research compute.\n"
+},
+{
+"id": "S2L137",
+"start": 5723,
+"end": 5755,
+"text": "How is B2 Cloud Storage billed?\n"
+},
+{
+"id": "S2L138",
+"start": 5755,
+"end": 6065,
+"text": "Service is billed monthly, based on the amount of data stored per byte-hour over the last month at a rate of $6.95 /TB/30-days. You can also commit to a set amount of storage for a term of 1 to 5 years. You’re billed for the full term at contract start, and your rate is locked for the length of the contract.\n"
+},
+{
+"id": "S2L139",
+"start": 6065,
+"end": 6102,
+"text": "How can I get unlimited free egress?\n"
+},
+{
+"id": "S2L140",
+"start": 6102,
+"end": 6460,
+"text": "Backblaze B2 offers unlimited free egress when downloading to or through partner content delivery networks (CDNs) and compute services, including Fastly, Cloudflare, bunny.net, CacheFly, CoreWeave, Equinix Metal, Vultr, and phoenixNAP. Additionally, B2 Overdrive includes unlimited free egress to any destinations, supporting throughput-intensive workloads.\n"
+},
+{
+"id": "S2L141",
+"start": 6460,
+"end": 6502,
+"text": "How does Backblaze's 3x free egress work?\n"
+},
+{
+"id": "S2L142",
+"start": 6502,
+"end": 6812,
+"text": "All B2 Cloud Storage users get free egress up to 3x their average monthly storage. Your monthly average is calculated based on byte hours over the billing cycle. Egress beyond 3x is just $0.01/GB—no surprise fees, no penalties. B2 Overdrive also provides unlimited free egress to any destination in the world.\n"
+},
+{
+"id": "S2L143",
+"start": 6812,
+"end": 6852,
+"text": "How accurate are your rate comparisons?\n"
+},
+{
+"id": "S2L144",
+"start": 6852,
+"end": 7118,
+"text": "The comparison charts are accurate based on published rates and select assumptions at the time of the publication. Of course, every business’ scenario is a little different so it is wise of you to apply further diligence based on your data set, workflow, and needs.\n"
+},
+{
+"id": "S2L145",
+"start": 7118,
+"end": 7203,
+"text": "How can Backblaze B2 Cloud Storage be so much more affordable than the “other guys”?\n"
+},
+{
+"id": "S2L146",
+"start": 7203,
+"end": 7551,
+"text": "Backblaze B2 is built for affordable performance. We focus on delivering always-hot service for top use cases, rather than adding expensive bells and whistles for outlier needs. We marry open source and commodity hardware with our intelligent software for high performance without high cost. And, we operate at exabyte scale for cost efficiencies.\n"
+},
+{
+"id": "S2L147",
+"start": 7551,
+"end": 7568,
+"text": "B2 Cloud Storage\n"
+},
+{
+"id": "S2L148",
+"start": 7568,
+"end": 7684,
+"text": "High-performance, S3-compatible cloud storage, purpose built to provide simplicity, reliability, and affordability.\n"
+},
+{
+"id": "S2L149",
+"start": 7684,
+"end": 7686,
+"text": "‍\n"
+},
+{
+"id": "S2L150",
+"start": 7686,
+"end": 7865,
+"text": "B2 Cloud Storage is the scalable, proven, secure solution for your data storage needs that is just a fraction the rates of other cloud providers. Let us know how we can help you.\n"
+},
+{
+"id": "S2L151",
+"start": 7865,
+"end": 7877,
+"text": "Get Support\n"
+},
+{
+"id": "S2L152",
+"start": 7877,
+"end": 7908,
+"text": "B2 Cloud Storage Sales Contact\n"
+},
+{
+"id": "S2L153",
+"start": 7908,
+"end": 7937,
+"text": "BzApp-B2CreateAccountPricing\n"
+},
+{
+"id": "S2L154",
+"start": 7937,
+"end": 8006,
+"text": "firstName-R,lastName-R,company-R,email-R,phone,storageSize-R,message\n"
+},
+{
+"id": "S2L155",
+"start": 8006,
+"end": 8013,
+"text": "Submit\n"
+},
+{
+"id": "S2L156",
+"start": 8013,
+"end": 8050,
+"text": "e151c782-8e2c-42e2-8572-20b62567bd60\n"
+},
+{
+"id": "S2L157",
+"start": 8050,
+"end": 8087,
+"text": "83e81d78-39b7-4645-b94d-bd07beec6caa\n"
+},
+{
+"id": "S2L158",
+"start": 8087,
+"end": 8110,
+"text": "B2CreateAccountPricing\n"
+},
+{
+"id": "S2L159",
+"start": 8110,
+"end": 8143,
+"text": "Captcha failed, please try again\n"
+},
+{
+"id": "S2L160",
+"start": 8143,
+"end": 8323,
+"text": "By submitting this form, you are agreeing to be contacted by Backblaze Sales and to receive our Business Newsletter via email. You can unsubscribe from the newsletter, if desired.\n"
+},
+{
+"id": "S2L161",
+"start": 8323,
+"end": 8351,
+"text": "* Indicates required fields\n"
+},
+{
+"id": "S2L162",
+"start": 8351,
+"end": 8384,
+"text": "A Publicly Traded Company (BLZE)\n"
+},
+{
+"id": "S2L163",
+"start": 8384,
+"end": 8401,
+"text": "Backblaze © 2024\n"
+},
+{
+"id": "S2L164",
+"start": 8401,
+"end": 8446,
+"text": "About Us Newsroom Investor Relations Careers\n"
+},
+{
+"id": "S2L165",
+"start": 8446,
+"end": 8481,
+"text": "Terms and Policies Privacy Contact\n"
+},
+{
+"id": "S2L166",
+"start": 8481,
+"end": 8502,
+"text": "Your Privacy Choices\n"
+},
+{
+"id": "S2L167",
+"start": 8502,
+"end": 8671,
+"text": "Staging secure is temporarily unavailable. Please check for any ongoing deploys. If none are in progress, contact the fullstack team for assistance. Click me to dismiss."
+}
+]
+}

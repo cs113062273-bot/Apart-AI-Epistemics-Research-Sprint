@@ -1,0 +1,2442 @@
+{
+"page": "Proton VPN pricing",
+"url": "https://protonvpn.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 15,
+"text": "Why Proton VPN\n"
+},
+{
+"id": "S1L2",
+"start": 15,
+"end": 30,
+"text": "What is a VPN?\n"
+},
+{
+"id": "S1L3",
+"start": 30,
+"end": 89,
+"text": "Find out what a VPN is, how it works, and when to use one.\n"
+},
+{
+"id": "S1L4",
+"start": 89,
+"end": 105,
+"text": "Why Proton VPN?\n"
+},
+{
+"id": "S1L5",
+"start": 105,
+"end": 161,
+"text": "No logs, no ads, open-source and independently audited.\n"
+},
+{
+"id": "S1L6",
+"start": 161,
+"end": 174,
+"text": "All features\n"
+},
+{
+"id": "S1L7",
+"start": 174,
+"end": 275,
+"text": "Learn how our advanced security and privacy features allow you to browse the web with peace of mind.\n"
+},
+{
+"id": "S1L8",
+"start": 275,
+"end": 287,
+"text": "VPN servers\n"
+},
+{
+"id": "S1L9",
+"start": 287,
+"end": 344,
+"text": "Servers in 140+ countries for truly global connectivity.\n"
+},
+{
+"id": "S1L10",
+"start": 344,
+"end": 362,
+"text": "VPN for Streaming\n"
+},
+{
+"id": "S1L11",
+"start": 362,
+"end": 438,
+"text": "Watch what you want, when you want, from wherever you want with Proton VPN.\n"
+},
+{
+"id": "S1L12",
+"start": 438,
+"end": 448,
+"text": "Countries\n"
+},
+{
+"id": "S1L13",
+"start": 448,
+"end": 462,
+"text": "United States\n"
+},
+{
+"id": "S1L14",
+"start": 462,
+"end": 477,
+"text": "United Kingdom\n"
+},
+{
+"id": "S1L15",
+"start": 477,
+"end": 484,
+"text": "France\n"
+},
+{
+"id": "S1L16",
+"start": 484,
+"end": 498,
+"text": "All countries\n"
+},
+{
+"id": "S1L17",
+"start": 498,
+"end": 507,
+"text": "Services\n"
+},
+{
+"id": "S1L18",
+"start": 507,
+"end": 515,
+"text": "Netflix\n"
+},
+{
+"id": "S1L19",
+"start": 515,
+"end": 534,
+"text": "Amazon Prime Video\n"
+},
+{
+"id": "S1L20",
+"start": 534,
+"end": 542,
+"text": "Disney+\n"
+},
+{
+"id": "S1L21",
+"start": 542,
+"end": 555,
+"text": "All services\n"
+},
+{
+"id": "S1L22",
+"start": 555,
+"end": 563,
+"text": "Devices\n"
+},
+{
+"id": "S1L23",
+"start": 563,
+"end": 574,
+"text": "Android TV\n"
+},
+{
+"id": "S1L24",
+"start": 574,
+"end": 585,
+"text": "Fire Stick\n"
+},
+{
+"id": "S1L25",
+"start": 585,
+"end": 594,
+"text": "Apple TV\n"
+},
+{
+"id": "S1L26",
+"start": 594,
+"end": 606,
+"text": "All devices\n"
+},
+{
+"id": "S1L27",
+"start": 606,
+"end": 614,
+"text": "Pricing\n"
+},
+{
+"id": "S1L28",
+"start": 614,
+"end": 623,
+"text": "Download\n"
+},
+{
+"id": "S1L29",
+"start": 623,
+"end": 631,
+"text": "Devices\n"
+},
+{
+"id": "S1L30",
+"start": 631,
+"end": 639,
+"text": "Windows\n"
+},
+{
+"id": "S1L31",
+"start": 639,
+"end": 645,
+"text": "macOS\n"
+},
+{
+"id": "S1L32",
+"start": 645,
+"end": 651,
+"text": "Linux\n"
+},
+{
+"id": "S1L33",
+"start": 651,
+"end": 662,
+"text": "Chromebook\n"
+},
+{
+"id": "S1L34",
+"start": 662,
+"end": 670,
+"text": "Android\n"
+},
+{
+"id": "S1L35",
+"start": 670,
+"end": 684,
+"text": "iPhone / iPad\n"
+},
+{
+"id": "S1L36",
+"start": 684,
+"end": 699,
+"text": "VPN extensions\n"
+},
+{
+"id": "S1L37",
+"start": 699,
+"end": 706,
+"text": "Chrome\n"
+},
+{
+"id": "S1L38",
+"start": 706,
+"end": 714,
+"text": "Firefox\n"
+},
+{
+"id": "S1L39",
+"start": 714,
+"end": 723,
+"text": "Smart TV\n"
+},
+{
+"id": "S1L40",
+"start": 723,
+"end": 734,
+"text": "Android TV\n"
+},
+{
+"id": "S1L41",
+"start": 734,
+"end": 743,
+"text": "Apple TV\n"
+},
+{
+"id": "S1L42",
+"start": 743,
+"end": 753,
+"text": "Firestick\n"
+},
+{
+"id": "S1L43",
+"start": 753,
+"end": 799,
+"text": "Auto-detect the right version for your device\n"
+},
+{
+"id": "S1L44",
+"start": 799,
+"end": 809,
+"text": "Resources\n"
+},
+{
+"id": "S1L45",
+"start": 809,
+"end": 832,
+"text": "What is my IP address?\n"
+},
+{
+"id": "S1L46",
+"start": 832,
+"end": 893,
+"text": "Find your public IP address using our safe, free IP scanner.\n"
+},
+{
+"id": "S1L47",
+"start": 893,
+"end": 916,
+"text": "Proton VPN Observatory\n"
+},
+{
+"id": "S1L48",
+"start": 916,
+"end": 989,
+"text": "Documenting spikes in Proton VPN use as people fight for online freedom.\n"
+},
+{
+"id": "S1L49",
+"start": 989,
+"end": 1010,
+"text": "Censorship simulator\n"
+},
+{
+"id": "S1L50",
+"start": 1010,
+"end": 1060,
+"text": "See what a VPN unblocks with our interactive tool\n"
+},
+{
+"id": "S1L51",
+"start": 1060,
+"end": 1077,
+"text": "Help and support\n"
+},
+{
+"id": "S1L52",
+"start": 1077,
+"end": 1096,
+"text": "Proton VPN support\n"
+},
+{
+"id": "S1L53",
+"start": 1096,
+"end": 1101,
+"text": "Blog\n"
+},
+{
+"id": "S1L54",
+"start": 1101,
+"end": 1117,
+"text": "Proton VPN blog\n"
+},
+{
+"id": "S1L55",
+"start": 1117,
+"end": 1130,
+"text": "Company news\n"
+},
+{
+"id": "S1L56",
+"start": 1130,
+"end": 1143,
+"text": "(new window)\n"
+},
+{
+"id": "S1L57",
+"start": 1143,
+"end": 1158,
+"text": "Privacy guides\n"
+},
+{
+"id": "S1L58",
+"start": 1158,
+"end": 1171,
+"text": "(new window)\n"
+},
+{
+"id": "S1L59",
+"start": 1171,
+"end": 1197,
+"text": "Business VPN (new window)\n"
+},
+{
+"id": "S1L60",
+"start": 1197,
+"end": 1213,
+"text": "Discover Proton\n"
+},
+{
+"id": "S1L61",
+"start": 1213,
+"end": 1230,
+"text": "Proton ecosystem\n"
+},
+{
+"id": "S1L62",
+"start": 1230,
+"end": 1242,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L63",
+"start": 1242,
+"end": 1291,
+"text": "Secure your communications with encrypted email.\n"
+},
+{
+"id": "S1L64",
+"start": 1291,
+"end": 1304,
+"text": "(new window)\n"
+},
+{
+"id": "S1L65",
+"start": 1304,
+"end": 1320,
+"text": "Proton Calendar\n"
+},
+{
+"id": "S1L66",
+"start": 1320,
+"end": 1354,
+"text": "Organize your schedule privately.\n"
+},
+{
+"id": "S1L67",
+"start": 1354,
+"end": 1367,
+"text": "(new window)\n"
+},
+{
+"id": "S1L68",
+"start": 1367,
+"end": 1379,
+"text": "Proton Meet\n"
+},
+{
+"id": "S1L69",
+"start": 1379,
+"end": 1383,
+"text": "New\n"
+},
+{
+"id": "S1L70",
+"start": 1383,
+"end": 1437,
+"text": "Talk in private with confidential video conferencing.\n"
+},
+{
+"id": "S1L71",
+"start": 1437,
+"end": 1450,
+"text": "(new window)\n"
+},
+{
+"id": "S1L72",
+"start": 1450,
+"end": 1461,
+"text": "Proton VPN\n"
+},
+{
+"id": "S1L73",
+"start": 1461,
+"end": 1507,
+"text": "Keep your online activity secure and private.\n"
+},
+{
+"id": "S1L74",
+"start": 1507,
+"end": 1519,
+"text": "Proton Pass\n"
+},
+{
+"id": "S1L75",
+"start": 1519,
+"end": 1584,
+"text": "Protect your online identity with an encrypted password manager.\n"
+},
+{
+"id": "S1L76",
+"start": 1584,
+"end": 1597,
+"text": "(new window)\n"
+},
+{
+"id": "S1L77",
+"start": 1597,
+"end": 1618,
+"text": "Proton Authenticator\n"
+},
+{
+"id": "S1L78",
+"start": 1618,
+"end": 1671,
+"text": "Secure your online accounts with 2FA across devices.\n"
+},
+{
+"id": "S1L79",
+"start": 1671,
+"end": 1684,
+"text": "(new window)\n"
+},
+{
+"id": "S1L80",
+"start": 1684,
+"end": 1697,
+"text": "Proton Drive\n"
+},
+{
+"id": "S1L81",
+"start": 1697,
+"end": 1755,
+"text": "Organize your photos and files with secure cloud storage.\n"
+},
+{
+"id": "S1L82",
+"start": 1755,
+"end": 1768,
+"text": "(new window)\n"
+},
+{
+"id": "S1L83",
+"start": 1768,
+"end": 1780,
+"text": "Proton Docs\n"
+},
+{
+"id": "S1L84",
+"start": 1780,
+"end": 1820,
+"text": "Draft and edit secure online documents.\n"
+},
+{
+"id": "S1L85",
+"start": 1820,
+"end": 1833,
+"text": "(new window)\n"
+},
+{
+"id": "S1L86",
+"start": 1833,
+"end": 1847,
+"text": "Proton Sheets\n"
+},
+{
+"id": "S1L87",
+"start": 1847,
+"end": 1851,
+"text": "New\n"
+},
+{
+"id": "S1L88",
+"start": 1851,
+"end": 1903,
+"text": "Collaborate on sensitive spreadsheets in real time.\n"
+},
+{
+"id": "S1L89",
+"start": 1903,
+"end": 1916,
+"text": "(new window)\n"
+},
+{
+"id": "S1L90",
+"start": 1916,
+"end": 1933,
+"text": "More from Proton\n"
+},
+{
+"id": "S1L91",
+"start": 1933,
+"end": 1941,
+"text": "Lumo AI\n"
+},
+{
+"id": "S1L92",
+"start": 1941,
+"end": 1991,
+"text": "Ask and ideate with a privacy-first AI assistant.\n"
+},
+{
+"id": "S1L93",
+"start": 1991,
+"end": 2004,
+"text": "(new window)\n"
+},
+{
+"id": "S1L94",
+"start": 2004,
+"end": 2017,
+"text": "Simple Login\n"
+},
+{
+"id": "S1L95",
+"start": 2017,
+"end": 2087,
+"text": "Shield your inbox from spam and phishing with an email alias service.\n"
+},
+{
+"id": "S1L96",
+"start": 2087,
+"end": 2100,
+"text": "(new window)\n"
+},
+{
+"id": "S1L97",
+"start": 2100,
+"end": 2115,
+"text": "Standard Notes\n"
+},
+{
+"id": "S1L98",
+"start": 2115,
+"end": 2166,
+"text": "Write and store private notes across your devices.\n"
+},
+{
+"id": "S1L99",
+"start": 2166,
+"end": 2179,
+"text": "(new window)\n"
+},
+{
+"id": "S1L100",
+"start": 2179,
+"end": 2199,
+"text": "Proton for Business\n"
+},
+{
+"id": "S1L101",
+"start": 2199,
+"end": 2279,
+"text": "Protect your business with end-to-end encryption and compliance-ready security.\n"
+},
+{
+"id": "S1L102",
+"start": 2279,
+"end": 2292,
+"text": "(new window)\n"
+},
+{
+"id": "S1L103",
+"start": 2292,
+"end": 2299,
+"text": "Proton\n"
+},
+{
+"id": "S1L104",
+"start": 2299,
+"end": 2350,
+"text": "A better internet starts with privacy and freedom.\n"
+},
+{
+"id": "S1L105",
+"start": 2350,
+"end": 2363,
+"text": "(new window)\n"
+},
+{
+"id": "S1L106",
+"start": 2363,
+"end": 2372,
+"text": "About us\n"
+},
+{
+"id": "S1L107",
+"start": 2372,
+"end": 2385,
+"text": "(new window)\n"
+},
+{
+"id": "S1L108",
+"start": 2385,
+"end": 2392,
+"text": "Impact\n"
+},
+{
+"id": "S1L109",
+"start": 2392,
+"end": 2405,
+"text": "(new window)\n"
+},
+{
+"id": "S1L110",
+"start": 2405,
+"end": 2415,
+"text": "Community\n"
+},
+{
+"id": "S1L111",
+"start": 2415,
+"end": 2428,
+"text": "(new window)\n"
+},
+{
+"id": "S1L112",
+"start": 2428,
+"end": 2440,
+"text": "Open source\n"
+},
+{
+"id": "S1L113",
+"start": 2440,
+"end": 2453,
+"text": "(new window)\n"
+},
+{
+"id": "S1L114",
+"start": 2453,
+"end": 2458,
+"text": "Team\n"
+},
+{
+"id": "S1L115",
+"start": 2458,
+"end": 2471,
+"text": "(new window)\n"
+},
+{
+"id": "S1L116",
+"start": 2471,
+"end": 2479,
+"text": "Careers\n"
+},
+{
+"id": "S1L117",
+"start": 2479,
+"end": 2492,
+"text": "We’re hiring\n"
+},
+{
+"id": "S1L118",
+"start": 2492,
+"end": 2505,
+"text": "(new window)\n"
+},
+{
+"id": "S1L119",
+"start": 2505,
+"end": 2523,
+"text": "Proton Foundation\n"
+},
+{
+"id": "S1L120",
+"start": 2523,
+"end": 2536,
+"text": "(new window)\n"
+},
+{
+"id": "S1L121",
+"start": 2536,
+"end": 2551,
+"text": "Get Proton VPN\n"
+},
+{
+"id": "S1L122",
+"start": 2551,
+"end": 2559,
+"text": "Sign in\n"
+},
+{
+"id": "S1L123",
+"start": 2559,
+"end": 2569,
+"text": "Open menu\n"
+},
+{
+"id": "S1L124",
+"start": 2569,
+"end": 2599,
+"text": "Compare VPN plans and pricing\n"
+},
+{
+"id": "S1L125",
+"start": 2599,
+"end": 2622,
+"text": "1 month 1 year 2 years\n"
+},
+{
+"id": "S1L126",
+"start": 2622,
+"end": 2632,
+"text": "Best deal\n"
+},
+{
+"id": "S1L127",
+"start": 2632,
+"end": 2640,
+"text": "70% off\n"
+},
+{
+"id": "S1L128",
+"start": 2640,
+"end": 2649,
+"text": "VPN Plus\n"
+},
+{
+"id": "S1L129",
+"start": 2649,
+"end": 2655,
+"text": "$9.99\n"
+},
+{
+"id": "S1L130",
+"start": 2655,
+"end": 2668,
+"text": "$2.99 /month\n"
+},
+{
+"id": "S1L131",
+"start": 2668,
+"end": 2677,
+"text": "Save $84\n"
+},
+{
+"id": "S1L132",
+"start": 2677,
+"end": 2690,
+"text": "Get VPN Plus\n"
+},
+{
+"id": "S1L133",
+"start": 2690,
+"end": 2718,
+"text": "30-day money-back guarantee\n"
+},
+{
+"id": "S1L134",
+"start": 2718,
+"end": 2755,
+"text": "Advanced features and fastest speeds\n"
+},
+{
+"id": "S1L135",
+"start": 2755,
+"end": 2783,
+"text": "Secure 10 devices at a time\n"
+},
+{
+"id": "S1L136",
+"start": 2783,
+"end": 2801,
+"text": "Highest VPN speed\n"
+},
+{
+"id": "S1L137",
+"start": 2801,
+"end": 2847,
+"text": "Choose from 20,000+ servers in 140+ countries\n"
+},
+{
+"id": "S1L138",
+"start": 2847,
+"end": 2888,
+"text": "Stream your favorite TV shows and movies\n"
+},
+{
+"id": "S1L139",
+"start": 2888,
+"end": 2921,
+"text": "Block ads, trackers, and malware\n"
+},
+{
+"id": "S1L140",
+"start": 2921,
+"end": 2952,
+"text": "Priority support and live chat\n"
+},
+{
+"id": "S1L141",
+"start": 2952,
+"end": 3033,
+"text": "Billed at $35.88 for the first 12 months, then renews at $83.88 every 12 months.\n"
+},
+{
+"id": "S1L142",
+"start": 3033,
+"end": 3041,
+"text": "50% off\n"
+},
+{
+"id": "S1L143",
+"start": 3041,
+"end": 3058,
+"text": "Proton Unlimited\n"
+},
+{
+"id": "S1L144",
+"start": 3058,
+"end": 3065,
+"text": "$12.99\n"
+},
+{
+"id": "S1L145",
+"start": 3065,
+"end": 3078,
+"text": "$6.49 /month\n"
+},
+{
+"id": "S1L146",
+"start": 3078,
+"end": 3087,
+"text": "Save $78\n"
+},
+{
+"id": "S1L147",
+"start": 3087,
+"end": 3108,
+"text": "Get Proton Unlimited\n"
+},
+{
+"id": "S1L148",
+"start": 3108,
+"end": 3136,
+"text": "30-day money-back guarantee\n"
+},
+{
+"id": "S1L149",
+"start": 3136,
+"end": 3171,
+"text": "Access all premium Proton products\n"
+},
+{
+"id": "S1L150",
+"start": 3171,
+"end": 3182,
+"text": "Proton VPN\n"
+},
+{
+"id": "S1L151",
+"start": 3182,
+"end": 3194,
+"text": "Proton Pass\n"
+},
+{
+"id": "S1L152",
+"start": 3194,
+"end": 3206,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L153",
+"start": 3206,
+"end": 3222,
+"text": "Proton Calendar\n"
+},
+{
+"id": "S1L154",
+"start": 3222,
+"end": 3235,
+"text": "Proton Drive\n"
+},
+{
+"id": "S1L155",
+"start": 3235,
+"end": 3317,
+"text": "Billed at $77.88 for the first 12 months, then renews at $119.88 every 12 months.\n"
+},
+{
+"id": "S1L156",
+"start": 3317,
+"end": 3329,
+"text": "Proton Free\n"
+},
+{
+"id": "S1L157",
+"start": 3329,
+"end": 3342,
+"text": "$0.00 /month\n"
+},
+{
+"id": "S1L158",
+"start": 3342,
+"end": 3358,
+"text": "Get Proton Free\n"
+},
+{
+"id": "S1L159",
+"start": 3358,
+"end": 3364,
+"text": "Close\n"
+},
+{
+"id": "S1L160",
+"start": 3364,
+"end": 3392,
+"text": "Get VPN Plus for only $1.00\n"
+},
+{
+"id": "S1L161",
+"start": 3392,
+"end": 3437,
+"text": "Special offer: Save 90% off our premium plan\n"
+},
+{
+"id": "S1L162",
+"start": 3437,
+"end": 3476,
+"text": "Get the deal Continue with Proton Free\n"
+},
+{
+"id": "S1L163",
+"start": 3476,
+"end": 3536,
+"text": "$1.00 for the first month. Renews at $9.99, cancel anytime.\n"
+},
+{
+"id": "S1L164",
+"start": 3536,
+"end": 3560,
+"text": "No credit card required\n"
+},
+{
+"id": "S1L165",
+"start": 3560,
+"end": 3594,
+"text": "Security and privacy for everyone\n"
+},
+{
+"id": "S1L166",
+"start": 3594,
+"end": 3620,
+"text": "Secure 1 device at a time\n"
+},
+{
+"id": "S1L167",
+"start": 3620,
+"end": 3637,
+"text": "Medium VPN speed\n"
+},
+{
+"id": "S1L168",
+"start": 3637,
+"end": 3692,
+"text": "Connect to servers in 10 countries (randomly selected)\n"
+},
+{
+"id": "S1L169",
+"start": 3692,
+"end": 3706,
+"text": "Compare plans\n"
+},
+{
+"id": "S1L170",
+"start": 3706,
+"end": 3724,
+"text": ". . . CHF EUR USD\n"
+},
+{
+"id": "S1L171",
+"start": 3724,
+"end": 3745,
+"text": "100M+ accounts 100M+\n"
+},
+{
+"id": "S1L172",
+"start": 3745,
+"end": 3766,
+"text": "4.7+ app rating 4.7+\n"
+},
+{
+"id": "S1L173",
+"start": 3766,
+"end": 3778,
+"text": "Swiss-based\n"
+},
+{
+"id": "S1L174",
+"start": 3778,
+"end": 3791,
+"text": "Featured in:\n"
+},
+{
+"id": "S1L175",
+"start": 3791,
+"end": 3805,
+"text": "Compare plans\n"
+},
+{
+"id": "S1L176",
+"start": 3805,
+"end": 3827,
+"text": "1 maand 1 jaar 2 jaar\n"
+},
+{
+"id": "S1L177",
+"start": 3827,
+"end": 3834,
+"text": "1 jaar\n"
+},
+{
+"id": "S1L178",
+"start": 3834,
+"end": 3852,
+"text": "Compare our plans\n"
+},
+{
+"id": "S1L179",
+"start": 3852,
+"end": 3861,
+"text": "VPN Plus\n"
+},
+{
+"id": "S1L180",
+"start": 3861,
+"end": 3878,
+"text": "Proton Unlimited\n"
+},
+{
+"id": "S1L181",
+"start": 3878,
+"end": 3891,
+"text": "$2.99 /month\n"
+},
+{
+"id": "S1L182",
+"start": 3891,
+"end": 3905,
+"text": "Neem VPN Plus\n"
+},
+{
+"id": "S1L183",
+"start": 3905,
+"end": 3918,
+"text": "$6.49 /month\n"
+},
+{
+"id": "S1L184",
+"start": 3918,
+"end": 3940,
+"text": "Neem Proton Unlimited\n"
+},
+{
+"id": "S1L185",
+"start": 3940,
+"end": 3962,
+"text": "Show only differences\n"
+},
+{
+"id": "S1L186",
+"start": 3962,
+"end": 3977,
+"text": "High-speed VPN\n"
+},
+{
+"id": "S1L187",
+"start": 3977,
+"end": 4010,
+"text": "Collapse High-speed VPN features\n"
+},
+{
+"id": "S1L188",
+"start": 4010,
+"end": 4038,
+"text": "VPN Plus | Proton Unlimited\n"
+},
+{
+"id": "S1L189",
+"start": 4038,
+"end": 4044,
+"text": "Speed\n"
+},
+{
+"id": "S1L190",
+"start": 4044,
+"end": 4062,
+"text": "Highest | Highest\n"
+},
+{
+"id": "S1L191",
+"start": 4062,
+"end": 4082,
+"text": "Servers & locations\n"
+},
+{
+"id": "S1L192",
+"start": 4082,
+"end": 4174,
+"text": "Choose from 20000+ servers in 140+ countries | Choose from 20000+ servers in 140+ countries\n"
+},
+{
+"id": "S1L193",
+"start": 4174,
+"end": 4184,
+"text": "Streaming\n"
+},
+{
+"id": "S1L194",
+"start": 4184,
+"end": 4204,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L195",
+"start": 4204,
+"end": 4219,
+"text": "P2P/BitTorrent\n"
+},
+{
+"id": "S1L196",
+"start": 4219,
+"end": 4239,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L197",
+"start": 4239,
+"end": 4263,
+"text": "Malware and ads blocker\n"
+},
+{
+"id": "S1L198",
+"start": 4263,
+"end": 4283,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L199",
+"start": 4283,
+"end": 4310,
+"text": "Protect 10 devices at once\n"
+},
+{
+"id": "S1L200",
+"start": 4310,
+"end": 4330,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L201",
+"start": 4330,
+"end": 4338,
+"text": "No logs\n"
+},
+{
+"id": "S1L202",
+"start": 4338,
+"end": 4358,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L203",
+"start": 4358,
+"end": 4365,
+"text": "No ads\n"
+},
+{
+"id": "S1L204",
+"start": 4365,
+"end": 4385,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L205",
+"start": 4385,
+"end": 4402,
+"text": "Secure protocols\n"
+},
+{
+"id": "S1L206",
+"start": 4402,
+"end": 4422,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L207",
+"start": 4422,
+"end": 4446,
+"text": "Secure password manager\n"
+},
+{
+"id": "S1L208",
+"start": 4446,
+"end": 4486,
+"text": "Expand Secure password manager features\n"
+},
+{
+"id": "S1L209",
+"start": 4486,
+"end": 4510,
+"text": "Encrypted cloud storage\n"
+},
+{
+"id": "S1L210",
+"start": 4510,
+"end": 4550,
+"text": "Expand Encrypted cloud storage features\n"
+},
+{
+"id": "S1L211",
+"start": 4550,
+"end": 4564,
+"text": "Private inbox\n"
+},
+{
+"id": "S1L212",
+"start": 4564,
+"end": 4594,
+"text": "Expand Private inbox features\n"
+},
+{
+"id": "S1L213",
+"start": 4594,
+"end": 4616,
+"text": "Show only differences\n"
+},
+{
+"id": "S1L214",
+"start": 4616,
+"end": 4634,
+"text": "Compare our plans\n"
+},
+{
+"id": "S1L215",
+"start": 4634,
+"end": 5013,
+"text": "Features | Proton Free $0.00 /month Neem Proton Free Close Neem VPN Plus voor slechts US$ 1,00 Speciale aanbieding: bespaar 90% op ons premium abonnement Neem deze deal Doorgaan met Proton Free US$ 1,00 voor de eerste maand. Wordt verlengd voor US$ 9,99, u kunt op elk moment annuleren. | VPN Plus $2.99 /month Neem VPN Plus | Proton Unlimited $6.49 /month Neem Proton Unlimited\n"
+},
+{
+"id": "S1L216",
+"start": 5013,
+"end": 5061,
+"text": "High-speed VPN Collapse High-speed VPN features\n"
+},
+{
+"id": "S1L217",
+"start": 5061,
+"end": 5096,
+"text": "Speed | Medium | Highest | Highest\n"
+},
+{
+"id": "S1L218",
+"start": 5096,
+"end": 5267,
+"text": "Servers & locations | Connect to servers in 10 countries (randomly selected) | Choose from 20000+ servers in 140+ countries | Choose from 20000+ servers in 140+ countries\n"
+},
+{
+"id": "S1L219",
+"start": 5267,
+"end": 5314,
+"text": "Streaming | Not included | Included | Included\n"
+},
+{
+"id": "S1L220",
+"start": 5314,
+"end": 5366,
+"text": "P2P/BitTorrent | Not included | Included | Included\n"
+},
+{
+"id": "S1L221",
+"start": 5366,
+"end": 5427,
+"text": "Malware and ads blocker | Not included | Included | Included\n"
+},
+{
+"id": "S1L222",
+"start": 5427,
+"end": 5505,
+"text": "Protect 10 devices at once | Protect 1 device at a time | Included | Included\n"
+},
+{
+"id": "S1L223",
+"start": 5505,
+"end": 5546,
+"text": "No logs | Included | Included | Included\n"
+},
+{
+"id": "S1L224",
+"start": 5546,
+"end": 5586,
+"text": "No ads | Included | Included | Included\n"
+},
+{
+"id": "S1L225",
+"start": 5586,
+"end": 5636,
+"text": "Secure protocols | Included | Included | Included\n"
+},
+{
+"id": "S1L226",
+"start": 5636,
+"end": 5700,
+"text": "Secure password manager Expand Secure password manager features\n"
+},
+{
+"id": "S1L227",
+"start": 5700,
+"end": 5733,
+"text": "Features | Free | Free | Premium\n"
+},
+{
+"id": "S1L228",
+"start": 5733,
+"end": 5783,
+"text": "Unlimited logins | Included | Included | Included\n"
+},
+{
+"id": "S1L229",
+"start": 5783,
+"end": 5849,
+"text": "Organize stored items in vaults | 2 vaults | 2 vaults | 50 vaults\n"
+},
+{
+"id": "S1L230",
+"start": 5849,
+"end": 5905,
+"text": "Integrated 2FA | Not included | Not included | Included\n"
+},
+{
+"id": "S1L231",
+"start": 5905,
+"end": 5949,
+"text": "Hide-my-email aliases | 10 | 10 | Unlimited\n"
+},
+{
+"id": "S1L232",
+"start": 5949,
+"end": 6010,
+"text": "Dark Web Monitoring | Not included | Not included | Included\n"
+},
+{
+"id": "S1L233",
+"start": 6010,
+"end": 6068,
+"text": "Emergency Access | Not included | Not included | Included\n"
+},
+{
+"id": "S1L234",
+"start": 6068,
+"end": 6125,
+"text": "File attachment | Not included | Not included | Included\n"
+},
+{
+"id": "S1L235",
+"start": 6125,
+"end": 6189,
+"text": "Encrypted cloud storage Expand Encrypted cloud storage features\n"
+},
+{
+"id": "S1L236",
+"start": 6189,
+"end": 6222,
+"text": "Features | Free | Free | Premium\n"
+},
+{
+"id": "S1L237",
+"start": 6222,
+"end": 6265,
+"text": "Storage | Up to 5 GB | Up to 5 GB | 500 GB\n"
+},
+{
+"id": "S1L238",
+"start": 6265,
+"end": 6309,
+"text": "Private inbox Expand Private inbox features\n"
+},
+{
+"id": "S1L239",
+"start": 6309,
+"end": 6342,
+"text": "Features | Free | Free | Premium\n"
+},
+{
+"id": "S1L240",
+"start": 6342,
+"end": 6371,
+"text": "Email addresses | 1 | 1 | 15\n"
+},
+{
+"id": "S1L241",
+"start": 6371,
+"end": 6410,
+"text": "Folders and labels | 3 | 3 | Unlimited\n"
+},
+{
+"id": "S1L242",
+"start": 6410,
+"end": 6445,
+"text": "Custom email domains supported | 3\n"
+},
+{
+"id": "S1L243",
+"start": 6445,
+"end": 6466,
+"text": "100M+ accounts 100M+\n"
+},
+{
+"id": "S1L244",
+"start": 6466,
+"end": 6487,
+"text": "4.7+ app rating 4.7+\n"
+},
+{
+"id": "S1L245",
+"start": 6487,
+"end": 6499,
+"text": "Swiss-based\n"
+},
+{
+"id": "S1L246",
+"start": 6499,
+"end": 6512,
+"text": "Featured in:\n"
+},
+{
+"id": "S1L247",
+"start": 6512,
+"end": 6531,
+"text": "Available devices:\n"
+},
+{
+"id": "S1L248",
+"start": 6531,
+"end": 6601,
+"text": "Join over 100 million people who trust Proton to keep their data safe\n"
+},
+{
+"id": "S1L249",
+"start": 6601,
+"end": 6609,
+"text": "Reviews\n"
+},
+{
+"id": "S1L250",
+"start": 6609,
+"end": 6615,
+"text": "Media\n"
+},
+{
+"id": "S1L251",
+"start": 6615,
+"end": 6625,
+"text": "Community\n"
+},
+{
+"id": "S1L252",
+"start": 6625,
+"end": 6927,
+"text": "Few competitors can match its mix of affordability, features, and design. Its premium subscription is an excellent value for any VPN, and it's made all the better for including secure email, storage, and calendar tools. For all that, it gets a rare five-star rating and wins our Editor's Choice award.\n"
+},
+{
+"id": "S1L253",
+"start": 6927,
+"end": 7043,
+"text": "All VPN providers claim to be security experts, but few can match Swiss-based Proton’s experience and track record.\n"
+},
+{
+"id": "S1L254",
+"start": 7043,
+"end": 7327,
+"text": "We’re impressed with Proton VPN’s straightforward, transparent approach, especially in contrast to the general atmosphere of secrecy and shiftiness in the VPN industry. If you’re in need of a well-rounded VPN service that puts its money where its mouth is, take a look at Proton VPN.\n"
+},
+{
+"id": "S1L255",
+"start": 7327,
+"end": 7356,
+"text": "Our top-scoring Best Buy VPN\n"
+},
+{
+"id": "S1L256",
+"start": 7356,
+"end": 7560,
+"text": "Proton VPN is a service that will do all it can to protect your privacy. All of its applications are open source and audited by third parties, and it has a robust privacy policy. Spoiler, it’s very good.\n"
+},
+{
+"id": "S1L257",
+"start": 7560,
+"end": 7704,
+"text": "@ProtonVPN (new window) is ads free, strict no-logs policy and completely Open Source VPN. I'm highly recommending for an extremely secure VPN.\n"
+},
+{
+"id": "S1L258",
+"start": 7704,
+"end": 7895,
+"text": "@ProtonVPN (new window) @ProtonMail (new window) has genuinely earned my trust and business. It has never been more important to freely, privately, and securely access the internet than now.\n"
+},
+{
+"id": "S1L259",
+"start": 7895,
+"end": 8150,
+"text": "@ProtonVPN (new window) Wanted to thank you for the outstanding service your company offers - I have used vpn service over the years, and seen many. The speed and reliability of your client software surprised me, instantly - it's World Class, and better.\n"
+},
+{
+"id": "S1L260",
+"start": 8150,
+"end": 8189,
+"text": "A transparent, trustworthy VPN service\n"
+},
+{
+"id": "S1L261",
+"start": 8189,
+"end": 8203,
+"text": "Swiss privacy\n"
+},
+{
+"id": "S1L262",
+"start": 8203,
+"end": 8276,
+"text": "Switzerland has some of the strongest data protection laws in the world.\n"
+},
+{
+"id": "S1L263",
+"start": 8276,
+"end": 8293,
+"text": "No activity logs\n"
+},
+{
+"id": "S1L264",
+"start": 8293,
+"end": 8377,
+"text": "We won’t track your IP address, location, communications or the websites you visit.\n"
+},
+{
+"id": "S1L265",
+"start": 8377,
+"end": 8389,
+"text": "Open source\n"
+},
+{
+"id": "S1L266",
+"start": 8389,
+"end": 8480,
+"text": "We believe in transparency. Our apps are 100% open source, so anyone can examine our code.\n"
+},
+{
+"id": "S1L267",
+"start": 8480,
+"end": 8492,
+"text": "Kill Switch\n"
+},
+{
+"id": "S1L268",
+"start": 8492,
+"end": 8554,
+"text": "Protect your IP address even if you lose your VPN connection.\n"
+},
+{
+"id": "S1L269",
+"start": 8554,
+"end": 8570,
+"text": "Premium feature\n"
+},
+{
+"id": "S1L270",
+"start": 8570,
+"end": 8582,
+"text": "Secure Core\n"
+},
+{
+"id": "S1L271",
+"start": 8582,
+"end": 8662,
+"text": "Add another layer of protection to your VPN connection with our custom VPN hop.\n"
+},
+{
+"id": "S1L272",
+"start": 8662,
+"end": 8683,
+"text": "NetShield Ad-blocker\n"
+},
+{
+"id": "S1L273",
+"start": 8683,
+"end": 8796,
+"text": "Browse the internet ad-free. NetShield also uses DNS filtering to protect you from malware and website trackers.\n"
+},
+{
+"id": "S1L274",
+"start": 8796,
+"end": 8813,
+"text": "Secure streaming\n"
+},
+{
+"id": "S1L275",
+"start": 8813,
+"end": 8858,
+"text": "Stream your favorite shows wherever you are.\n"
+},
+{
+"id": "S1L276",
+"start": 8858,
+"end": 8874,
+"text": "Premium feature\n"
+},
+{
+"id": "S1L277",
+"start": 8874,
+"end": 8890,
+"text": "VPN Accelerator\n"
+},
+{
+"id": "S1L278",
+"start": 8890,
+"end": 8959,
+"text": "Our unique technologies can accelerate your VPN speed by up to 400%.\n"
+},
+{
+"id": "S1L279",
+"start": 8959,
+"end": 8977,
+"text": "Safe file sharing\n"
+},
+{
+"id": "S1L280",
+"start": 8977,
+"end": 9086,
+"text": "Protect your IP address when you share files, and torrent with fast download speeds and unlimited bandwidth.\n"
+},
+{
+"id": "S1L281",
+"start": 9086,
+"end": 9131,
+"text": "Get Proton VPN See all features (new window)\n"
+},
+{
+"id": "S1L282",
+"start": 9131,
+"end": 9177,
+"text": "Do you need a VPN solution for your business?\n"
+},
+{
+"id": "S1L283",
+"start": 9177,
+"end": 9256,
+"text": "Safeguard your company's network with our dedicated network security solution.\n"
+},
+{
+"id": "S1L284",
+"start": 9256,
+"end": 9280,
+"text": "Proton VPN for Business\n"
+},
+{
+"id": "S1L285",
+"start": 9280,
+"end": 9307,
+"text": "Frequently asked questions\n"
+},
+{
+"id": "S1L286",
+"start": 9307,
+"end": 9338,
+"text": "Can I try Proton VPN for free?\n"
+},
+{
+"id": "S1L287",
+"start": 9338,
+"end": 9351,
+"text": "View details\n"
+},
+{
+"id": "S1L288",
+"start": 9351,
+"end": 9484,
+"text": "Yes. Proton VPN offers a Free plan with no data limits, no artificial speed limits, and no compromises on your privacy and security.\n"
+},
+{
+"id": "S1L289",
+"start": 9484,
+"end": 9783,
+"text": "We’re able to offer Proton VPN Free thanks to the support of the Proton community. If you’d like to help us fight for online privacy and digital freedom around the world, please consider getting a paid plan with faster speeds, access to servers in over 140 countries, and all our advanced features.\n"
+},
+{
+"id": "S1L290",
+"start": 9783,
+"end": 9815,
+"text": "What payment methods can I use?\n"
+},
+{
+"id": "S1L291",
+"start": 9815,
+"end": 9828,
+"text": "View details\n"
+},
+{
+"id": "S1L292",
+"start": 9828,
+"end": 10013,
+"text": "You can pay using Visa, Mastercard, American Express, PayPal, or Proton credits. Once you’ve created an account, you can purchase Proton credits using cash, bank transfers, or Bitcoin.\n"
+},
+{
+"id": "S1L293",
+"start": 10013,
+"end": 10070,
+"text": "Can I cancel my subscription if Proton VPN isn't for me?\n"
+},
+{
+"id": "S1L294",
+"start": 10070,
+"end": 10083,
+"text": "View details\n"
+},
+{
+"id": "S1L295",
+"start": 10083,
+"end": 10323,
+"text": "Yes. You may cancel your subscription at any time. We provide a money-back guarantee for all subscriptions if requested within the first 30 days. To see our full refund policy, please read our Terms and Conditions of Service (new window) .\n"
+},
+{
+"id": "S1L296",
+"start": 10323,
+"end": 10370,
+"text": "Can I switch to a new plan whenever I want to?\n"
+},
+{
+"id": "S1L297",
+"start": 10370,
+"end": 10383,
+"text": "View details\n"
+},
+{
+"id": "S1L298",
+"start": 10383,
+"end": 10686,
+"text": "Yes. You can switch to a new plan any time you like. Whether you're changing your plan duration (for example, from a Proton VPN Plus 1-month to a 1-year subscription) or upgrading to a different plan (for example, from Proton VPN Plus to Proton Unlimited), we'll apply prorated credit toward your plan.\n"
+},
+{
+"id": "S1L299",
+"start": 10686,
+"end": 10931,
+"text": "If you downgrade from Proton Unlimited to Proton VPN Plus (or any other Proton plan), your account will need to match what’s included in the new plan. This may mean deactivating some email addresses and calendars or reducing your storage usage.\n"
+},
+{
+"id": "S1L300",
+"start": 10931,
+"end": 10959,
+"text": "Do you offer any discounts?\n"
+},
+{
+"id": "S1L301",
+"start": 10959,
+"end": 10972,
+"text": "View details\n"
+},
+{
+"id": "S1L302",
+"start": 10972,
+"end": 11245,
+"text": "Yes. You can get up to a 65% discount on the monthly price if you get the Proton VPN Plus 2-year deal, a 55% discount on the monthly price if you get the Proton VPN Plus 1-year plan, or up to a 38% discount on the monthly price if you get the Proton Unlimited 2-year plan.\n"
+},
+{
+"id": "S1L303",
+"start": 11245,
+"end": 11308,
+"text": "Does Proton VPN Plus grant me access to other Proton services?\n"
+},
+{
+"id": "S1L304",
+"start": 11308,
+"end": 11321,
+"text": "View details\n"
+},
+{
+"id": "S1L305",
+"start": 11321,
+"end": 11646,
+"text": "A Proton VPN Plus plan automatically comes with a Proton Mail (new window) Free plan, Proton Drive (new window) Free plan, Proton Pass (new window) Free plan, and limited access to Proton Calendar (new window) . To access all premium features available on the Proton ecosystem, you should upgrade to a Proton Unlimited plan.\n"
+},
+{
+"id": "S1L306",
+"start": 11646,
+"end": 11672,
+"text": "What is Proton Unlimited?\n"
+},
+{
+"id": "S1L307",
+"start": 11672,
+"end": 11685,
+"text": "View details\n"
+},
+{
+"id": "S1L308",
+"start": 11685,
+"end": 11905,
+"text": "The Proton Unlimited plan gives you premium access to all the features on all the products in the Proton ecosystem, effectively combining the following plans for a substantially lower price than if purchased separately:\n"
+},
+{
+"id": "S1L309",
+"start": 11905,
+"end": 11921,
+"text": "Proton VPN Plus\n"
+},
+{
+"id": "S1L310",
+"start": 11921,
+"end": 11938,
+"text": "Proton Mail Plus\n"
+},
+{
+"id": "S1L311",
+"start": 11938,
+"end": 11956,
+"text": "Proton Drive Plus\n"
+},
+{
+"id": "S1L312",
+"start": 11956,
+"end": 11973,
+"text": "Proton Pass Plus\n"
+},
+{
+"id": "S1L313",
+"start": 11973,
+"end": 11986,
+"text": "(new window)\n"
+},
+{
+"id": "S1L314",
+"start": 11986,
+"end": 11996,
+"text": "Proton AG\n"
+},
+{
+"id": "S1L315",
+"start": 11996,
+"end": 12019,
+"text": "Route de la Galaise 32\n"
+},
+{
+"id": "S1L316",
+"start": 12019,
+"end": 12040,
+"text": "1228 Plan-les-Ouates\n"
+},
+{
+"id": "S1L317",
+"start": 12040,
+"end": 12060,
+"text": "Geneva, Switzerland\n"
+},
+{
+"id": "S1L318",
+"start": 12060,
+"end": 12069,
+"text": "Features\n"
+},
+{
+"id": "S1L319",
+"start": 12069,
+"end": 12078,
+"text": "Free VPN\n"
+},
+{
+"id": "S1L320",
+"start": 12078,
+"end": 12090,
+"text": "VPN servers\n"
+},
+{
+"id": "S1L321",
+"start": 12090,
+"end": 12108,
+"text": "VPN for streaming\n"
+},
+{
+"id": "S1L322",
+"start": 12108,
+"end": 12120,
+"text": "Netflix VPN\n"
+},
+{
+"id": "S1L323",
+"start": 12120,
+"end": 12136,
+"text": "Secure Core VPN\n"
+},
+{
+"id": "S1L324",
+"start": 12136,
+"end": 12166,
+"text": "VPN for Business (new window)\n"
+},
+{
+"id": "S1L325",
+"start": 12166,
+"end": 12182,
+"text": "Getting started\n"
+},
+{
+"id": "S1L326",
+"start": 12182,
+"end": 12191,
+"text": "Features\n"
+},
+{
+"id": "S1L327",
+"start": 12191,
+"end": 12200,
+"text": "Free VPN\n"
+},
+{
+"id": "S1L328",
+"start": 12200,
+"end": 12212,
+"text": "VPN servers\n"
+},
+{
+"id": "S1L329",
+"start": 12212,
+"end": 12230,
+"text": "VPN for streaming\n"
+},
+{
+"id": "S1L330",
+"start": 12230,
+"end": 12242,
+"text": "Netflix VPN\n"
+},
+{
+"id": "S1L331",
+"start": 12242,
+"end": 12258,
+"text": "Secure Core VPN\n"
+},
+{
+"id": "S1L332",
+"start": 12258,
+"end": 12288,
+"text": "VPN for Business (new window)\n"
+},
+{
+"id": "S1L333",
+"start": 12288,
+"end": 12304,
+"text": "Getting started\n"
+},
+{
+"id": "S1L334",
+"start": 12304,
+"end": 12314,
+"text": "Platforms\n"
+},
+{
+"id": "S1L335",
+"start": 12314,
+"end": 12327,
+"text": "Download VPN\n"
+},
+{
+"id": "S1L336",
+"start": 12327,
+"end": 12343,
+"text": "VPN for Windows\n"
+},
+{
+"id": "S1L337",
+"start": 12343,
+"end": 12357,
+"text": "VPN for macOS\n"
+},
+{
+"id": "S1L338",
+"start": 12357,
+"end": 12373,
+"text": "VPN for Android\n"
+},
+{
+"id": "S1L339",
+"start": 12373,
+"end": 12385,
+"text": "VPN for iOS\n"
+},
+{
+"id": "S1L340",
+"start": 12385,
+"end": 12399,
+"text": "VPN for Linux\n"
+},
+{
+"id": "S1L341",
+"start": 12399,
+"end": 12414,
+"text": "VPN for Chrome\n"
+},
+{
+"id": "S1L342",
+"start": 12414,
+"end": 12430,
+"text": "VPN for Firefox\n"
+},
+{
+"id": "S1L343",
+"start": 12430,
+"end": 12449,
+"text": "VPN for Chromebook\n"
+},
+{
+"id": "S1L344",
+"start": 12449,
+"end": 12468,
+"text": "VPN for Android TV\n"
+},
+{
+"id": "S1L345",
+"start": 12468,
+"end": 12485,
+"text": "VPN for Apple TV\n"
+},
+{
+"id": "S1L346",
+"start": 12485,
+"end": 12500,
+"text": "Amazon Fire TV\n"
+},
+{
+"id": "S1L347",
+"start": 12500,
+"end": 12510,
+"text": "Platforms\n"
+},
+{
+"id": "S1L348",
+"start": 12510,
+"end": 12523,
+"text": "Download VPN\n"
+},
+{
+"id": "S1L349",
+"start": 12523,
+"end": 12539,
+"text": "VPN for Windows\n"
+},
+{
+"id": "S1L350",
+"start": 12539,
+"end": 12553,
+"text": "VPN for macOS\n"
+},
+{
+"id": "S1L351",
+"start": 12553,
+"end": 12569,
+"text": "VPN for Android\n"
+},
+{
+"id": "S1L352",
+"start": 12569,
+"end": 12581,
+"text": "VPN for iOS\n"
+},
+{
+"id": "S1L353",
+"start": 12581,
+"end": 12595,
+"text": "VPN for Linux\n"
+},
+{
+"id": "S1L354",
+"start": 12595,
+"end": 12610,
+"text": "VPN for Chrome\n"
+},
+{
+"id": "S1L355",
+"start": 12610,
+"end": 12626,
+"text": "VPN for Firefox\n"
+},
+{
+"id": "S1L356",
+"start": 12626,
+"end": 12645,
+"text": "VPN for Chromebook\n"
+},
+{
+"id": "S1L357",
+"start": 12645,
+"end": 12664,
+"text": "VPN for Android TV\n"
+},
+{
+"id": "S1L358",
+"start": 12664,
+"end": 12681,
+"text": "VPN for Apple TV\n"
+},
+{
+"id": "S1L359",
+"start": 12681,
+"end": 12696,
+"text": "Amazon Fire TV\n"
+},
+{
+"id": "S1L360",
+"start": 12696,
+"end": 12704,
+"text": "Company\n"
+},
+{
+"id": "S1L361",
+"start": 12704,
+"end": 12713,
+"text": "About us\n"
+},
+{
+"id": "S1L362",
+"start": 12713,
+"end": 12744,
+"text": "Proton Foundation (new window)\n"
+},
+{
+"id": "S1L363",
+"start": 12744,
+"end": 12749,
+"text": "Blog\n"
+},
+{
+"id": "S1L364",
+"start": 12749,
+"end": 12770,
+"text": "Careers (new window)\n"
+},
+{
+"id": "S1L365",
+"start": 12770,
+"end": 12783,
+"text": "We’re hiring\n"
+},
+{
+"id": "S1L366",
+"start": 12783,
+"end": 12796,
+"text": "Threat model\n"
+},
+{
+"id": "S1L367",
+"start": 12796,
+"end": 12808,
+"text": "Open source\n"
+},
+{
+"id": "S1L368",
+"start": 12808,
+"end": 12816,
+"text": "Company\n"
+},
+{
+"id": "S1L369",
+"start": 12816,
+"end": 12825,
+"text": "About us\n"
+},
+{
+"id": "S1L370",
+"start": 12825,
+"end": 12856,
+"text": "Proton Foundation (new window)\n"
+},
+{
+"id": "S1L371",
+"start": 12856,
+"end": 12861,
+"text": "Blog\n"
+},
+{
+"id": "S1L372",
+"start": 12861,
+"end": 12882,
+"text": "Careers (new window)\n"
+},
+{
+"id": "S1L373",
+"start": 12882,
+"end": 12895,
+"text": "We’re hiring\n"
+},
+{
+"id": "S1L374",
+"start": 12895,
+"end": 12908,
+"text": "Threat model\n"
+},
+{
+"id": "S1L375",
+"start": 12908,
+"end": 12920,
+"text": "Open source\n"
+},
+{
+"id": "S1L376",
+"start": 12920,
+"end": 12928,
+"text": "Connect\n"
+},
+{
+"id": "S1L377",
+"start": 12928,
+"end": 12945,
+"text": "Help and support\n"
+},
+{
+"id": "S1L378",
+"start": 12945,
+"end": 12973,
+"text": "Business sales (new window)\n"
+},
+{
+"id": "S1L379",
+"start": 12973,
+"end": 13010,
+"text": "Partners and affiliates (new window)\n"
+},
+{
+"id": "S1L380",
+"start": 13010,
+"end": 13039,
+"text": "Press and media (new window)\n"
+},
+{
+"id": "S1L381",
+"start": 13039,
+"end": 13050,
+"text": "Contact us\n"
+},
+{
+"id": "S1L382",
+"start": 13050,
+"end": 13070,
+"text": "Donate (new window)\n"
+},
+{
+"id": "S1L383",
+"start": 13070,
+"end": 13080,
+"text": "Live chat\n"
+},
+{
+"id": "S1L384",
+"start": 13080,
+"end": 13094,
+"text": "For customers\n"
+},
+{
+"id": "S1L385",
+"start": 13094,
+"end": 13124,
+"text": "Student discount (new window)\n"
+},
+{
+"id": "S1L386",
+"start": 13124,
+"end": 13132,
+"text": "Connect\n"
+},
+{
+"id": "S1L387",
+"start": 13132,
+"end": 13149,
+"text": "Help and support\n"
+},
+{
+"id": "S1L388",
+"start": 13149,
+"end": 13177,
+"text": "Business sales (new window)\n"
+},
+{
+"id": "S1L389",
+"start": 13177,
+"end": 13214,
+"text": "Partners and affiliates (new window)\n"
+},
+{
+"id": "S1L390",
+"start": 13214,
+"end": 13243,
+"text": "Press and media (new window)\n"
+},
+{
+"id": "S1L391",
+"start": 13243,
+"end": 13254,
+"text": "Contact us\n"
+},
+{
+"id": "S1L392",
+"start": 13254,
+"end": 13274,
+"text": "Donate (new window)\n"
+},
+{
+"id": "S1L393",
+"start": 13274,
+"end": 13284,
+"text": "Live chat\n"
+},
+{
+"id": "S1L394",
+"start": 13284,
+"end": 13298,
+"text": "For customers\n"
+},
+{
+"id": "S1L395",
+"start": 13298,
+"end": 13328,
+"text": "Student discount (new window)\n"
+},
+{
+"id": "S1L396",
+"start": 13328,
+"end": 13336,
+"text": "English\n"
+},
+{
+"id": "S1L397",
+"start": 13336,
+"end": 13363,
+"text": "System status (new window)\n"
+},
+{
+"id": "S1L398",
+"start": 13363,
+"end": 13376,
+"text": "Report abuse\n"
+},
+{
+"id": "S1L399",
+"start": 13376,
+"end": 13393,
+"text": "Report a problem\n"
+},
+{
+"id": "S1L400",
+"start": 13393,
+"end": 13430,
+"text": "Report a security issue (new window)\n"
+},
+{
+"id": "S1L401",
+"start": 13430,
+"end": 13461,
+"text": "Request a feature (new window)\n"
+},
+{
+"id": "S1L402",
+"start": 13461,
+"end": 13469,
+"text": "English\n"
+},
+{
+"id": "S1L403",
+"start": 13469,
+"end": 13484,
+"text": "Privacy Policy\n"
+},
+{
+"id": "S1L404",
+"start": 13484,
+"end": 13516,
+"text": "Terms & conditions (new window)\n"
+},
+{
+"id": "S1L405",
+"start": 13516,
+"end": 13536,
+"text": "Transparency report\n"
+},
+{
+"id": "S1L406",
+"start": 13536,
+"end": 13574,
+"text": "© 2026 Proton AG. All rights reserved."
+}
+]
+}

@@ -1,0 +1,2520 @@
+{
+"page": "Tailscale pricing",
+"url": "https://tailscale.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 21,
+"text": "Visit us at ReInvent\n"
+},
+{
+"id": "S1L2",
+"start": 21,
+"end": 38,
+"text": "How to find us →\n"
+},
+{
+"id": "S1L3",
+"start": 38,
+"end": 43,
+"text": "Blog\n"
+},
+{
+"id": "S1L4",
+"start": 43,
+"end": 48,
+"text": "Docs\n"
+},
+{
+"id": "S1L5",
+"start": 48,
+"end": 57,
+"text": "Download\n"
+},
+{
+"id": "S1L6",
+"start": 57,
+"end": 71,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L7",
+"start": 71,
+"end": 80,
+"text": "Platform\n"
+},
+{
+"id": "S1L8",
+"start": 80,
+"end": 95,
+"text": "Meet Tailscale\n"
+},
+{
+"id": "S1L9",
+"start": 95,
+"end": 115,
+"text": "How Tailscale Works\n"
+},
+{
+"id": "S1L10",
+"start": 115,
+"end": 142,
+"text": "WireGuard® for Enterprises\n"
+},
+{
+"id": "S1L11",
+"start": 142,
+"end": 151,
+"text": "Features\n"
+},
+{
+"id": "S1L12",
+"start": 151,
+"end": 164,
+"text": "Integrations\n"
+},
+{
+"id": "S1L13",
+"start": 164,
+"end": 169,
+"text": "Docs\n"
+},
+{
+"id": "S1L14",
+"start": 169,
+"end": 178,
+"text": "Download\n"
+},
+{
+"id": "S1L15",
+"start": 178,
+"end": 196,
+"text": "Compare Tailscale\n"
+},
+{
+"id": "S1L16",
+"start": 196,
+"end": 205,
+"text": "Products\n"
+},
+{
+"id": "S1L17",
+"start": 205,
+"end": 218,
+"text": "Business VPN\n"
+},
+{
+"id": "S1L18",
+"start": 218,
+"end": 232,
+"text": "Tailscale PAM\n"
+},
+{
+"id": "S1L19",
+"start": 232,
+"end": 251,
+"text": "CI/CD Connectivity\n"
+},
+{
+"id": "S1L20",
+"start": 251,
+"end": 271,
+"text": "Secure Access to AI\n"
+},
+{
+"id": "S1L21",
+"start": 271,
+"end": 293,
+"text": "Workload Connectivity\n"
+},
+{
+"id": "S1L22",
+"start": 293,
+"end": 304,
+"text": "Edge & IoT\n"
+},
+{
+"id": "S1L23",
+"start": 304,
+"end": 312,
+"text": "Homelab\n"
+},
+{
+"id": "S1L24",
+"start": 312,
+"end": 334,
+"text": "Aperture by Tailscale\n"
+},
+{
+"id": "S1L25",
+"start": 334,
+"end": 381,
+"text": "Unified AI governance for AI agents and users.\n"
+},
+{
+"id": "S1L26",
+"start": 381,
+"end": 405,
+"text": "Bring Tailscale to work\n"
+},
+{
+"id": "S1L27",
+"start": 405,
+"end": 464,
+"text": "See how Tailscale fits the systems your team already runs.\n"
+},
+{
+"id": "S1L28",
+"start": 464,
+"end": 478,
+"text": "Make the case\n"
+},
+{
+"id": "S1L29",
+"start": 478,
+"end": 488,
+"text": "Solutions\n"
+},
+{
+"id": "S1L30",
+"start": 488,
+"end": 507,
+"text": "Cloud Connectivity\n"
+},
+{
+"id": "S1L31",
+"start": 507,
+"end": 529,
+"text": "Infrastructure Access\n"
+},
+{
+"id": "S1L32",
+"start": 529,
+"end": 551,
+"text": "Zero Trust Networking\n"
+},
+{
+"id": "S1L33",
+"start": 551,
+"end": 565,
+"text": "Remote Access\n"
+},
+{
+"id": "S1L34",
+"start": 565,
+"end": 587,
+"text": "Kubernetes Networking\n"
+},
+{
+"id": "S1L35",
+"start": 587,
+"end": 599,
+"text": "Secure SaaS\n"
+},
+{
+"id": "S1L36",
+"start": 599,
+"end": 628,
+"text": "Secure AI Agent Connectivity\n"
+},
+{
+"id": "S1L37",
+"start": 628,
+"end": 638,
+"text": "Customers\n"
+},
+{
+"id": "S1L38",
+"start": 638,
+"end": 655,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L39",
+"start": 655,
+"end": 665,
+"text": "Instacart\n"
+},
+{
+"id": "S1L40",
+"start": 665,
+"end": 671,
+"text": "Cribl\n"
+},
+{
+"id": "S1L41",
+"start": 671,
+"end": 679,
+"text": "Mercury\n"
+},
+{
+"id": "S1L42",
+"start": 679,
+"end": 700,
+"text": "All Customer Stories\n"
+},
+{
+"id": "S1L43",
+"start": 700,
+"end": 710,
+"text": "Community\n"
+},
+{
+"id": "S1L44",
+"start": 710,
+"end": 729,
+"text": "Join the Community\n"
+},
+{
+"id": "S1L45",
+"start": 729,
+"end": 745,
+"text": "About Community\n"
+},
+{
+"id": "S1L46",
+"start": 745,
+"end": 764,
+"text": "Tailscale Insiders\n"
+},
+{
+"id": "S1L47",
+"start": 764,
+"end": 783,
+"text": "Community Projects\n"
+},
+{
+"id": "S1L48",
+"start": 783,
+"end": 807,
+"text": "Bring Tailscale to Work\n"
+},
+{
+"id": "S1L49",
+"start": 807,
+"end": 814,
+"text": "Events\n"
+},
+{
+"id": "S1L50",
+"start": 814,
+"end": 823,
+"text": "Webinars\n"
+},
+{
+"id": "S1L51",
+"start": 823,
+"end": 835,
+"text": "TailscaleUp\n"
+},
+{
+"id": "S1L52",
+"start": 835,
+"end": 846,
+"text": "Learn more\n"
+},
+{
+"id": "S1L53",
+"start": 846,
+"end": 851,
+"text": "Docs\n"
+},
+{
+"id": "S1L54",
+"start": 851,
+"end": 856,
+"text": "Blog\n"
+},
+{
+"id": "S1L55",
+"start": 856,
+"end": 866,
+"text": "Changelog\n"
+},
+{
+"id": "S1L56",
+"start": 866,
+"end": 872,
+"text": "Press\n"
+},
+{
+"id": "S1L57",
+"start": 872,
+"end": 896,
+"text": "Bring Tailscale to work\n"
+},
+{
+"id": "S1L58",
+"start": 896,
+"end": 965,
+"text": "Start with your own devices. Bring the same simplicity to your team.\n"
+},
+{
+"id": "S1L59",
+"start": 965,
+"end": 979,
+"text": "Make the case\n"
+},
+{
+"id": "S1L60",
+"start": 979,
+"end": 992,
+"text": "Partnerships\n"
+},
+{
+"id": "S1L61",
+"start": 992,
+"end": 1014,
+"text": "Partner Opportunities\n"
+},
+{
+"id": "S1L62",
+"start": 1014,
+"end": 1031,
+"text": "Become a Partner\n"
+},
+{
+"id": "S1L63",
+"start": 1031,
+"end": 1044,
+"text": "Our Partners\n"
+},
+{
+"id": "S1L64",
+"start": 1044,
+"end": 1057,
+"text": "Integrations\n"
+},
+{
+"id": "S1L65",
+"start": 1057,
+"end": 1083,
+"text": "Contact Partnerships Team\n"
+},
+{
+"id": "S1L66",
+"start": 1083,
+"end": 1091,
+"text": "Pricing\n"
+},
+{
+"id": "S1L67",
+"start": 1091,
+"end": 1097,
+"text": "Login\n"
+},
+{
+"id": "S1L68",
+"start": 1097,
+"end": 1122,
+"text": "Get started - it’s free!\n"
+},
+{
+"id": "S1L69",
+"start": 1122,
+"end": 1127,
+"text": "Blog\n"
+},
+{
+"id": "S1L70",
+"start": 1127,
+"end": 1132,
+"text": "Docs\n"
+},
+{
+"id": "S1L71",
+"start": 1132,
+"end": 1141,
+"text": "Download\n"
+},
+{
+"id": "S1L72",
+"start": 1141,
+"end": 1155,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L73",
+"start": 1155,
+"end": 1164,
+"text": "Platform\n"
+},
+{
+"id": "S1L74",
+"start": 1164,
+"end": 1179,
+"text": "Meet Tailscale\n"
+},
+{
+"id": "S1L75",
+"start": 1179,
+"end": 1199,
+"text": "How Tailscale Works\n"
+},
+{
+"id": "S1L76",
+"start": 1199,
+"end": 1226,
+"text": "WireGuard® for Enterprises\n"
+},
+{
+"id": "S1L77",
+"start": 1226,
+"end": 1235,
+"text": "Features\n"
+},
+{
+"id": "S1L78",
+"start": 1235,
+"end": 1248,
+"text": "Integrations\n"
+},
+{
+"id": "S1L79",
+"start": 1248,
+"end": 1253,
+"text": "Docs\n"
+},
+{
+"id": "S1L80",
+"start": 1253,
+"end": 1262,
+"text": "Download\n"
+},
+{
+"id": "S1L81",
+"start": 1262,
+"end": 1280,
+"text": "Compare Tailscale\n"
+},
+{
+"id": "S1L82",
+"start": 1280,
+"end": 1289,
+"text": "Products\n"
+},
+{
+"id": "S1L83",
+"start": 1289,
+"end": 1302,
+"text": "Business VPN\n"
+},
+{
+"id": "S1L84",
+"start": 1302,
+"end": 1316,
+"text": "Tailscale PAM\n"
+},
+{
+"id": "S1L85",
+"start": 1316,
+"end": 1335,
+"text": "CI/CD Connectivity\n"
+},
+{
+"id": "S1L86",
+"start": 1335,
+"end": 1355,
+"text": "Secure Access to AI\n"
+},
+{
+"id": "S1L87",
+"start": 1355,
+"end": 1377,
+"text": "Workload Connectivity\n"
+},
+{
+"id": "S1L88",
+"start": 1377,
+"end": 1388,
+"text": "Edge & IoT\n"
+},
+{
+"id": "S1L89",
+"start": 1388,
+"end": 1396,
+"text": "Homelab\n"
+},
+{
+"id": "S1L90",
+"start": 1396,
+"end": 1406,
+"text": "Solutions\n"
+},
+{
+"id": "S1L91",
+"start": 1406,
+"end": 1425,
+"text": "Cloud Connectivity\n"
+},
+{
+"id": "S1L92",
+"start": 1425,
+"end": 1447,
+"text": "Infrastructure Access\n"
+},
+{
+"id": "S1L93",
+"start": 1447,
+"end": 1469,
+"text": "Zero Trust Networking\n"
+},
+{
+"id": "S1L94",
+"start": 1469,
+"end": 1483,
+"text": "Remote Access\n"
+},
+{
+"id": "S1L95",
+"start": 1483,
+"end": 1505,
+"text": "Kubernetes Networking\n"
+},
+{
+"id": "S1L96",
+"start": 1505,
+"end": 1517,
+"text": "Secure SaaS\n"
+},
+{
+"id": "S1L97",
+"start": 1517,
+"end": 1546,
+"text": "Secure AI Agent Connectivity\n"
+},
+{
+"id": "S1L98",
+"start": 1546,
+"end": 1556,
+"text": "Customers\n"
+},
+{
+"id": "S1L99",
+"start": 1556,
+"end": 1573,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L100",
+"start": 1573,
+"end": 1583,
+"text": "Instacart\n"
+},
+{
+"id": "S1L101",
+"start": 1583,
+"end": 1589,
+"text": "Cribl\n"
+},
+{
+"id": "S1L102",
+"start": 1589,
+"end": 1597,
+"text": "Mercury\n"
+},
+{
+"id": "S1L103",
+"start": 1597,
+"end": 1618,
+"text": "All Customer Stories\n"
+},
+{
+"id": "S1L104",
+"start": 1618,
+"end": 1628,
+"text": "Community\n"
+},
+{
+"id": "S1L105",
+"start": 1628,
+"end": 1647,
+"text": "Join the Community\n"
+},
+{
+"id": "S1L106",
+"start": 1647,
+"end": 1663,
+"text": "About Community\n"
+},
+{
+"id": "S1L107",
+"start": 1663,
+"end": 1682,
+"text": "Tailscale Insiders\n"
+},
+{
+"id": "S1L108",
+"start": 1682,
+"end": 1701,
+"text": "Community Projects\n"
+},
+{
+"id": "S1L109",
+"start": 1701,
+"end": 1725,
+"text": "Bring Tailscale to Work\n"
+},
+{
+"id": "S1L110",
+"start": 1725,
+"end": 1732,
+"text": "Events\n"
+},
+{
+"id": "S1L111",
+"start": 1732,
+"end": 1741,
+"text": "Webinars\n"
+},
+{
+"id": "S1L112",
+"start": 1741,
+"end": 1753,
+"text": "TailscaleUp\n"
+},
+{
+"id": "S1L113",
+"start": 1753,
+"end": 1764,
+"text": "Learn more\n"
+},
+{
+"id": "S1L114",
+"start": 1764,
+"end": 1769,
+"text": "Docs\n"
+},
+{
+"id": "S1L115",
+"start": 1769,
+"end": 1774,
+"text": "Blog\n"
+},
+{
+"id": "S1L116",
+"start": 1774,
+"end": 1784,
+"text": "Changelog\n"
+},
+{
+"id": "S1L117",
+"start": 1784,
+"end": 1790,
+"text": "Press\n"
+},
+{
+"id": "S1L118",
+"start": 1790,
+"end": 1803,
+"text": "Partnerships\n"
+},
+{
+"id": "S1L119",
+"start": 1803,
+"end": 1825,
+"text": "Partner Opportunities\n"
+},
+{
+"id": "S1L120",
+"start": 1825,
+"end": 1842,
+"text": "Become a Partner\n"
+},
+{
+"id": "S1L121",
+"start": 1842,
+"end": 1855,
+"text": "Our Partners\n"
+},
+{
+"id": "S1L122",
+"start": 1855,
+"end": 1868,
+"text": "Integrations\n"
+},
+{
+"id": "S1L123",
+"start": 1868,
+"end": 1894,
+"text": "Contact Partnerships Team\n"
+},
+{
+"id": "S1L124",
+"start": 1894,
+"end": 1902,
+"text": "Pricing\n"
+},
+{
+"id": "S1L125",
+"start": 1902,
+"end": 1908,
+"text": "Login\n"
+},
+{
+"id": "S1L126",
+"start": 1908,
+"end": 1933,
+"text": "Get started - it’s free!\n"
+},
+{
+"id": "S1L127",
+"start": 1933,
+"end": 1994,
+"text": "Plans that work for engineers, IT, security, and home users.\n"
+},
+{
+"id": "S1L128",
+"start": 1994,
+"end": 2031,
+"text": "Personal Standard Premium Enterprise\n"
+},
+{
+"id": "S1L129",
+"start": 2031,
+"end": 2040,
+"text": "Personal\n"
+},
+{
+"id": "S1L130",
+"start": 2040,
+"end": 2196,
+"text": "For individuals who want to securely connect devices, servers, or software. Access nearly all of Tailscale's offerings and products for free, indefinitely.\n"
+},
+{
+"id": "S1L131",
+"start": 2196,
+"end": 2212,
+"text": "$0 Free forever\n"
+},
+{
+"id": "S1L132",
+"start": 2212,
+"end": 2224,
+"text": "Get started\n"
+},
+{
+"id": "S1L133",
+"start": 2224,
+"end": 2240,
+"text": "Plan highlights\n"
+},
+{
+"id": "S1L134",
+"start": 2240,
+"end": 2263,
+"text": "Unlimited user devices\n"
+},
+{
+"id": "S1L135",
+"start": 2263,
+"end": 2277,
+"text": "Up to 6 users\n"
+},
+{
+"id": "S1L136",
+"start": 2277,
+"end": 2296,
+"text": "Up to 3 ACL groups\n"
+},
+{
+"id": "S1L137",
+"start": 2296,
+"end": 2331,
+"text": "Up to 50 tagged resources to start\n"
+},
+{
+"id": "S1L138",
+"start": 2331,
+"end": 2504,
+"text": "1,000 mins per month for ephemeral resources Ephemeral resources enable short-lived workloads like CI/CD runners and Kubernetes pods. Premium plan is ideal for heavy usage.\n"
+},
+{
+"id": "S1L139",
+"start": 2504,
+"end": 2546,
+"text": "Access nearly all of Tailscale’s features\n"
+},
+{
+"id": "S1L140",
+"start": 2546,
+"end": 2578,
+"text": "Try SSH and Kubernetes features\n"
+},
+{
+"id": "S1L141",
+"start": 2578,
+"end": 2591,
+"text": "Most popular\n"
+},
+{
+"id": "S1L142",
+"start": 2591,
+"end": 2600,
+"text": "Standard\n"
+},
+{
+"id": "S1L143",
+"start": 2600,
+"end": 2686,
+"text": "For teams adopting the Tailscale platform as a secure connectivity solution and more.\n"
+},
+{
+"id": "S1L144",
+"start": 2686,
+"end": 2709,
+"text": "$8 Per user, per month\n"
+},
+{
+"id": "S1L145",
+"start": 2709,
+"end": 2721,
+"text": "Get started\n"
+},
+{
+"id": "S1L146",
+"start": 2721,
+"end": 2750,
+"text": "Everything in Personal, plus\n"
+},
+{
+"id": "S1L147",
+"start": 2750,
+"end": 2766,
+"text": "Unlimited users\n"
+},
+{
+"id": "S1L148",
+"start": 2766,
+"end": 2800,
+"text": "Deploy users and groups with SCIM\n"
+},
+{
+"id": "S1L149",
+"start": 2800,
+"end": 2820,
+"text": "Up to 10 ACL groups\n"
+},
+{
+"id": "S1L150",
+"start": 2820,
+"end": 2993,
+"text": "1,000 mins per month for ephemeral resources Ephemeral resources enable short-lived workloads like CI/CD runners and Kubernetes pods. Premium plan is ideal for heavy usage.\n"
+},
+{
+"id": "S1L151",
+"start": 2993,
+"end": 3028,
+"text": "Configure Tailscale with MDM tools\n"
+},
+{
+"id": "S1L152",
+"start": 3028,
+"end": 3075,
+"text": "Device posture integrations with MDM, EDR, XDR\n"
+},
+{
+"id": "S1L153",
+"start": 3075,
+"end": 3131,
+"text": "Advanced user roles for billing, IT, auditors, and more\n"
+},
+{
+"id": "S1L154",
+"start": 3131,
+"end": 3191,
+"text": "Our best self-serve plan to try all of Tailscale’s products\n"
+},
+{
+"id": "S1L155",
+"start": 3191,
+"end": 3199,
+"text": "Premium\n"
+},
+{
+"id": "S1L156",
+"start": 3199,
+"end": 3341,
+"text": "For organizations wanting the most from the Tailscale platform with advanced compliance needs, heavy ephemeral resource use, and AI security.\n"
+},
+{
+"id": "S1L157",
+"start": 3341,
+"end": 3365,
+"text": "$18 Per user, per month\n"
+},
+{
+"id": "S1L158",
+"start": 3365,
+"end": 3377,
+"text": "Get started\n"
+},
+{
+"id": "S1L159",
+"start": 3377,
+"end": 3406,
+"text": "Everything in Standard, plus\n"
+},
+{
+"id": "S1L160",
+"start": 3406,
+"end": 3427,
+"text": "Up to 300 ACL groups\n"
+},
+{
+"id": "S1L161",
+"start": 3427,
+"end": 3601,
+"text": "10,000 mins per month for ephemeral resources Ephemeral resources enable short-lived workloads like CI/CD runners and Kubernetes pods. Premium plan is ideal for heavy usage.\n"
+},
+{
+"id": "S1L162",
+"start": 3601,
+"end": 3634,
+"text": "Just-in-time access to resources\n"
+},
+{
+"id": "S1L163",
+"start": 3634,
+"end": 3657,
+"text": "Advanced Tailscale SSH\n"
+},
+{
+"id": "S1L164",
+"start": 3657,
+"end": 3675,
+"text": "Network flow logs\n"
+},
+{
+"id": "S1L165",
+"start": 3675,
+"end": 3689,
+"text": "Log streaming\n"
+},
+{
+"id": "S1L166",
+"start": 3689,
+"end": 3727,
+"text": "Regional routing and traffic steering\n"
+},
+{
+"id": "S1L167",
+"start": 3727,
+"end": 3738,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L168",
+"start": 3738,
+"end": 3914,
+"text": "For enterprises running the full Tailscale platform, extending into multiple products like PAM, AI security, CI/CD, Edge & IoT, and Kubernetes connectivity at scale, and more.\n"
+},
+{
+"id": "S1L169",
+"start": 3914,
+"end": 3921,
+"text": "Custom\n"
+},
+{
+"id": "S1L170",
+"start": 3921,
+"end": 3935,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L171",
+"start": 3935,
+"end": 3963,
+"text": "Everything in Premium, plus\n"
+},
+{
+"id": "S1L172",
+"start": 3963,
+"end": 3999,
+"text": "Custom device quantities and limits\n"
+},
+{
+"id": "S1L173",
+"start": 3999,
+"end": 4061,
+"text": "Solutions Engineer consultation and implementation assistance\n"
+},
+{
+"id": "S1L174",
+"start": 4061,
+"end": 4072,
+"text": "Custom MSA\n"
+},
+{
+"id": "S1L175",
+"start": 4072,
+"end": 4098,
+"text": "Custom tailnet subdomains\n"
+},
+{
+"id": "S1L176",
+"start": 4098,
+"end": 4171,
+"text": "Custom pricing and bundling to meet your organization’s needs and budget\n"
+},
+{
+"id": "S1L177",
+"start": 4171,
+"end": 4186,
+"text": "Pay by invoice\n"
+},
+{
+"id": "S1L178",
+"start": 4186,
+"end": 4226,
+"text": "Bring AI usage into focus with Aperture\n"
+},
+{
+"id": "S1L179",
+"start": 4226,
+"end": 4403,
+"text": "A unified AI governance solution for AI agents and users, without needing to manage or distribute API keys. Get full LLM session recordings, including local and MCP tool calls.\n"
+},
+{
+"id": "S1L180",
+"start": 4403,
+"end": 4415,
+"text": "Get started\n"
+},
+{
+"id": "S1L181",
+"start": 4415,
+"end": 4435,
+"text": "Platform extensions\n"
+},
+{
+"id": "S1L182",
+"start": 4435,
+"end": 4470,
+"text": "Privileged Access Management (PAM)\n"
+},
+{
+"id": "S1L183",
+"start": 4470,
+"end": 4563,
+"text": "Supercharge your security with granular elevated access control for K8s, SSH, and databases.\n"
+},
+{
+"id": "S1L184",
+"start": 4563,
+"end": 4577,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L185",
+"start": 4577,
+"end": 4605,
+"text": "CI/CD connectivity at scale\n"
+},
+{
+"id": "S1L186",
+"start": 4605,
+"end": 4742,
+"text": "Secure your managed CI/CD runners and workloads, wherever they are. Grant ephemeral segmented access, and get rid of long-lived secrets.\n"
+},
+{
+"id": "S1L187",
+"start": 4742,
+"end": 4756,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L188",
+"start": 4756,
+"end": 4787,
+"text": "Workload connectivity at scale\n"
+},
+{
+"id": "S1L189",
+"start": 4787,
+"end": 4929,
+"text": "Connect Kubernetes workloads, applications, and pipelines across clusters, clouds, and networks. All without exposure to the public internet.\n"
+},
+{
+"id": "S1L190",
+"start": 4929,
+"end": 4943,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L191",
+"start": 4943,
+"end": 4974,
+"text": "IoT Edge connectivity at scale\n"
+},
+{
+"id": "S1L192",
+"start": 4974,
+"end": 5128,
+"text": "Manage your device fleet, robotics, vehicles, and more through our platform. Stop manually managing thousands of edge devices and avoid local IP clashes.\n"
+},
+{
+"id": "S1L193",
+"start": 5128,
+"end": 5142,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L194",
+"start": 5142,
+"end": 5150,
+"text": "Add-ons\n"
+},
+{
+"id": "S1L195",
+"start": 5150,
+"end": 5158,
+"text": "Mullvad\n"
+},
+{
+"id": "S1L196",
+"start": 5158,
+"end": 5230,
+"text": "Browse the internet privately, and securely with Tailscale and Mullvad.\n"
+},
+{
+"id": "S1L197",
+"start": 5230,
+"end": 5263,
+"text": "$5 Per month for every 5 devices\n"
+},
+{
+"id": "S1L198",
+"start": 5263,
+"end": 5275,
+"text": "Get started\n"
+},
+{
+"id": "S1L199",
+"start": 5275,
+"end": 5301,
+"text": "Add more tagged resources\n"
+},
+{
+"id": "S1L200",
+"start": 5301,
+"end": 5372,
+"text": "Scale your needs beyond the 50 tagged resources given free each month.\n"
+},
+{
+"id": "S1L201",
+"start": 5372,
+"end": 5411,
+"text": "$1 Per month for every tagged resource\n"
+},
+{
+"id": "S1L202",
+"start": 5411,
+"end": 5425,
+"text": "Add resources\n"
+},
+{
+"id": "S1L203",
+"start": 5425,
+"end": 5458,
+"text": "Connect more ephemeral resources\n"
+},
+{
+"id": "S1L204",
+"start": 5458,
+"end": 5526,
+"text": "Scale beyond your monthly allotted minutes for ephemeral resources.\n"
+},
+{
+"id": "S1L205",
+"start": 5526,
+"end": 5540,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L206",
+"start": 5540,
+"end": 5558,
+"text": "Multiple tailnets\n"
+},
+{
+"id": "S1L207",
+"start": 5558,
+"end": 5698,
+"text": "Great option for OEM. Create multiple tailnets under a single organization and IdP. Get separation for testing, development, or automation.\n"
+},
+{
+"id": "S1L208",
+"start": 5698,
+"end": 5712,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L209",
+"start": 5712,
+"end": 5747,
+"text": "Support packages & Support Add-ons\n"
+},
+{
+"id": "S1L210",
+"start": 5747,
+"end": 5892,
+"text": "Get contractual response SLAs with Silver, Gold, or Platinum support, and planned technical expertise through separately scoped Support Add-ons.\n"
+},
+{
+"id": "S1L211",
+"start": 5892,
+"end": 5906,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L212",
+"start": 5906,
+"end": 5920,
+"text": "Compare plans\n"
+},
+{
+"id": "S1L213",
+"start": 5920,
+"end": 6061,
+"text": "Users & Devices Basics Infrastructure & Developer AI Governance & Security Device Posture User & Device Management Logging Support & Billing\n"
+},
+{
+"id": "S1L214",
+"start": 6061,
+"end": 6122,
+"text": "Users & Devices | Personal | Standard | Premium | Enterprise\n"
+},
+{
+"id": "S1L215",
+"start": 6122,
+"end": 6211,
+"text": "Users | $0 for up to 6 users | $8 per user, per month | $18 per user, per month | Custom\n"
+},
+{
+"id": "S1L216",
+"start": 6211,
+"end": 6260,
+"text": "User Devices Computers, phones, etc. | Unlimited\n"
+},
+{
+"id": "S1L217",
+"start": 6260,
+"end": 6369,
+"text": "Tagged resources Resources like exit nodes, etc. | 50 tagged resources included; add more for $1/month each.\n"
+},
+{
+"id": "S1L218",
+"start": 6369,
+"end": 6512,
+"text": "Ephemeral resources Short-running k8s pods, CI/CD runners, etc. | 1,000 mins per month | 1,000 mins per month | 10,000 mins per month | Custom\n"
+},
+{
+"id": "S1L219",
+"start": 6512,
+"end": 6519,
+"text": "Basics\n"
+},
+{
+"id": "S1L220",
+"start": 6519,
+"end": 6551,
+"text": "Secure peer-to-peer connections\n"
+},
+{
+"id": "S1L221",
+"start": 6551,
+"end": 6579,
+"text": "Subnet routers & exit nodes\n"
+},
+{
+"id": "S1L222",
+"start": 6579,
+"end": 6606,
+"text": "Split tunneling & MagicDNS\n"
+},
+{
+"id": "S1L223",
+"start": 6606,
+"end": 6624,
+"text": "ACLs (Zero Trust)\n"
+},
+{
+"id": "S1L224",
+"start": 6624,
+"end": 6659,
+"text": "ACL Groups | 3 | 10 | 300 | Custom\n"
+},
+{
+"id": "S1L225",
+"start": 6659,
+"end": 6671,
+"text": "Peer relays\n"
+},
+{
+"id": "S1L226",
+"start": 6671,
+"end": 6697,
+"text": "Custom tailnet subdomains\n"
+},
+{
+"id": "S1L227",
+"start": 6697,
+"end": 6724,
+"text": "Infrastructure & Developer\n"
+},
+{
+"id": "S1L228",
+"start": 6724,
+"end": 6760,
+"text": "Basic Tailscale SSH | Up to 5 hosts\n"
+},
+{
+"id": "S1L229",
+"start": 6760,
+"end": 6845,
+"text": "Advanced Tailscale SSH Non-default check mode length , localpart username matching .\n"
+},
+{
+"id": "S1L230",
+"start": 6845,
+"end": 6873,
+"text": "Kubernetes ingress & egress\n"
+},
+{
+"id": "S1L231",
+"start": 6873,
+"end": 6894,
+"text": "Kubernetes api proxy\n"
+},
+{
+"id": "S1L232",
+"start": 6894,
+"end": 6901,
+"text": "Funnel\n"
+},
+{
+"id": "S1L233",
+"start": 6901,
+"end": 6983,
+"text": "Privileged Access Management K8s, DB, and SSH recording | See platform extensions\n"
+},
+{
+"id": "S1L234",
+"start": 6983,
+"end": 7075,
+"text": "CI/CD connectivity at scale Secure managed CI/CD runners and more | See platform extensions\n"
+},
+{
+"id": "S1L235",
+"start": 7075,
+"end": 7175,
+"text": "Workload connectivity at scale Connect K8s workloads, apps, and pipelines | See platform extensions\n"
+},
+{
+"id": "S1L236",
+"start": 7175,
+"end": 7278,
+"text": "Edge & IoT connectivity at scale Mange your device fleet, robotics, vehicles | See platform extensions\n"
+},
+{
+"id": "S1L237",
+"start": 7278,
+"end": 7303,
+"text": "AI Governance & Security\n"
+},
+{
+"id": "S1L238",
+"start": 7303,
+"end": 7384,
+"text": "Aperture by Tailscale Unified governance for AI agents | See platform extensions\n"
+},
+{
+"id": "S1L239",
+"start": 7384,
+"end": 7399,
+"text": "Device Posture\n"
+},
+{
+"id": "S1L240",
+"start": 7399,
+"end": 7450,
+"text": "Basic device posture OS and TS version information\n"
+},
+{
+"id": "S1L241",
+"start": 7450,
+"end": 7502,
+"text": "Device posture integrations MDM, EDR, XDR, and more\n"
+},
+{
+"id": "S1L242",
+"start": 7502,
+"end": 7554,
+"text": "Device posture geolocation Plus identity collection\n"
+},
+{
+"id": "S1L243",
+"start": 7554,
+"end": 7607,
+"text": "Just-in-time access Custom device posture attributes\n"
+},
+{
+"id": "S1L244",
+"start": 7607,
+"end": 7632,
+"text": "User & Device Management\n"
+},
+{
+"id": "S1L245",
+"start": 7632,
+"end": 7649,
+"text": "SSO with any IdP\n"
+},
+{
+"id": "S1L246",
+"start": 7649,
+"end": 7663,
+"text": "User approval\n"
+},
+{
+"id": "S1L247",
+"start": 7663,
+"end": 7679,
+"text": "Device approval\n"
+},
+{
+"id": "S1L248",
+"start": 7679,
+"end": 7709,
+"text": "Custom authentication periods\n"
+},
+{
+"id": "S1L249",
+"start": 7709,
+"end": 7745,
+"text": "Custom admin console session timers\n"
+},
+{
+"id": "S1L250",
+"start": 7745,
+"end": 7762,
+"text": "Basic user roles\n"
+},
+{
+"id": "S1L251",
+"start": 7762,
+"end": 7782,
+"text": "Advanced user roles\n"
+},
+{
+"id": "S1L252",
+"start": 7782,
+"end": 7815,
+"text": "User & group provisioning (SCIM)\n"
+},
+{
+"id": "S1L253",
+"start": 7815,
+"end": 7836,
+"text": "User management APIs\n"
+},
+{
+"id": "S1L254",
+"start": 7836,
+"end": 7852,
+"text": "Deploy with MDM\n"
+},
+{
+"id": "S1L255",
+"start": 7852,
+"end": 7871,
+"text": "Configure with MDM\n"
+},
+{
+"id": "S1L256",
+"start": 7871,
+"end": 7888,
+"text": "Regional routing\n"
+},
+{
+"id": "S1L257",
+"start": 7888,
+"end": 7896,
+"text": "Logging\n"
+},
+{
+"id": "S1L258",
+"start": 7896,
+"end": 7905,
+"text": "Webhooks\n"
+},
+{
+"id": "S1L259",
+"start": 7905,
+"end": 7930,
+"text": "Configuration audit logs\n"
+},
+{
+"id": "S1L260",
+"start": 7930,
+"end": 7948,
+"text": "Network flow logs\n"
+},
+{
+"id": "S1L261",
+"start": 7948,
+"end": 7962,
+"text": "Log streaming\n"
+},
+{
+"id": "S1L262",
+"start": 7962,
+"end": 7980,
+"text": "Support & Billing\n"
+},
+{
+"id": "S1L263",
+"start": 7980,
+"end": 7997,
+"text": "Customer support\n"
+},
+{
+"id": "S1L264",
+"start": 7997,
+"end": 8020,
+"text": "Access to Support SLAs\n"
+},
+{
+"id": "S1L265",
+"start": 8020,
+"end": 8032,
+"text": "Custom MSAs\n"
+},
+{
+"id": "S1L266",
+"start": 8032,
+"end": 8047,
+"text": "Pay by invoice\n"
+},
+{
+"id": "S1L267",
+"start": 8047,
+"end": 8066,
+"text": "Cloud Marketplaces\n"
+},
+{
+"id": "S1L268",
+"start": 8066,
+"end": 8182,
+"text": "Get started with Tailscale through your preferred cloud marketplace — consolidate billing, and speed up deployment.\n"
+},
+{
+"id": "S1L269",
+"start": 8182,
+"end": 8186,
+"text": "AWS\n"
+},
+{
+"id": "S1L270",
+"start": 8186,
+"end": 8457,
+"text": "Simplify procurement by purchasing Tailscale through AWS Marketplace. Enjoy flexible terms, consolidated billing, and utilize your existing AWS spend commitments and credits. Benefit from seamless AWS integration, automated deployment, and centralized vendor management.\n"
+},
+{
+"id": "S1L271",
+"start": 8457,
+"end": 8510,
+"text": "Buy with AWS View on AWS Marketplace Request a quote\n"
+},
+{
+"id": "S1L272",
+"start": 8510,
+"end": 8516,
+"text": "Azure\n"
+},
+{
+"id": "S1L273",
+"start": 8516,
+"end": 8648,
+"text": "Seamlessly deploy and manage Tailscale in your Azure infrastructure while consolidating billing and streamlining vendor management.\n"
+},
+{
+"id": "S1L274",
+"start": 8648,
+"end": 8660,
+"text": "Get started\n"
+},
+{
+"id": "S1L275",
+"start": 8660,
+"end": 8687,
+"text": "Frequently asked questions\n"
+},
+{
+"id": "S1L276",
+"start": 8687,
+"end": 8698,
+"text": "Free trial\n"
+},
+{
+"id": "S1L277",
+"start": 8698,
+"end": 8733,
+"text": "Does Tailscale offer a free trial?\n"
+},
+{
+"id": "S1L278",
+"start": 8733,
+"end": 8843,
+"text": "Yes! When you sign up for Tailscale with a custom domain, your tailnet starts with a 14-day Enterprise trial.\n"
+},
+{
+"id": "S1L279",
+"start": 8843,
+"end": 9047,
+"text": "During the trial, you can explore all Enterprise features with unlimited users, devices, and usage, so you can evaluate Tailscale across your team and network without needing to choose a plan right away.\n"
+},
+{
+"id": "S1L280",
+"start": 9047,
+"end": 9372,
+"text": "After the 14-day trial, you’ll need to choose a plan to continue unrestricted use of Tailscale. Before or after your trial ends, visit the Plans page to choose the plan that best fits how you're using Tailscale. Once you've selected a plan, your tailnet can continue growing, and you can make configuration changes normally.\n"
+},
+{
+"id": "S1L281",
+"start": 9372,
+"end": 9468,
+"text": "If you need an extension, our sales team is happy to help, and we’ll talk through your options.\n"
+},
+{
+"id": "S1L282",
+"start": 9468,
+"end": 9569,
+"text": "Personal users have access to the free tier plan for non-commercial use, which will be free forever.\n"
+},
+{
+"id": "S1L283",
+"start": 9569,
+"end": 9613,
+"text": "What do I have access to with a free trial?\n"
+},
+{
+"id": "S1L284",
+"start": 9613,
+"end": 9754,
+"text": "For 14 days, you have access to the full Enterprise experience, including all Enterprise features and no limits on users, devices, or usage.\n"
+},
+{
+"id": "S1L285",
+"start": 9754,
+"end": 9780,
+"text": "You can use this time to:\n"
+},
+{
+"id": "S1L286",
+"start": 9780,
+"end": 9803,
+"text": "Add users and devices.\n"
+},
+{
+"id": "S1L287",
+"start": 9803,
+"end": 9827,
+"text": "Configure your tailnet.\n"
+},
+{
+"id": "S1L288",
+"start": 9827,
+"end": 9874,
+"text": "Try advanced networking and security features.\n"
+},
+{
+"id": "S1L289",
+"start": 9874,
+"end": 9955,
+"text": "Evaluate Tailscale with your team before choosing the plan that fits your needs.\n"
+},
+{
+"id": "S1L290",
+"start": 9955,
+"end": 10036,
+"text": "You can choose a plan at any time during or after the trial from the Plans page.\n"
+},
+{
+"id": "S1L291",
+"start": 10036,
+"end": 10070,
+"text": "What happens when the trial ends?\n"
+},
+{
+"id": "S1L292",
+"start": 10070,
+"end": 10239,
+"text": "If you haven't selected a plan after 14 days, your existing tailnet keeps working. Existing users and devices remain connected, and you can continue using your network.\n"
+},
+{
+"id": "S1L293",
+"start": 10239,
+"end": 10349,
+"text": "Until you choose a plan, however, some changes are restricted. These changes include, but are not limited to:\n"
+},
+{
+"id": "S1L294",
+"start": 10349,
+"end": 10393,
+"text": "New users and devices cannot become active.\n"
+},
+{
+"id": "S1L295",
+"start": 10393,
+"end": 10439,
+"text": "Pending users and devices cannot be approved.\n"
+},
+{
+"id": "S1L296",
+"start": 10439,
+"end": 10472,
+"text": "New auth keys cannot be created.\n"
+},
+{
+"id": "S1L297",
+"start": 10472,
+"end": 10538,
+"text": "Some device configuration and tailnet settings cannot be changed.\n"
+},
+{
+"id": "S1L298",
+"start": 10538,
+"end": 10663,
+"text": "You can still view your configuration, remove users or devices, update Tailscale clients, and make security-related changes.\n"
+},
+{
+"id": "S1L299",
+"start": 10663,
+"end": 10841,
+"text": "Choosing a plan restores full access to tailnet changes. Any users or devices that joined while your trial was inactive will remain pending until an administrator approves them.\n"
+},
+{
+"id": "S1L300",
+"start": 10841,
+"end": 10898,
+"text": "Can I get a trial of a paid plan from the Personal plan?\n"
+},
+{
+"id": "S1L301",
+"start": 10898,
+"end": 11081,
+"text": "We highly recommend signing up with a separate work email. This way, you get access to our full suite of enterprise features, which ensures you get the most out of your trial period.\n"
+},
+{
+"id": "S1L302",
+"start": 11081,
+"end": 11156,
+"text": "If you don’t have access to a work email, our sales team is happy to help.\n"
+},
+{
+"id": "S1L303",
+"start": 11156,
+"end": 11201,
+"text": "How do I upgrade or downgrade to a new plan?\n"
+},
+{
+"id": "S1L304",
+"start": 11201,
+"end": 11428,
+"text": "First, make sure that you’re either the account Owner, Admin, or Billing admin for the tailnet. If you are on a monthly subscription plan or a Personal plan, you can change your plan from the Billing page of the admin console.\n"
+},
+{
+"id": "S1L305",
+"start": 11428,
+"end": 11539,
+"text": "If you are on an annual subscription plan and would like to make any changes, our sales team is happy to help.\n"
+},
+{
+"id": "S1L306",
+"start": 11539,
+"end": 11675,
+"text": "What is the difference between business and personal use? What determines who gets access to trials and who stays on the Personal plan?\n"
+},
+{
+"id": "S1L307",
+"start": 11675,
+"end": 12040,
+"text": "Our Personal plan is for individuals who want to use Tailscale at home. This is a free plan and is only suitable for non-commercial use of Tailscale. It’s perfect for things like building a homelab or home VPN, playing games with friends, or securely connecting to anything from a DigitalOcean droplet to a Raspberry Pi, home security camera, Steam Deck, and more.\n"
+},
+{
+"id": "S1L308",
+"start": 12040,
+"end": 12237,
+"text": "If you create a tailnet with a public domain, such as Gmail, Apple, or a personal GitHub account, it’s treated as personal use. These tailnets are automatically enrolled in the free Personal plan.\n"
+},
+{
+"id": "S1L309",
+"start": 12237,
+"end": 12515,
+"text": "If you create a tailnet with a custom domain, it’s considered business use, and you’ll be automatically enrolled in a free trial. This setup is ideal for securely connecting critical infrastructure like production clusters, Kubernetes clusters, on-premises databases, and more.\n"
+},
+{
+"id": "S1L310",
+"start": 12515,
+"end": 12593,
+"text": "I signed up with a custom domain. Can I still use Tailscale for personal use?\n"
+},
+{
+"id": "S1L311",
+"start": 12593,
+"end": 12711,
+"text": "If you signed up with a custom domain but you're using Tailscale for personal use, you don't need an Enterprise plan.\n"
+},
+{
+"id": "S1L312",
+"start": 12711,
+"end": 12833,
+"text": "You can choose Tailscale's generous Free plan from the Plans page and continue using Tailscale for your personal tailnet.\n"
+},
+{
+"id": "S1L313",
+"start": 12833,
+"end": 12901,
+"text": "Do you offer discounts for non-profits or educational institutions?\n"
+},
+{
+"id": "S1L314",
+"start": 12901,
+"end": 13011,
+"text": "Yes! Tailscale offers special pricing for eligible not-for-profit organizations and educational institutions.\n"
+},
+{
+"id": "S1L315",
+"start": 13011,
+"end": 13235,
+"text": "To receive the discount, you’ll need documentation of your registered entity. Choose your plan on the Billing page of the admin console and reach out to our Support team—we’ll take care of applying the appropriate discount.\n"
+},
+{
+"id": "S1L316",
+"start": 13235,
+"end": 13278,
+"text": "Seat-based pricing, devices, and resources\n"
+},
+{
+"id": "S1L317",
+"start": 13278,
+"end": 13329,
+"text": "Why does Tailscale use a seat-based pricing model?\n"
+},
+{
+"id": "S1L318",
+"start": 13329,
+"end": 13559,
+"text": "Our pricing model is focused on giving you more value and ensuring your bill is as predictable as possible. Previously, we charged based on monthly active users, but we heard from customers that this led to unpredictable billing.\n"
+},
+{
+"id": "S1L319",
+"start": 13559,
+"end": 13946,
+"text": "As part of our switchover to seat-based pricing, we’ve made the free tier more generous and added meaningful new features to both the Standard and Premium plans. With the shift from our former Starter plan to the new and better Standard plan, we have slightly increased the price per seat. But even though we’ve also added more to the Premium plan, we’ve kept this price point the same.\n"
+},
+{
+"id": "S1L320",
+"start": 13946,
+"end": 14081,
+"text": "Our goal is to give Tailscale users more value while making it easier to use Tailscale across both simple and more advanced use cases.\n"
+},
+{
+"id": "S1L321",
+"start": 14081,
+"end": 14131,
+"text": "What is seat-based pricing, and how does it work?\n"
+},
+{
+"id": "S1L322",
+"start": 14131,
+"end": 14408,
+"text": "Just as the name suggests, it’s all about seats. Not user devices, those are unlimited on every plan. With Tailscale, you pay for a certain number of seats on your tailnet. When a user joins your tailnet, they “occupy” a seat. A user can also “vacate” that seat to free it up.\n"
+},
+{
+"id": "S1L323",
+"start": 14408,
+"end": 14592,
+"text": "You choose the number of seats your tailnet has. At the start of the month, you will be billed based on the number of seats. There’s no hard limit on seats—you can scale up as needed.\n"
+},
+{
+"id": "S1L324",
+"start": 14592,
+"end": 14680,
+"text": "And, if you’re on an Enterprise plan, you can also choose to pay via an annual invoice.\n"
+},
+{
+"id": "S1L325",
+"start": 14680,
+"end": 14746,
+"text": "What are user devices, tagged resources, and ephemeral resources?\n"
+},
+{
+"id": "S1L326",
+"start": 14746,
+"end": 14850,
+"text": "A user device is simply anything that is not tagged as a resource! User devices are free and unlimited.\n"
+},
+{
+"id": "S1L327",
+"start": 14850,
+"end": 15036,
+"text": "A tagged resource is a device that is owned by a tag rather than a user identity. You should tag resources like servers, subnet routers, app connectors, and other shared infrastructure.\n"
+},
+{
+"id": "S1L328",
+"start": 15036,
+"end": 15448,
+"text": "Ephemeral resources are devices tagged as short-running resources. This is done by our Kubernetes operator, GitHub action, or set by the user. Ephemeral resource usage is based on a minute pool that is tied to the resource’s lifespan. If an ephemeral device is present in the tailnet for more than four hours, it will not count against the minute pool, and will instead be counted as a standard tagged resource.\n"
+},
+{
+"id": "S1L329",
+"start": 15448,
+"end": 15511,
+"text": "What counts as an occupied seat? What counts as a vacant seat?\n"
+},
+{
+"id": "S1L330",
+"start": 15511,
+"end": 15686,
+"text": "For a user to join a tailnet, a vacant seat must be available for them to occupy. Seats are reusable, meaning they can be continually vacated and occupied by different users.\n"
+},
+{
+"id": "S1L331",
+"start": 15686,
+"end": 15983,
+"text": "Upon inviting or provisioning a user, that user does not immediately occupy a seat. If the approvals feature is enabled as recommended, users also need admin approval to join. A user then occupies a vacant seat when they first log in to the admin console or when they first authenticate a device.\n"
+},
+{
+"id": "S1L332",
+"start": 15983,
+"end": 16217,
+"text": "A user vacates a seat when they leave the tailnet, or if their account is deleted, suspended, or otherwise deprovisioned by the IdP (a user just deleting all of their devices is not enough). This allows a different user to occupy it.\n"
+},
+{
+"id": "S1L333",
+"start": 16217,
+"end": 16314,
+"text": "What about users who have not accepted an invite or are pending approval? Do they occupy a seat?\n"
+},
+{
+"id": "S1L334",
+"start": 16314,
+"end": 16642,
+"text": "These users don’t count as occupying a seat, and we make sure you are not charged for it. Specifically, a user who is invited does not occupy a seat until they first log in to the admin console or when they first authenticate a device. If the approvals feature is enabled as recommended, users also need admin approval to join.\n"
+},
+{
+"id": "S1L335",
+"start": 16642,
+"end": 16686,
+"text": "Do users provisioned by SCIM occupy a seat?\n"
+},
+{
+"id": "S1L336",
+"start": 16686,
+"end": 16892,
+"text": "Users provisioned by SCIM do not occupy a seat until they log in. Once they first log in to the admin console or when they first authenticate a device, they are charged normally as a user occupying a seat.\n"
+},
+{
+"id": "S1L337",
+"start": 16892,
+"end": 17022,
+"text": "We chose this specifically to help avoid charges from over-provisioning mistakes, so please go forth and provision without worry!\n"
+},
+{
+"id": "S1L338",
+"start": 17022,
+"end": 17055,
+"text": "How do you add and remove seats?\n"
+},
+{
+"id": "S1L339",
+"start": 17055,
+"end": 17164,
+"text": "The tailnet Owner, Admin, or Billing admin can increase or decrease the number of purchased seats per month.\n"
+},
+{
+"id": "S1L340",
+"start": 17164,
+"end": 17464,
+"text": "Keep in mind that you cannot decrease below the number of seats that are occupied. For example, if you have 20 seats and they’re all occupied, you would need to remove some users before decreasing the number of seats. If you have 20 seats and 3 seats are vacant, you can simply decrease to 17 seats.\n"
+},
+{
+"id": "S1L341",
+"start": 17464,
+"end": 17530,
+"text": "Can you give me the billing specifics around seat number changes?\n"
+},
+{
+"id": "S1L342",
+"start": 17530,
+"end": 17565,
+"text": "Here are the nitty-gritty details:\n"
+},
+{
+"id": "S1L343",
+"start": 17565,
+"end": 17760,
+"text": "Adding seats within a monthly billing period will charge the prorated seat cost. In other words, if you add a seat halfway through the month, you will only be charged half a month for that seat.\n"
+},
+{
+"id": "S1L344",
+"start": 17760,
+"end": 17904,
+"text": "Removing seats within a monthly billing period does not affect the cost for that month. Changes will reflect on the next month’s billing cycle.\n"
+},
+{
+"id": "S1L345",
+"start": 17904,
+"end": 18043,
+"text": "The number of seats you have can’t go below the number of actively-filled seats. After all, every user who logs in needs to occupy a seat.\n"
+},
+{
+"id": "S1L346",
+"start": 18043,
+"end": 18110,
+"text": "Can a seat be reused by multiple users in a single billing period?\n"
+},
+{
+"id": "S1L347",
+"start": 18110,
+"end": 18246,
+"text": "Yes! We were very intentional in our design and choice of seat-based pricing to ensure this aspect is as fair and flexible as possible.\n"
+},
+{
+"id": "S1L348",
+"start": 18246,
+"end": 18513,
+"text": "A seat can be reused by multiple users. For example, a user can join a tailnet and occupy a seat. They can vacate that seat, such as by being deleted, and a second user can then join and occupy that same seat. In that case, you’re only charged for one seat, not two.\n"
+},
+{
+"id": "S1L349",
+"start": 18513,
+"end": 18582,
+"text": "What happens if we have vacant seats at the end of a billing period?\n"
+},
+{
+"id": "S1L350",
+"start": 18582,
+"end": 18872,
+"text": "With seat-based pricing, you pay for the number of seats on your tailnet, not whether someone is actively using each one. This generally works in your favor, allowing multiple users to reuse the same seat, as detailed in “Can a seat be reused by multiple users in a single billing period?”\n"
+},
+{
+"id": "S1L351",
+"start": 18872,
+"end": 19061,
+"text": "In practice, you’re charged for all seats on your tailnet, including any that are currently vacant. The good news is that avoiding charges is as easy as removing seats that are not in use.\n"
+},
+{
+"id": "S1L352",
+"start": 19061,
+"end": 19094,
+"text": "Can I add more tagged resources?\n"
+},
+{
+"id": "S1L353",
+"start": 19094,
+"end": 19311,
+"text": "Yes! Adding more tagged resources is now available as a self-serve option. You can purchase them yourself here , though feel free to contact us with any questions or bespoke needs that may require an Enterprise plan.\n"
+},
+{
+"id": "S1L354",
+"start": 19311,
+"end": 19381,
+"text": "Do my tagged resources automatically increase or decrease with usage?\n"
+},
+{
+"id": "S1L355",
+"start": 19381,
+"end": 19474,
+"text": "No, unlike seats, tagged resources do not automatically increase or decrease based on usage.\n"
+},
+{
+"id": "S1L356",
+"start": 19474,
+"end": 19505,
+"text": "Platform Extensions & Aperture\n"
+},
+{
+"id": "S1L357",
+"start": 19505,
+"end": 19560,
+"text": "What are Platform Extensions? How are they beneficial?\n"
+},
+{
+"id": "S1L358",
+"start": 19560,
+"end": 19976,
+"text": "Separate from the plans, Platform Extensions are available as a way for you to tailor and customize Tailscale to your specific needs. Whether you need more tagged resources for your exit node-heavy setup or more ephemeral nodes for your CI/CD focus, our Platform Extensions aim to remove the constraints of a handful of rigid plans and help you tailor Tailscale and our platform and products to your specific needs.\n"
+},
+{
+"id": "S1L359",
+"start": 19976,
+"end": 20016,
+"text": "How do I purchase a Platform Extension?\n"
+},
+{
+"id": "S1L360",
+"start": 20016,
+"end": 20191,
+"text": "For now, Platform Extensions are available by reaching out to our sales team. We plan on making many of these Platform Extensions available for self-serve in the near future.\n"
+},
+{
+"id": "S1L361",
+"start": 20191,
+"end": 20248,
+"text": "What is Aperture by Tailscale? How does it relate to AI?\n"
+},
+{
+"id": "S1L362",
+"start": 20248,
+"end": 20634,
+"text": "If you’re looking for AI solutions, Aperture is Tailscale’s new unified AI governance solution. It’s feature-rich with the ability to see and stop tool calls before users or agents make them, keep API keys safe, get detailed session logs for auditability, and more. Aperture provides visibility and control over AI agent usage by centralizing access and tying it to Tailscale identity.\n"
+},
+{
+"id": "S1L363",
+"start": 20634,
+"end": 20885,
+"text": "Aperture supports major agents, like Claude Code, Codex, Gemini CLI, and agent frameworks that support a custom base URL. It connects self-hosted OSS models and hosted models from OpenAI, Anthropic, and Google. For more information, visit this page .\n"
+},
+{
+"id": "S1L364",
+"start": 20885,
+"end": 20941,
+"text": "Is it possible to use Aperture without using Tailscale?\n"
+},
+{
+"id": "S1L365",
+"start": 20941,
+"end": 21142,
+"text": "Yes, it is possible. Tailscale and Aperture work fantastically together, with Tailscale solving the secure connectivity part of the networking puzzle, but you can use Aperture as a standalone product.\n"
+},
+{
+"id": "S1L366",
+"start": 21142,
+"end": 21155,
+"text": "Legacy plans\n"
+},
+{
+"id": "S1L367",
+"start": 21155,
+"end": 21228,
+"text": "What happens to accounts on the former Personal and Personal Plus plans?\n"
+},
+{
+"id": "S1L368",
+"start": 21228,
+"end": 21631,
+"text": "We believe moving to the new plans is a great option for most users. We designed the new Personal plan to have updated benefits, like allowing more users, which makes the switch a net positive for former Personal users. Current Personal Plus users will be able to keep their plans as is or switch to the free Personal Plan that should meet the needs of the vast majority of current Personal Plus users.\n"
+},
+{
+"id": "S1L369",
+"start": 21631,
+"end": 22000,
+"text": "That said, there’s no rush. If you prefer to stay on the former Personal and Personal Plus plans, you can continue using them as legacy accounts for the foreseeable future. And if you ever decide to move to a new plan, you’re free to do so at any time. However, moving to a new plan is a one-way change, and you won’t be able to move back to your previous legacy plan.\n"
+},
+{
+"id": "S1L370",
+"start": 22000,
+"end": 22068,
+"text": "Has the maximum number of users changed for the free Personal plan?\n"
+},
+{
+"id": "S1L371",
+"start": 22068,
+"end": 22252,
+"text": "The new Personal plan now allows 6 users, an increase from the former plan’s 3 users. This is also equivalent to the former Personal Plus plan, which had a maximum of 6 users as well.\n"
+},
+{
+"id": "S1L372",
+"start": 22252,
+"end": 22305,
+"text": "What happens to accounts on the former Personal Pro?\n"
+},
+{
+"id": "S1L373",
+"start": 22305,
+"end": 22487,
+"text": "Much like with the legacy Personal and Personal Plus plans, Personal Pro accounts stand to gain a lot from a migration to the new Personal plan, which now grants more free benefits.\n"
+},
+{
+"id": "S1L374",
+"start": 22487,
+"end": 22737,
+"text": "To grant these accounts those free and added benefits, we will migrate former Personal Pro plans to the new Personal plan. For anyone interested in what the new Standard plan offers, we’ll also provide a discount to help make that transition easier.\n"
+},
+{
+"id": "S1L375",
+"start": 22737,
+"end": 22803,
+"text": "What happens to accounts on the former Starter and Premium plans?\n"
+},
+{
+"id": "S1L376",
+"start": 22803,
+"end": 23009,
+"text": "To be upfront, we do recommend making a switch. We’ve designed the new Standard and Premium plans to better support the kinds of use cases users and teams typically have at this level, with added benefits.\n"
+},
+{
+"id": "S1L377",
+"start": 23009,
+"end": 23391,
+"text": "That said, if you’re currently on a self-service legacy Starter or Premium plan, you can choose to stay on your existing plan for now. After the first year, we will work with customers who are still on these legacy plans to transition to the new ones. Specifically, Starter plans will migrate to the new Standard plan, and legacy Premium plans will migrate to the new Premium plan.\n"
+},
+{
+"id": "S1L378",
+"start": 23391,
+"end": 23592,
+"text": "We are really excited to offer more value and features to more self-service plans. We understand that changing plans or pricing can sometimes have friction, and we're here to support you through that.\n"
+},
+{
+"id": "S1L379",
+"start": 23592,
+"end": 23642,
+"text": "What happens to accounts on the former Team plan?\n"
+},
+{
+"id": "S1L380",
+"start": 23642,
+"end": 23799,
+"text": "This will be handled the same way as accounts on the former Starter plan, as detailed in “What happens to accounts on the former Starter and Premium plans?”\n"
+},
+{
+"id": "S1L381",
+"start": 23799,
+"end": 23853,
+"text": "What happens to accounts on the former Business plan?\n"
+},
+{
+"id": "S1L382",
+"start": 23853,
+"end": 24010,
+"text": "This will be handled the same way as accounts on the former Premium plan, as detailed in “What happens to accounts on the former Starter and Premium plans?”\n"
+},
+{
+"id": "S1L383",
+"start": 24010,
+"end": 24118,
+"text": "What happens to accounts on the former Tailscale Connectivity License and Tailscale Security License plans?\n"
+},
+{
+"id": "S1L384",
+"start": 24118,
+"end": 24288,
+"text": "This will be handled the same way as accounts on the former Starter and Premium plans, as detailed in “What happens to accounts on the former Starter and Premium plans?”\n"
+},
+{
+"id": "S1L385",
+"start": 24288,
+"end": 24398,
+"text": "I’m on a paid plan, but have been getting up to three free users through a previous plan. What happens to me?\n"
+},
+{
+"id": "S1L386",
+"start": 24398,
+"end": 24565,
+"text": "If you have six or fewer users, we encourage you to check out our free personal plan. We’ve added more to this plan and expect that this may meet your needs for free.\n"
+},
+{
+"id": "S1L387",
+"start": 24565,
+"end": 25162,
+"text": "If you have more than six users or are looking for features offered only in paid plans, you will be able to stick to your legacy plan (including the up-to-three free users) for at least a year. After the first year, we plan to help those still on these plans transition to the new plans through support and discounts. We’ve added much more to each plan, so while we aren’t currently offering an up-to-three free user discount for these updated plans, we still recommend seeing if the new features will better meet your business or organization’s needs and if it could make sense to switch sooner.\n"
+},
+{
+"id": "S1L388",
+"start": 25162,
+"end": 25239,
+"text": "If you have questions or concerns or need additional help, please reach out.\n"
+},
+{
+"id": "S1L389",
+"start": 25239,
+"end": 25248,
+"text": "Overages\n"
+},
+{
+"id": "S1L390",
+"start": 25248,
+"end": 25309,
+"text": "How will we know when an account approaches its plan limits?\n"
+},
+{
+"id": "S1L391",
+"start": 25309,
+"end": 25512,
+"text": "We believe the best user experience comes from having clear visibility into approaching plan limits and receiving appropriate and timely alerts, like email notifications, so that there are no surprises.\n"
+},
+{
+"id": "S1L392",
+"start": 25512,
+"end": 25667,
+"text": "With that in mind, we are currently not enforcing the hard limits or overages of ACL groups, multiple tailnets, tagged resources, and ephemeral resources.\n"
+},
+{
+"id": "S1L393",
+"start": 25667,
+"end": 25974,
+"text": "Over the next few months, we’ll begin introducing these limits, along with added visibility into account limits and email notifications to help you stay informed and in control. We plan to overcommunicate as much as possible when we’ve added this visibility and when we plan to start enforcing plan limits.\n"
+},
+{
+"id": "S1L394",
+"start": 25974,
+"end": 26032,
+"text": "What happens when a user joins a tailnet with full seats?\n"
+},
+{
+"id": "S1L395",
+"start": 26032,
+"end": 26227,
+"text": "Upon inviting or provisioning a user, that user does not immediately occupy a seat. If the approvals feature is enabled as recommended, users also need admin approval before joining the tailnet.\n"
+},
+{
+"id": "S1L396",
+"start": 26227,
+"end": 26386,
+"text": "If a user logs in to the tailnet while seats are full, the seat count will automatically increase by 1 to accommodate and match the number of logged-in users.\n"
+},
+{
+"id": "S1L397",
+"start": 26386,
+"end": 26726,
+"text": "For example, let’s say you invite a user to join your tailnet, but your tailnet’s seats are all occupied. When that user logs in, your tailnet’s seat count is automatically increased by 1 to accommodate the new user. In terms of billing, your total seats increased by one, and we will prorate the cost of that extra seat on your next bill.\n"
+},
+{
+"id": "S1L398",
+"start": 26726,
+"end": 26790,
+"text": "What happens if an account exceeds the number of prepaid seats?\n"
+},
+{
+"id": "S1L399",
+"start": 26790,
+"end": 27161,
+"text": "First, if the approvals feature is enabled as recommended, users also need admin approval before joining the tailnet. For monthly paid plans, if more users are allowed to join than there are seats available, the number of seats on the account is increased to match the new user count. Additional seats are immediately charged to Stripe, prorated to the end of the month.\n"
+},
+{
+"id": "S1L400",
+"start": 27161,
+"end": 27267,
+"text": "How can I avoid overage charges? Can I remove users and seats after exceeding my number of prepaid seats?\n"
+},
+{
+"id": "S1L401",
+"start": 27267,
+"end": 27507,
+"text": "We recommend working with our sales team to figure out the right allocation of seats for your needs. That said, removing a user and decreasing the number of seats right after an overage occurrence does not remove the charge on the account.\n"
+},
+{
+"id": "S1L402",
+"start": 27507,
+"end": 27562,
+"text": "When and how do overages appear in my billing invoice?\n"
+},
+{
+"id": "S1L403",
+"start": 27562,
+"end": 27719,
+"text": "Overages will appear on the invoice for your next billing cycle. It will reflect the current user count, plus the partial-month bill for the previous month.\n"
+},
+{
+"id": "S1L404",
+"start": 27719,
+"end": 27728,
+"text": "Features\n"
+},
+{
+"id": "S1L405",
+"start": 27728,
+"end": 27832,
+"text": "What's the benefit of Access Control Lists (ACLs)? How are user roles and SCIM different in paid plans?\n"
+},
+{
+"id": "S1L406",
+"start": 27832,
+"end": 28140,
+"text": "ACLs enable the adoption of least-privileged access, a core tenet of Zero Trust networking. Before joining your tailnet, every user is authenticated using an identity provider (IdP) such as Okta, Azure AD, or GitHub. ACL tags allow you to assign an identity to your devices. This is available for all plans!\n"
+},
+{
+"id": "S1L407",
+"start": 28140,
+"end": 28391,
+"text": "Plans differ in the number of ACL groups and user roles available. Personal tailnets get access to the basic user roles of Owner, Admin, and Member. Paid plans can access advanced user roles to further segment their users and apply policies at scale.\n"
+},
+{
+"id": "S1L408",
+"start": 28391,
+"end": 28531,
+"text": "Additionally, user provisioning through SCIM, which was previously only available to Enterprise plans, is now accessible to all paid plans!\n"
+},
+{
+"id": "S1L409",
+"start": 28531,
+"end": 28602,
+"text": "What is the difference in logging at the Premium and Enterprise tiers?\n"
+},
+{
+"id": "S1L410",
+"start": 28602,
+"end": 28665,
+"text": "All plans get access to Webhooks and Configuration audit logs!\n"
+},
+{
+"id": "S1L411",
+"start": 28665,
+"end": 28878,
+"text": "Webhooks let you subscribe to events on your Tailscale network and process the event notifications through an integration or app. Configuration audit logs let you identify who did what, and when, in your tailnet.\n"
+},
+{
+"id": "S1L412",
+"start": 28878,
+"end": 29209,
+"text": "While previously exclusive to our highest tier, Premium and higher plans can now access network flow logs, which let you understand how and when nodes on your tailnet connect. Log streaming is also available, allowing you to collect and send configuration audit logs or network flow logs about your tailnet to systems like a SIEM.\n"
+},
+{
+"id": "S1L413",
+"start": 29209,
+"end": 29288,
+"text": "What is the difference between basic Tailscale SSH and advanced Tailscale SSH?\n"
+},
+{
+"id": "S1L414",
+"start": 29288,
+"end": 29454,
+"text": "Tailscale SSH is available on all plans as a powerful feature that lets Tailscale manage the authentication and authorization of SSH connections within your tailnet.\n"
+},
+{
+"id": "S1L415",
+"start": 29454,
+"end": 29575,
+"text": "Advanced Tailscale SSH further enables functionality like non-default check mode length and localpart username matching.\n"
+},
+{
+"id": "S1L416",
+"start": 29575,
+"end": 29692,
+"text": "For Advanced Tailscale SSH, is check mode available on the Personal plan? What about non-default check mode lengths?\n"
+},
+{
+"id": "S1L417",
+"start": 29692,
+"end": 29866,
+"text": "Check mode itself is available for all plans, including the Personal plan. To change the check mode length from the default value , a Premium or Enterprise plan is required.\n"
+},
+{
+"id": "S1L418",
+"start": 29866,
+"end": 29972,
+"text": "What is the difference between basic device posture and device posture with integrations and geolocation?\n"
+},
+{
+"id": "S1L419",
+"start": 29972,
+"end": 30000,
+"text": "Tailscale provides device po"
+}
+]
+}

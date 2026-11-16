@@ -1,0 +1,1146 @@
+{
+"page": "Basecamp pricing",
+"url": "https://basecamp.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 21,
+"text": "Skip to main content\n"
+},
+{
+"id": "S1L2",
+"start": 21,
+"end": 96,
+"text": "We’d like to use cookies to help understand if our ads are working or not.\n"
+},
+{
+"id": "S1L3",
+"start": 96,
+"end": 124,
+"text": "No, thanks Yes, that’s fine\n"
+},
+{
+"id": "S1L4",
+"start": 124,
+"end": 166,
+"text": "Trying is believing. Sign up free, today.\n"
+},
+{
+"id": "S1L5",
+"start": 166,
+"end": 245,
+"text": "Thousands of people are working in Basecamp right now. You’re in good company.\n"
+},
+{
+"id": "S1L6",
+"start": 245,
+"end": 263,
+"text": "Basecamp Personal\n"
+},
+{
+"id": "S1L7",
+"start": 263,
+"end": 351,
+"text": "One project, free forever. Invite up to 3 people. Limited, but plenty for personal use.\n"
+},
+{
+"id": "S1L8",
+"start": 351,
+"end": 372,
+"text": "Get one project free\n"
+},
+{
+"id": "S1L9",
+"start": 372,
+"end": 431,
+"text": "Need more projects? Upgrade to a business package anytime.\n"
+},
+{
+"id": "S1L10",
+"start": 431,
+"end": 449,
+"text": "Basecamp Business\n"
+},
+{
+"id": "S1L11",
+"start": 449,
+"end": 534,
+"text": "Unlimited projects, unlimited people, every feature we offer. Try it all, risk free.\n"
+},
+{
+"id": "S1L12",
+"start": 534,
+"end": 576,
+"text": "Start a 30-day free trial. Unlimited use.\n"
+},
+{
+"id": "S1L13",
+"start": 576,
+"end": 635,
+"text": "Pick a package when your trial ends. Pricing listed below.\n"
+},
+{
+"id": "S1L14",
+"start": 635,
+"end": 778,
+"text": "Business packages & pricing: When your trial is up, you can choose whichever package fits you best, or just move on. Zero obligation, no risk.\n"
+},
+{
+"id": "S1L15",
+"start": 778,
+"end": 1017,
+"text": "Freelancer $29 /mo | 3 projects 10 GB storage Includes up to 5 users | Everything you need to run a handful of concurrent projects with a few people. Multiple tools per project, templates, and time tracking are not included in Freelancer.\n"
+},
+{
+"id": "S1L16",
+"start": 1017,
+"end": 1422,
+"text": "Pro $79 /mo | 8 projects 25 GB storage Includes up to 10 users | Everything in Freelancer, plus more projects, 2x the people, 2.5x the storage. Also includes multiple tools per project Add multiple message boards, chat rooms, card tables, or other tools to a single project. , and templates Create reusable project and to-do list templates with the same structure, workflows, and setup across projects. .\n"
+},
+{
+"id": "S1L17",
+"start": 1422,
+"end": 1636,
+"text": "Pro Plus $99 /mo | 12 projects 100 GB storage Includes up to 15 users | Everything in Pro, plus more projects, more people, 4x the storage. Also includes time tracking Track hours/time spent working on projects. .\n"
+},
+{
+"id": "S1L18",
+"start": 1636,
+"end": 2241,
+"text": "Pro Unlimited $199 /mo, billed annually | UNLIMITED projects 1000 GB (1 TB) storage UNLIMITED users | Everything in Pro Plus, plus UNLIMITED projects, UNLIMITED people, 10x MORE storage. Also includes enhanced admin controls Gives account owners and admins greater control over access, permissions, and more. , priority 24/7/365 support Jump to the front of the queue when you contact support. , personal onboarding One of our experts is happy to walk your team through Basecamp to get you up to speed. , and an annual billing option by check or wire Annual billing by check, ACH, wire, or credit card. .\n"
+},
+{
+"id": "S1L19",
+"start": 2241,
+"end": 2411,
+"text": "Free 1 project Freelancer 3 projects, 10 GB Pro Not sure? Start here 8 projects, 25 GB Pro Plus The sweet spot 12 projects, 100 GB Pro Unlimited Unlimited projects, 1 TB\n"
+},
+{
+"id": "S1L20",
+"start": 2411,
+"end": 2416,
+"text": "Free\n"
+},
+{
+"id": "S1L21",
+"start": 2416,
+"end": 2451,
+"text": "One free project for personal use.\n"
+},
+{
+"id": "S1L22",
+"start": 2451,
+"end": 2464,
+"text": "Sign up free\n"
+},
+{
+"id": "S1L23",
+"start": 2464,
+"end": 2550,
+"text": "1 project ? The free plan is limited to one project. You can always upgrade for more.\n"
+},
+{
+"id": "S1L24",
+"start": 2550,
+"end": 2623,
+"text": "1 GB storage space ? You can upgrade if you ever need more file storage.\n"
+},
+{
+"id": "S1L25",
+"start": 2623,
+"end": 2635,
+"text": "3 users max\n"
+},
+{
+"id": "S1L26",
+"start": 2635,
+"end": 2724,
+"text": "Bring your own AI agents ? CLI access and skills for AI agents you run on your computer.\n"
+},
+{
+"id": "S1L27",
+"start": 2724,
+"end": 2843,
+"text": "ChatGPT and Claude AI connectors ? Official Basecamp support for ChatGPT, Claude, and AI agents with full MCP support.\n"
+},
+{
+"id": "S1L28",
+"start": 2843,
+"end": 2861,
+"text": "Project templates\n"
+},
+{
+"id": "S1L29",
+"start": 2861,
+"end": 2888,
+"text": "Multiple tools per project\n"
+},
+{
+"id": "S1L30",
+"start": 2888,
+"end": 2902,
+"text": "Time tracking\n"
+},
+{
+"id": "S1L31",
+"start": 2902,
+"end": 2926,
+"text": "Enhanced admin features\n"
+},
+{
+"id": "S1L32",
+"start": 2926,
+"end": 2946,
+"text": "Freelancer, $29 /mo\n"
+},
+{
+"id": "S1L33",
+"start": 2946,
+"end": 2983,
+"text": "Get organized, impress your clients.\n"
+},
+{
+"id": "S1L34",
+"start": 2983,
+"end": 3009,
+"text": "Start a 30-day free trial\n"
+},
+{
+"id": "S1L35",
+"start": 3009,
+"end": 3165,
+"text": "Up to 3 active projects ? Archived or deleted projects don’t count against your total. You could have dozens of projects, but only 3 can be active at once.\n"
+},
+{
+"id": "S1L36",
+"start": 3165,
+"end": 3239,
+"text": "10 GB storage space ? You can upgrade if you ever need more file storage.\n"
+},
+{
+"id": "S1L37",
+"start": 3239,
+"end": 3420,
+"text": "5 users max, no per-user fees ? Add up to 5 people to your account. If you want to invite more, you’ll need to upgrade to a higher package. Pro Unlimited includes unlimited people.\n"
+},
+{
+"id": "S1L38",
+"start": 3420,
+"end": 3509,
+"text": "Bring your own AI agents ? CLI access and skills for AI agents you run on your computer.\n"
+},
+{
+"id": "S1L39",
+"start": 3509,
+"end": 3628,
+"text": "ChatGPT and Claude AI connectors ? Official Basecamp support for ChatGPT, Claude, and AI agents with full MCP support.\n"
+},
+{
+"id": "S1L40",
+"start": 3628,
+"end": 3645,
+"text": "24/7/365 support\n"
+},
+{
+"id": "S1L41",
+"start": 3645,
+"end": 3663,
+"text": "Project templates\n"
+},
+{
+"id": "S1L42",
+"start": 3663,
+"end": 3690,
+"text": "Multiple tools per project\n"
+},
+{
+"id": "S1L43",
+"start": 3690,
+"end": 3704,
+"text": "Time tracking\n"
+},
+{
+"id": "S1L44",
+"start": 3704,
+"end": 3728,
+"text": "Enhanced admin features\n"
+},
+{
+"id": "S1L45",
+"start": 3728,
+"end": 3743,
+"text": "Annual billing\n"
+},
+{
+"id": "S1L46",
+"start": 3743,
+"end": 3756,
+"text": "Pro, $79 /mo\n"
+},
+{
+"id": "S1L47",
+"start": 3756,
+"end": 3798,
+"text": "A great place to start with room to grow.\n"
+},
+{
+"id": "S1L48",
+"start": 3798,
+"end": 3824,
+"text": "Start a 30-day free trial\n"
+},
+{
+"id": "S1L49",
+"start": 3824,
+"end": 3980,
+"text": "Up to 8 active projects ? Archived or deleted projects don’t count against your total. You could have dozens of projects, but only 8 can be active at once.\n"
+},
+{
+"id": "S1L50",
+"start": 3980,
+"end": 4054,
+"text": "25 GB storage space ? You can upgrade if you ever need more file storage.\n"
+},
+{
+"id": "S1L51",
+"start": 4054,
+"end": 4204,
+"text": "Up to 10 users, no per-user fees ? Add up to 10 people to your account. Need more? Pro Plus includes 15, and Pro Unlimited includes unlimited people.\n"
+},
+{
+"id": "S1L52",
+"start": 4204,
+"end": 4323,
+"text": "Multiple tools per project ? Add multiple message boards, chat rooms, card tables, or other tools to a single project.\n"
+},
+{
+"id": "S1L53",
+"start": 4323,
+"end": 4455,
+"text": "Project templates ? Create reusable project and to-do list templates with the same structure, workflows, and setup across projects.\n"
+},
+{
+"id": "S1L54",
+"start": 4455,
+"end": 4544,
+"text": "Bring your own AI agents ? CLI access and skills for AI agents you run on your computer.\n"
+},
+{
+"id": "S1L55",
+"start": 4544,
+"end": 4663,
+"text": "ChatGPT and Claude AI connectors ? Official Basecamp support for ChatGPT, Claude, and AI agents with full MCP support.\n"
+},
+{
+"id": "S1L56",
+"start": 4663,
+"end": 4680,
+"text": "24/7/365 support\n"
+},
+{
+"id": "S1L57",
+"start": 4680,
+"end": 4694,
+"text": "Time tracking\n"
+},
+{
+"id": "S1L58",
+"start": 4694,
+"end": 4718,
+"text": "Enhanced admin features\n"
+},
+{
+"id": "S1L59",
+"start": 4718,
+"end": 4733,
+"text": "Annual billing\n"
+},
+{
+"id": "S1L60",
+"start": 4733,
+"end": 4751,
+"text": "Pro Plus, $99 /mo\n"
+},
+{
+"id": "S1L61",
+"start": 4751,
+"end": 4798,
+"text": "Just about everything for just about everyone.\n"
+},
+{
+"id": "S1L62",
+"start": 4798,
+"end": 4824,
+"text": "Start a 30-day free trial\n"
+},
+{
+"id": "S1L63",
+"start": 4824,
+"end": 4995,
+"text": "Up to 12 active projects ? Archived or deleted projects don’t count against your total. For example, you could have a hundred projects, but only 12 can be active at once.\n"
+},
+{
+"id": "S1L64",
+"start": 4995,
+"end": 5070,
+"text": "100 GB storage space ? You can upgrade if you ever need more file storage.\n"
+},
+{
+"id": "S1L65",
+"start": 5070,
+"end": 5194,
+"text": "Up to 15 users, no per-user fees ? Add up to 15 people to your account. Need more? Pro Unlimited includes unlimited people.\n"
+},
+{
+"id": "S1L66",
+"start": 5194,
+"end": 5313,
+"text": "Multiple tools per project ? Add multiple message boards, chat rooms, card tables, or other tools to a single project.\n"
+},
+{
+"id": "S1L67",
+"start": 5313,
+"end": 5445,
+"text": "Project templates ? Create reusable project and to-do list templates with the same structure, workflows, and setup across projects.\n"
+},
+{
+"id": "S1L68",
+"start": 5445,
+"end": 5505,
+"text": "Time tracking ? Track hours/time spent working on projects.\n"
+},
+{
+"id": "S1L69",
+"start": 5505,
+"end": 5594,
+"text": "Bring your own AI agents ? CLI access and skills for AI agents you run on your computer.\n"
+},
+{
+"id": "S1L70",
+"start": 5594,
+"end": 5713,
+"text": "ChatGPT and Claude AI connectors ? Official Basecamp support for ChatGPT, Claude, and AI agents with full MCP support.\n"
+},
+{
+"id": "S1L71",
+"start": 5713,
+"end": 5730,
+"text": "24/7/365 support\n"
+},
+{
+"id": "S1L72",
+"start": 5730,
+"end": 5754,
+"text": "Enhanced admin features\n"
+},
+{
+"id": "S1L73",
+"start": 5754,
+"end": 5769,
+"text": "Annual billing\n"
+},
+{
+"id": "S1L74",
+"start": 5769,
+"end": 5810,
+"text": "Pro Unlimited, $199 /mo, billed annually\n"
+},
+{
+"id": "S1L75",
+"start": 5810,
+"end": 5882,
+"text": "Top-of-the-line for those who want the best. $329/mo if billed monthly.\n"
+},
+{
+"id": "S1L76",
+"start": 5882,
+"end": 5908,
+"text": "Start a 30-day free trial\n"
+},
+{
+"id": "S1L77",
+"start": 5908,
+"end": 6003,
+"text": "UNLIMITED projects ? Run as many projects as you’d like. There are no limits on Pro Unlimited.\n"
+},
+{
+"id": "S1L78",
+"start": 6003,
+"end": 6093,
+"text": "1000 GB storage space ? You can buy an additional 1 TB for $50/month if you ever need it.\n"
+},
+{
+"id": "S1L79",
+"start": 6093,
+"end": 6183,
+"text": "UNLIMITED users, no per-user fees ? Add as many people as you want at no additional cost.\n"
+},
+{
+"id": "S1L80",
+"start": 6183,
+"end": 6303,
+"text": "UNLIMITED tools per project ? Add multiple message boards, chat rooms, card tables, or other tools to a single project.\n"
+},
+{
+"id": "S1L81",
+"start": 6303,
+"end": 6435,
+"text": "Project templates ? Create reusable project and to-do list templates with the same structure, workflows, and setup across projects.\n"
+},
+{
+"id": "S1L82",
+"start": 6435,
+"end": 6495,
+"text": "Time tracking ? Track hours/time spent working on projects.\n"
+},
+{
+"id": "S1L83",
+"start": 6495,
+"end": 6605,
+"text": "Enhanced admin features ? Gives account owners and admins greater control over access, permissions, and more.\n"
+},
+{
+"id": "S1L84",
+"start": 6605,
+"end": 6694,
+"text": "Bring your own AI agents ? CLI access and skills for AI agents you run on your computer.\n"
+},
+{
+"id": "S1L85",
+"start": 6694,
+"end": 6813,
+"text": "ChatGPT and Claude AI connectors ? Official Basecamp support for ChatGPT, Claude, and AI agents with full MCP support.\n"
+},
+{
+"id": "S1L86",
+"start": 6813,
+"end": 6898,
+"text": "Priority 24/7/365 support ? Jump to the front of the queue when you contact support.\n"
+},
+{
+"id": "S1L87",
+"start": 6898,
+"end": 7011,
+"text": "Personalized onboarding ? One of our experts is happy to walk your team through Basecamp to get you up to speed.\n"
+},
+{
+"id": "S1L88",
+"start": 7011,
+"end": 7104,
+"text": "Annual billing + extra payment options ? Annual billing by check, ACH, wire, or credit card.\n"
+},
+{
+"id": "S1L89",
+"start": 7104,
+"end": 7196,
+"text": "Want a live walkthrough? Book a personal demo with our team. Pre-sales question? Email us .\n"
+},
+{
+"id": "S1L90",
+"start": 7196,
+"end": 7369,
+"text": "Basecamp is beautiful software that has resisted every wrong trend and stayed true to the things that mattered most. Highly recommended. Tobi Lutke Shopify Co-Founder & CEO\n"
+},
+{
+"id": "S1L91",
+"start": 7369,
+"end": 7413,
+"text": "Take a minute to meet some of our customers\n"
+},
+{
+"id": "S1L92",
+"start": 7413,
+"end": 7468,
+"text": "The same core features are included with every package\n"
+},
+{
+"id": "S1L93",
+"start": 7468,
+"end": 7510,
+"text": "Message Boards for internal announcements\n"
+},
+{
+"id": "S1L94",
+"start": 7510,
+"end": 7554,
+"text": "To-dos for tracking work and accountability\n"
+},
+{
+"id": "S1L95",
+"start": 7554,
+"end": 7609,
+"text": "Card Tables is our take on Kanban for process tracking\n"
+},
+{
+"id": "S1L96",
+"start": 7609,
+"end": 7659,
+"text": "Chats & Pings for group chat and direct messaging\n"
+},
+{
+"id": "S1L97",
+"start": 7659,
+"end": 7708,
+"text": "Scheduling for deadlines, milestones, and events\n"
+},
+{
+"id": "S1L98",
+"start": 7708,
+"end": 7740,
+"text": "Docs & Files for storing assets\n"
+},
+{
+"id": "S1L99",
+"start": 7740,
+"end": 7795,
+"text": "Reports & Automatic Check-ins for staying up on things\n"
+},
+{
+"id": "S1L100",
+"start": 7795,
+"end": 7864,
+"text": "Connect your AI agents , Claude, ChatGPT, Muse, Grok Bot, and others\n"
+},
+{
+"id": "S1L101",
+"start": 7864,
+"end": 7914,
+"text": "Rock-solid reliability and a record you can trust\n"
+},
+{
+"id": "S1L102",
+"start": 7914,
+"end": 7966,
+"text": "A stable, well-run company is part of the deal, too\n"
+},
+{
+"id": "S1L103",
+"start": 7966,
+"end": 8131,
+"text": "We’ve been running an upstanding, trustworthy, sustainable business for nearly three decades. You can’t build reliable software unless you build a reliable company.\n"
+},
+{
+"id": "S1L104",
+"start": 8131,
+"end": 8188,
+"text": "27 profitable, financially responsible years in business\n"
+},
+{
+"id": "S1L105",
+"start": 8188,
+"end": 8243,
+"text": "Zero debt, privately held, and built to stay, not exit\n"
+},
+{
+"id": "S1L106",
+"start": 8243,
+"end": 8292,
+"text": "99.99% historical uptime, with full transparency\n"
+},
+{
+"id": "S1L107",
+"start": 8292,
+"end": 8339,
+"text": "Gold standard, famously great customer service\n"
+},
+{
+"id": "S1L108",
+"start": 8339,
+"end": 8389,
+"text": "Extensive learning library free for all customers\n"
+},
+{
+"id": "S1L109",
+"start": 8389,
+"end": 8424,
+"text": "Direct access to our CEO via email\n"
+},
+{
+"id": "S1L110",
+"start": 8424,
+"end": 8472,
+"text": "Risk-free, cancel anytime, no long-term lock-in\n"
+},
+{
+"id": "S1L111",
+"start": 8472,
+"end": 8712,
+"text": "With Basecamp, cancellation is entirely self-serve, no questions asked, no retention specialists trying to talk you out of it. Cancel any time, no long-term contracts to lock you in. Simple, straightforward, and fair, just as it should be.\n"
+},
+{
+"id": "S1L112",
+"start": 8712,
+"end": 8761,
+"text": "A big boost for bootstrappers & small businesses\n"
+},
+{
+"id": "S1L113",
+"start": 8761,
+"end": 9007,
+"text": "We started our business without outside funding, and you probably did too. We know your money’s precious, and we want to help. That’s why Basecamp is intentionally affordable for start-ups, freelancers, and small businesses just getting started.\n"
+},
+{
+"id": "S1L114",
+"start": 9007,
+"end": 9042,
+"text": "Basecamp eliminates the Hassle Tax\n"
+},
+{
+"id": "S1L115",
+"start": 9042,
+"end": 9244,
+"text": "There’s no more paying separate bills, onboarding people in multiple places, training people how to use different tools, managing expenses across vendors, etc… the benefits of Basecamp go beyond price.\n"
+},
+{
+"id": "S1L116",
+"start": 9244,
+"end": 9270,
+"text": "I have pricing questions…\n"
+},
+{
+"id": "S1L117",
+"start": 9270,
+"end": 9342,
+"text": "Can we upgrade, downgrade, switch packages, or cancel whenever we want?\n"
+},
+{
+"id": "S1L118",
+"start": 9342,
+"end": 9384,
+"text": "Yes, you can upgrade whenever you’d like.\n"
+},
+{
+"id": "S1L119",
+"start": 9384,
+"end": 9877,
+"text": "Yes, you can downgrade from one paid package to another paid package as long as your usage fits on the lower package. For example, if you still had 5 projects, you couldn’t downgrade to the Freelancer package which only allows 3 projects. Or if you used 145 GB of storage you couldn’t downgrade to a package that only allowed 25 GB of storage. We do not allow downgrading from a paid package to the free package. If you want to go back to free you’ll need to sign up for another free account.\n"
+},
+{
+"id": "S1L120",
+"start": 9877,
+"end": 10063,
+"text": "Yes, you can cancel any time , no questions asked, no forms to fill out, no person to talk to. If you cancel an annual package, the difference will be prorated back to your credit card.\n"
+},
+{
+"id": "S1L121",
+"start": 10063,
+"end": 10113,
+"text": "Do you offer non-profit or educational discounts?\n"
+},
+{
+"id": "S1L122",
+"start": 10113,
+"end": 10280,
+"text": "Absolutely. Basecamp is 10% off for registered 501(c)(3) non-profits, and 100% free for K-12, homeschoolers, or Universities as long as it’s used for class work only.\n"
+},
+{
+"id": "S1L123",
+"start": 10280,
+"end": 10419,
+"text": "For non-profits: Email us a copy of your 501(c)(3) paperwork right after you sign up. We’ll apply the discount once we verify your status.\n"
+},
+{
+"id": "S1L124",
+"start": 10419,
+"end": 10647,
+"text": "For teachers and homeschool parents: Right after you sign up, email us from your school account with the name of your school, the class you teach, and proof you’re a teacher. We’ll apply the discount after we verify everything.\n"
+},
+{
+"id": "S1L125",
+"start": 10647,
+"end": 10858,
+"text": "For students: Right after you sign up, email us from your school account with the name of your school, what you’re studying, and when you expect to graduate. We’ll apply the discount after we verify everything.\n"
+},
+{
+"id": "S1L126",
+"start": 10858,
+"end": 11373,
+"text": "Note: We can only discount one account. If you need to support multiple groups, one account will give you everything you need to support them. If you’ve been paying for Basecamp, we can’t refund or discount payments made before your discount started. We reserve the right to end the discount program due to chronic abuse of the free accounts or other circumstances. If we do, anyone who is already participating will continue to have their discounts applied. We just won’t offer up new free or discounted accounts.\n"
+},
+{
+"id": "S1L127",
+"start": 11373,
+"end": 11484,
+"text": "Could we really add 500 users and run unlimited projects and still just pay $329/month total on Pro Unlimited?\n"
+},
+{
+"id": "S1L128",
+"start": 11484,
+"end": 11703,
+"text": "Yes. Basecamp is one of the few products in the entire industry with an all-inclusive, unlimited users package for one fixed, capped price. We pioneered this all-in package, and have been offering it for over a decade.\n"
+},
+{
+"id": "S1L129",
+"start": 11703,
+"end": 11768,
+"text": "Are clients or contractors or guests included in the user count?\n"
+},
+{
+"id": "S1L130",
+"start": 11768,
+"end": 11914,
+"text": "Yes, every person you add is counted, but Pro Unlimited includes unlimited users. So you can invite as many people as you’d like to that account.\n"
+},
+{
+"id": "S1L131",
+"start": 11914,
+"end": 11955,
+"text": "Do I need a credit card to try Basecamp?\n"
+},
+{
+"id": "S1L132",
+"start": 11955,
+"end": 12208,
+"text": "Nope. We don’t require a credit card on the Free account, or for any of the free trials. If you choose a pay package with a free trial, you’ll be asked to enter your credit card at the end of your trial if you want to continue. It’s entirely up to you.\n"
+},
+{
+"id": "S1L133",
+"start": 12208,
+"end": 12266,
+"text": "Will I automatically be charged when my free trial is up?\n"
+},
+{
+"id": "S1L134",
+"start": 12266,
+"end": 12476,
+"text": "No. We don’t ask for a credit card to try Basecamp, so we couldn’t charge you even if we wanted to. If you want to continue once your trial is up, then you’d enter your credit card. You’re in complete control.\n"
+},
+{
+"id": "S1L135",
+"start": 12476,
+"end": 12531,
+"text": "Can we buy more storage if we need it? How much is it?\n"
+},
+{
+"id": "S1L136",
+"start": 12531,
+"end": 12885,
+"text": "Yes. Each package includes more storage than the last. So if you need more you can upgrade to the next package. The Pro Unlimited package includes 1 TB of data. If you ever need more than that you can add an additional 1 terabyte (that’s 1000 gigabytes) of storage for an extra $50/month. The storage can be used by all users across your entire account.\n"
+},
+{
+"id": "S1L137",
+"start": 12885,
+"end": 12966,
+"text": "On the free one project package, can I delete the project and start another one?\n"
+},
+{
+"id": "S1L138",
+"start": 12966,
+"end": 13292,
+"text": "Yes. You can only run one project at time on the Free package, but if you complete a project, or just want to get rid of the one you’re currently running, you can delete it and free up the slot to start a new one. You can’t, however, keep more than one around. So in order to start a new one, you must delete the current one.\n"
+},
+{
+"id": "S1L139",
+"start": 13292,
+"end": 13310,
+"text": "Have a great day!\n"
+},
+{
+"id": "S1L140",
+"start": 13310,
+"end": 13475,
+"text": "Join more than 200,000 people who get our email newsletter. We’ll share product updates, thoughts, new releases, and other tidbits we think you’ll find interesting.\n"
+},
+{
+"id": "S1L141",
+"start": 13475,
+"end": 13485,
+"text": "Subscribe\n"
+},
+{
+"id": "S1L142",
+"start": 13485,
+"end": 13514,
+"text": "Enter a valid email address.\n"
+},
+{
+"id": "S1L143",
+"start": 13514,
+"end": 13591,
+"text": "Thanks! You’re in. Look out for our latest newsletter in the next few weeks.\n"
+},
+{
+"id": "S1L144",
+"start": 13591,
+"end": 13615,
+"text": "Basecamp 5 is here New!\n"
+},
+{
+"id": "S1L145",
+"start": 13615,
+"end": 13653,
+"text": "Bring your AI agents to Basecamp New!\n"
+},
+{
+"id": "S1L146",
+"start": 13653,
+"end": 13672,
+"text": "Where we came from\n"
+},
+{
+"id": "S1L147",
+"start": 13672,
+"end": 13693,
+"text": "Reliable to the core\n"
+},
+{
+"id": "S1L148",
+"start": 13693,
+"end": 13715,
+"text": "Show us your Basecamp\n"
+},
+{
+"id": "S1L149",
+"start": 13715,
+"end": 13734,
+"text": "Basecamp community\n"
+},
+{
+"id": "S1L150",
+"start": 13734,
+"end": 13764,
+"text": "The people’s path to Basecamp\n"
+},
+{
+"id": "S1L151",
+"start": 13764,
+"end": 13788,
+"text": "Apps for every platform\n"
+},
+{
+"id": "S1L152",
+"start": 13788,
+"end": 13801,
+"text": "Integrations\n"
+},
+{
+"id": "S1L153",
+"start": 13801,
+"end": 13830,
+"text": "What changed for the better?\n"
+},
+{
+"id": "S1L154",
+"start": 13830,
+"end": 13852,
+"text": "How we make decisions\n"
+},
+{
+"id": "S1L155",
+"start": 13852,
+"end": 13870,
+"text": "Leaving the Cloud\n"
+},
+{
+"id": "S1L156",
+"start": 13870,
+"end": 13885,
+"text": "Learn Basecamp\n"
+},
+{
+"id": "S1L157",
+"start": 13885,
+"end": 13902,
+"text": "Example projects\n"
+},
+{
+"id": "S1L158",
+"start": 13902,
+"end": 13923,
+"text": "Come small, come all\n"
+},
+{
+"id": "S1L159",
+"start": 13923,
+"end": 13941,
+"text": "Free live classes\n"
+},
+{
+"id": "S1L160",
+"start": 13941,
+"end": 13969,
+"text": "We stand with the underdogs\n"
+},
+{
+"id": "S1L161",
+"start": 13969,
+"end": 13989,
+"text": "Group chat problems\n"
+},
+{
+"id": "S1L162",
+"start": 13989,
+"end": 14003,
+"text": "Kill overkill\n"
+},
+{
+"id": "S1L163",
+"start": 14003,
+"end": 14024,
+"text": "Why we choose profit\n"
+},
+{
+"id": "S1L164",
+"start": 14024,
+"end": 14050,
+"text": "Seven shipping principles\n"
+},
+{
+"id": "S1L165",
+"start": 14050,
+"end": 14069,
+"text": "How we communicate\n"
+},
+{
+"id": "S1L166",
+"start": 14069,
+"end": 14081,
+"text": "Night & day\n"
+},
+{
+"id": "S1L167",
+"start": 14081,
+"end": 14115,
+"text": "Bootstrapped, profitable, & proud\n"
+},
+{
+"id": "S1L168",
+"start": 14115,
+"end": 14135,
+"text": "Books we’ve written\n"
+},
+{
+"id": "S1L169",
+"start": 14135,
+"end": 14162,
+"text": "With Basecamp, it’s a Yes!\n"
+},
+{
+"id": "S1L170",
+"start": 14162,
+"end": 14186,
+"text": "Breakfast with Basecamp\n"
+},
+{
+"id": "S1L171",
+"start": 14186,
+"end": 14200,
+"text": "Basecamp help\n"
+},
+{
+"id": "S1L172",
+"start": 14200,
+"end": 14223,
+"text": "Basecamp accessibility\n"
+},
+{
+"id": "S1L173",
+"start": 14223,
+"end": 14242,
+"text": "Keyboard shortcuts\n"
+},
+{
+"id": "S1L174",
+"start": 14242,
+"end": 14264,
+"text": "Live around the world\n"
+},
+{
+"id": "S1L175",
+"start": 14264,
+"end": 14296,
+"text": "See where projects really stand\n"
+},
+{
+"id": "S1L176",
+"start": 14296,
+"end": 14318,
+"text": "Can we stay in touch?\n"
+},
+{
+"id": "S1L177",
+"start": 14318,
+"end": 14328,
+"text": "Discounts\n"
+},
+{
+"id": "S1L178",
+"start": 14328,
+"end": 14341,
+"text": "Getting Real\n"
+},
+{
+"id": "S1L179",
+"start": 14341,
+"end": 14350,
+"text": "Shape Up\n"
+},
+{
+"id": "S1L180",
+"start": 14350,
+"end": 14367,
+"text": "Manager Playbook\n"
+},
+{
+"id": "S1L181",
+"start": 14367,
+"end": 14385,
+"text": "Employee Handbook\n"
+},
+{
+"id": "S1L182",
+"start": 14385,
+"end": 14480,
+"text": "Basecamp ™ is designed, built, and backed by 37signals ™ , the people behind HEY ™ and Fizzy ™\n"
+},
+{
+"id": "S1L183",
+"start": 14480,
+"end": 14487,
+"text": "Status\n"
+},
+{
+"id": "S1L184",
+"start": 14487,
+"end": 14495,
+"text": "Support\n"
+},
+{
+"id": "S1L185",
+"start": 14495,
+"end": 14503,
+"text": "Updates\n"
+},
+{
+"id": "S1L186",
+"start": 14503,
+"end": 14512,
+"text": "Policies\n"
+},
+{
+"id": "S1L187",
+"start": 14512,
+"end": 14520,
+"text": "Privacy\n"
+},
+{
+"id": "S1L188",
+"start": 14520,
+"end": 14529,
+"text": "Security\n"
+},
+{
+"id": "S1L189",
+"start": 14529,
+"end": 14537,
+"text": "Sign in\n"
+},
+{
+"id": "S1L190",
+"start": 14537,
+"end": 14574,
+"text": "© 37signals LLC. All rights reserved."
+}
+]
+}

@@ -1,0 +1,1602 @@
+{
+"page": "DigitalOcean Droplet pricing",
+"url": "https://www.digitalocean.com/pricing/droplets",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 5,
+"text": "Blog\n"
+},
+{
+"id": "S1L2",
+"start": 5,
+"end": 10,
+"text": "Docs\n"
+},
+{
+"id": "S1L3",
+"start": 10,
+"end": 18,
+"text": "Careers\n"
+},
+{
+"id": "S1L4",
+"start": 18,
+"end": 30,
+"text": "Get Support\n"
+},
+{
+"id": "S1L5",
+"start": 30,
+"end": 44,
+"text": "Contact Sales\n"
+},
+{
+"id": "S1L6",
+"start": 44,
+"end": 57,
+"text": "DigitalOcean\n"
+},
+{
+"id": "S1L7",
+"start": 57,
+"end": 66,
+"text": "Products\n"
+},
+{
+"id": "S1L8",
+"start": 66,
+"end": 87,
+"text": "Featured AI Products\n"
+},
+{
+"id": "S1L9",
+"start": 87,
+"end": 95,
+"text": "Compute\n"
+},
+{
+"id": "S1L10",
+"start": 95,
+"end": 144,
+"text": "Build, deploy, and scale cloud compute resources\n"
+},
+{
+"id": "S1L11",
+"start": 144,
+"end": 166,
+"text": "Containers and Images\n"
+},
+{
+"id": "S1L12",
+"start": 166,
+"end": 213,
+"text": "Safely store and manage containers and backups\n"
+},
+{
+"id": "S1L13",
+"start": 213,
+"end": 231,
+"text": "Managed Databases\n"
+},
+{
+"id": "S1L14",
+"start": 231,
+"end": 288,
+"text": "Fully managed resources running popular database engines\n"
+},
+{
+"id": "S1L15",
+"start": 288,
+"end": 313,
+"text": "Management and Dev Tools\n"
+},
+{
+"id": "S1L16",
+"start": 313,
+"end": 356,
+"text": "Control infrastructure and gather insights\n"
+},
+{
+"id": "S1L17",
+"start": 356,
+"end": 367,
+"text": "Networking\n"
+},
+{
+"id": "S1L18",
+"start": 367,
+"end": 402,
+"text": "Secure and control traffic to apps\n"
+},
+{
+"id": "S1L19",
+"start": 402,
+"end": 411,
+"text": "Security\n"
+},
+{
+"id": "S1L20",
+"start": 411,
+"end": 480,
+"text": "Help protect your account and resources with these security features\n"
+},
+{
+"id": "S1L21",
+"start": 480,
+"end": 488,
+"text": "Storage\n"
+},
+{
+"id": "S1L22",
+"start": 488,
+"end": 546,
+"text": "Store and access any amount of data reliably in the cloud\n"
+},
+{
+"id": "S1L23",
+"start": 546,
+"end": 566,
+"text": "Browse all products\n"
+},
+{
+"id": "S1L24",
+"start": 566,
+"end": 576,
+"text": "Solutions\n"
+},
+{
+"id": "S1L25",
+"start": 576,
+"end": 582,
+"text": "AI/ML\n"
+},
+{
+"id": "S1L26",
+"start": 582,
+"end": 586,
+"text": "CMS\n"
+},
+{
+"id": "S1L27",
+"start": 586,
+"end": 599,
+"text": "Data and IoT\n"
+},
+{
+"id": "S1L28",
+"start": 599,
+"end": 615,
+"text": "Developer Tools\n"
+},
+{
+"id": "S1L29",
+"start": 615,
+"end": 632,
+"text": "Gaming and Media\n"
+},
+{
+"id": "S1L30",
+"start": 632,
+"end": 640,
+"text": "Hosting\n"
+},
+{
+"id": "S1L31",
+"start": 640,
+"end": 664,
+"text": "Security and Networking\n"
+},
+{
+"id": "S1L32",
+"start": 664,
+"end": 682,
+"text": "Startups and SMBs\n"
+},
+{
+"id": "S1L33",
+"start": 682,
+"end": 704,
+"text": "Web and App Platforms\n"
+},
+{
+"id": "S1L34",
+"start": 704,
+"end": 722,
+"text": "See all solutions\n"
+},
+{
+"id": "S1L35",
+"start": 722,
+"end": 733,
+"text": "Developers\n"
+},
+{
+"id": "S1L36",
+"start": 733,
+"end": 743,
+"text": "Community\n"
+},
+{
+"id": "S1L37",
+"start": 743,
+"end": 757,
+"text": "Documentation\n"
+},
+{
+"id": "S1L38",
+"start": 757,
+"end": 773,
+"text": "Developer Tools\n"
+},
+{
+"id": "S1L39",
+"start": 773,
+"end": 786,
+"text": "Get Involved\n"
+},
+{
+"id": "S1L40",
+"start": 786,
+"end": 805,
+"text": "Utilities and Help\n"
+},
+{
+"id": "S1L41",
+"start": 805,
+"end": 814,
+"text": "Partners\n"
+},
+{
+"id": "S1L42",
+"start": 814,
+"end": 831,
+"text": "Become a Partner\n"
+},
+{
+"id": "S1L43",
+"start": 831,
+"end": 843,
+"text": "Marketplace\n"
+},
+{
+"id": "S1L44",
+"start": 843,
+"end": 851,
+"text": "Pricing\n"
+},
+{
+"id": "S1L45",
+"start": 851,
+"end": 858,
+"text": "Log in\n"
+},
+{
+"id": "S1L46",
+"start": 858,
+"end": 866,
+"text": "Sign up\n"
+},
+{
+"id": "S1L47",
+"start": 866,
+"end": 873,
+"text": "Log in\n"
+},
+{
+"id": "S1L48",
+"start": 873,
+"end": 881,
+"text": "Sign up\n"
+},
+{
+"id": "S1L49",
+"start": 881,
+"end": 930,
+"text": "Simple, predictable pricing for virtual machines\n"
+},
+{
+"id": "S1L50",
+"start": 930,
+"end": 1003,
+"text": "Manage your budget with our monthly caps or usage-based pricing options.\n"
+},
+{
+"id": "S1L51",
+"start": 1003,
+"end": 1015,
+"text": "Get started\n"
+},
+{
+"id": "S1L52",
+"start": 1015,
+"end": 1035,
+"text": "<- Back to overview\n"
+},
+{
+"id": "S1L53",
+"start": 1035,
+"end": 1041,
+"text": "Basic\n"
+},
+{
+"id": "S1L54",
+"start": 1041,
+"end": 1055,
+"text": "CPU-Optimized\n"
+},
+{
+"id": "S1L55",
+"start": 1055,
+"end": 1071,
+"text": "General Purpose\n"
+},
+{
+"id": "S1L56",
+"start": 1071,
+"end": 1088,
+"text": "Memory-Optimized\n"
+},
+{
+"id": "S1L57",
+"start": 1088,
+"end": 1106,
+"text": "Storage-Optimized\n"
+},
+{
+"id": "S1L58",
+"start": 1106,
+"end": 1118,
+"text": "v5 Droplets\n"
+},
+{
+"id": "S1L59",
+"start": 1118,
+"end": 1145,
+"text": "Additional product pricing\n"
+},
+{
+"id": "S1L60",
+"start": 1145,
+"end": 1149,
+"text": "FAQ\n"
+},
+{
+"id": "S1L61",
+"start": 1149,
+"end": 1158,
+"text": "Droplets\n"
+},
+{
+"id": "S1L62",
+"start": 1158,
+"end": 1300,
+"text": "Deploy Droplets (cloud VMs) in seconds. Run any workload, from mission critical CPU, memory, and storage intensive apps to low traffic sites.\n"
+},
+{
+"id": "S1L63",
+"start": 1300,
+"end": 1587,
+"text": "Effective January 1, 2026, we're moving to per-second billing (with a minimum charge of 60 seconds or $0.01, whichever is higher) for Droplets. This offers truly granular cost control, drastically reducing spending on short-lived workloads like running batch jobs and automated testing.\n"
+},
+{
+"id": "S1L64",
+"start": 1587,
+"end": 1706,
+"text": "View our DigitalOcean Droplet product documentation to learn which Droplet plan is right for you or talk to an expert.\n"
+},
+{
+"id": "S1L65",
+"start": 1706,
+"end": 1736,
+"text": "Choose the right Droplet type\n"
+},
+{
+"id": "S1L66",
+"start": 1736,
+"end": 1751,
+"text": "Basic Droplets\n"
+},
+{
+"id": "S1L67",
+"start": 1751,
+"end": 1941,
+"text": "Basic Droplets have the most efficient CPU usage at a lower cost for workloads that underuse dedicated threads. They’re ideal for bursty applications that can handle variable levels of CPU.\n"
+},
+{
+"id": "S1L68",
+"start": 1941,
+"end": 1953,
+"text": "CPU Options\n"
+},
+{
+"id": "S1L69",
+"start": 1953,
+"end": 1987,
+"text": "Regular Premium Intel Premium AMD\n"
+},
+{
+"id": "S1L70",
+"start": 1987,
+"end": 2032,
+"text": "Memory | vCPU | Transfer | SSD | $/hr | $/mo\n"
+},
+{
+"id": "S1L71",
+"start": 2032,
+"end": 2087,
+"text": "512 MiB | 1 vCPU | 500 GiB | 10 GiB | $0.00595 | $4.00\n"
+},
+{
+"id": "S1L72",
+"start": 2087,
+"end": 2142,
+"text": "1 GiB | 1 vCPU | 1,000 GiB | 25 GiB | $0.00893 | $6.00\n"
+},
+{
+"id": "S1L73",
+"start": 2142,
+"end": 2198,
+"text": "2 GiB | 1 vCPU | 2,000 GiB | 50 GiB | $0.01786 | $12.00\n"
+},
+{
+"id": "S1L74",
+"start": 2198,
+"end": 2255,
+"text": "2 GiB | 2 vCPUs | 3,000 GiB | 60 GiB | $0.02679 | $18.00\n"
+},
+{
+"id": "S1L75",
+"start": 2255,
+"end": 2312,
+"text": "4 GiB | 2 vCPUs | 4,000 GiB | 80 GiB | $0.03571 | $24.00\n"
+},
+{
+"id": "S1L76",
+"start": 2312,
+"end": 2370,
+"text": "8 GiB | 4 vCPUs | 5,000 GiB | 160 GiB | $0.07143 | $48.00\n"
+},
+{
+"id": "S1L77",
+"start": 2370,
+"end": 2429,
+"text": "16 GiB | 8 vCPUs | 6,000 GiB | 320 GiB | $0.14286 | $96.00\n"
+},
+{
+"id": "S1L78",
+"start": 2429,
+"end": 2452,
+"text": "CPU-Optimized Droplets\n"
+},
+{
+"id": "S1L79",
+"start": 2452,
+"end": 2802,
+"text": "CPU-Optimized Droplets provide a 2:1 ratio of memory to CPU. This configuration with fast (2.6GHz+), dedicated vCPUs is optimal for applications that demand fast, consistent performance such as media streaming, gaming and data analytics. The Premium variant of CPU-Optimized Droplets also provides up to 10Gbps outbound network speeds and NVMe SSDs.\n"
+},
+{
+"id": "S1L80",
+"start": 2802,
+"end": 2814,
+"text": "CPU Options\n"
+},
+{
+"id": "S1L81",
+"start": 2814,
+"end": 2836,
+"text": "Regular Premium Intel\n"
+},
+{
+"id": "S1L82",
+"start": 2836,
+"end": 2895,
+"text": "Memory | vCPU | Transfer | SSD Variant | SSD | $/hr | $/mo\n"
+},
+{
+"id": "S1L83",
+"start": 2895,
+"end": 2957,
+"text": "4 GiB | 2 vCPUs | 4,000 GiB | 1x | 25 GiB | $0.06250 | $42.00\n"
+},
+{
+"id": "S1L84",
+"start": 2957,
+"end": 3019,
+"text": "8 GiB | 4 vCPUs | 5,000 GiB | 1x | 50 GiB | $0.12500 | $84.00\n"
+},
+{
+"id": "S1L85",
+"start": 3019,
+"end": 3084,
+"text": "16 GiB | 8 vCPUs | 6,000 GiB | 1x | 100 GiB | $0.25000 | $168.00\n"
+},
+{
+"id": "S1L86",
+"start": 3084,
+"end": 3150,
+"text": "32 GiB | 16 vCPUs | 7,000 GiB | 1x | 200 GiB | $0.50000 | $336.00\n"
+},
+{
+"id": "S1L87",
+"start": 3150,
+"end": 3216,
+"text": "64 GiB | 32 vCPUs | 9,000 GiB | 1x | 400 GiB | $1.00000 | $672.00\n"
+},
+{
+"id": "S1L88",
+"start": 3216,
+"end": 3285,
+"text": "96 GiB | 48 vCPUs | 11,000 GiB | 1x | 600 GiB | $1.50000 | $1,008.00\n"
+},
+{
+"id": "S1L89",
+"start": 3285,
+"end": 3310,
+"text": "General Purpose Droplets\n"
+},
+{
+"id": "S1L90",
+"start": 3310,
+"end": 3634,
+"text": "General Purpose Droplets have a balanced ratio of memory to dedicated CPU, suitable for a wide variety of production workloads. They’re best for general purpose workloads that require dedicated computer power. The Premium variant of General Purpose Droplets also provides up to 10Gbps outbound network speeds and NVMe SSDs.\n"
+},
+{
+"id": "S1L91",
+"start": 3634,
+"end": 3646,
+"text": "CPU Options\n"
+},
+{
+"id": "S1L92",
+"start": 3646,
+"end": 3668,
+"text": "Regular Premium Intel\n"
+},
+{
+"id": "S1L93",
+"start": 3668,
+"end": 3727,
+"text": "Memory | vCPU | Transfer | SSD Variant | SSD | $/hr | $/mo\n"
+},
+{
+"id": "S1L94",
+"start": 3727,
+"end": 3789,
+"text": "8 GiB | 2 vCPUs | 4,000 GiB | 1x | 25 GiB | $0.09375 | $63.00\n"
+},
+{
+"id": "S1L95",
+"start": 3789,
+"end": 3853,
+"text": "16 GiB | 4 vCPUs | 5,000 GiB | 1x | 50 GiB | $0.18750 | $126.00\n"
+},
+{
+"id": "S1L96",
+"start": 3853,
+"end": 3918,
+"text": "32 GiB | 8 vCPUs | 6,000 GiB | 1x | 100 GiB | $0.37500 | $252.00\n"
+},
+{
+"id": "S1L97",
+"start": 3918,
+"end": 3984,
+"text": "64 GiB | 16 vCPUs | 7,000 GiB | 1x | 200 GiB | $0.75000 | $504.00\n"
+},
+{
+"id": "S1L98",
+"start": 3984,
+"end": 4053,
+"text": "128 GiB | 32 vCPUs | 8,000 GiB | 1x | 400 GiB | $1.50000 | $1,008.00\n"
+},
+{
+"id": "S1L99",
+"start": 4053,
+"end": 4122,
+"text": "160 GiB | 40 vCPUs | 9,000 GiB | 1x | 500 GiB | $1.87500 | $1,260.00\n"
+},
+{
+"id": "S1L100",
+"start": 4122,
+"end": 4148,
+"text": "Memory-Optimized Droplets\n"
+},
+{
+"id": "S1L101",
+"start": 4148,
+"end": 4527,
+"text": "Memory-optimized Droplets provide 8 GiB RAM for each vCPU. The additional memory can help you avoid excessively swapping to disk or getting out-of-memory errors, both of which significantly impact your application's performance and stability. Memory-Optimized Droplets use NVMe SSDs which deliver better disk performance for workloads that involve a large number of transactions\n"
+},
+{
+"id": "S1L102",
+"start": 4527,
+"end": 4539,
+"text": "CPU Options\n"
+},
+{
+"id": "S1L103",
+"start": 4539,
+"end": 4561,
+"text": "Regular Premium Intel\n"
+},
+{
+"id": "S1L104",
+"start": 4561,
+"end": 4620,
+"text": "Memory | vCPU | Transfer | SSD Variant | SSD | $/hr | $/mo\n"
+},
+{
+"id": "S1L105",
+"start": 4620,
+"end": 4683,
+"text": "16 GiB | 2 vCPUs | 4,000 GiB | 1x | 50 GiB | $0.12500 | $84.00\n"
+},
+{
+"id": "S1L106",
+"start": 4683,
+"end": 4748,
+"text": "32 GiB | 4 vCPUs | 6,000 GiB | 1x | 100 GiB | $0.25000 | $168.00\n"
+},
+{
+"id": "S1L107",
+"start": 4748,
+"end": 4813,
+"text": "64 GiB | 8 vCPUs | 7,000 GiB | 1x | 200 GiB | $0.50000 | $336.00\n"
+},
+{
+"id": "S1L108",
+"start": 4813,
+"end": 4880,
+"text": "128 GiB | 16 vCPUs | 8,000 GiB | 1x | 400 GiB | $1.00000 | $672.00\n"
+},
+{
+"id": "S1L109",
+"start": 4880,
+"end": 4949,
+"text": "192 GiB | 24 vCPUs | 9,000 GiB | 1x | 600 GiB | $1.50000 | $1,008.00\n"
+},
+{
+"id": "S1L110",
+"start": 4949,
+"end": 5019,
+"text": "256 GiB | 32 vCPUs | 10,000 GiB | 1x | 800 GiB | $2.00000 | $1,344.00\n"
+},
+{
+"id": "S1L111",
+"start": 5019,
+"end": 5046,
+"text": "Storage-Optimized Droplets\n"
+},
+{
+"id": "S1L112",
+"start": 5046,
+"end": 5301,
+"text": "Storage-Optimized Droplets use NVMe (non-volatile memory express), which is an interface protocol explicitly built for modern SSDs. It takes advantage of parallelism to deliver disk performance that can be order of magnitude faster than our regular SSDs.\n"
+},
+{
+"id": "S1L113",
+"start": 5301,
+"end": 5313,
+"text": "CPU Options\n"
+},
+{
+"id": "S1L114",
+"start": 5313,
+"end": 5335,
+"text": "Regular Premium Intel\n"
+},
+{
+"id": "S1L115",
+"start": 5335,
+"end": 5394,
+"text": "Memory | vCPU | Transfer | SSD Variant | SSD | $/hr | $/mo\n"
+},
+{
+"id": "S1L116",
+"start": 5394,
+"end": 5459,
+"text": "16 GiB | 2 vCPUs | 4,000 GiB | 1x | 300 GiB | $0.19494 | $131.00\n"
+},
+{
+"id": "S1L117",
+"start": 5459,
+"end": 5524,
+"text": "32 GiB | 4 vCPUs | 6,000 GiB | 1x | 600 GiB | $0.38988 | $262.00\n"
+},
+{
+"id": "S1L118",
+"start": 5524,
+"end": 5591,
+"text": "64 GiB | 8 vCPUs | 7,000 GiB | 1x | 1,170 GiB | $0.77976 | $524.00\n"
+},
+{
+"id": "S1L119",
+"start": 5591,
+"end": 5662,
+"text": "128 GiB | 16 vCPUs | 8,000 GiB | 1x | 2,340 GiB | $1.55952 | $1,048.00\n"
+},
+{
+"id": "S1L120",
+"start": 5662,
+"end": 5733,
+"text": "192 GiB | 24 vCPUs | 9,000 GiB | 1x | 3,520 GiB | $2.33929 | $1,572.00\n"
+},
+{
+"id": "S1L121",
+"start": 5733,
+"end": 5805,
+"text": "256 GiB | 32 vCPUs | 10,000 GiB | 1x | 4,690 GiB | $3.11905 | $2,096.00\n"
+},
+{
+"id": "S1L122",
+"start": 5805,
+"end": 5817,
+"text": "v5 Droplets\n"
+},
+{
+"id": "S1L123",
+"start": 5817,
+"end": 6080,
+"text": "Workload-optimized compute, powered by 5th Gen AMD EPYC™ processors. Purpose built to deliver higher performance for demanding workloads such as compute-intensive video/audio transcoding, agentic platforms, AI/ML tools, and high-traffic distributed applications.\n"
+},
+{
+"id": "S1L124",
+"start": 6080,
+"end": 6418,
+"text": "How it works: You pick vCPU, memory, and storage independently and pay for only the resources you use. Pricing is simple and based on an hourly rate, so your total bill reflects the actual hours used each month. You see each resource’s price as you configure, a running total as you go, and one line per Droplet on your bill. Learn more.\n"
+},
+{
+"id": "S1L125",
+"start": 6418,
+"end": 6454,
+"text": "Designed for these common workloads\n"
+},
+{
+"id": "S1L126",
+"start": 6454,
+"end": 6828,
+"text": "Below are examples of common workload patterns and a recommended starting configuration for each. Shared v5 Droplets are designed for bursty, variable work that doesn't need guaranteed access to a dedicated core at all times, so you pay only for the compute you need. General Purpose v5 Droplets provide guaranteed, dedicated CPU, with memory ratios from 2x to 8x per vCPU.\n"
+},
+{
+"id": "S1L127",
+"start": 6828,
+"end": 6857,
+"text": "High-traffic web apps & APIs\n"
+},
+{
+"id": "S1L128",
+"start": 6857,
+"end": 6869,
+"text": "Starting at\n"
+},
+{
+"id": "S1L129",
+"start": 6869,
+"end": 6882,
+"text": "$0.181 /hour\n"
+},
+{
+"id": "S1L130",
+"start": 6882,
+"end": 6915,
+"text": "General Purpose • Dedicated CPU:\n"
+},
+{
+"id": "S1L131",
+"start": 6915,
+"end": 6945,
+"text": "(selected: 4 vCPU, 16 GB RAM)\n"
+},
+{
+"id": "S1L132",
+"start": 6945,
+"end": 7013,
+"text": "Reduced latency and steady execution under heavy concurrent traffic\n"
+},
+{
+"id": "S1L133",
+"start": 7013,
+"end": 7071,
+"text": "Great for production APIs, app servers, and microservices\n"
+},
+{
+"id": "S1L134",
+"start": 7071,
+"end": 7083,
+"text": "Get started\n"
+},
+{
+"id": "S1L135",
+"start": 7083,
+"end": 7105,
+"text": "Bursty data pipelines\n"
+},
+{
+"id": "S1L136",
+"start": 7105,
+"end": 7117,
+"text": "Starting at\n"
+},
+{
+"id": "S1L137",
+"start": 7117,
+"end": 7130,
+"text": "$0.052 /hour\n"
+},
+{
+"id": "S1L138",
+"start": 7130,
+"end": 7151,
+"text": "Shared • Shared CPU:\n"
+},
+{
+"id": "S1L139",
+"start": 7151,
+"end": 7180,
+"text": "(selected: 2 vCPU, 4 GB RAM)\n"
+},
+{
+"id": "S1L140",
+"start": 7180,
+"end": 7250,
+"text": "Absorb unpredictable spikes without paying for capacity you don't use\n"
+},
+{
+"id": "S1L141",
+"start": 7250,
+"end": 7303,
+"text": "Great for pipelines, ad tech, and background workers\n"
+},
+{
+"id": "S1L142",
+"start": 7303,
+"end": 7315,
+"text": "Get started\n"
+},
+{
+"id": "S1L143",
+"start": 7315,
+"end": 7349,
+"text": "Agentic Platforms & AI/ML tooling\n"
+},
+{
+"id": "S1L144",
+"start": 7349,
+"end": 7361,
+"text": "Starting at\n"
+},
+{
+"id": "S1L145",
+"start": 7361,
+"end": 7374,
+"text": "$0.024 /hour\n"
+},
+{
+"id": "S1L146",
+"start": 7374,
+"end": 7395,
+"text": "Shared • Shared CPU:\n"
+},
+{
+"id": "S1L147",
+"start": 7395,
+"end": 7424,
+"text": "(selected: 1 vCPU, 1 GB RAM)\n"
+},
+{
+"id": "S1L148",
+"start": 7424,
+"end": 7468,
+"text": "Run CPU pre-processing alongside GPU fleets\n"
+},
+{
+"id": "S1L149",
+"start": 7468,
+"end": 7522,
+"text": "Scale orchestration without over-provisioning storage\n"
+},
+{
+"id": "S1L150",
+"start": 7522,
+"end": 7572,
+"text": "Great for agent execution and AI/ML orchestration\n"
+},
+{
+"id": "S1L151",
+"start": 7572,
+"end": 7584,
+"text": "Get started\n"
+},
+{
+"id": "S1L152",
+"start": 7584,
+"end": 7622,
+"text": "Large-scale, high-throughput services\n"
+},
+{
+"id": "S1L153",
+"start": 7622,
+"end": 7634,
+"text": "Starting at\n"
+},
+{
+"id": "S1L154",
+"start": 7634,
+"end": 7646,
+"text": "$0.36 /hour\n"
+},
+{
+"id": "S1L155",
+"start": 7646,
+"end": 7679,
+"text": "General Purpose • Dedicated CPU:\n"
+},
+{
+"id": "S1L156",
+"start": 7679,
+"end": 7709,
+"text": "(selected: 8 vCPU, 32 GB RAM)\n"
+},
+{
+"id": "S1L157",
+"start": 7709,
+"end": 7759,
+"text": "Scale up to 64 vCPUs and 512GB RAM in one Droplet\n"
+},
+{
+"id": "S1L158",
+"start": 7759,
+"end": 7817,
+"text": "Great for data processing, proxies, and streaming origins\n"
+},
+{
+"id": "S1L159",
+"start": 7817,
+"end": 7829,
+"text": "Get started\n"
+},
+{
+"id": "S1L160",
+"start": 7829,
+"end": 7856,
+"text": "Additional product pricing\n"
+},
+{
+"id": "S1L161",
+"start": 7856,
+"end": 7871,
+"text": "Product | Cost\n"
+},
+{
+"id": "S1L162",
+"start": 7871,
+"end": 8185,
+"text": "Backup | Choose between: Percentage-based Backups, set at 20% (Weekly) or 30% (Daily) of Droplet cost. Usage-based plans start at $0.01/GiB per month and offer highly flexible frequencies (up to every 4 hours) and custom retention periods (3 days to 6 months). View complete pricing details for our Backups plans.\n"
+},
+{
+"id": "S1L163",
+"start": 8185,
+"end": 8224,
+"text": "Droplet Snapshots | $0.06/GB per month\n"
+},
+{
+"id": "S1L164",
+"start": 8224,
+"end": 8252,
+"text": "Droplets specific questions\n"
+},
+{
+"id": "S1L165",
+"start": 8252,
+"end": 8284,
+"text": "What is a DigitalOcean Droplet?\n"
+},
+{
+"id": "S1L166",
+"start": 8284,
+"end": 8570,
+"text": "A DigitalOcean Droplet is a Linux-based virtual machine (VM) that runs on top of virtualized hardware. Each Droplet is a new server you can use, either as a standalone server or as part of a larger cloud infrastructure. They are designed to be simple, scalable, and developer-friendly.\n"
+},
+{
+"id": "S1L167",
+"start": 8570,
+"end": 8622,
+"text": "What is the difference between a Droplet and a VPS?\n"
+},
+{
+"id": "S1L168",
+"start": 8622,
+"end": 8886,
+"text": "A Droplet is DigitalOcean's brand name for a virtual private server (VPS) . Essentially, they are the same thing. A VPS is a virtualized server that mimics a dedicated physical server, providing you with your own set of resources and a dedicated operating system.\n"
+},
+{
+"id": "S1L169",
+"start": 8886,
+"end": 8923,
+"text": "Is a Droplet a form of IaaS or PaaS?\n"
+},
+{
+"id": "S1L170",
+"start": 8923,
+"end": 9174,
+"text": "DigitalOcean Droplets are a form of Infrastructure-as-a-Service (IaaS) . This means you are provided with the virtualized hardware (computing, storage, and networking) and you are responsible for managing the operating system, applications, and data.\n"
+},
+{
+"id": "S1L171",
+"start": 9174,
+"end": 9221,
+"text": "What operating systems can I run on a Droplet?\n"
+},
+{
+"id": "S1L172",
+"start": 9221,
+"end": 9418,
+"text": "You can choose from a variety of popular Linux distributions such as Ubuntu, CentOS, Debian, Fedora, and CoreOS. You can also use pre-configured 1-Click Apps for LAMP, Docker, WordPress, and more.\n"
+},
+{
+"id": "S1L173",
+"start": 9418,
+"end": 9464,
+"text": "Do Droplets come with a dedicated IP address?\n"
+},
+{
+"id": "S1L174",
+"start": 9464,
+"end": 10216,
+"text": "By default, each Droplet you create comes with its own public IPv4 address. You can also assign Floating IPs to your Droplets for high availability. For Bundled Plans, a public IPv4 is included at no extra cost. Public IPv4 addresses for Droplets with v5 configurations are billed separately from the v5 configuration and appear as their own line item on your invoice. The introductory line-item price is currently $0.00/hour, but is subject to change in accordance with the DigitalOcean Terms of Service . You can also create a Private Droplet, which isn't assigned a public IP address, so there's no IPv4 line item on your bill. This is a good fit for workloads that don't need to be reachable from the public internet, which keeps them more secure.\n"
+},
+{
+"id": "S1L175",
+"start": 10216,
+"end": 10254,
+"text": "What kind of storage do Droplets use?\n"
+},
+{
+"id": "S1L176",
+"start": 10254,
+"end": 10486,
+"text": "All Droplets use high-performance Solid State Drives (SSDs) for storage. This ensures fast disk I/O, which is crucial for the performance of your applications. For additional storage, you can use DigitalOcean Volumes Block Storage.\n"
+},
+{
+"id": "S1L177",
+"start": 10486,
+"end": 10536,
+"text": "How much bandwidth is included with each Droplet?\n"
+},
+{
+"id": "S1L178",
+"start": 10536,
+"end": 10732,
+"text": "Each Droplet includes a generous amount of free outbound data transfer . The specific amount depends on the Droplet plan you choose, starting from 500 GiB/month. Inbound bandwidth is always free.\n"
+},
+{
+"id": "S1L179",
+"start": 10732,
+"end": 10775,
+"text": "How much does a DigitalOcean Droplet cost?\n"
+},
+{
+"id": "S1L180",
+"start": 10775,
+"end": 11055,
+"text": "DigitalOcean Droplets are available at a variety of price points. Bundled Plans start from as low as $4 per month , with pricing based on the amount of RAM, CPU, SSD storage, and bandwidth included in your plan. v5 Droplets are priced hourly based on the resources you configure.\n"
+},
+{
+"id": "S1L181",
+"start": 11055,
+"end": 11085,
+"text": "How am I billed for Droplets?\n"
+},
+{
+"id": "S1L182",
+"start": 11085,
+"end": 11407,
+"text": "Bundled Plan and v5 Droplets are both billed on a per-second basis, with a 60-second minimum. Bundled Plans have a monthly cap, so you'll never pay more than the flat monthly price for that plan. v5 Droplets are billed on actual hours used each month and are not capped at 672 hours. Learn more about v5 Droplet pricing .\n"
+},
+{
+"id": "S1L183",
+"start": 11407,
+"end": 11456,
+"text": "Is there a free trial for DigitalOcean Droplets?\n"
+},
+{
+"id": "S1L184",
+"start": 11456,
+"end": 11640,
+"text": "DigitalOcean often provides promotional credits for new users, which can be used to try out Droplets and other services for free. Check the DigitalOcean website for the latest offers.\n"
+},
+{
+"id": "S1L185",
+"start": 11640,
+"end": 11683,
+"text": "What can I use a DigitalOcean Droplet for?\n"
+},
+{
+"id": "S1L186",
+"start": 11683,
+"end": 11778,
+"text": "Droplets are incredibly versatile and can be used for a wide range of applications, including:\n"
+},
+{
+"id": "S1L187",
+"start": 11778,
+"end": 11851,
+"text": "Hosting websites and web applications (e.g., WordPress, Node.js, Python)\n"
+},
+{
+"id": "S1L188",
+"start": 11851,
+"end": 11888,
+"text": "Development and testing environments\n"
+},
+{
+"id": "S1L189",
+"start": 11888,
+"end": 11933,
+"text": "Databases (e.g., MySQL, PostgreSQL, MongoDB)\n"
+},
+{
+"id": "S1L190",
+"start": 11933,
+"end": 11949,
+"text": "CI/CD pipelines\n"
+},
+{
+"id": "S1L191",
+"start": 11949,
+"end": 11971,
+"text": "VPN and proxy servers\n"
+},
+{
+"id": "S1L192",
+"start": 11971,
+"end": 11984,
+"text": "Game servers\n"
+},
+{
+"id": "S1L193",
+"start": 11984,
+"end": 12051,
+"text": "Machine Learning and AI applications (with GPU-optimized Droplets)\n"
+},
+{
+"id": "S1L194",
+"start": 12051,
+"end": 12098,
+"text": "Are Droplets suitable for e-commerce websites?\n"
+},
+{
+"id": "S1L195",
+"start": 12098,
+"end": 12265,
+"text": "Yes, Droplets are a popular choice for hosting e-commerce websites . They provide the performance, scalability, and security needed to run online stores of all sizes.\n"
+},
+{
+"id": "S1L196",
+"start": 12265,
+"end": 12316,
+"text": "How does DigitalOcean Droplets compare to AWS EC2?\n"
+},
+{
+"id": "S1L197",
+"start": 12316,
+"end": 12719,
+"text": "DigitalOcean Droplets are often praised for their simplicity and developer-friendly interface , making them a great choice for individuals and small to medium-sized businesses. AWS EC2 offers a wider range of instance types and services, which can be more suitable for large enterprises with complex requirements. In terms of pricing, DigitalOcean is generally more affordable for comparable resources.\n"
+},
+{
+"id": "S1L198",
+"start": 12719,
+"end": 12799,
+"text": "What is the difference between DigitalOcean Droplets and Google Compute Engine?\n"
+},
+{
+"id": "S1L199",
+"start": 12799,
+"end": 13079,
+"text": "Similar to the comparison with AWS, Google Compute Engine (GCE) is a more enterprise-focused platform with a vast array of services. DigitalOcean Droplets are known for their straightforward pricing and ease of use , which makes them a popular choice for developers and startups.\n"
+},
+{
+"id": "S1L200",
+"start": 13079,
+"end": 13106,
+"text": "How do I create a Droplet?\n"
+},
+{
+"id": "S1L201",
+"start": 13106,
+"end": 13377,
+"text": "Creating a Droplet is a quick and easy process. You can create a new Droplet from the DigitalOcean control panel in just a few clicks. Simply choose your operating system, Droplet plan, and datacenter region, and your new server will be up and running in under a minute.\n"
+},
+{
+"id": "S1L202",
+"start": 13377,
+"end": 13409,
+"text": "How do I connect to my Droplet?\n"
+},
+{
+"id": "S1L203",
+"start": 13409,
+"end": 13565,
+"text": "You can connect to your Droplet using SSH (Secure Shell) . You will need to use an SSH client and the root password or an SSH key to log in to your server.\n"
+},
+{
+"id": "S1L204",
+"start": 13565,
+"end": 13607,
+"text": "Does DigitalOcean offer managed Droplets?\n"
+},
+{
+"id": "S1L205",
+"start": 13607,
+"end": 13905,
+"text": "DigitalOcean's core Droplet offering is unmanaged, which means you are responsible for managing the server. However, DigitalOcean offers a Managed Kubernetes service for containerized applications, and you can find managed hosting providers that specialize in managing DigitalOcean infrastructure.\n"
+},
+{
+"id": "S1L206",
+"start": 13905,
+"end": 13951,
+"text": "Where are DigitalOcean's datacenters located?\n"
+},
+{
+"id": "S1L207",
+"start": 13951,
+"end": 14264,
+"text": "DigitalOcean has data centers in multiple locations around the world, including San Francisco, Richmond, NYC, Kansas City, Atlanta, Memphis, Toronto, Amsterdam, London, Frankfurt, Bangalore, Singapore, and Sydney . This allows you to choose a datacenter that is closest to your target audience for lower latency.\n"
+},
+{
+"id": "S1L208",
+"start": 14264,
+"end": 14309,
+"text": "Can I get a Droplet with a server in the UK?\n"
+},
+{
+"id": "S1L209",
+"start": 14309,
+"end": 14490,
+"text": "Yes, you can create a Droplet in the London (UK) datacenter. This is an excellent choice for businesses and developers who need to serve customers in the United Kingdom and Europe.\n"
+},
+{
+"id": "S1L210",
+"start": 14490,
+"end": 14533,
+"text": "Are there any datacenter options in India?\n"
+},
+{
+"id": "S1L211",
+"start": 14533,
+"end": 14679,
+"text": "Yes, DigitalOcean has a datacenter in Bangalore, India . This is ideal for serving the rapidly growing Indian market and the surrounding regions.\n"
+},
+{
+"id": "S1L212",
+"start": 14679,
+"end": 14749,
+"text": "What is the difference between a v5 Droplet and Bundled Plan Droplet?\n"
+},
+{
+"id": "S1L213",
+"start": 14749,
+"end": 15227,
+"text": "v5 Droplets run on 5th Gen AMD EPYC™ processors with up to 30% higher per-core performance vs. prior-generation DigitalOcean Droplets (based on DigitalOcean internal testing). Configure vCPU, memory, and storage independently to match your workload, so you only pay for the resources you need. Bundled Plan Droplets offer fixed vCPU, memory, and storage ratios pre-configured for common workloads, like Basic, CPU-Optimized, or Memory-Optimized. Learn more about Droplet types.\n"
+},
+{
+"id": "S1L214",
+"start": 15227,
+"end": 15278,
+"text": "How are v5 Droplets shown on my billing statement?\n"
+},
+{
+"id": "S1L215",
+"start": 15278,
+"end": 15532,
+"text": "As you configure a v5 Droplet, the Control Panel shows the per-increment price of vCPU, RAM, and boot disk for greater cost transparency. The resources still combine into a single line on your invoice for simplicity. Learn more about v5 Droplet pricing.\n"
+},
+{
+"id": "S1L216",
+"start": 15532,
+"end": 15559,
+"text": "Frequently asked questions\n"
+},
+{
+"id": "S1L217",
+"start": 15559,
+"end": 15596,
+"text": "What forms of payment do you accept?\n"
+},
+{
+"id": "S1L218",
+"start": 15596,
+"end": 16070,
+"text": "We accept Visa, Mastercard, American Express, Discover, PayPal, Google Pay, and Apple Pay. Apple pay requires a Safari browser. For additional payment options, including wire transfer, purchase orders, and ACH, please contact us . Note that when you add a card, we may send a temporary pre-authorization request to the issuing bank. This pre-authorization charge is immediately released by DigitalOcean but may take a few days to clear from your card depending on the bank.\n"
+},
+{
+"id": "S1L219",
+"start": 16070,
+"end": 16100,
+"text": "When will my card be charged?\n"
+},
+{
+"id": "S1L220",
+"start": 16100,
+"end": 16413,
+"text": "DigitalOcean billing cycles are monthly. Typically, on the first day of each month we invoice and automatically charge your account's primary payment method for the previous month's usage. In some cases, we might charge if your usage exceeds a threshold . You can also login and self pay the balance at any time.\n"
+},
+{
+"id": "S1L221",
+"start": 16413,
+"end": 16455,
+"text": "Am I charged when I enter my credit card?\n"
+},
+{
+"id": "S1L222",
+"start": 16455,
+"end": 16983,
+"text": "No. Your card is only charged at the end of the billing cycle or upon exceeding a usage threshold. Pre-authorization charge: When you add a card, we may send a preauthorization request to the issuing bank. This is to verify that the card being added has been issued by the bank and that they will authorize any charges in future. These temporary pre-authorizations are typically $1 but can vary in range and are immediately canceled by us. Depending on your bank, it might take a few days for the charge to clear from the card.\n"
+},
+{
+"id": "S1L223",
+"start": 16983,
+"end": 17029,
+"text": "Will taxes be included in my monthly invoice?\n"
+},
+{
+"id": "S1L224",
+"start": 17029,
+"end": 17174,
+"text": "We're required by law to apply taxes in some countries. Click here to learn whether we collect taxes in your country, what the tax rate is, etc.\n"
+},
+{
+"id": "S1L225",
+"start": 17174,
+"end": 17205,
+"text": "How do I destroy my resources?\n"
+},
+{
+"id": "S1L226",
+"start": 17205,
+"end": 17394,
+"text": "Check out the docs to learn how to destroy Droplets , Kubernetes clusters , Managed Databases clusters ( PostgreSQL , MySQL , Caching ), Spaces , Volumes , Firewalls , and Load Balancers .\n"
+},
+{
+"id": "S1L227",
+"start": 17394,
+"end": 17444,
+"text": "Can I be notified if my bill exceeds a threshold?\n"
+},
+{
+"id": "S1L228",
+"start": 17444,
+"end": 17556,
+"text": "Yes, you can set up billing alerts and we will email you if the monthly spending exceeds an amount you specify.\n"
+},
+{
+"id": "S1L229",
+"start": 17556,
+"end": 17590,
+"text": "How does the $5 free credit work?\n"
+},
+{
+"id": "S1L230",
+"start": 17590,
+"end": 18096,
+"text": "Your card will be charged only after you have utilized the free credits or after the credit expiration period. For example, if you received a $5 credit for 90 days, then that $5 credit is automatically applied to your account. If you spend $3 in that timeframe, your card will not be charged. If you spend $10, the $5 credit will be fully utilized, and your card will be charged only $5. Since the credit is valid for 90 days, you won't be able to use any remaining credit after the 90-day period expires.\n"
+},
+{
+"id": "S1L231",
+"start": 18096,
+"end": 18147,
+"text": "What's the price for the Marketplace 1-Click Apps?\n"
+},
+{
+"id": "S1L232",
+"start": 18147,
+"end": 18220,
+"text": "We charge you for the underlying compute on which the 1-Click Apps runs.\n"
+},
+{
+"id": "S1L233",
+"start": 18220,
+"end": 18262,
+"text": "How do I remove my card from the account?\n"
+},
+{
+"id": "S1L234",
+"start": 18262,
+"end": 18531,
+"text": "To remove a saved payment method, visit the products billing page and click the … menu of the payment method, then click Delete. In the Confirm Delete Card window that opens, click Delete to remove the card. You cannot remove the default payment method on the account.\n"
+},
+{
+"id": "S1L235",
+"start": 18531,
+"end": 18562,
+"text": "Can I prepay for my resources?\n"
+},
+{
+"id": "S1L236",
+"start": 18562,
+"end": 18635,
+"text": "If you are interested in prepayment for resources, contact our experts .\n"
+},
+{
+"id": "S1L237",
+"start": 18635,
+"end": 18656,
+"text": "Can I have a refund?\n"
+},
+{
+"id": "S1L238",
+"start": 18656,
+"end": 18738,
+"text": "We do not offer refunds. If there are extenuating circumstances, contact support.\n"
+},
+{
+"id": "S1L239",
+"start": 18738,
+"end": 18760,
+"text": "Still have questions?\n"
+},
+{
+"id": "S1L240",
+"start": 18760,
+"end": 18893,
+"text": "Have a complex setup or additional questions around pricing? Contact our sales team to get more information on DigitalOcean pricing.\n"
+},
+{
+"id": "S1L241",
+"start": 18893,
+"end": 18907,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L242",
+"start": 18907,
+"end": 18928,
+"text": "Start building today\n"
+},
+{
+"id": "S1L243",
+"start": 18928,
+"end": 19082,
+"text": "From GPU-powered inference and Kubernetes to managed databases and storage, get everything you need to build, scale, and deploy intelligent applications.\n"
+},
+{
+"id": "S1L244",
+"start": 19082,
+"end": 19090,
+"text": "Sign up\n"
+},
+{
+"id": "S1L245",
+"start": 19090,
+"end": 19098,
+"text": "Company\n"
+},
+{
+"id": "S1L246",
+"start": 19098,
+"end": 19237,
+"text": "About Leadership Blog Careers Customers Partners Referral Program Affiliate Program Press Legal Privacy Policy Security Investor Relations\n"
+},
+{
+"id": "S1L247",
+"start": 19237,
+"end": 19246,
+"text": "Products\n"
+},
+{
+"id": "S1L248",
+"start": 19246,
+"end": 19616,
+"text": "Managed Agents Knowledge Bases GPU Droplets Bare Metal GPUs Inference Engine Data Services Learning Services Evaluations Model Library Droplets Kubernetes Functions App Platform Load Balancers Managed Databases Spaces Block Storage Network File Storage API Uptime Cloud Security Posture Management (CSPM) Identity and Access Management (IAM) Cloudways View all Products\n"
+},
+{
+"id": "S1L249",
+"start": 19616,
+"end": 19626,
+"text": "Resources\n"
+},
+{
+"id": "S1L250",
+"start": 19626,
+"end": 19878,
+"text": "Community Tutorials Community Q&A Write for DOnations Currents Research DigitalOcean Startups Wavemakers Program Compass Council Open Source Newsletter Signup Marketplace Pricing Pricing Calculator Documentation Release Notes Code of Conduct Shop Swag\n"
+},
+{
+"id": "S1L251",
+"start": 19878,
+"end": 19888,
+"text": "Solutions\n"
+},
+{
+"id": "S1L252",
+"start": 19888,
+"end": 20051,
+"text": "AI Training GPU GPU Inference VPS Hosting Website Hosting VPN Docker Hosting Node.js Hosting Web Mobile Apps WordPress Hosting Virtual Machines View all Solutions\n"
+},
+{
+"id": "S1L253",
+"start": 20051,
+"end": 20059,
+"text": "Contact\n"
+},
+{
+"id": "S1L254",
+"start": 20059,
+"end": 20117,
+"text": "Support Sales Report Abuse System Status Share your ideas\n"
+},
+{
+"id": "S1L255",
+"start": 20117,
+"end": 20125,
+"text": "Company\n"
+},
+{
+"id": "S1L256",
+"start": 20125,
+"end": 20264,
+"text": "About Leadership Blog Careers Customers Partners Referral Program Affiliate Program Press Legal Privacy Policy Security Investor Relations\n"
+},
+{
+"id": "S1L257",
+"start": 20264,
+"end": 20273,
+"text": "Products\n"
+},
+{
+"id": "S1L258",
+"start": 20273,
+"end": 20643,
+"text": "Managed Agents Knowledge Bases GPU Droplets Bare Metal GPUs Inference Engine Data Services Learning Services Evaluations Model Library Droplets Kubernetes Functions App Platform Load Balancers Managed Databases Spaces Block Storage Network File Storage API Uptime Cloud Security Posture Management (CSPM) Identity and Access Management (IAM) Cloudways View all Products\n"
+},
+{
+"id": "S1L259",
+"start": 20643,
+"end": 20653,
+"text": "Resources\n"
+},
+{
+"id": "S1L260",
+"start": 20653,
+"end": 20905,
+"text": "Community Tutorials Community Q&A Write for DOnations Currents Research DigitalOcean Startups Wavemakers Program Compass Council Open Source Newsletter Signup Marketplace Pricing Pricing Calculator Documentation Release Notes Code of Conduct Shop Swag\n"
+},
+{
+"id": "S1L261",
+"start": 20905,
+"end": 20915,
+"text": "Solutions\n"
+},
+{
+"id": "S1L262",
+"start": 20915,
+"end": 21078,
+"text": "AI Training GPU GPU Inference VPS Hosting Website Hosting VPN Docker Hosting Node.js Hosting Web Mobile Apps WordPress Hosting Virtual Machines View all Solutions\n"
+},
+{
+"id": "S1L263",
+"start": 21078,
+"end": 21086,
+"text": "Contact\n"
+},
+{
+"id": "S1L264",
+"start": 21086,
+"end": 21144,
+"text": "Support Sales Report Abuse System Status Share your ideas\n"
+},
+{
+"id": "S1L265",
+"start": 21144,
+"end": 21170,
+"text": "© 2026 DigitalOcean, LLC.\n"
+},
+{
+"id": "S1L266",
+"start": 21170,
+"end": 21177,
+"text": "Sitemap"
+}
+]
+}

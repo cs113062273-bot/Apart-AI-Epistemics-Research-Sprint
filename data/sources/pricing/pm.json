@@ -1,0 +1,2460 @@
+{
+"page": "Proton Mail pricing",
+"url": "https://proton.me/mail/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 6,
+"text": "Close\n"
+},
+{
+"id": "S1L2",
+"start": 6,
+"end": 11,
+"text": "4.5+\n"
+},
+{
+"id": "S1L3",
+"start": 11,
+"end": 15,
+"text": "Get\n"
+},
+{
+"id": "S1L4",
+"start": 15,
+"end": 33,
+"text": "Personal Personal\n"
+},
+{
+"id": "S1L5",
+"start": 33,
+"end": 51,
+"text": "Business Business\n"
+},
+{
+"id": "S1L6",
+"start": 51,
+"end": 69,
+"text": "Download Download\n"
+},
+{
+"id": "S1L7",
+"start": 69,
+"end": 101,
+"text": "Discover Proton Discover Proton\n"
+},
+{
+"id": "S1L8",
+"start": 101,
+"end": 109,
+"text": "Pricing\n"
+},
+{
+"id": "S1L9",
+"start": 109,
+"end": 130,
+"text": "Discover Proton Mail\n"
+},
+{
+"id": "S1L10",
+"start": 130,
+"end": 139,
+"text": "Features\n"
+},
+{
+"id": "S1L11",
+"start": 139,
+"end": 164,
+"text": "Security Bridge Calendar\n"
+},
+{
+"id": "S1L12",
+"start": 164,
+"end": 176,
+"text": "Switch from\n"
+},
+{
+"id": "S1L13",
+"start": 176,
+"end": 196,
+"text": "Gmail Fastmail Tuta\n"
+},
+{
+"id": "S1L14",
+"start": 196,
+"end": 206,
+"text": "Resources\n"
+},
+{
+"id": "S1L15",
+"start": 206,
+"end": 347,
+"text": "Proton Mail news Learn how encryption works End-to-end encryption Zero-access encryption Privacy guides Create an email without phone number\n"
+},
+{
+"id": "S1L16",
+"start": 347,
+"end": 355,
+"text": "Pricing\n"
+},
+{
+"id": "S1L17",
+"start": 355,
+"end": 370,
+"text": "Personal plans\n"
+},
+{
+"id": "S1L18",
+"start": 370,
+"end": 378,
+"text": "Support\n"
+},
+{
+"id": "S1L19",
+"start": 378,
+"end": 427,
+"text": "Proton Mail support How to switch to Proton Mail\n"
+},
+{
+"id": "S1L20",
+"start": 427,
+"end": 439,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L21",
+"start": 439,
+"end": 479,
+"text": "Secure email that protects your privacy\n"
+},
+{
+"id": "S1L22",
+"start": 479,
+"end": 501,
+"text": "Create a free account\n"
+},
+{
+"id": "S1L23",
+"start": 501,
+"end": 535,
+"text": "Discover Proton Mail for Business\n"
+},
+{
+"id": "S1L24",
+"start": 535,
+"end": 545,
+"text": "Solutions\n"
+},
+{
+"id": "S1L25",
+"start": 545,
+"end": 658,
+"text": "Security Team calendar Appointment scheduling Collaboration Custom email domain Business continuity All features\n"
+},
+{
+"id": "S1L26",
+"start": 658,
+"end": 670,
+"text": "Switch from\n"
+},
+{
+"id": "S1L27",
+"start": 670,
+"end": 701,
+"text": "Microsoft 365 Google Workspace\n"
+},
+{
+"id": "S1L28",
+"start": 701,
+"end": 710,
+"text": "Security\n"
+},
+{
+"id": "S1L29",
+"start": 710,
+"end": 744,
+"text": "Trust center HIPAA GDPR ISO 27001\n"
+},
+{
+"id": "S1L30",
+"start": 744,
+"end": 754,
+"text": "Resources\n"
+},
+{
+"id": "S1L31",
+"start": 754,
+"end": 802,
+"text": "Business blog Newsletter Partners All resources\n"
+},
+{
+"id": "S1L32",
+"start": 802,
+"end": 810,
+"text": "Pricing\n"
+},
+{
+"id": "S1L33",
+"start": 810,
+"end": 825,
+"text": "Business plans\n"
+},
+{
+"id": "S1L34",
+"start": 825,
+"end": 833,
+"text": "Support\n"
+},
+{
+"id": "S1L35",
+"start": 833,
+"end": 879,
+"text": "Support for business Set up Mail for business\n"
+},
+{
+"id": "S1L36",
+"start": 879,
+"end": 891,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L37",
+"start": 891,
+"end": 912,
+"text": "Secure your business\n"
+},
+{
+"id": "S1L38",
+"start": 912,
+"end": 927,
+"text": "Find your plan\n"
+},
+{
+"id": "S1L39",
+"start": 927,
+"end": 948,
+"text": "Download Proton Mail\n"
+},
+{
+"id": "S1L40",
+"start": 948,
+"end": 960,
+"text": "Mobile apps\n"
+},
+{
+"id": "S1L41",
+"start": 960,
+"end": 998,
+"text": "iOS (new window) Android (new window)\n"
+},
+{
+"id": "S1L42",
+"start": 998,
+"end": 1011,
+"text": "Desktop apps\n"
+},
+{
+"id": "S1L43",
+"start": 1011,
+"end": 1031,
+"text": "macOS Windows Linux\n"
+},
+{
+"id": "S1L44",
+"start": 1031,
+"end": 1039,
+"text": "Web app\n"
+},
+{
+"id": "S1L45",
+"start": 1039,
+"end": 1060,
+"text": "Web app (new window)\n"
+},
+{
+"id": "S1L46",
+"start": 1060,
+"end": 1082,
+"text": "Desktop client add-on\n"
+},
+{
+"id": "S1L47",
+"start": 1082,
+"end": 1089,
+"text": "Bridge\n"
+},
+{
+"id": "S1L48",
+"start": 1089,
+"end": 1116,
+"text": "Scan to get the mobile app\n"
+},
+{
+"id": "S1L49",
+"start": 1116,
+"end": 1249,
+"text": "Encrypted email Proton Mail VPN Proton VPN (new window) Cloud storage Proton Drive Password manager Proton Pass AI assistant Lumo AI\n"
+},
+{
+"id": "S1L50",
+"start": 1249,
+"end": 1438,
+"text": "Video conferencing Proton Meet Private scheduling Proton Calendar Collaborative documents Proton Docs Collaborative spreadsheets Proton Sheets Two-factor authenticator Proton Authenticator\n"
+},
+{
+"id": "S1L51",
+"start": 1438,
+"end": 1558,
+"text": "Bitcoin wallet Proton Wallet Encrypted notes Standard Notes (new window) Hide-my-email aliases SimpleLogin (new window)\n"
+},
+{
+"id": "S1L52",
+"start": 1558,
+"end": 1566,
+"text": "Company\n"
+},
+{
+"id": "S1L53",
+"start": 1566,
+"end": 1663,
+"text": "About us Impact Social media Open source Team Careers We’re hiring Proton Foundation Proton blog\n"
+},
+{
+"id": "S1L54",
+"start": 1663,
+"end": 1679,
+"text": "Discover Proton\n"
+},
+{
+"id": "S1L55",
+"start": 1679,
+"end": 1682,
+"text": "EN\n"
+},
+{
+"id": "S1L56",
+"start": 1682,
+"end": 1690,
+"text": "Sign in\n"
+},
+{
+"id": "S1L57",
+"start": 1690,
+"end": 1700,
+"text": "Open menu\n"
+},
+{
+"id": "S1L58",
+"start": 1700,
+"end": 1706,
+"text": "Close\n"
+},
+{
+"id": "S1L59",
+"start": 1706,
+"end": 1735,
+"text": "Get Mail Plus for only $1.00\n"
+},
+{
+"id": "S1L60",
+"start": 1735,
+"end": 1780,
+"text": "Special offer: Save 80% off our premium plan\n"
+},
+{
+"id": "S1L61",
+"start": 1780,
+"end": 1819,
+"text": "Get the deal Continue with Proton Free\n"
+},
+{
+"id": "S1L62",
+"start": 1819,
+"end": 1859,
+"text": "Renews at $4.99 /month, cancel anytime.\n"
+},
+{
+"id": "S1L63",
+"start": 1859,
+"end": 1880,
+"text": "100M+ accounts 100M+\n"
+},
+{
+"id": "S1L64",
+"start": 1880,
+"end": 1892,
+"text": "Swiss-based\n"
+},
+{
+"id": "S1L65",
+"start": 1892,
+"end": 1905,
+"text": "Featured in:\n"
+},
+{
+"id": "S1L66",
+"start": 1905,
+"end": 1940,
+"text": "Proton Mail plans for your privacy\n"
+},
+{
+"id": "S1L67",
+"start": 1940,
+"end": 1965,
+"text": "Personal Family Business\n"
+},
+{
+"id": "S1L68",
+"start": 1965,
+"end": 1983,
+"text": "1 month 12 months\n"
+},
+{
+"id": "S1L69",
+"start": 1983,
+"end": 1995,
+"text": "Recommended\n"
+},
+{
+"id": "S1L70",
+"start": 1995,
+"end": 2003,
+"text": "50% off\n"
+},
+{
+"id": "S1L71",
+"start": 2003,
+"end": 2020,
+"text": "Proton Unlimited\n"
+},
+{
+"id": "S1L72",
+"start": 2020,
+"end": 2027,
+"text": "$12.99\n"
+},
+{
+"id": "S1L73",
+"start": 2027,
+"end": 2040,
+"text": "$6.49 /month\n"
+},
+{
+"id": "S1L74",
+"start": 2040,
+"end": 2049,
+"text": "Save $78\n"
+},
+{
+"id": "S1L75",
+"start": 2049,
+"end": 2070,
+"text": "Get Proton Unlimited\n"
+},
+{
+"id": "S1L76",
+"start": 2070,
+"end": 2085,
+"text": "500 GB storage\n"
+},
+{
+"id": "S1L77",
+"start": 2085,
+"end": 2092,
+"text": "1 user\n"
+},
+{
+"id": "S1L78",
+"start": 2092,
+"end": 2125,
+"text": "15 extra email addresses for you\n"
+},
+{
+"id": "S1L79",
+"start": 2125,
+"end": 2160,
+"text": "Support for 3 custom email domains\n"
+},
+{
+"id": "S1L80",
+"start": 2160,
+"end": 2189,
+"text": "Unlimited folders and labels\n"
+},
+{
+"id": "S1L81",
+"start": 2189,
+"end": 2221,
+"text": "Unlimited hide-my-email aliases\n"
+},
+{
+"id": "S1L82",
+"start": 2221,
+"end": 2248,
+"text": "Dedicated customer support\n"
+},
+{
+"id": "S1L83",
+"start": 2248,
+"end": 2275,
+"text": "Ultra fast and private VPN\n"
+},
+{
+"id": "S1L84",
+"start": 2275,
+"end": 2302,
+"text": "Encrypted password manager\n"
+},
+{
+"id": "S1L85",
+"start": 2302,
+"end": 2351,
+"text": "Encrypted cloud storage for photos and documents\n"
+},
+{
+"id": "S1L86",
+"start": 2351,
+"end": 2379,
+"text": "Advanced account protection\n"
+},
+{
+"id": "S1L87",
+"start": 2379,
+"end": 2461,
+"text": "Billed at $77.88 for the first 12 months, then renews at $119.88 every 12 months.\n"
+},
+{
+"id": "S1L88",
+"start": 2461,
+"end": 2469,
+"text": "50% off\n"
+},
+{
+"id": "S1L89",
+"start": 2469,
+"end": 2479,
+"text": "Mail Plus\n"
+},
+{
+"id": "S1L90",
+"start": 2479,
+"end": 2485,
+"text": "$4.99\n"
+},
+{
+"id": "S1L91",
+"start": 2485,
+"end": 2498,
+"text": "$2.49 /month\n"
+},
+{
+"id": "S1L92",
+"start": 2498,
+"end": 2507,
+"text": "Save $30\n"
+},
+{
+"id": "S1L93",
+"start": 2507,
+"end": 2521,
+"text": "Get Mail Plus\n"
+},
+{
+"id": "S1L94",
+"start": 2521,
+"end": 2535,
+"text": "15 GB storage\n"
+},
+{
+"id": "S1L95",
+"start": 2535,
+"end": 2542,
+"text": "1 user\n"
+},
+{
+"id": "S1L96",
+"start": 2542,
+"end": 2571,
+"text": "10 encrypted email addresses\n"
+},
+{
+"id": "S1L97",
+"start": 2571,
+"end": 2605,
+"text": "Support for 1 custom email domain\n"
+},
+{
+"id": "S1L98",
+"start": 2605,
+"end": 2634,
+"text": "Unlimited folders and labels\n"
+},
+{
+"id": "S1L99",
+"start": 2634,
+"end": 2659,
+"text": "10 hide-my-email aliases\n"
+},
+{
+"id": "S1L100",
+"start": 2659,
+"end": 2685,
+"text": "Priority customer support\n"
+},
+{
+"id": "S1L101",
+"start": 2685,
+"end": 2766,
+"text": "Billed at $29.88 for the first 12 months, then renews at $47.88 every 12 months.\n"
+},
+{
+"id": "S1L102",
+"start": 2766,
+"end": 2778,
+"text": "Proton Free\n"
+},
+{
+"id": "S1L103",
+"start": 2778,
+"end": 2784,
+"text": "$0.00\n"
+},
+{
+"id": "S1L104",
+"start": 2784,
+"end": 2804,
+"text": "Get Proton for free\n"
+},
+{
+"id": "S1L105",
+"start": 2804,
+"end": 2810,
+"text": "Close\n"
+},
+{
+"id": "S1L106",
+"start": 2810,
+"end": 2839,
+"text": "Get Mail Plus for only $1.00\n"
+},
+{
+"id": "S1L107",
+"start": 2839,
+"end": 2884,
+"text": "Special offer: Save 80% off our premium plan\n"
+},
+{
+"id": "S1L108",
+"start": 2884,
+"end": 2923,
+"text": "Get the deal Continue with Proton Free\n"
+},
+{
+"id": "S1L109",
+"start": 2923,
+"end": 2963,
+"text": "Renews at $4.99 /month, cancel anytime.\n"
+},
+{
+"id": "S1L110",
+"start": 2963,
+"end": 2976,
+"text": "1 GB storage\n"
+},
+{
+"id": "S1L111",
+"start": 2976,
+"end": 2983,
+"text": "1 user\n"
+},
+{
+"id": "S1L112",
+"start": 2983,
+"end": 3009,
+"text": "1 encrypted email address\n"
+},
+{
+"id": "S1L113",
+"start": 3009,
+"end": 3023,
+"text": "Compare plans\n"
+},
+{
+"id": "S1L114",
+"start": 3023,
+"end": 3051,
+"text": "30-day money-back guarantee\n"
+},
+{
+"id": "S1L115",
+"start": 3051,
+"end": 3069,
+"text": ". . . CHF EUR USD\n"
+},
+{
+"id": "S1L116",
+"start": 3069,
+"end": 3090,
+"text": "100M+ accounts 100M+\n"
+},
+{
+"id": "S1L117",
+"start": 3090,
+"end": 3111,
+"text": "4.5+ app rating 4.5+\n"
+},
+{
+"id": "S1L118",
+"start": 3111,
+"end": 3123,
+"text": "Swiss-based\n"
+},
+{
+"id": "S1L119",
+"start": 3123,
+"end": 3136,
+"text": "Featured in:\n"
+},
+{
+"id": "S1L120",
+"start": 3136,
+"end": 3148,
+"text": "FEATURED IN\n"
+},
+{
+"id": "S1L121",
+"start": 3148,
+"end": 3166,
+"text": "Compare our plans\n"
+},
+{
+"id": "S1L122",
+"start": 3166,
+"end": 3185,
+"text": "1 maand 12 maanden\n"
+},
+{
+"id": "S1L123",
+"start": 3185,
+"end": 3196,
+"text": "12 maanden\n"
+},
+{
+"id": "S1L124",
+"start": 3196,
+"end": 3214,
+"text": "Compare our plans\n"
+},
+{
+"id": "S1L125",
+"start": 3214,
+"end": 3231,
+"text": "Proton Unlimited\n"
+},
+{
+"id": "S1L126",
+"start": 3231,
+"end": 3241,
+"text": "Mail Plus\n"
+},
+{
+"id": "S1L127",
+"start": 3241,
+"end": 3254,
+"text": "$6.49 /month\n"
+},
+{
+"id": "S1L128",
+"start": 3254,
+"end": 3276,
+"text": "Neem Proton Unlimited\n"
+},
+{
+"id": "S1L129",
+"start": 3276,
+"end": 3289,
+"text": "$2.49 /month\n"
+},
+{
+"id": "S1L130",
+"start": 3289,
+"end": 3304,
+"text": "Neem Mail Plus\n"
+},
+{
+"id": "S1L131",
+"start": 3304,
+"end": 3326,
+"text": "Show only differences\n"
+},
+{
+"id": "S1L132",
+"start": 3326,
+"end": 3337,
+"text": "Highlights\n"
+},
+{
+"id": "S1L133",
+"start": 3337,
+"end": 3366,
+"text": "Collapse Highlights features\n"
+},
+{
+"id": "S1L134",
+"start": 3366,
+"end": 3395,
+"text": "Proton Unlimited | Mail Plus\n"
+},
+{
+"id": "S1L135",
+"start": 3395,
+"end": 3403,
+"text": "Storage\n"
+},
+{
+"id": "S1L136",
+"start": 3403,
+"end": 3418,
+"text": "500 GB | 15 GB\n"
+},
+{
+"id": "S1L137",
+"start": 3418,
+"end": 3424,
+"text": "Users\n"
+},
+{
+"id": "S1L138",
+"start": 3424,
+"end": 3430,
+"text": "1 | 1\n"
+},
+{
+"id": "S1L139",
+"start": 3430,
+"end": 3456,
+"text": "Priority customer support\n"
+},
+{
+"id": "S1L140",
+"start": 3456,
+"end": 3476,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L141",
+"start": 3476,
+"end": 3505,
+"text": "Easy Switch import assistant\n"
+},
+{
+"id": "S1L142",
+"start": 3505,
+"end": 3525,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L143",
+"start": 3525,
+"end": 3549,
+"text": "Proton Sentinel program\n"
+},
+{
+"id": "S1L144",
+"start": 3549,
+"end": 3573,
+"text": "Included | Not included\n"
+},
+{
+"id": "S1L145",
+"start": 3573,
+"end": 3590,
+"text": "Emergency Access\n"
+},
+{
+"id": "S1L146",
+"start": 3590,
+"end": 3610,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L147",
+"start": 3610,
+"end": 3630,
+"text": "Dark Web Monitoring\n"
+},
+{
+"id": "S1L148",
+"start": 3630,
+"end": 3650,
+"text": "Included | Included\n"
+},
+{
+"id": "S1L149",
+"start": 3650,
+"end": 3662,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L150",
+"start": 3662,
+"end": 3690,
+"text": "Expand Proton Mail features\n"
+},
+{
+"id": "S1L151",
+"start": 3690,
+"end": 3706,
+"text": "Proton Calendar\n"
+},
+{
+"id": "S1L152",
+"start": 3706,
+"end": 3738,
+"text": "Expand Proton Calendar features\n"
+},
+{
+"id": "S1L153",
+"start": 3738,
+"end": 3751,
+"text": "Proton Drive\n"
+},
+{
+"id": "S1L154",
+"start": 3751,
+"end": 3780,
+"text": "Expand Proton Drive features\n"
+},
+{
+"id": "S1L155",
+"start": 3780,
+"end": 3791,
+"text": "Proton VPN\n"
+},
+{
+"id": "S1L156",
+"start": 3791,
+"end": 3818,
+"text": "Expand Proton VPN features\n"
+},
+{
+"id": "S1L157",
+"start": 3818,
+"end": 3830,
+"text": "Proton Pass\n"
+},
+{
+"id": "S1L158",
+"start": 3830,
+"end": 3858,
+"text": "Expand Proton Pass features\n"
+},
+{
+"id": "S1L159",
+"start": 3858,
+"end": 3872,
+"text": "Proton Wallet\n"
+},
+{
+"id": "S1L160",
+"start": 3872,
+"end": 3902,
+"text": "Expand Proton Wallet features\n"
+},
+{
+"id": "S1L161",
+"start": 3902,
+"end": 3914,
+"text": "Proton Meet\n"
+},
+{
+"id": "S1L162",
+"start": 3914,
+"end": 3942,
+"text": "Expand Proton Meet features\n"
+},
+{
+"id": "S1L163",
+"start": 3942,
+"end": 3950,
+"text": "Lumo AI\n"
+},
+{
+"id": "S1L164",
+"start": 3950,
+"end": 3974,
+"text": "Expand Lumo AI features\n"
+},
+{
+"id": "S1L165",
+"start": 3974,
+"end": 3996,
+"text": "Show only differences\n"
+},
+{
+"id": "S1L166",
+"start": 3996,
+"end": 4014,
+"text": "Compare our plans\n"
+},
+{
+"id": "S1L167",
+"start": 4014,
+"end": 4353,
+"text": "Features | Proton Free $0.00 Neem Proton gratis Close Neem Mail Plus voor slechts US$ 1,00 Speciale aanbieding: Bespaar 80% op ons premium abonnement Neem deze deal Doorgaan met Proton Free Wordt verlengd voor US$ 4,99 /maand, altijd opzegbaar. | Mail Plus $2.49 /month Neem Mail Plus | Proton Unlimited $6.49 /month Neem Proton Unlimited\n"
+},
+{
+"id": "S1L168",
+"start": 4353,
+"end": 4393,
+"text": "Highlights Collapse Highlights features\n"
+},
+{
+"id": "S1L169",
+"start": 4393,
+"end": 4431,
+"text": "Storage | Up to 1 GB | 15 GB | 500 GB\n"
+},
+{
+"id": "S1L170",
+"start": 4431,
+"end": 4449,
+"text": "Users | 1 | 1 | 1\n"
+},
+{
+"id": "S1L171",
+"start": 4449,
+"end": 4512,
+"text": "Priority customer support | Not included | Included | Included\n"
+},
+{
+"id": "S1L172",
+"start": 4512,
+"end": 4574,
+"text": "Easy Switch import assistant | Included | Included | Included\n"
+},
+{
+"id": "S1L173",
+"start": 4574,
+"end": 4639,
+"text": "Proton Sentinel program | Not included | Not included | Included\n"
+},
+{
+"id": "S1L174",
+"start": 4639,
+"end": 4693,
+"text": "Emergency Access | Not included | Included | Included\n"
+},
+{
+"id": "S1L175",
+"start": 4693,
+"end": 4750,
+"text": "Dark Web Monitoring | Not included | Included | Included\n"
+},
+{
+"id": "S1L176",
+"start": 4750,
+"end": 4790,
+"text": "Proton Mail Expand Proton Mail features\n"
+},
+{
+"id": "S1L177",
+"start": 4790,
+"end": 4820,
+"text": "Email addresses | 1 | 10 | 15\n"
+},
+{
+"id": "S1L178",
+"start": 4820,
+"end": 4874,
+"text": "Custom email domains supported | Not included | 1 | 3\n"
+},
+{
+"id": "S1L179",
+"start": 4874,
+"end": 4921,
+"text": "Messages per day | 150 | Unlimited | Unlimited\n"
+},
+{
+"id": "S1L180",
+"start": 4921,
+"end": 4957,
+"text": "Folders | 3 | Unlimited | Unlimited\n"
+},
+{
+"id": "S1L181",
+"start": 4957,
+"end": 4992,
+"text": "Labels | 3 | Unlimited | Unlimited\n"
+},
+{
+"id": "S1L182",
+"start": 4992,
+"end": 5035,
+"text": "Custom filters | 1 | Unlimited | Unlimited\n"
+},
+{
+"id": "S1L183",
+"start": 5035,
+"end": 5076,
+"text": "Attachments size | 25 MB | 25 MB | 25 MB\n"
+},
+{
+"id": "S1L184",
+"start": 5076,
+"end": 5130,
+"text": "Desktop app | 14-day free trial | Included | Included\n"
+},
+{
+"id": "S1L185",
+"start": 5130,
+"end": 5179,
+"text": "HTML signatures | Included | Included | Included\n"
+},
+{
+"id": "S1L186",
+"start": 5179,
+"end": 5234,
+"text": "End-to-end encryption | Included | Included | Included\n"
+},
+{
+"id": "S1L187",
+"start": 5234,
+"end": 5293,
+"text": "Password-protected emails | Included | Included | Included\n"
+},
+{
+"id": "S1L188",
+"start": 5293,
+"end": 5352,
+"text": "Encrypted contact details | Included | Included | Included\n"
+},
+{
+"id": "S1L189",
+"start": 5352,
+"end": 5396,
+"text": "Hide-my-email aliases | 10 | 10 | Unlimited\n"
+},
+{
+"id": "S1L190",
+"start": 5396,
+"end": 5454,
+"text": "Short @pm.me address | Not included | Included | Included\n"
+},
+{
+"id": "S1L191",
+"start": 5454,
+"end": 5506,
+"text": "Contact groups | Not included | Included | Included\n"
+},
+{
+"id": "S1L192",
+"start": 5506,
+"end": 5580,
+"text": "Email client support (via IMAP/SMTP) | Not included | Included | Included\n"
+},
+{
+"id": "S1L193",
+"start": 5580,
+"end": 5628,
+"text": "Auto-reply | Not included | Included | Included\n"
+},
+{
+"id": "S1L194",
+"start": 5628,
+"end": 5681,
+"text": "Catch-all email | Not included | Included | Included\n"
+},
+{
+"id": "S1L195",
+"start": 5681,
+"end": 5739,
+"text": "Automatic forwarding | Not included | Included | Included\n"
+},
+{
+"id": "S1L196",
+"start": 5739,
+"end": 5803,
+"text": "Auto-delete spam and trash | Not included | Included | Included\n"
+},
+{
+"id": "S1L197",
+"start": 5803,
+"end": 5880,
+"text": "Schedule and snooze emails for any time | Not included | Included | Included\n"
+},
+{
+"id": "S1L198",
+"start": 5880,
+"end": 5977,
+"text": "Proton Scribe writing assistant | Not included | Add-on with free trial | Add-on with free trial\n"
+},
+{
+"id": "S1L199",
+"start": 5977,
+"end": 6025,
+"text": "Proton Calendar Expand Proton Calendar features\n"
+},
+{
+"id": "S1L200",
+"start": 6025,
+"end": 6058,
+"text": "Personal calendars | 3 | 25 | 25\n"
+},
+{
+"id": "S1L201",
+"start": 6058,
+"end": 6113,
+"text": "End-to-end encryption | Included | Included | Included\n"
+},
+{
+"id": "S1L202",
+"start": 6113,
+"end": 6167,
+"text": "Calendar sharing | Not included | Included | Included\n"
+},
+{
+"id": "S1L203",
+"start": 6167,
+"end": 6229,
+"text": "Send and receive invitations | Included | Included | Included\n"
+},
+{
+"id": "S1L204",
+"start": 6229,
+"end": 6301,
+"text": "Appointment scheduling | Not included | 1 booking page | 1 booking page\n"
+},
+{
+"id": "S1L205",
+"start": 6301,
+"end": 6343,
+"text": "Proton Drive Expand Proton Drive features\n"
+},
+{
+"id": "S1L206",
+"start": 6343,
+"end": 6387,
+"text": "Drive storage | Up to 5 GB | 15 GB | 500 GB\n"
+},
+{
+"id": "S1L207",
+"start": 6387,
+"end": 6443,
+"text": "Online document editor | Included | Included | Included\n"
+},
+{
+"id": "S1L208",
+"start": 6443,
+"end": 6496,
+"text": "Online spreadsheets | Included | Included | Included\n"
+},
+{
+"id": "S1L209",
+"start": 6496,
+"end": 6551,
+"text": "End-to-end encryption | Included | Included | Included\n"
+},
+{
+"id": "S1L210",
+"start": 6551,
+"end": 6617,
+"text": "Share files and folders via link | Included | Included | Included\n"
+},
+{
+"id": "S1L211",
+"start": 6617,
+"end": 6676,
+"text": "Advanced sharing security | Included | Included | Included\n"
+},
+{
+"id": "S1L212",
+"start": 6676,
+"end": 6733,
+"text": "Version history | Not included | Not included | Included\n"
+},
+{
+"id": "S1L213",
+"start": 6733,
+"end": 6771,
+"text": "Proton VPN Expand Proton VPN features\n"
+},
+{
+"id": "S1L214",
+"start": 6771,
+"end": 6792,
+"text": "Devices | 1 | 1 | 10\n"
+},
+{
+"id": "S1L215",
+"start": 6792,
+"end": 6867,
+"text": "Countries | 10 countries | 10 countries | 20000+ servers in 140+ countries\n"
+},
+{
+"id": "S1L216",
+"start": 6867,
+"end": 6905,
+"text": "VPN speed | Medium | Medium | Highest\n"
+},
+{
+"id": "S1L217",
+"start": 6905,
+"end": 6975,
+"text": "Worldwide streaming services | Not included | Not included | Included\n"
+},
+{
+"id": "S1L218",
+"start": 6975,
+"end": 7031,
+"text": "P2P/BitTorrent | Not included | Not included | Included\n"
+},
+{
+"id": "S1L219",
+"start": 7031,
+"end": 7105,
+"text": "NetShield malware and ad-blocker | Not included | Not included | Included\n"
+},
+{
+"id": "S1L220",
+"start": 7105,
+"end": 7166,
+"text": "Secure Core servers | Not included | Not included | Included\n"
+},
+{
+"id": "S1L221",
+"start": 7166,
+"end": 7220,
+"text": "Tor over VPN | Not included | Not included | Included\n"
+},
+{
+"id": "S1L222",
+"start": 7220,
+"end": 7277,
+"text": "VPN Accelerator | Not included | Not included | Included\n"
+},
+{
+"id": "S1L223",
+"start": 7277,
+"end": 7329,
+"text": "Custom DNS | Not included | Not included | Included\n"
+},
+{
+"id": "S1L224",
+"start": 7329,
+"end": 7386,
+"text": "LAN connections | Not included | Not included | Included\n"
+},
+{
+"id": "S1L225",
+"start": 7386,
+"end": 7441,
+"text": "Strict no-logs policy | Included | Included | Included\n"
+},
+{
+"id": "S1L226",
+"start": 7441,
+"end": 7481,
+"text": "No ads | Included | Included | Included\n"
+},
+{
+"id": "S1L227",
+"start": 7481,
+"end": 7541,
+"text": "Unlimited volume/bandwidth | Included | Included | Included\n"
+},
+{
+"id": "S1L228",
+"start": 7541,
+"end": 7594,
+"text": "DNS leak prevention | Included | Included | Included\n"
+},
+{
+"id": "S1L229",
+"start": 7594,
+"end": 7653,
+"text": "Kill switch/always-on VPN | Included | Included | Included\n"
+},
+{
+"id": "S1L230",
+"start": 7653,
+"end": 7708,
+"text": "Encrypted VPN servers | Included | Included | Included\n"
+},
+{
+"id": "S1L231",
+"start": 7708,
+"end": 7756,
+"text": "Router support | Included | Included | Included\n"
+},
+{
+"id": "S1L232",
+"start": 7756,
+"end": 7835,
+"text": "Split tunneling (Android and Windows) | Not included | Not included | Included\n"
+},
+{
+"id": "S1L233",
+"start": 7835,
+"end": 7875,
+"text": "Proton Pass Expand Proton Pass features\n"
+},
+{
+"id": "S1L234",
+"start": 7875,
+"end": 7895,
+"text": "Vaults | 2 | 2 | 50\n"
+},
+{
+"id": "S1L235",
+"start": 7895,
+"end": 7963,
+"text": "Built-in 2FA authenticator | Not included | Not included | Included\n"
+},
+{
+"id": "S1L236",
+"start": 7963,
+"end": 8023,
+"text": "Unlimited logins and notes | Included | Included | Included\n"
+},
+{
+"id": "S1L237",
+"start": 8023,
+"end": 8079,
+"text": "Unlimited credit cards | Included | Included | Included\n"
+},
+{
+"id": "S1L238",
+"start": 8079,
+"end": 8130,
+"text": "Unlimited devices | Included | Included | Included\n"
+},
+{
+"id": "S1L239",
+"start": 8130,
+"end": 8181,
+"text": "Share with up to | 2 others | 2 others | 10 others\n"
+},
+{
+"id": "S1L240",
+"start": 8181,
+"end": 8225,
+"text": "Proton Wallet Expand Proton Wallet features\n"
+},
+{
+"id": "S1L241",
+"start": 8225,
+"end": 8255,
+"text": "Encrypted wallet | 3 | 3 | 10\n"
+},
+{
+"id": "S1L242",
+"start": 8255,
+"end": 8288,
+"text": "Accounts per wallet | 3 | 3 | 10\n"
+},
+{
+"id": "S1L243",
+"start": 8288,
+"end": 8339,
+"text": "Bitcoin via email | Included | Included | Included\n"
+},
+{
+"id": "S1L244",
+"start": 8339,
+"end": 8379,
+"text": "Proton Meet Expand Proton Meet features\n"
+},
+{
+"id": "S1L245",
+"start": 8379,
+"end": 8423,
+"text": "Meeting duration | 1 hour | 1 hour | 1 hour\n"
+},
+{
+"id": "S1L246",
+"start": 8423,
+"end": 8459,
+"text": "Participant capacity | 50 | 50 | 50\n"
+},
+{
+"id": "S1L247",
+"start": 8459,
+"end": 8500,
+"text": "Simultaneous active meetings | 1 | 1 | 1\n"
+},
+{
+"id": "S1L248",
+"start": 8500,
+"end": 8548,
+"text": "Screen sharing | Included | Included | Included\n"
+},
+{
+"id": "S1L249",
+"start": 8548,
+"end": 8580,
+"text": "Lumo AI Expand Lumo AI features\n"
+},
+{
+"id": "S1L250",
+"start": 8580,
+"end": 8626,
+"text": "Max model usage | Limited | Limited | Limited\n"
+},
+{
+"id": "S1L251",
+"start": 8626,
+"end": 8682,
+"text": "Messages and chat history | Limited | Limited | Limited\n"
+},
+{
+"id": "S1L252",
+"start": 8682,
+"end": 8730,
+"text": "Image generations | Limited | Limited | Limited\n"
+},
+{
+"id": "S1L253",
+"start": 8730,
+"end": 8751,
+"text": "100M+ accounts 100M+\n"
+},
+{
+"id": "S1L254",
+"start": 8751,
+"end": 8772,
+"text": "4.5+ app rating 4.5+\n"
+},
+{
+"id": "S1L255",
+"start": 8772,
+"end": 8784,
+"text": "Swiss-based\n"
+},
+{
+"id": "S1L256",
+"start": 8784,
+"end": 8797,
+"text": "Featured in:\n"
+},
+{
+"id": "S1L257",
+"start": 8797,
+"end": 8851,
+"text": "Simple, encrypted solutions, to protect your business\n"
+},
+{
+"id": "S1L258",
+"start": 8851,
+"end": 8875,
+"text": "Get Proton for Business\n"
+},
+{
+"id": "S1L259",
+"start": 8875,
+"end": 8891,
+"text": "Proton Mail FAQ\n"
+},
+{
+"id": "S1L260",
+"start": 8891,
+"end": 8912,
+"text": "What is Proton Mail?\n"
+},
+{
+"id": "S1L261",
+"start": 8912,
+"end": 8925,
+"text": "View details\n"
+},
+{
+"id": "S1L262",
+"start": 8925,
+"end": 9275,
+"text": "Proton Mail is the world’s largest end-to-end encrypted email service. Proton Mail makes sure no one can access your emails, not even Proton, by using end-to-end encryption and zero-access encryption. Proton Mail is one of the services provided by Proton. We’ve also created Proton VPN (new window) , Proton Drive , Proton Pass and Proton Calendar .\n"
+},
+{
+"id": "S1L263",
+"start": 9275,
+"end": 9613,
+"text": "When you send an end-to-end encrypted email with Proton Mail, your message is encrypted on your device and can only be decrypted by your recipient with the corresponding encryption key. With Proton Mail, all the encryption and decryption happens in the background, meaning anyone can use encrypted email, regardless of technical ability.\n"
+},
+{
+"id": "S1L264",
+"start": 9613,
+"end": 9634,
+"text": "Is Proton Mail free?\n"
+},
+{
+"id": "S1L265",
+"start": 9634,
+"end": 9647,
+"text": "View details\n"
+},
+{
+"id": "S1L266",
+"start": 9647,
+"end": 9852,
+"text": "Proton Mail will always offer a free encrypted email plan that provides secure email functionality with basic features. Our free email accounts offer the same level of encryption as any of our paid plans.\n"
+},
+{
+"id": "S1L267",
+"start": 9852,
+"end": 10129,
+"text": "If you upgrade to one of our paid plans, you will receive advanced email features, such as additional email addresses, extra storage, custom email domains, and unlimited messages. You will also be supporting our mission to build a better internet where privacy is the default.\n"
+},
+{
+"id": "S1L268",
+"start": 10129,
+"end": 10150,
+"text": "Is Proton Mail safe?\n"
+},
+{
+"id": "S1L269",
+"start": 10150,
+"end": 10163,
+"text": "View details\n"
+},
+{
+"id": "S1L270",
+"start": 10163,
+"end": 10350,
+"text": "We ensure that Proton Mail is as safe as possible by using end-to-end encryption and zero access encryption, meaning that no one — not even Proton — can read the contents of your emails.\n"
+},
+{
+"id": "S1L271",
+"start": 10350,
+"end": 10646,
+"text": "Proton Mail data is also protected by strong Swiss privacy laws, and we can only respond to official requests from Swiss authorities. All Proton Mail apps are open source, so anyone can view their code, and we commission independent third-party experts to audit our code to ensure they are safe.\n"
+},
+{
+"id": "S1L272",
+"start": 10646,
+"end": 10681,
+"text": "Can I create a free email account?\n"
+},
+{
+"id": "S1L273",
+"start": 10681,
+"end": 10694,
+"text": "View details\n"
+},
+{
+"id": "S1L274",
+"start": 10694,
+"end": 10983,
+"text": "Yes, we will always offer a free email plan for anyone who needs it. Unlike other providers, you can create a free email account with Proton Mail without sacrificing your privacy. Proton Mail Free plans are funded by those who choose to support us by subscribing to one of our paid plans.\n"
+},
+{
+"id": "S1L275",
+"start": 10983,
+"end": 11273,
+"text": "To create your free email account with Proton Mail, you can click Get Proton for free in the table above, or go directly to our signup page . The Proton Mail Free plan comes with 500 MB of Mail storage, which you can increase up to 1 GB by completing the Get started with Proton checklist.\n"
+},
+{
+"id": "S1L276",
+"start": 11273,
+"end": 11320,
+"text": "How can I upgrade my Proton Mail Free account?\n"
+},
+{
+"id": "S1L277",
+"start": 11320,
+"end": 11333,
+"text": "View details\n"
+},
+{
+"id": "S1L278",
+"start": 11333,
+"end": 11599,
+"text": "You can upgrade your Proton Mail plan at any time by logging into your account at account.proton.me and clicking Upgrade in the top right corner of your screen. From there, you can select the plan that’s right for you, depending on which advanced features you need.\n"
+},
+{
+"id": "S1L279",
+"start": 11599,
+"end": 11629,
+"text": "How do I get Proton Calendar?\n"
+},
+{
+"id": "S1L280",
+"start": 11629,
+"end": 11642,
+"text": "View details\n"
+},
+{
+"id": "S1L281",
+"start": 11642,
+"end": 12044,
+"text": "When you sign up for any Proton Mail plan, you automatically get access to your own Proton Calendar . You can access Proton Calendar by going to account.proton.me/calendar or by using the app switcher in your Proton Mail inbox. If you have a Proton Mail Free plan, you will have access to 3 personal calendars, but with our Mail Plus or Proton Unlimited plans, you can use up to 25 personal calendars.\n"
+},
+{
+"id": "S1L282",
+"start": 12044,
+"end": 12085,
+"text": "How can I expand my Proton Mail storage?\n"
+},
+{
+"id": "S1L283",
+"start": 12085,
+"end": 12098,
+"text": "View details\n"
+},
+{
+"id": "S1L284",
+"start": 12098,
+"end": 12278,
+"text": "Our free email plan comes with 500 MB of Mail storage. You can increase this amount to 1 GB for free by completing these simple actions from the Get started with Proton checklist:\n"
+},
+{
+"id": "S1L285",
+"start": 12278,
+"end": 12324,
+"text": "Discover how our privacy features protect you\n"
+},
+{
+"id": "S1L286",
+"start": 12324,
+"end": 12363,
+"text": "Set up automatic forwarding from Gmail\n"
+},
+{
+"id": "S1L287",
+"start": 12363,
+"end": 12415,
+"text": "Change an account login to your Proton Mail address\n"
+},
+{
+"id": "S1L288",
+"start": 12415,
+"end": 12472,
+"text": "Get the Proton Mail app on your iPhone or Android device\n"
+},
+{
+"id": "S1L289",
+"start": 12472,
+"end": 12644,
+"text": "If you subscribe to our Mail Plus plan, you can increase your storage to 15 GB. The most storage you can receive is 3 TB, which comes with a subscription to Proton Family.\n"
+},
+{
+"id": "S1L290",
+"start": 12644,
+"end": 12704,
+"text": "How do I switch to Proton Mail from another email provider?\n"
+},
+{
+"id": "S1L291",
+"start": 12704,
+"end": 12717,
+"text": "View details\n"
+},
+{
+"id": "S1L292",
+"start": 12717,
+"end": 13197,
+"text": "You can easily switch to Proton Mail from Gmail, Yahoo, and Outlook by using our Easy Switch tool. Easy Switch imports all your existing folders and messages into your new Proton Mail inbox, encrypting them the moment they arrive. Once you have completed the Easy Switch setup, your messages and folders will be imported automatically without any further input from you. The migration process happens in the background so you can continue using Proton Mail as you normally would.\n"
+},
+{
+"id": "S1L293",
+"start": 13197,
+"end": 13232,
+"text": "Can I choose my own email address?\n"
+},
+{
+"id": "S1L294",
+"start": 13232,
+"end": 13245,
+"text": "View details\n"
+},
+{
+"id": "S1L295",
+"start": 13245,
+"end": 13411,
+"text": "Yes, you can choose your own email address as long as it hasn’t been taken by another user. If you’re on a paid plan, you can also send emails with a @pm.me address.\n"
+},
+{
+"id": "S1L296",
+"start": 13411,
+"end": 13450,
+"text": "How can I access my Proton Mail inbox?\n"
+},
+{
+"id": "S1L297",
+"start": 13450,
+"end": 13463,
+"text": "View details\n"
+},
+{
+"id": "S1L298",
+"start": 13463,
+"end": 13874,
+"text": "You can access your Proton Mail inbox by visiting our web app at account.proton.me or downloading the Proton Mail app for iPhones or Android devices from their respective app stores. To use Proton Mail on your desktop, you can use the Proton Mail Desktop app . If you prefer to use another email client, you need to download Proton Mail Bridge , which is currently available for anyone with a paid Proton plan.\n"
+},
+{
+"id": "S1L299",
+"start": 13874,
+"end": 13918,
+"text": "Can I add my family to my Proton Mail plan?\n"
+},
+{
+"id": "S1L300",
+"start": 13918,
+"end": 13931,
+"text": "View details\n"
+},
+{
+"id": "S1L301",
+"start": 13931,
+"end": 14082,
+"text": "Yes, you can upgrade to our Proton Duo or Family , which can be shared among up to 6 family members or friends and include up to 3TB of total storage.\n"
+},
+{
+"id": "S1L302",
+"start": 14082,
+"end": 14140,
+"text": "How does the Black Friday offer on Proton Workspace work?\n"
+},
+{
+"id": "S1L303",
+"start": 14140,
+"end": 14153,
+"text": "View details\n"
+},
+{
+"id": "S1L304",
+"start": 14153,
+"end": 14345,
+"text": "New businesses get 40% off a 1-year Proton Workspace Standard or Premium up to 10 users. If your plan exceeds 10 users at purchase or during the term, regular pricing will apply to all users.\n"
+},
+{
+"id": "S1L305",
+"start": 14345,
+"end": 14364,
+"text": "Privacy by default\n"
+},
+{
+"id": "S1L306",
+"start": 14364,
+"end": 14377,
+"text": "(new window)\n"
+},
+{
+"id": "S1L307",
+"start": 14377,
+"end": 14387,
+"text": "Proton AG\n"
+},
+{
+"id": "S1L308",
+"start": 14387,
+"end": 14410,
+"text": "Route de la Galaise 32\n"
+},
+{
+"id": "S1L309",
+"start": 14410,
+"end": 14431,
+"text": "1228 Plan-les-Ouates\n"
+},
+{
+"id": "S1L310",
+"start": 14431,
+"end": 14451,
+"text": "Geneva, Switzerland\n"
+},
+{
+"id": "S1L311",
+"start": 14451,
+"end": 14460,
+"text": "Products\n"
+},
+{
+"id": "S1L312",
+"start": 14460,
+"end": 14472,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L313",
+"start": 14472,
+"end": 14488,
+"text": "Proton Calendar\n"
+},
+{
+"id": "S1L314",
+"start": 14488,
+"end": 14501,
+"text": "Proton Drive\n"
+},
+{
+"id": "S1L315",
+"start": 14501,
+"end": 14525,
+"text": "Proton VPN (new window)\n"
+},
+{
+"id": "S1L316",
+"start": 14525,
+"end": 14537,
+"text": "Proton Pass\n"
+},
+{
+"id": "S1L317",
+"start": 14537,
+"end": 14551,
+"text": "Proton Wallet\n"
+},
+{
+"id": "S1L318",
+"start": 14551,
+"end": 14563,
+"text": "Proton Docs\n"
+},
+{
+"id": "S1L319",
+"start": 14563,
+"end": 14577,
+"text": "Proton Sheets\n"
+},
+{
+"id": "S1L320",
+"start": 14577,
+"end": 14581,
+"text": "New\n"
+},
+{
+"id": "S1L321",
+"start": 14581,
+"end": 14602,
+"text": "Proton Authenticator\n"
+},
+{
+"id": "S1L322",
+"start": 14602,
+"end": 14614,
+"text": "Proton Meet\n"
+},
+{
+"id": "S1L323",
+"start": 14614,
+"end": 14618,
+"text": "New\n"
+},
+{
+"id": "S1L324",
+"start": 14618,
+"end": 14626,
+"text": "Lumo AI\n"
+},
+{
+"id": "S1L325",
+"start": 14626,
+"end": 14654,
+"text": "Standard Notes (new window)\n"
+},
+{
+"id": "S1L326",
+"start": 14654,
+"end": 14680,
+"text": "Simple Login (new window)\n"
+},
+{
+"id": "S1L327",
+"start": 14680,
+"end": 14700,
+"text": "Proton for Business\n"
+},
+{
+"id": "S1L328",
+"start": 14700,
+"end": 14708,
+"text": "Pricing\n"
+},
+{
+"id": "S1L329",
+"start": 14708,
+"end": 14725,
+"text": "Switch to Proton\n"
+},
+{
+"id": "S1L330",
+"start": 14725,
+"end": 14734,
+"text": "Products\n"
+},
+{
+"id": "S1L331",
+"start": 14734,
+"end": 14746,
+"text": "Proton Mail\n"
+},
+{
+"id": "S1L332",
+"start": 14746,
+"end": 14762,
+"text": "Proton Calendar\n"
+},
+{
+"id": "S1L333",
+"start": 14762,
+"end": 14775,
+"text": "Proton Drive\n"
+},
+{
+"id": "S1L334",
+"start": 14775,
+"end": 14799,
+"text": "Proton VPN (new window)\n"
+},
+{
+"id": "S1L335",
+"start": 14799,
+"end": 14811,
+"text": "Proton Pass\n"
+},
+{
+"id": "S1L336",
+"start": 14811,
+"end": 14825,
+"text": "Proton Wallet\n"
+},
+{
+"id": "S1L337",
+"start": 14825,
+"end": 14837,
+"text": "Proton Docs\n"
+},
+{
+"id": "S1L338",
+"start": 14837,
+"end": 14851,
+"text": "Proton Sheets\n"
+},
+{
+"id": "S1L339",
+"start": 14851,
+"end": 14855,
+"text": "New\n"
+},
+{
+"id": "S1L340",
+"start": 14855,
+"end": 14876,
+"text": "Proton Authenticator\n"
+},
+{
+"id": "S1L341",
+"start": 14876,
+"end": 14888,
+"text": "Proton Meet\n"
+},
+{
+"id": "S1L342",
+"start": 14888,
+"end": 14892,
+"text": "New\n"
+},
+{
+"id": "S1L343",
+"start": 14892,
+"end": 14900,
+"text": "Lumo AI\n"
+},
+{
+"id": "S1L344",
+"start": 14900,
+"end": 14928,
+"text": "Standard Notes (new window)\n"
+},
+{
+"id": "S1L345",
+"start": 14928,
+"end": 14954,
+"text": "Simple Login (new window)\n"
+},
+{
+"id": "S1L346",
+"start": 14954,
+"end": 14974,
+"text": "Proton for Business\n"
+},
+{
+"id": "S1L347",
+"start": 14974,
+"end": 14982,
+"text": "Pricing\n"
+},
+{
+"id": "S1L348",
+"start": 14982,
+"end": 14999,
+"text": "Switch to Proton\n"
+},
+{
+"id": "S1L349",
+"start": 14999,
+"end": 15007,
+"text": "Privacy\n"
+},
+{
+"id": "S1L350",
+"start": 15007,
+"end": 15026,
+"text": "Password generator\n"
+},
+{
+"id": "S1L351",
+"start": 15026,
+"end": 15045,
+"text": "Username generator\n"
+},
+{
+"id": "S1L352",
+"start": 15045,
+"end": 15049,
+"text": "Tor\n"
+},
+{
+"id": "S1L353",
+"start": 15049,
+"end": 15061,
+"text": "Open source\n"
+},
+{
+"id": "S1L354",
+"start": 15061,
+"end": 15078,
+"text": "Student discount\n"
+},
+{
+"id": "S1L355",
+"start": 15078,
+"end": 15094,
+"text": "Special reports\n"
+},
+{
+"id": "S1L356",
+"start": 15094,
+"end": 15117,
+"text": "Proton vs. competitors\n"
+},
+{
+"id": "S1L357",
+"start": 15117,
+"end": 15125,
+"text": "Privacy\n"
+},
+{
+"id": "S1L358",
+"start": 15125,
+"end": 15144,
+"text": "Password generator\n"
+},
+{
+"id": "S1L359",
+"start": 15144,
+"end": 15163,
+"text": "Username generator\n"
+},
+{
+"id": "S1L360",
+"start": 15163,
+"end": 15167,
+"text": "Tor\n"
+},
+{
+"id": "S1L361",
+"start": 15167,
+"end": 15179,
+"text": "Open source\n"
+},
+{
+"id": "S1L362",
+"start": 15179,
+"end": 15196,
+"text": "Student discount\n"
+},
+{
+"id": "S1L363",
+"start": 15196,
+"end": 15212,
+"text": "Special reports\n"
+},
+{
+"id": "S1L364",
+"start": 15212,
+"end": 15235,
+"text": "Proton vs. competitors\n"
+},
+{
+"id": "S1L365",
+"start": 15235,
+"end": 15243,
+"text": "Company\n"
+},
+{
+"id": "S1L366",
+"start": 15243,
+"end": 15252,
+"text": "About us\n"
+},
+{
+"id": "S1L367",
+"start": 15252,
+"end": 15257,
+"text": "Team\n"
+},
+{
+"id": "S1L368",
+"start": 15257,
+"end": 15264,
+"text": "Impact\n"
+},
+{
+"id": "S1L369",
+"start": 15264,
+"end": 15282,
+"text": "Proton Foundation\n"
+},
+{
+"id": "S1L370",
+"start": 15282,
+"end": 15290,
+"text": "Careers\n"
+},
+{
+"id": "S1L371",
+"start": 15290,
+"end": 15303,
+"text": "We’re hiring\n"
+},
+{
+"id": "S1L372",
+"start": 15303,
+"end": 15321,
+"text": "Shop (new window)\n"
+},
+{
+"id": "S1L373",
+"start": 15321,
+"end": 15328,
+"text": "Donate\n"
+},
+{
+"id": "S1L374",
+"start": 15328,
+"end": 15333,
+"text": "Blog\n"
+},
+{
+"id": "S1L375",
+"start": 15333,
+"end": 15341,
+"text": "Company\n"
+},
+{
+"id": "S1L376",
+"start": 15341,
+"end": 15350,
+"text": "About us\n"
+},
+{
+"id": "S1L377",
+"start": 15350,
+"end": 15355,
+"text": "Team\n"
+},
+{
+"id": "S1L378",
+"start": 15355,
+"end": 15362,
+"text": "Impact\n"
+},
+{
+"id": "S1L379",
+"start": 15362,
+"end": 15380,
+"text": "Proton Foundation\n"
+},
+{
+"id": "S1L380",
+"start": 15380,
+"end": 15388,
+"text": "Careers\n"
+},
+{
+"id": "S1L381",
+"start": 15388,
+"end": 15401,
+"text": "We’re hiring\n"
+},
+{
+"id": "S1L382",
+"start": 15401,
+"end": 15419,
+"text": "Shop (new window)\n"
+},
+{
+"id": "S1L383",
+"start": 15419,
+"end": 15426,
+"text": "Donate\n"
+},
+{
+"id": "S1L384",
+"start": 15426,
+"end": 15431,
+"text": "Blog\n"
+},
+{
+"id": "S1L385",
+"start": 15431,
+"end": 15439,
+"text": "Connect\n"
+},
+{
+"id": "S1L386",
+"start": 15439,
+"end": 15452,
+"text": "Social media\n"
+},
+{
+"id": "S1L387",
+"start": 15452,
+"end": 15469,
+"text": "Help and support\n"
+},
+{
+"id": "S1L388",
+"start": 15469,
+"end": 15493,
+"text": "Partners and affiliates\n"
+},
+{
+"id": "S1L389",
+"start": 15493,
+"end": 15510,
+"text": "Referral program\n"
+},
+{
+"id": "S1L390",
+"start": 15510,
+"end": 15526,
+"text": "Press and media\n"
+},
+{
+"id": "S1L391",
+"start": 15526,
+"end": 15537,
+"text": "Contact us\n"
+},
+{
+"id": "S1L392",
+"start": 15537,
+"end": 15545,
+"text": "Connect\n"
+},
+{
+"id": "S1L393",
+"start": 15545,
+"end": 15558,
+"text": "Social media\n"
+},
+{
+"id": "S1L394",
+"start": 15558,
+"end": 15575,
+"text": "Help and support\n"
+},
+{
+"id": "S1L395",
+"start": 15575,
+"end": 15599,
+"text": "Partners and affiliates\n"
+},
+{
+"id": "S1L396",
+"start": 15599,
+"end": 15616,
+"text": "Referral program\n"
+},
+{
+"id": "S1L397",
+"start": 15616,
+"end": 15632,
+"text": "Press and media\n"
+},
+{
+"id": "S1L398",
+"start": 15632,
+"end": 15643,
+"text": "Contact us\n"
+},
+{
+"id": "S1L399",
+"start": 15643,
+"end": 15651,
+"text": "English\n"
+},
+{
+"id": "S1L400",
+"start": 15651,
+"end": 15678,
+"text": "System status (new window)\n"
+},
+{
+"id": "S1L401",
+"start": 15678,
+"end": 15691,
+"text": "Report abuse\n"
+},
+{
+"id": "S1L402",
+"start": 15691,
+"end": 15708,
+"text": "Report a problem\n"
+},
+{
+"id": "S1L403",
+"start": 15708,
+"end": 15732,
+"text": "Report a security issue\n"
+},
+{
+"id": "S1L404",
+"start": 15732,
+"end": 15763,
+"text": "Request a feature (new window)\n"
+},
+{
+"id": "S1L405",
+"start": 15763,
+"end": 15771,
+"text": "English\n"
+},
+{
+"id": "S1L406",
+"start": 15771,
+"end": 15786,
+"text": "Privacy Policy\n"
+},
+{
+"id": "S1L407",
+"start": 15786,
+"end": 15805,
+"text": "Terms & conditions\n"
+},
+{
+"id": "S1L408",
+"start": 15805,
+"end": 15825,
+"text": "Transparency report\n"
+},
+{
+"id": "S1L409",
+"start": 15825,
+"end": 15863,
+"text": "© 2026 Proton AG. All rights reserved."
+}
+]
+}

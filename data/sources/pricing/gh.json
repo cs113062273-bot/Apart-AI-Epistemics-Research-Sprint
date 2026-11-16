@@ -1,0 +1,4860 @@
+{
+"page": "GitHub pricing",
+"url": "https://github.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 16,
+"text": "Skip to content\n"
+},
+{
+"id": "S1L2",
+"start": 16,
+"end": 37,
+"text": "GitHub Universe 2026\n"
+},
+{
+"id": "S1L3",
+"start": 37,
+"end": 88,
+"text": "Catch up on all that was announced. See what's new\n"
+},
+{
+"id": "S1L4",
+"start": 88,
+"end": 104,
+"text": "Navigation Menu\n"
+},
+{
+"id": "S1L5",
+"start": 104,
+"end": 112,
+"text": "Sign in\n"
+},
+{
+"id": "S1L6",
+"start": 112,
+"end": 121,
+"text": "Products\n"
+},
+{
+"id": "S1L7",
+"start": 121,
+"end": 130,
+"text": "Platform\n"
+},
+{
+"id": "S1L8",
+"start": 130,
+"end": 188,
+"text": "GitHub Repository hosting, code review, and collaboration\n"
+},
+{
+"id": "S1L9",
+"start": 188,
+"end": 252,
+"text": "Copilot AI coding agent for tasks, projects, and automated work\n"
+},
+{
+"id": "S1L10",
+"start": 252,
+"end": 265,
+"text": "Build & Ship\n"
+},
+{
+"id": "S1L11",
+"start": 265,
+"end": 294,
+"text": "Actions CI/CD and automation\n"
+},
+{
+"id": "S1L12",
+"start": 294,
+"end": 348,
+"text": "Code Quality Quality analysis, fixes, and enforcement\n"
+},
+{
+"id": "S1L13",
+"start": 348,
+"end": 390,
+"text": "Codespaces Cloud development environments\n"
+},
+{
+"id": "S1L14",
+"start": 390,
+"end": 397,
+"text": "Secure\n"
+},
+{
+"id": "S1L15",
+"start": 397,
+"end": 451,
+"text": "Code Security Vulnerability detection and remediation\n"
+},
+{
+"id": "S1L16",
+"start": 451,
+"end": 505,
+"text": "Secret Protection Secret scanning and leak prevention\n"
+},
+{
+"id": "S1L17",
+"start": 505,
+"end": 518,
+"text": "All Features\n"
+},
+{
+"id": "S1L18",
+"start": 518,
+"end": 529,
+"text": "Developers\n"
+},
+{
+"id": "S1L19",
+"start": 529,
+"end": 535,
+"text": "Learn\n"
+},
+{
+"id": "S1L20",
+"start": 535,
+"end": 549,
+"text": "Documentation\n"
+},
+{
+"id": "S1L21",
+"start": 549,
+"end": 558,
+"text": "Training\n"
+},
+{
+"id": "S1L22",
+"start": 558,
+"end": 573,
+"text": "Certifications\n"
+},
+{
+"id": "S1L23",
+"start": 573,
+"end": 579,
+"text": "Build\n"
+},
+{
+"id": "S1L24",
+"start": 579,
+"end": 598,
+"text": "Build with Copilot\n"
+},
+{
+"id": "S1L25",
+"start": 598,
+"end": 616,
+"text": "Customize Copilot\n"
+},
+{
+"id": "S1L26",
+"start": 616,
+"end": 629,
+"text": "Integrations\n"
+},
+{
+"id": "S1L27",
+"start": 629,
+"end": 637,
+"text": "Explore\n"
+},
+{
+"id": "S1L28",
+"start": 637,
+"end": 652,
+"text": "Trending repos\n"
+},
+{
+"id": "S1L29",
+"start": 652,
+"end": 668,
+"text": "GitHub Sponsors\n"
+},
+{
+"id": "S1L30",
+"start": 668,
+"end": 687,
+"text": "Developer articles\n"
+},
+{
+"id": "S1L31",
+"start": 687,
+"end": 697,
+"text": "Changelog\n"
+},
+{
+"id": "S1L32",
+"start": 697,
+"end": 810,
+"text": "Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place.\n"
+},
+{
+"id": "S1L33",
+"start": 810,
+"end": 821,
+"text": "Businesses\n"
+},
+{
+"id": "S1L34",
+"start": 821,
+"end": 830,
+"text": "By Stage\n"
+},
+{
+"id": "S1L35",
+"start": 830,
+"end": 842,
+"text": "Enterprises\n"
+},
+{
+"id": "S1L36",
+"start": 842,
+"end": 847,
+"text": "Team\n"
+},
+{
+"id": "S1L37",
+"start": 847,
+"end": 856,
+"text": "Startups\n"
+},
+{
+"id": "S1L38",
+"start": 856,
+"end": 867,
+"text": "Nonprofits\n"
+},
+{
+"id": "S1L39",
+"start": 867,
+"end": 879,
+"text": "By Industry\n"
+},
+{
+"id": "S1L40",
+"start": 879,
+"end": 890,
+"text": "Healthcare\n"
+},
+{
+"id": "S1L41",
+"start": 890,
+"end": 909,
+"text": "Financial services\n"
+},
+{
+"id": "S1L42",
+"start": 909,
+"end": 923,
+"text": "Manufacturing\n"
+},
+{
+"id": "S1L43",
+"start": 923,
+"end": 934,
+"text": "Government\n"
+},
+{
+"id": "S1L44",
+"start": 934,
+"end": 953,
+"text": "See all industries\n"
+},
+{
+"id": "S1L45",
+"start": 953,
+"end": 969,
+"text": "Evaluate GitHub\n"
+},
+{
+"id": "S1L46",
+"start": 969,
+"end": 980,
+"text": "Why GitHub\n"
+},
+{
+"id": "S1L47",
+"start": 980,
+"end": 997,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L48",
+"start": 997,
+"end": 1015,
+"text": "Business insights\n"
+},
+{
+"id": "S1L49",
+"start": 1015,
+"end": 1028,
+"text": "Trust Center\n"
+},
+{
+"id": "S1L50",
+"start": 1028,
+"end": 1036,
+"text": "Add-ons\n"
+},
+{
+"id": "S1L51",
+"start": 1036,
+"end": 1092,
+"text": "GitHub Advanced Security Enterprise-grade code security\n"
+},
+{
+"id": "S1L52",
+"start": 1092,
+"end": 1142,
+"text": "Copilot for business Enterprise-grade AI features\n"
+},
+{
+"id": "S1L53",
+"start": 1142,
+"end": 1188,
+"text": "Premium Support Enterprise-grade 24/7 support\n"
+},
+{
+"id": "S1L54",
+"start": 1188,
+"end": 1198,
+"text": "Resources\n"
+},
+{
+"id": "S1L55",
+"start": 1198,
+"end": 1214,
+"text": "Learn & Connect\n"
+},
+{
+"id": "S1L56",
+"start": 1214,
+"end": 1228,
+"text": "Documentation\n"
+},
+{
+"id": "S1L57",
+"start": 1228,
+"end": 1244,
+"text": "Resource center\n"
+},
+{
+"id": "S1L58",
+"start": 1244,
+"end": 1249,
+"text": "Blog\n"
+},
+{
+"id": "S1L59",
+"start": 1249,
+"end": 1267,
+"text": "Events & webinars\n"
+},
+{
+"id": "S1L60",
+"start": 1267,
+"end": 1283,
+"text": "Community Forum\n"
+},
+{
+"id": "S1L61",
+"start": 1283,
+"end": 1300,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L62",
+"start": 1300,
+"end": 1313,
+"text": "Integrations\n"
+},
+{
+"id": "S1L63",
+"start": 1313,
+"end": 1321,
+"text": "Support\n"
+},
+{
+"id": "S1L64",
+"start": 1321,
+"end": 1338,
+"text": "Customer support\n"
+},
+{
+"id": "S1L65",
+"start": 1338,
+"end": 1347,
+"text": "Training\n"
+},
+{
+"id": "S1L66",
+"start": 1347,
+"end": 1361,
+"text": "GitHub Status\n"
+},
+{
+"id": "S1L67",
+"start": 1361,
+"end": 1369,
+"text": "Company\n"
+},
+{
+"id": "S1L68",
+"start": 1369,
+"end": 1375,
+"text": "About\n"
+},
+{
+"id": "S1L69",
+"start": 1375,
+"end": 1384,
+"text": "Partners\n"
+},
+{
+"id": "S1L70",
+"start": 1384,
+"end": 1394,
+"text": "Changelog\n"
+},
+{
+"id": "S1L71",
+"start": 1394,
+"end": 1410,
+"text": "GitHub Universe\n"
+},
+{
+"id": "S1L72",
+"start": 1410,
+"end": 1514,
+"text": "GitHub Universe The event for developers, by developers — talks, workshops, and what’s next for GitHub.\n"
+},
+{
+"id": "S1L73",
+"start": 1514,
+"end": 1522,
+"text": "Pricing\n"
+},
+{
+"id": "S1L74",
+"start": 1522,
+"end": 1531,
+"text": "Search /\n"
+},
+{
+"id": "S1L75",
+"start": 1531,
+"end": 1539,
+"text": "Sign in\n"
+},
+{
+"id": "S1L76",
+"start": 1539,
+"end": 1547,
+"text": "Sign up\n"
+},
+{
+"id": "S1L77",
+"start": 1547,
+"end": 1788,
+"text": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert\n"
+},
+{
+"id": "S1L78",
+"start": 1788,
+"end": 1804,
+"text": "Plans & Pricing\n"
+},
+{
+"id": "S1L79",
+"start": 1804,
+"end": 1837,
+"text": "Try the Copilot-powered platform\n"
+},
+{
+"id": "S1L80",
+"start": 1837,
+"end": 2015,
+"text": "We get it, there's a lot you can do with GitHub. That's why we've packed all of it into a single risk-free trial that includes GitHub Enterprise, Copilot, and Advanced Security.\n"
+},
+{
+"id": "S1L81",
+"start": 2015,
+"end": 2052,
+"text": "Start free for 30 days Compare plans\n"
+},
+{
+"id": "S1L82",
+"start": 2052,
+"end": 2057,
+"text": "Free\n"
+},
+{
+"id": "S1L83",
+"start": 2057,
+"end": 2102,
+"text": "The basics for individuals and organizations\n"
+},
+{
+"id": "S1L84",
+"start": 2102,
+"end": 2109,
+"text": "$0 USD\n"
+},
+{
+"id": "S1L85",
+"start": 2109,
+"end": 2136,
+"text": "Create a free organization\n"
+},
+{
+"id": "S1L86",
+"start": 2136,
+"end": 2146,
+"text": "Includes:\n"
+},
+{
+"id": "S1L87",
+"start": 2146,
+"end": 2184,
+"text": "Unlimited public/private repositories\n"
+},
+{
+"id": "S1L88",
+"start": 2184,
+"end": 2224,
+"text": "Dependabot security and version updates\n"
+},
+{
+"id": "S1L89",
+"start": 2224,
+"end": 2250,
+"text": "2,000 CI/CD minutes/month\n"
+},
+{
+"id": "S1L90",
+"start": 2250,
+"end": 2276,
+"text": "500MB of Packages storage\n"
+},
+{
+"id": "S1L91",
+"start": 2276,
+"end": 2294,
+"text": "Issues & Projects\n"
+},
+{
+"id": "S1L92",
+"start": 2294,
+"end": 2312,
+"text": "Community support\n"
+},
+{
+"id": "S1L93",
+"start": 2312,
+"end": 2329,
+"text": "Featured add-ons\n"
+},
+{
+"id": "S1L94",
+"start": 2329,
+"end": 2466,
+"text": "GitHub Codespaces Access : With GitHub Codespaces , get an instant dev environment in the cloud, so you can code anywhere on any device.\n"
+},
+{
+"id": "S1L95",
+"start": 2466,
+"end": 2471,
+"text": "Team\n"
+},
+{
+"id": "S1L96",
+"start": 2471,
+"end": 2528,
+"text": "Advanced collaboration for individuals and organizations\n"
+},
+{
+"id": "S1L97",
+"start": 2528,
+"end": 2552,
+"text": "$4 USD per user / month\n"
+},
+{
+"id": "S1L98",
+"start": 2552,
+"end": 2571,
+"text": "Continue with Team\n"
+},
+{
+"id": "S1L99",
+"start": 2571,
+"end": 2599,
+"text": "Everything from Free, plus:\n"
+},
+{
+"id": "S1L100",
+"start": 2599,
+"end": 2627,
+"text": "Access to GitHub Codespaces\n"
+},
+{
+"id": "S1L101",
+"start": 2627,
+"end": 2644,
+"text": "Repository rules\n"
+},
+{
+"id": "S1L102",
+"start": 2644,
+"end": 2680,
+"text": "Multiple reviewers in pull requests\n"
+},
+{
+"id": "S1L103",
+"start": 2680,
+"end": 2700,
+"text": "Draft pull requests\n"
+},
+{
+"id": "S1L104",
+"start": 2700,
+"end": 2712,
+"text": "Code owners\n"
+},
+{
+"id": "S1L105",
+"start": 2712,
+"end": 2731,
+"text": "Required reviewers\n"
+},
+{
+"id": "S1L106",
+"start": 2731,
+"end": 2747,
+"text": "Pages and Wikis\n"
+},
+{
+"id": "S1L107",
+"start": 2747,
+"end": 2791,
+"text": "Environment deployment branches and secrets\n"
+},
+{
+"id": "S1L108",
+"start": 2791,
+"end": 2817,
+"text": "3,000 CI/CD minutes/month\n"
+},
+{
+"id": "S1L109",
+"start": 2817,
+"end": 2841,
+"text": "2GB of Packages storage\n"
+},
+{
+"id": "S1L110",
+"start": 2841,
+"end": 2859,
+"text": "Web-based support\n"
+},
+{
+"id": "S1L111",
+"start": 2859,
+"end": 2876,
+"text": "Featured add-ons\n"
+},
+{
+"id": "S1L112",
+"start": 2876,
+"end": 3072,
+"text": "GitHub Secret Protection : Ensure your secrets stay secure. Mitigate risk associated with exposed secrets in your repositories, while preventing new leaks before they happen with push protection.\n"
+},
+{
+"id": "S1L113",
+"start": 3072,
+"end": 3230,
+"text": "GitHub Code Security : Find and fix vulnerabilities in your code before they reach production. Prioritize your Dependabot alerts with automated triage rules.\n"
+},
+{
+"id": "S1L114",
+"start": 3230,
+"end": 3241,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L115",
+"start": 3241,
+"end": 3294,
+"text": "AI-powered development, governed at enterprise scale\n"
+},
+{
+"id": "S1L116",
+"start": 3294,
+"end": 3319,
+"text": "$21 USD per user / month\n"
+},
+{
+"id": "S1L117",
+"start": 3319,
+"end": 3352,
+"text": "Start a free trial Contact Sales\n"
+},
+{
+"id": "S1L118",
+"start": 3352,
+"end": 3420,
+"text": "GitHub Enterprise now includes access to GitHub Copilot. Learn more\n"
+},
+{
+"id": "S1L119",
+"start": 3420,
+"end": 3448,
+"text": "Everything from Team, plus:\n"
+},
+{
+"id": "S1L120",
+"start": 3448,
+"end": 3470,
+"text": "GitHub Copilot access\n"
+},
+{
+"id": "S1L121",
+"start": 3470,
+"end": 3487,
+"text": "Agent governance\n"
+},
+{
+"id": "S1L122",
+"start": 3487,
+"end": 3502,
+"text": "Data residency\n"
+},
+{
+"id": "S1L123",
+"start": 3502,
+"end": 3527,
+"text": "Enterprise Managed Users\n"
+},
+{
+"id": "S1L124",
+"start": 3527,
+"end": 3558,
+"text": "User provisioning through SCIM\n"
+},
+{
+"id": "S1L125",
+"start": 3558,
+"end": 3620,
+"text": "Enterprise Account to centrally manage multiple organizations\n"
+},
+{
+"id": "S1L126",
+"start": 3620,
+"end": 3649,
+"text": "Environment protection rules\n"
+},
+{
+"id": "S1L127",
+"start": 3649,
+"end": 3666,
+"text": "Repository rules\n"
+},
+{
+"id": "S1L128",
+"start": 3666,
+"end": 3680,
+"text": "Audit Log API\n"
+},
+{
+"id": "S1L129",
+"start": 3680,
+"end": 3716,
+"text": "SOC1, SOC2, type 2 reports annually\n"
+},
+{
+"id": "S1L130",
+"start": 3716,
+"end": 3760,
+"text": "FedRAMP Tailored Authority to Operate (ATO)\n"
+},
+{
+"id": "S1L131",
+"start": 3760,
+"end": 3780,
+"text": "SAML single sign-on\n"
+},
+{
+"id": "S1L132",
+"start": 3780,
+"end": 3798,
+"text": "Advanced auditing\n"
+},
+{
+"id": "S1L133",
+"start": 3798,
+"end": 3813,
+"text": "GitHub Connect\n"
+},
+{
+"id": "S1L134",
+"start": 3813,
+"end": 3840,
+"text": "50,000 CI/CD minutes/month\n"
+},
+{
+"id": "S1L135",
+"start": 3840,
+"end": 3865,
+"text": "50GB of Packages storage\n"
+},
+{
+"id": "S1L136",
+"start": 3865,
+"end": 3882,
+"text": "Exclusive add-on\n"
+},
+{
+"id": "S1L137",
+"start": 3882,
+"end": 4133,
+"text": "Premium support : With Premium, get a 30-minute SLA on Urgent tickets and 24/7 web and phone support via callback request. With Premium Plus, get everything in Premium, assigned Customer Reliability Engineer and more. Learn more about Premium Support\n"
+},
+{
+"id": "S1L138",
+"start": 4133,
+"end": 4145,
+"text": "Recommended\n"
+},
+{
+"id": "S1L139",
+"start": 4145,
+"end": 4164,
+"text": "Additional add-ons\n"
+},
+{
+"id": "S1L140",
+"start": 4164,
+"end": 4179,
+"text": "GitHub Copilot\n"
+},
+{
+"id": "S1L141",
+"start": 4179,
+"end": 4240,
+"text": "Get started for free with up to 2,000 completions per month.\n"
+},
+{
+"id": "S1L142",
+"start": 4240,
+"end": 4254,
+"text": "Compare plans\n"
+},
+{
+"id": "S1L143",
+"start": 4254,
+"end": 4270,
+"text": "Premium support\n"
+},
+{
+"id": "S1L144",
+"start": 4270,
+"end": 4351,
+"text": "Get expert help for Enterprise Cloud and Enterprise—any hour your team needs it.\n"
+},
+{
+"id": "S1L145",
+"start": 4351,
+"end": 4362,
+"text": "Learn more\n"
+},
+{
+"id": "S1L146",
+"start": 4362,
+"end": 4387,
+"text": "GitHub Advanced Security\n"
+},
+{
+"id": "S1L147",
+"start": 4387,
+"end": 4485,
+"text": "Code Security and Secret Protection together, to find and fix vulnerabilities and leaked secrets.\n"
+},
+{
+"id": "S1L148",
+"start": 4485,
+"end": 4497,
+"text": "See pricing\n"
+},
+{
+"id": "S1L149",
+"start": 4497,
+"end": 4515,
+"text": "GitHub Codespaces\n"
+},
+{
+"id": "S1L150",
+"start": 4515,
+"end": 4582,
+"text": "Starting at $0.18 per hour of compute and $0.07 per GB of storage.\n"
+},
+{
+"id": "S1L151",
+"start": 4582,
+"end": 4593,
+"text": "Learn more\n"
+},
+{
+"id": "S1L152",
+"start": 4593,
+"end": 4608,
+"text": "GitHub sandbox\n"
+},
+{
+"id": "S1L153",
+"start": 4608,
+"end": 4679,
+"text": "Run Copilot agent workflows in isolated, resumable cloud environments.\n"
+},
+{
+"id": "S1L154",
+"start": 4679,
+"end": 4699,
+"text": "See pricing details\n"
+},
+{
+"id": "S1L155",
+"start": 4699,
+"end": 4722,
+"text": "Git Large File Storage\n"
+},
+{
+"id": "S1L156",
+"start": 4722,
+"end": 4777,
+"text": "$5 per month for 50 GB bandwidth and 50 GB of storage.\n"
+},
+{
+"id": "S1L157",
+"start": 4777,
+"end": 4788,
+"text": "Learn more\n"
+},
+{
+"id": "S1L158",
+"start": 4788,
+"end": 4808,
+"text": "GitHub Code Quality\n"
+},
+{
+"id": "S1L159",
+"start": 4808,
+"end": 4906,
+"text": "Fix maintainability and reliability issues in pull requests, and enforce standards with rulesets.\n"
+},
+{
+"id": "S1L160",
+"start": 4906,
+"end": 4917,
+"text": "Learn more\n"
+},
+{
+"id": "S1L161",
+"start": 4917,
+"end": 4938,
+"text": "GitHub Code Security\n"
+},
+{
+"id": "S1L162",
+"start": 4938,
+"end": 5022,
+"text": "Find vulnerabilities with CodeQL and AI Scan, then assign alerts to Copilot to fix.\n"
+},
+{
+"id": "S1L163",
+"start": 5022,
+"end": 5034,
+"text": "See pricing\n"
+},
+{
+"id": "S1L164",
+"start": 5034,
+"end": 5059,
+"text": "GitHub Secret Protection\n"
+},
+{
+"id": "S1L165",
+"start": 5059,
+"end": 5136,
+"text": "Detect exposed credentials with AI, and block secrets before they're pushed.\n"
+},
+{
+"id": "S1L166",
+"start": 5136,
+"end": 5148,
+"text": "See pricing\n"
+},
+{
+"id": "S1L167",
+"start": 5148,
+"end": 5189,
+"text": "Used by more than 90% of the Fortune 100\n"
+},
+{
+"id": "S1L168",
+"start": 5189,
+"end": 5258,
+"text": "Grupo Boticário increases developer productivity by 94% with Copilot\n"
+},
+{
+"id": "S1L169",
+"start": 5258,
+"end": 5299,
+"text": "Get started for free See plans & pricing\n"
+},
+{
+"id": "S1L170",
+"start": 5299,
+"end": 5313,
+"text": "Compare plans\n"
+},
+{
+"id": "S1L171",
+"start": 5313,
+"end": 5329,
+"text": "Code management\n"
+},
+{
+"id": "S1L172",
+"start": 5329,
+"end": 5349,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L173",
+"start": 5349,
+"end": 5502,
+"text": "Host open source projects in public GitHub repositories, accessible via web or command line. Public repositories are accessible to anyone at GitHub.com.\n"
+},
+{
+"id": "S1L174",
+"start": 5502,
+"end": 5507,
+"text": "Free\n"
+},
+{
+"id": "S1L175",
+"start": 5507,
+"end": 5517,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L176",
+"start": 5517,
+"end": 5522,
+"text": "Team\n"
+},
+{
+"id": "S1L177",
+"start": 5522,
+"end": 5532,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L178",
+"start": 5532,
+"end": 5543,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L179",
+"start": 5543,
+"end": 5553,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L180",
+"start": 5553,
+"end": 5574,
+"text": "Private repositories\n"
+},
+{
+"id": "S1L181",
+"start": 5574,
+"end": 5745,
+"text": "Host code in private GitHub repositories, accessible via appliance, web, and command line. Private repositories are only accessible to you and people you share them with.\n"
+},
+{
+"id": "S1L182",
+"start": 5745,
+"end": 5750,
+"text": "Free\n"
+},
+{
+"id": "S1L183",
+"start": 5750,
+"end": 5760,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L184",
+"start": 5760,
+"end": 5765,
+"text": "Team\n"
+},
+{
+"id": "S1L185",
+"start": 5765,
+"end": 5775,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L186",
+"start": 5775,
+"end": 5786,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L187",
+"start": 5786,
+"end": 5796,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L188",
+"start": 5796,
+"end": 5810,
+"text": "Code workflow\n"
+},
+{
+"id": "S1L189",
+"start": 5810,
+"end": 5828,
+"text": "GitHub Codespaces\n"
+},
+{
+"id": "S1L190",
+"start": 5828,
+"end": 6143,
+"text": "Spin up fully configured dev environments in the cloud with the power of your favorite editor. A \"core hour\" denotes compute usage. On a 2-core machine, you would get 60 hours free. On a 4-core machine, you would get 30 hours free, etc. Free hours are assigned to personal accounts, rather than free organizations.\n"
+},
+{
+"id": "S1L191",
+"start": 6143,
+"end": 6148,
+"text": "Free\n"
+},
+{
+"id": "S1L192",
+"start": 6148,
+"end": 6163,
+"text": "$0 spend limit\n"
+},
+{
+"id": "S1L193",
+"start": 6163,
+"end": 6190,
+"text": "With policies and controls\n"
+},
+{
+"id": "S1L194",
+"start": 6190,
+"end": 6195,
+"text": "Team\n"
+},
+{
+"id": "S1L195",
+"start": 6195,
+"end": 6227,
+"text": "Ability to increase spend limit\n"
+},
+{
+"id": "S1L196",
+"start": 6227,
+"end": 6238,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L197",
+"start": 6238,
+"end": 6270,
+"text": "Ability to increase spend limit\n"
+},
+{
+"id": "S1L198",
+"start": 6270,
+"end": 6285,
+"text": "GitHub Actions\n"
+},
+{
+"id": "S1L199",
+"start": 6285,
+"end": 6502,
+"text": "Use execution minutes with GitHub Actions to automate your software development workflows. Write tasks and combine them to build, test, and deploy any code project on GitHub. Minutes are free for public repositories.\n"
+},
+{
+"id": "S1L200",
+"start": 6502,
+"end": 6527,
+"text": "Learn more about billing\n"
+},
+{
+"id": "S1L201",
+"start": 6527,
+"end": 6532,
+"text": "Free\n"
+},
+{
+"id": "S1L202",
+"start": 6532,
+"end": 6552,
+"text": "2,000 minutes/month\n"
+},
+{
+"id": "S1L203",
+"start": 6552,
+"end": 6581,
+"text": "Free for public repositories\n"
+},
+{
+"id": "S1L204",
+"start": 6581,
+"end": 6586,
+"text": "Team\n"
+},
+{
+"id": "S1L205",
+"start": 6586,
+"end": 6606,
+"text": "3,000 minutes/month\n"
+},
+{
+"id": "S1L206",
+"start": 6606,
+"end": 6635,
+"text": "Free for public repositories\n"
+},
+{
+"id": "S1L207",
+"start": 6635,
+"end": 6646,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L208",
+"start": 6646,
+"end": 6667,
+"text": "50,000 minutes/month\n"
+},
+{
+"id": "S1L209",
+"start": 6667,
+"end": 6696,
+"text": "Free for public repositories\n"
+},
+{
+"id": "S1L210",
+"start": 6696,
+"end": 6712,
+"text": "GitHub Packages\n"
+},
+{
+"id": "S1L211",
+"start": 6712,
+"end": 6877,
+"text": "Host your own software packages or use them as dependencies in other projects. Both private and public hosting available. Packages are free for public repositories.\n"
+},
+{
+"id": "S1L212",
+"start": 6877,
+"end": 6882,
+"text": "Free\n"
+},
+{
+"id": "S1L213",
+"start": 6882,
+"end": 6889,
+"text": "500 MB\n"
+},
+{
+"id": "S1L214",
+"start": 6889,
+"end": 6918,
+"text": "Free for public repositories\n"
+},
+{
+"id": "S1L215",
+"start": 6918,
+"end": 6923,
+"text": "Team\n"
+},
+{
+"id": "S1L216",
+"start": 6923,
+"end": 6927,
+"text": "2GB\n"
+},
+{
+"id": "S1L217",
+"start": 6927,
+"end": 6956,
+"text": "Free for public repositories\n"
+},
+{
+"id": "S1L218",
+"start": 6956,
+"end": 6967,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L219",
+"start": 6967,
+"end": 6972,
+"text": "50GB\n"
+},
+{
+"id": "S1L220",
+"start": 6972,
+"end": 7001,
+"text": "Free for public repositories\n"
+},
+{
+"id": "S1L221",
+"start": 7001,
+"end": 7016,
+"text": "GitHub sandbox\n"
+},
+{
+"id": "S1L222",
+"start": 7016,
+"end": 7115,
+"text": "Run agent-generated code safely in isolated, stateful cloud environments with snapshot and resume.\n"
+},
+{
+"id": "S1L223",
+"start": 7115,
+"end": 7120,
+"text": "Free\n"
+},
+{
+"id": "S1L224",
+"start": 7120,
+"end": 7132,
+"text": "Usage-based\n"
+},
+{
+"id": "S1L225",
+"start": 7132,
+"end": 7137,
+"text": "Team\n"
+},
+{
+"id": "S1L226",
+"start": 7137,
+"end": 7149,
+"text": "Usage-based\n"
+},
+{
+"id": "S1L227",
+"start": 7149,
+"end": 7160,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L228",
+"start": 7160,
+"end": 7172,
+"text": "Usage-based\n"
+},
+{
+"id": "S1L229",
+"start": 7172,
+"end": 7185,
+"text": "Code reviews\n"
+},
+{
+"id": "S1L230",
+"start": 7185,
+"end": 7292,
+"text": "Review new code, see visual code changes, and confidently merge code changes with automated status checks.\n"
+},
+{
+"id": "S1L231",
+"start": 7292,
+"end": 7297,
+"text": "Free\n"
+},
+{
+"id": "S1L232",
+"start": 7297,
+"end": 7306,
+"text": "Included\n"
+},
+{
+"id": "S1L233",
+"start": 7306,
+"end": 7311,
+"text": "Team\n"
+},
+{
+"id": "S1L234",
+"start": 7311,
+"end": 7320,
+"text": "Included\n"
+},
+{
+"id": "S1L235",
+"start": 7320,
+"end": 7331,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L236",
+"start": 7331,
+"end": 7340,
+"text": "Included\n"
+},
+{
+"id": "S1L237",
+"start": 7340,
+"end": 7354,
+"text": "Pull requests\n"
+},
+{
+"id": "S1L238",
+"start": 7354,
+"end": 7524,
+"text": "Allow contributors to easily notify you of changes they've pushed to a repository – with access limited to the contributors you specify. Easily merge changes you accept.\n"
+},
+{
+"id": "S1L239",
+"start": 7524,
+"end": 7529,
+"text": "Free\n"
+},
+{
+"id": "S1L240",
+"start": 7529,
+"end": 7538,
+"text": "Included\n"
+},
+{
+"id": "S1L241",
+"start": 7538,
+"end": 7543,
+"text": "Team\n"
+},
+{
+"id": "S1L242",
+"start": 7543,
+"end": 7552,
+"text": "Included\n"
+},
+{
+"id": "S1L243",
+"start": 7552,
+"end": 7563,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L244",
+"start": 7563,
+"end": 7572,
+"text": "Included\n"
+},
+{
+"id": "S1L245",
+"start": 7572,
+"end": 7589,
+"text": "Repository rules\n"
+},
+{
+"id": "S1L246",
+"start": 7589,
+"end": 7769,
+"text": "Enforce restrictions on how code branches are merged, including requiring reviews by selected collaborators, or allowing only specific contributors to work on a particular branch.\n"
+},
+{
+"id": "S1L247",
+"start": 7769,
+"end": 7774,
+"text": "Free\n"
+},
+{
+"id": "S1L248",
+"start": 7774,
+"end": 7794,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L249",
+"start": 7794,
+"end": 7799,
+"text": "Team\n"
+},
+{
+"id": "S1L250",
+"start": 7799,
+"end": 7808,
+"text": "Included\n"
+},
+{
+"id": "S1L251",
+"start": 7808,
+"end": 7819,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L252",
+"start": 7819,
+"end": 7828,
+"text": "Included\n"
+},
+{
+"id": "S1L253",
+"start": 7828,
+"end": 7840,
+"text": "Code owners\n"
+},
+{
+"id": "S1L254",
+"start": 7840,
+"end": 7976,
+"text": "Automatically request reviews – or require approval – by selected contributors when changes are made to sections of code that they own.\n"
+},
+{
+"id": "S1L255",
+"start": 7976,
+"end": 7981,
+"text": "Free\n"
+},
+{
+"id": "S1L256",
+"start": 7981,
+"end": 8001,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L257",
+"start": 8001,
+"end": 8006,
+"text": "Team\n"
+},
+{
+"id": "S1L258",
+"start": 8006,
+"end": 8015,
+"text": "Included\n"
+},
+{
+"id": "S1L259",
+"start": 8015,
+"end": 8026,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L260",
+"start": 8026,
+"end": 8035,
+"text": "Included\n"
+},
+{
+"id": "S1L261",
+"start": 8035,
+"end": 8055,
+"text": "Draft pull requests\n"
+},
+{
+"id": "S1L262",
+"start": 8055,
+"end": 8139,
+"text": "Easily discuss and collaborate on pull requests before submitting to formal review.\n"
+},
+{
+"id": "S1L263",
+"start": 8139,
+"end": 8144,
+"text": "Free\n"
+},
+{
+"id": "S1L264",
+"start": 8144,
+"end": 8164,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L265",
+"start": 8164,
+"end": 8169,
+"text": "Team\n"
+},
+{
+"id": "S1L266",
+"start": 8169,
+"end": 8178,
+"text": "Included\n"
+},
+{
+"id": "S1L267",
+"start": 8178,
+"end": 8189,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L268",
+"start": 8189,
+"end": 8198,
+"text": "Included\n"
+},
+{
+"id": "S1L269",
+"start": 8198,
+"end": 8230,
+"text": "Multiple pull request assignees\n"
+},
+{
+"id": "S1L270",
+"start": 8230,
+"end": 8277,
+"text": "Assign more than one person to a pull request.\n"
+},
+{
+"id": "S1L271",
+"start": 8277,
+"end": 8282,
+"text": "Free\n"
+},
+{
+"id": "S1L272",
+"start": 8282,
+"end": 8302,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L273",
+"start": 8302,
+"end": 8307,
+"text": "Team\n"
+},
+{
+"id": "S1L274",
+"start": 8307,
+"end": 8316,
+"text": "Included\n"
+},
+{
+"id": "S1L275",
+"start": 8316,
+"end": 8327,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L276",
+"start": 8327,
+"end": 8336,
+"text": "Included\n"
+},
+{
+"id": "S1L277",
+"start": 8336,
+"end": 8356,
+"text": "Repository insights\n"
+},
+{
+"id": "S1L278",
+"start": 8356,
+"end": 8537,
+"text": "See data about activity and contributions within your repositories, including trends. You can use this data to improve collaboration and make development faster and more effective.\n"
+},
+{
+"id": "S1L279",
+"start": 8537,
+"end": 8542,
+"text": "Free\n"
+},
+{
+"id": "S1L280",
+"start": 8542,
+"end": 8562,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L281",
+"start": 8562,
+"end": 8567,
+"text": "Team\n"
+},
+{
+"id": "S1L282",
+"start": 8567,
+"end": 8576,
+"text": "Included\n"
+},
+{
+"id": "S1L283",
+"start": 8576,
+"end": 8587,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L284",
+"start": 8587,
+"end": 8596,
+"text": "Included\n"
+},
+{
+"id": "S1L285",
+"start": 8596,
+"end": 8616,
+"text": "Scheduled reminders\n"
+},
+{
+"id": "S1L286",
+"start": 8616,
+"end": 8688,
+"text": "Send scheduled messages to you or your team listing open pull requests.\n"
+},
+{
+"id": "S1L287",
+"start": 8688,
+"end": 8693,
+"text": "Free\n"
+},
+{
+"id": "S1L288",
+"start": 8693,
+"end": 8713,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L289",
+"start": 8713,
+"end": 8718,
+"text": "Team\n"
+},
+{
+"id": "S1L290",
+"start": 8718,
+"end": 8727,
+"text": "Included\n"
+},
+{
+"id": "S1L291",
+"start": 8727,
+"end": 8738,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L292",
+"start": 8738,
+"end": 8747,
+"text": "Included\n"
+},
+{
+"id": "S1L293",
+"start": 8747,
+"end": 8780,
+"text": "Automatic code review assignment\n"
+},
+{
+"id": "S1L294",
+"start": 8780,
+"end": 8870,
+"text": "Automatically assign code reviews to members of your team based on one of two algorithms.\n"
+},
+{
+"id": "S1L295",
+"start": 8870,
+"end": 8875,
+"text": "Free\n"
+},
+{
+"id": "S1L296",
+"start": 8875,
+"end": 8895,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L297",
+"start": 8895,
+"end": 8900,
+"text": "Team\n"
+},
+{
+"id": "S1L298",
+"start": 8900,
+"end": 8909,
+"text": "Included\n"
+},
+{
+"id": "S1L299",
+"start": 8909,
+"end": 8920,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L300",
+"start": 8920,
+"end": 8929,
+"text": "Included\n"
+},
+{
+"id": "S1L301",
+"start": 8929,
+"end": 8958,
+"text": "Environment protection rules\n"
+},
+{
+"id": "S1L302",
+"start": 8958,
+"end": 9079,
+"text": "When a workflow job references an environment, the job won't start until all of the environment's protection rules pass.\n"
+},
+{
+"id": "S1L303",
+"start": 9079,
+"end": 9084,
+"text": "Free\n"
+},
+{
+"id": "S1L304",
+"start": 9084,
+"end": 9104,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L305",
+"start": 9104,
+"end": 9109,
+"text": "Team\n"
+},
+{
+"id": "S1L306",
+"start": 9109,
+"end": 9129,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L307",
+"start": 9129,
+"end": 9140,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L308",
+"start": 9140,
+"end": 9149,
+"text": "Included\n"
+},
+{
+"id": "S1L309",
+"start": 9149,
+"end": 9193,
+"text": "Environment deployment branches and secrets\n"
+},
+{
+"id": "S1L310",
+"start": 9193,
+"end": 9302,
+"text": "A job cannot access secrets that are defined in an environment unless it is running on the specified branch.\n"
+},
+{
+"id": "S1L311",
+"start": 9302,
+"end": 9307,
+"text": "Free\n"
+},
+{
+"id": "S1L312",
+"start": 9307,
+"end": 9327,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L313",
+"start": 9327,
+"end": 9332,
+"text": "Team\n"
+},
+{
+"id": "S1L314",
+"start": 9332,
+"end": 9341,
+"text": "Included\n"
+},
+{
+"id": "S1L315",
+"start": 9341,
+"end": 9352,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L316",
+"start": 9352,
+"end": 9361,
+"text": "Included\n"
+},
+{
+"id": "S1L317",
+"start": 9361,
+"end": 9375,
+"text": "Collaboration\n"
+},
+{
+"id": "S1L318",
+"start": 9375,
+"end": 9413,
+"text": "Collaborators for public repositories\n"
+},
+{
+"id": "S1L319",
+"start": 9413,
+"end": 9569,
+"text": "Invite any GitHub member, or all GitHub members, to work with you on code in a public repository you control – including making changes and opening issues.\n"
+},
+{
+"id": "S1L320",
+"start": 9569,
+"end": 9574,
+"text": "Free\n"
+},
+{
+"id": "S1L321",
+"start": 9574,
+"end": 9584,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L322",
+"start": 9584,
+"end": 9589,
+"text": "Team\n"
+},
+{
+"id": "S1L323",
+"start": 9589,
+"end": 9599,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L324",
+"start": 9599,
+"end": 9610,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L325",
+"start": 9610,
+"end": 9620,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L326",
+"start": 9620,
+"end": 9659,
+"text": "Collaborators for private repositories\n"
+},
+{
+"id": "S1L327",
+"start": 9659,
+"end": 9816,
+"text": "Invite any GitHub member, or all GitHub members, to work with you on code in a private repository you control – including making changes and opening issues.\n"
+},
+{
+"id": "S1L328",
+"start": 9816,
+"end": 9821,
+"text": "Free\n"
+},
+{
+"id": "S1L329",
+"start": 9821,
+"end": 9831,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L330",
+"start": 9831,
+"end": 9836,
+"text": "Team\n"
+},
+{
+"id": "S1L331",
+"start": 9836,
+"end": 9854,
+"text": "$4 per user/month\n"
+},
+{
+"id": "S1L332",
+"start": 9854,
+"end": 9865,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L333",
+"start": 9865,
+"end": 9884,
+"text": "$21 per user/month\n"
+},
+{
+"id": "S1L334",
+"start": 9884,
+"end": 9891,
+"text": "Issues\n"
+},
+{
+"id": "S1L335",
+"start": 9891,
+"end": 10024,
+"text": "Track bugs, enhancements, and other requests, prioritize work, and communicate with stakeholders as changes are proposed and merged.\n"
+},
+{
+"id": "S1L336",
+"start": 10024,
+"end": 10029,
+"text": "Free\n"
+},
+{
+"id": "S1L337",
+"start": 10029,
+"end": 10038,
+"text": "Included\n"
+},
+{
+"id": "S1L338",
+"start": 10038,
+"end": 10043,
+"text": "Team\n"
+},
+{
+"id": "S1L339",
+"start": 10043,
+"end": 10052,
+"text": "Included\n"
+},
+{
+"id": "S1L340",
+"start": 10052,
+"end": 10063,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L341",
+"start": 10063,
+"end": 10072,
+"text": "Included\n"
+},
+{
+"id": "S1L342",
+"start": 10072,
+"end": 10081,
+"text": "Projects\n"
+},
+{
+"id": "S1L343",
+"start": 10081,
+"end": 10236,
+"text": "Visualize and manage issues and pull requests across tables, boards, and roadmaps with custom fields and views that you can arrange to suit your workflow.\n"
+},
+{
+"id": "S1L344",
+"start": 10236,
+"end": 10241,
+"text": "Free\n"
+},
+{
+"id": "S1L345",
+"start": 10241,
+"end": 10250,
+"text": "Included\n"
+},
+{
+"id": "S1L346",
+"start": 10250,
+"end": 10255,
+"text": "Team\n"
+},
+{
+"id": "S1L347",
+"start": 10255,
+"end": 10264,
+"text": "Included\n"
+},
+{
+"id": "S1L348",
+"start": 10264,
+"end": 10275,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L349",
+"start": 10275,
+"end": 10284,
+"text": "Included\n"
+},
+{
+"id": "S1L350",
+"start": 10284,
+"end": 10295,
+"text": "Milestones\n"
+},
+{
+"id": "S1L351",
+"start": 10295,
+"end": 10405,
+"text": "Track progress on groups of issues or pull requests in a repository, and map groups to overall project goals.\n"
+},
+{
+"id": "S1L352",
+"start": 10405,
+"end": 10410,
+"text": "Free\n"
+},
+{
+"id": "S1L353",
+"start": 10410,
+"end": 10419,
+"text": "Included\n"
+},
+{
+"id": "S1L354",
+"start": 10419,
+"end": 10424,
+"text": "Team\n"
+},
+{
+"id": "S1L355",
+"start": 10424,
+"end": 10433,
+"text": "Included\n"
+},
+{
+"id": "S1L356",
+"start": 10433,
+"end": 10444,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L357",
+"start": 10444,
+"end": 10453,
+"text": "Included\n"
+},
+{
+"id": "S1L358",
+"start": 10453,
+"end": 10486,
+"text": "Organization and team management\n"
+},
+{
+"id": "S1L359",
+"start": 10486,
+"end": 10558,
+"text": "Manage access to projects on a team-by-team, or individual user, basis.\n"
+},
+{
+"id": "S1L360",
+"start": 10558,
+"end": 10563,
+"text": "Free\n"
+},
+{
+"id": "S1L361",
+"start": 10563,
+"end": 10572,
+"text": "Included\n"
+},
+{
+"id": "S1L362",
+"start": 10572,
+"end": 10577,
+"text": "Team\n"
+},
+{
+"id": "S1L363",
+"start": 10577,
+"end": 10586,
+"text": "Included\n"
+},
+{
+"id": "S1L364",
+"start": 10586,
+"end": 10597,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L365",
+"start": 10597,
+"end": 10606,
+"text": "Included\n"
+},
+{
+"id": "S1L366",
+"start": 10606,
+"end": 10622,
+"text": "Pages and wikis\n"
+},
+{
+"id": "S1L367",
+"start": 10622,
+"end": 10764,
+"text": "Host documentation and simple websites for your project in a wiki format that contributors can easily edit either on the web or command line.\n"
+},
+{
+"id": "S1L368",
+"start": 10764,
+"end": 10769,
+"text": "Free\n"
+},
+{
+"id": "S1L369",
+"start": 10769,
+"end": 10789,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L370",
+"start": 10789,
+"end": 10794,
+"text": "Team\n"
+},
+{
+"id": "S1L371",
+"start": 10794,
+"end": 10803,
+"text": "Included\n"
+},
+{
+"id": "S1L372",
+"start": 10803,
+"end": 10814,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L373",
+"start": 10814,
+"end": 10823,
+"text": "Included\n"
+},
+{
+"id": "S1L374",
+"start": 10823,
+"end": 10848,
+"text": "Multiple issue assignees\n"
+},
+{
+"id": "S1L375",
+"start": 10848,
+"end": 10889,
+"text": "Assign more than one person to an issue.\n"
+},
+{
+"id": "S1L376",
+"start": 10889,
+"end": 10894,
+"text": "Free\n"
+},
+{
+"id": "S1L377",
+"start": 10894,
+"end": 10914,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L378",
+"start": 10914,
+"end": 10919,
+"text": "Team\n"
+},
+{
+"id": "S1L379",
+"start": 10919,
+"end": 10928,
+"text": "Included\n"
+},
+{
+"id": "S1L380",
+"start": 10928,
+"end": 10939,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L381",
+"start": 10939,
+"end": 10948,
+"text": "Included\n"
+},
+{
+"id": "S1L382",
+"start": 10948,
+"end": 10973,
+"text": "GitHub Secret Protection\n"
+},
+{
+"id": "S1L383",
+"start": 10973,
+"end": 10989,
+"text": "Push protection\n"
+},
+{
+"id": "S1L384",
+"start": 10989,
+"end": 11075,
+"text": "Prevent secret exposures by proactively blocking secrets before they reach your code.\n"
+},
+{
+"id": "S1L385",
+"start": 11075,
+"end": 11080,
+"text": "Free\n"
+},
+{
+"id": "S1L386",
+"start": 11080,
+"end": 11100,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L387",
+"start": 11100,
+"end": 11105,
+"text": "Team\n"
+},
+{
+"id": "S1L388",
+"start": 11105,
+"end": 11114,
+"text": "Included\n"
+},
+{
+"id": "S1L389",
+"start": 11114,
+"end": 11125,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L390",
+"start": 11125,
+"end": 11134,
+"text": "Included\n"
+},
+{
+"id": "S1L391",
+"start": 11134,
+"end": 11150,
+"text": "Secret scanning\n"
+},
+{
+"id": "S1L392",
+"start": 11150,
+"end": 11238,
+"text": "Detect and manage exposed secrets across git history, pull requests, issues, and wikis.\n"
+},
+{
+"id": "S1L393",
+"start": 11238,
+"end": 11243,
+"text": "Free\n"
+},
+{
+"id": "S1L394",
+"start": 11243,
+"end": 11263,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L395",
+"start": 11263,
+"end": 11268,
+"text": "Team\n"
+},
+{
+"id": "S1L396",
+"start": 11268,
+"end": 11277,
+"text": "Included\n"
+},
+{
+"id": "S1L397",
+"start": 11277,
+"end": 11288,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L398",
+"start": 11288,
+"end": 11297,
+"text": "Included\n"
+},
+{
+"id": "S1L399",
+"start": 11297,
+"end": 11315,
+"text": "Provider patterns\n"
+},
+{
+"id": "S1L400",
+"start": 11315,
+"end": 11474,
+"text": "GitHub collaborates with AWS, Azure, and Google Cloud to detect secrets with high accuracy. This minimizes false positives, letting you focus on what matters.\n"
+},
+{
+"id": "S1L401",
+"start": 11474,
+"end": 11479,
+"text": "Free\n"
+},
+{
+"id": "S1L402",
+"start": 11479,
+"end": 11499,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L403",
+"start": 11499,
+"end": 11504,
+"text": "Team\n"
+},
+{
+"id": "S1L404",
+"start": 11504,
+"end": 11513,
+"text": "Included\n"
+},
+{
+"id": "S1L405",
+"start": 11513,
+"end": 11524,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L406",
+"start": 11524,
+"end": 11533,
+"text": "Included\n"
+},
+{
+"id": "S1L407",
+"start": 11533,
+"end": 11555,
+"text": "Provider notification\n"
+},
+{
+"id": "S1L408",
+"start": 11555,
+"end": 11683,
+"text": "Providers get real-time alerts when their tokens appear in public code, enabling them to notify, quarantine, or revoke secrets.\n"
+},
+{
+"id": "S1L409",
+"start": 11683,
+"end": 11688,
+"text": "Free\n"
+},
+{
+"id": "S1L410",
+"start": 11688,
+"end": 11708,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L411",
+"start": 11708,
+"end": 11713,
+"text": "Team\n"
+},
+{
+"id": "S1L412",
+"start": 11713,
+"end": 11733,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L413",
+"start": 11733,
+"end": 11744,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L414",
+"start": 11744,
+"end": 11764,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L415",
+"start": 11764,
+"end": 11780,
+"text": "Validity checks\n"
+},
+{
+"id": "S1L416",
+"start": 11780,
+"end": 11850,
+"text": "Prioritize active secrets with validity checks for provider patterns.\n"
+},
+{
+"id": "S1L417",
+"start": 11850,
+"end": 11855,
+"text": "Free\n"
+},
+{
+"id": "S1L418",
+"start": 11855,
+"end": 11868,
+"text": "Not included\n"
+},
+{
+"id": "S1L419",
+"start": 11868,
+"end": 11873,
+"text": "Team\n"
+},
+{
+"id": "S1L420",
+"start": 11873,
+"end": 11882,
+"text": "Included\n"
+},
+{
+"id": "S1L421",
+"start": 11882,
+"end": 11893,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L422",
+"start": 11893,
+"end": 11902,
+"text": "Included\n"
+},
+{
+"id": "S1L423",
+"start": 11902,
+"end": 11933,
+"text": "AI-detected secrets for alerts\n"
+},
+{
+"id": "S1L424",
+"start": 11933,
+"end": 12014,
+"text": "Use AI to detect unstructured secrets, like passwords, across your repositories.\n"
+},
+{
+"id": "S1L425",
+"start": 12014,
+"end": 12019,
+"text": "Free\n"
+},
+{
+"id": "S1L426",
+"start": 12019,
+"end": 12032,
+"text": "Not included\n"
+},
+{
+"id": "S1L427",
+"start": 12032,
+"end": 12037,
+"text": "Team\n"
+},
+{
+"id": "S1L428",
+"start": 12037,
+"end": 12046,
+"text": "Included\n"
+},
+{
+"id": "S1L429",
+"start": 12046,
+"end": 12057,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L430",
+"start": 12057,
+"end": 12066,
+"text": "Included\n"
+},
+{
+"id": "S1L431",
+"start": 12066,
+"end": 12105,
+"text": "AI-detected secrets in push protection\n"
+},
+{
+"id": "S1L432",
+"start": 12105,
+"end": 12185,
+"text": "Use AI to block unstructured secrets at push before they reach your repository.\n"
+},
+{
+"id": "S1L433",
+"start": 12185,
+"end": 12190,
+"text": "Free\n"
+},
+{
+"id": "S1L434",
+"start": 12190,
+"end": 12203,
+"text": "Not included\n"
+},
+{
+"id": "S1L435",
+"start": 12203,
+"end": 12208,
+"text": "Team\n"
+},
+{
+"id": "S1L436",
+"start": 12208,
+"end": 12220,
+"text": "Usage-based\n"
+},
+{
+"id": "S1L437",
+"start": 12220,
+"end": 12231,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L438",
+"start": 12231,
+"end": 12243,
+"text": "Usage-based\n"
+},
+{
+"id": "S1L439",
+"start": 12243,
+"end": 12260,
+"text": "Generic patterns\n"
+},
+{
+"id": "S1L440",
+"start": 12260,
+"end": 12375,
+"text": "Detect tokens from unknown providers, including HTTP authentication headers, connection strings, and private keys.\n"
+},
+{
+"id": "S1L441",
+"start": 12375,
+"end": 12380,
+"text": "Free\n"
+},
+{
+"id": "S1L442",
+"start": 12380,
+"end": 12393,
+"text": "Not included\n"
+},
+{
+"id": "S1L443",
+"start": 12393,
+"end": 12398,
+"text": "Team\n"
+},
+{
+"id": "S1L444",
+"start": 12398,
+"end": 12407,
+"text": "Included\n"
+},
+{
+"id": "S1L445",
+"start": 12407,
+"end": 12418,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L446",
+"start": 12418,
+"end": 12427,
+"text": "Included\n"
+},
+{
+"id": "S1L447",
+"start": 12427,
+"end": 12443,
+"text": "Custom patterns\n"
+},
+{
+"id": "S1L448",
+"start": 12443,
+"end": 12508,
+"text": "Create your own patterns and find organization-specific secrets.\n"
+},
+{
+"id": "S1L449",
+"start": 12508,
+"end": 12513,
+"text": "Free\n"
+},
+{
+"id": "S1L450",
+"start": 12513,
+"end": 12526,
+"text": "Not included\n"
+},
+{
+"id": "S1L451",
+"start": 12526,
+"end": 12531,
+"text": "Team\n"
+},
+{
+"id": "S1L452",
+"start": 12531,
+"end": 12540,
+"text": "Included\n"
+},
+{
+"id": "S1L453",
+"start": 12540,
+"end": 12551,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L454",
+"start": 12551,
+"end": 12560,
+"text": "Included\n"
+},
+{
+"id": "S1L455",
+"start": 12560,
+"end": 12592,
+"text": "Push protection bypass controls\n"
+},
+{
+"id": "S1L456",
+"start": 12592,
+"end": 12640,
+"text": "Manage who can bypass push protection and when.\n"
+},
+{
+"id": "S1L457",
+"start": 12640,
+"end": 12645,
+"text": "Free\n"
+},
+{
+"id": "S1L458",
+"start": 12645,
+"end": 12658,
+"text": "Not included\n"
+},
+{
+"id": "S1L459",
+"start": 12658,
+"end": 12663,
+"text": "Team\n"
+},
+{
+"id": "S1L460",
+"start": 12663,
+"end": 12672,
+"text": "Included\n"
+},
+{
+"id": "S1L461",
+"start": 12672,
+"end": 12683,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L462",
+"start": 12683,
+"end": 12692,
+"text": "Included\n"
+},
+{
+"id": "S1L463",
+"start": 12692,
+"end": 12722,
+"text": "Insights in security overview\n"
+},
+{
+"id": "S1L464",
+"start": 12722,
+"end": 12828,
+"text": "Understand how risk is distributed across your organization with security metrics and insight dashboards.\n"
+},
+{
+"id": "S1L465",
+"start": 12828,
+"end": 12833,
+"text": "Free\n"
+},
+{
+"id": "S1L466",
+"start": 12833,
+"end": 12846,
+"text": "Not included\n"
+},
+{
+"id": "S1L467",
+"start": 12846,
+"end": 12851,
+"text": "Team\n"
+},
+{
+"id": "S1L468",
+"start": 12851,
+"end": 12860,
+"text": "Included\n"
+},
+{
+"id": "S1L469",
+"start": 12860,
+"end": 12871,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L470",
+"start": 12871,
+"end": 12880,
+"text": "Included\n"
+},
+{
+"id": "S1L471",
+"start": 12880,
+"end": 12897,
+"text": "Scan history API\n"
+},
+{
+"id": "S1L472",
+"start": 12897,
+"end": 12961,
+"text": "Review how and when GitHub scans your repositories for secrets.\n"
+},
+{
+"id": "S1L473",
+"start": 12961,
+"end": 12966,
+"text": "Free\n"
+},
+{
+"id": "S1L474",
+"start": 12966,
+"end": 12979,
+"text": "Not included\n"
+},
+{
+"id": "S1L475",
+"start": 12979,
+"end": 12984,
+"text": "Team\n"
+},
+{
+"id": "S1L476",
+"start": 12984,
+"end": 12993,
+"text": "Included\n"
+},
+{
+"id": "S1L477",
+"start": 12993,
+"end": 13004,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L478",
+"start": 13004,
+"end": 13013,
+"text": "Included\n"
+},
+{
+"id": "S1L479",
+"start": 13013,
+"end": 13027,
+"text": "Code Security\n"
+},
+{
+"id": "S1L480",
+"start": 13027,
+"end": 13043,
+"text": "Copilot Autofix\n"
+},
+{
+"id": "S1L481",
+"start": 13043,
+"end": 13163,
+"text": "Powered by GitHub Copilot, generate automatic fixes for 90% of alert types in JavaScript, Typescript, Java, and Python.\n"
+},
+{
+"id": "S1L482",
+"start": 13163,
+"end": 13168,
+"text": "Free\n"
+},
+{
+"id": "S1L483",
+"start": 13168,
+"end": 13188,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L484",
+"start": 13188,
+"end": 13193,
+"text": "Team\n"
+},
+{
+"id": "S1L485",
+"start": 13193,
+"end": 13202,
+"text": "Included\n"
+},
+{
+"id": "S1L486",
+"start": 13202,
+"end": 13213,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L487",
+"start": 13213,
+"end": 13222,
+"text": "Included\n"
+},
+{
+"id": "S1L488",
+"start": 13222,
+"end": 13273,
+"text": "Third party extensibility for code scanning alerts\n"
+},
+{
+"id": "S1L489",
+"start": 13273,
+"end": 13357,
+"text": "Centralize your findings across all your scanning tools via SARIF upload to GitHub.\n"
+},
+{
+"id": "S1L490",
+"start": 13357,
+"end": 13362,
+"text": "Free\n"
+},
+{
+"id": "S1L491",
+"start": 13362,
+"end": 13382,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L492",
+"start": 13382,
+"end": 13387,
+"text": "Team\n"
+},
+{
+"id": "S1L493",
+"start": 13387,
+"end": 13396,
+"text": "Included\n"
+},
+{
+"id": "S1L494",
+"start": 13396,
+"end": 13407,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L495",
+"start": 13407,
+"end": 13416,
+"text": "Included\n"
+},
+{
+"id": "S1L496",
+"start": 13416,
+"end": 13465,
+"text": "Contextual vulnerability intelligence and advice\n"
+},
+{
+"id": "S1L497",
+"start": 13465,
+"end": 13525,
+"text": "Quickly remediate with context provided by Copilot Autofix.\n"
+},
+{
+"id": "S1L498",
+"start": 13525,
+"end": 13530,
+"text": "Free\n"
+},
+{
+"id": "S1L499",
+"start": 13530,
+"end": 13550,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L500",
+"start": 13550,
+"end": 13555,
+"text": "Team\n"
+},
+{
+"id": "S1L501",
+"start": 13555,
+"end": 13564,
+"text": "Included\n"
+},
+{
+"id": "S1L502",
+"start": 13564,
+"end": 13575,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L503",
+"start": 13575,
+"end": 13584,
+"text": "Included\n"
+},
+{
+"id": "S1L504",
+"start": 13584,
+"end": 13591,
+"text": "CodeQL\n"
+},
+{
+"id": "S1L505",
+"start": 13591,
+"end": 13678,
+"text": "Uncover vulnerabilities in your code with our industry-leading semantic code analysis.\n"
+},
+{
+"id": "S1L506",
+"start": 13678,
+"end": 13683,
+"text": "Free\n"
+},
+{
+"id": "S1L507",
+"start": 13683,
+"end": 13703,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L508",
+"start": 13703,
+"end": 13708,
+"text": "Team\n"
+},
+{
+"id": "S1L509",
+"start": 13708,
+"end": 13717,
+"text": "Included\n"
+},
+{
+"id": "S1L510",
+"start": 13717,
+"end": 13728,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L511",
+"start": 13728,
+"end": 13737,
+"text": "Included\n"
+},
+{
+"id": "S1L512",
+"start": 13737,
+"end": 13756,
+"text": "Security campaigns\n"
+},
+{
+"id": "S1L513",
+"start": 13756,
+"end": 13838,
+"text": "Reduce security debt and burn down your security backlog with security campaigns.\n"
+},
+{
+"id": "S1L514",
+"start": 13838,
+"end": 13843,
+"text": "Free\n"
+},
+{
+"id": "S1L515",
+"start": 13843,
+"end": 13856,
+"text": "Not included\n"
+},
+{
+"id": "S1L516",
+"start": 13856,
+"end": 13861,
+"text": "Team\n"
+},
+{
+"id": "S1L517",
+"start": 13861,
+"end": 13870,
+"text": "Included\n"
+},
+{
+"id": "S1L518",
+"start": 13870,
+"end": 13881,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L519",
+"start": 13881,
+"end": 13890,
+"text": "Included\n"
+},
+{
+"id": "S1L520",
+"start": 13890,
+"end": 13907,
+"text": "Dependency graph\n"
+},
+{
+"id": "S1L521",
+"start": 13907,
+"end": 14035,
+"text": "Get a clear view of your project’s dependencies with a summary of manifest, lock files, and submitted dependencies via the API.\n"
+},
+{
+"id": "S1L522",
+"start": 14035,
+"end": 14040,
+"text": "Free\n"
+},
+{
+"id": "S1L523",
+"start": 14040,
+"end": 14049,
+"text": "Included\n"
+},
+{
+"id": "S1L524",
+"start": 14049,
+"end": 14054,
+"text": "Team\n"
+},
+{
+"id": "S1L525",
+"start": 14054,
+"end": 14063,
+"text": "Included\n"
+},
+{
+"id": "S1L526",
+"start": 14063,
+"end": 14074,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L527",
+"start": 14074,
+"end": 14083,
+"text": "Included\n"
+},
+{
+"id": "S1L528",
+"start": 14083,
+"end": 14108,
+"text": "Dependency review action\n"
+},
+{
+"id": "S1L529",
+"start": 14108,
+"end": 14206,
+"text": "Catch insecure dependencies before adding them and get insights on licenses, dependents, and age.\n"
+},
+{
+"id": "S1L530",
+"start": 14206,
+"end": 14211,
+"text": "Free\n"
+},
+{
+"id": "S1L531",
+"start": 14211,
+"end": 14224,
+"text": "Not included\n"
+},
+{
+"id": "S1L532",
+"start": 14224,
+"end": 14229,
+"text": "Team\n"
+},
+{
+"id": "S1L533",
+"start": 14229,
+"end": 14238,
+"text": "Included\n"
+},
+{
+"id": "S1L534",
+"start": 14238,
+"end": 14249,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L535",
+"start": 14249,
+"end": 14258,
+"text": "Included\n"
+},
+{
+"id": "S1L536",
+"start": 14258,
+"end": 14294,
+"text": "Dependabot custom auto-triage rules\n"
+},
+{
+"id": "S1L537",
+"start": 14294,
+"end": 14384,
+"text": "Define alert-centric policies to control how Dependabot handles alerts and pull requests.\n"
+},
+{
+"id": "S1L538",
+"start": 14384,
+"end": 14389,
+"text": "Free\n"
+},
+{
+"id": "S1L539",
+"start": 14389,
+"end": 14402,
+"text": "Not included\n"
+},
+{
+"id": "S1L540",
+"start": 14402,
+"end": 14407,
+"text": "Team\n"
+},
+{
+"id": "S1L541",
+"start": 14407,
+"end": 14416,
+"text": "Included\n"
+},
+{
+"id": "S1L542",
+"start": 14416,
+"end": 14427,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L543",
+"start": 14427,
+"end": 14436,
+"text": "Included\n"
+},
+{
+"id": "S1L544",
+"start": 14436,
+"end": 14485,
+"text": "Dependabot security updates with grouped updates\n"
+},
+{
+"id": "S1L545",
+"start": 14485,
+"end": 14566,
+"text": "Automated pull requests that batch dependency updates for known vulnerabilities.\n"
+},
+{
+"id": "S1L546",
+"start": 14566,
+"end": 14571,
+"text": "Free\n"
+},
+{
+"id": "S1L547",
+"start": 14571,
+"end": 14580,
+"text": "Included\n"
+},
+{
+"id": "S1L548",
+"start": 14580,
+"end": 14585,
+"text": "Team\n"
+},
+{
+"id": "S1L549",
+"start": 14585,
+"end": 14594,
+"text": "Included\n"
+},
+{
+"id": "S1L550",
+"start": 14594,
+"end": 14605,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L551",
+"start": 14605,
+"end": 14614,
+"text": "Included\n"
+},
+{
+"id": "S1L552",
+"start": 14614,
+"end": 14641,
+"text": "Dependabot version updates\n"
+},
+{
+"id": "S1L553",
+"start": 14641,
+"end": 14705,
+"text": "Automated pull requests that keep your dependencies up to date.\n"
+},
+{
+"id": "S1L554",
+"start": 14705,
+"end": 14710,
+"text": "Free\n"
+},
+{
+"id": "S1L555",
+"start": 14710,
+"end": 14719,
+"text": "Included\n"
+},
+{
+"id": "S1L556",
+"start": 14719,
+"end": 14724,
+"text": "Team\n"
+},
+{
+"id": "S1L557",
+"start": 14724,
+"end": 14733,
+"text": "Included\n"
+},
+{
+"id": "S1L558",
+"start": 14733,
+"end": 14744,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L559",
+"start": 14744,
+"end": 14753,
+"text": "Included\n"
+},
+{
+"id": "S1L560",
+"start": 14753,
+"end": 14783,
+"text": "Insights in security overview\n"
+},
+{
+"id": "S1L561",
+"start": 14783,
+"end": 14859,
+"text": "Get a clear view of risk distribution with security metrics and dashboards.\n"
+},
+{
+"id": "S1L562",
+"start": 14859,
+"end": 14864,
+"text": "Free\n"
+},
+{
+"id": "S1L563",
+"start": 14864,
+"end": 14877,
+"text": "Not included\n"
+},
+{
+"id": "S1L564",
+"start": 14877,
+"end": 14882,
+"text": "Team\n"
+},
+{
+"id": "S1L565",
+"start": 14882,
+"end": 14891,
+"text": "Included\n"
+},
+{
+"id": "S1L566",
+"start": 14891,
+"end": 14902,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L567",
+"start": 14902,
+"end": 14911,
+"text": "Included\n"
+},
+{
+"id": "S1L568",
+"start": 14911,
+"end": 14944,
+"text": "Platform security and compliance\n"
+},
+{
+"id": "S1L569",
+"start": 14944,
+"end": 14961,
+"text": "Repository rules\n"
+},
+{
+"id": "S1L570",
+"start": 14961,
+"end": 15047,
+"text": "Enforce consistent code standards, security, and compliance across branches and tags.\n"
+},
+{
+"id": "S1L571",
+"start": 15047,
+"end": 15052,
+"text": "Free\n"
+},
+{
+"id": "S1L572",
+"start": 15052,
+"end": 15072,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L573",
+"start": 15072,
+"end": 15077,
+"text": "Team\n"
+},
+{
+"id": "S1L574",
+"start": 15077,
+"end": 15086,
+"text": "Included\n"
+},
+{
+"id": "S1L575",
+"start": 15086,
+"end": 15097,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L576",
+"start": 15097,
+"end": 15106,
+"text": "Included\n"
+},
+{
+"id": "S1L577",
+"start": 15106,
+"end": 15112,
+"text": "SBOMs\n"
+},
+{
+"id": "S1L578",
+"start": 15112,
+"end": 15176,
+"text": "Export a software bill of materials (SBOM) for your repository.\n"
+},
+{
+"id": "S1L579",
+"start": 15176,
+"end": 15181,
+"text": "Free\n"
+},
+{
+"id": "S1L580",
+"start": 15181,
+"end": 15190,
+"text": "Included\n"
+},
+{
+"id": "S1L581",
+"start": 15190,
+"end": 15195,
+"text": "Team\n"
+},
+{
+"id": "S1L582",
+"start": 15195,
+"end": 15204,
+"text": "Included\n"
+},
+{
+"id": "S1L583",
+"start": 15204,
+"end": 15215,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L584",
+"start": 15215,
+"end": 15224,
+"text": "Included\n"
+},
+{
+"id": "S1L585",
+"start": 15224,
+"end": 15246,
+"text": "Artifact attestations\n"
+},
+{
+"id": "S1L586",
+"start": 15246,
+"end": 15311,
+"text": "Ensure unfalsifiable provenance and integrity for your software.\n"
+},
+{
+"id": "S1L587",
+"start": 15311,
+"end": 15316,
+"text": "Free\n"
+},
+{
+"id": "S1L588",
+"start": 15316,
+"end": 15336,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L589",
+"start": 15336,
+"end": 15341,
+"text": "Team\n"
+},
+{
+"id": "S1L590",
+"start": 15341,
+"end": 15361,
+"text": "Public repositories\n"
+},
+{
+"id": "S1L591",
+"start": 15361,
+"end": 15372,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L592",
+"start": 15372,
+"end": 15381,
+"text": "Included\n"
+},
+{
+"id": "S1L593",
+"start": 15381,
+"end": 15408,
+"text": "GitHub Security Advisories\n"
+},
+{
+"id": "S1L594",
+"start": 15408,
+"end": 15413,
+"text": "Free\n"
+},
+{
+"id": "S1L595",
+"start": 15413,
+"end": 15422,
+"text": "Included\n"
+},
+{
+"id": "S1L596",
+"start": 15422,
+"end": 15427,
+"text": "Team\n"
+},
+{
+"id": "S1L597",
+"start": 15427,
+"end": 15436,
+"text": "Included\n"
+},
+{
+"id": "S1L598",
+"start": 15436,
+"end": 15447,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L599",
+"start": 15447,
+"end": 15456,
+"text": "Included\n"
+},
+{
+"id": "S1L600",
+"start": 15456,
+"end": 15482,
+"text": "Role-based access control\n"
+},
+{
+"id": "S1L601",
+"start": 15482,
+"end": 15545,
+"text": "Define users' level of access to your code, data and settings.\n"
+},
+{
+"id": "S1L602",
+"start": 15545,
+"end": 15550,
+"text": "Free\n"
+},
+{
+"id": "S1L603",
+"start": 15550,
+"end": 15559,
+"text": "Included\n"
+},
+{
+"id": "S1L604",
+"start": 15559,
+"end": 15564,
+"text": "Team\n"
+},
+{
+"id": "S1L605",
+"start": 15564,
+"end": 15573,
+"text": "Included\n"
+},
+{
+"id": "S1L606",
+"start": 15573,
+"end": 15584,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L607",
+"start": 15584,
+"end": 15593,
+"text": "Included\n"
+},
+{
+"id": "S1L608",
+"start": 15593,
+"end": 15606,
+"text": "Required 2FA\n"
+},
+{
+"id": "S1L609",
+"start": 15606,
+"end": 15700,
+"text": "Use an extra layer of security with two factor authentication (2FA) when logging into GitHub.\n"
+},
+{
+"id": "S1L610",
+"start": 15700,
+"end": 15705,
+"text": "Free\n"
+},
+{
+"id": "S1L611",
+"start": 15705,
+"end": 15714,
+"text": "Included\n"
+},
+{
+"id": "S1L612",
+"start": 15714,
+"end": 15719,
+"text": "Team\n"
+},
+{
+"id": "S1L613",
+"start": 15719,
+"end": 15728,
+"text": "Included\n"
+},
+{
+"id": "S1L614",
+"start": 15728,
+"end": 15739,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L615",
+"start": 15739,
+"end": 15748,
+"text": "Included\n"
+},
+{
+"id": "S1L616",
+"start": 15748,
+"end": 15758,
+"text": "Audit log\n"
+},
+{
+"id": "S1L617",
+"start": 15758,
+"end": 15828,
+"text": "Quickly review the actions performed by members of your organization.\n"
+},
+{
+"id": "S1L618",
+"start": 15828,
+"end": 15833,
+"text": "Free\n"
+},
+{
+"id": "S1L619",
+"start": 15833,
+"end": 15842,
+"text": "Included\n"
+},
+{
+"id": "S1L620",
+"start": 15842,
+"end": 15847,
+"text": "Team\n"
+},
+{
+"id": "S1L621",
+"start": 15847,
+"end": 15856,
+"text": "Included\n"
+},
+{
+"id": "S1L622",
+"start": 15856,
+"end": 15867,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L623",
+"start": 15867,
+"end": 15876,
+"text": "Included\n"
+},
+{
+"id": "S1L624",
+"start": 15876,
+"end": 15890,
+"text": "Audit log API\n"
+},
+{
+"id": "S1L625",
+"start": 15890,
+"end": 15987,
+"text": "Keep copies of audit log data to ensure secure IP and maintain compliance for your organization.\n"
+},
+{
+"id": "S1L626",
+"start": 15987,
+"end": 15992,
+"text": "Free\n"
+},
+{
+"id": "S1L627",
+"start": 15992,
+"end": 16005,
+"text": "Not included\n"
+},
+{
+"id": "S1L628",
+"start": 16005,
+"end": 16010,
+"text": "Team\n"
+},
+{
+"id": "S1L629",
+"start": 16010,
+"end": 16023,
+"text": "Not included\n"
+},
+{
+"id": "S1L630",
+"start": 16023,
+"end": 16034,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L631",
+"start": 16034,
+"end": 16043,
+"text": "Included\n"
+},
+{
+"id": "S1L632",
+"start": 16043,
+"end": 16058,
+"text": "GitHub Connect\n"
+},
+{
+"id": "S1L633",
+"start": 16058,
+"end": 16163,
+"text": "Share features and workflows between your GitHub Enterprise Server instance and GitHub Enterprise Cloud.\n"
+},
+{
+"id": "S1L634",
+"start": 16163,
+"end": 16168,
+"text": "Free\n"
+},
+{
+"id": "S1L635",
+"start": 16168,
+"end": 16181,
+"text": "Not included\n"
+},
+{
+"id": "S1L636",
+"start": 16181,
+"end": 16186,
+"text": "Team\n"
+},
+{
+"id": "S1L637",
+"start": 16186,
+"end": 16199,
+"text": "Not included\n"
+},
+{
+"id": "S1L638",
+"start": 16199,
+"end": 16210,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L639",
+"start": 16210,
+"end": 16219,
+"text": "Included\n"
+},
+{
+"id": "S1L640",
+"start": 16219,
+"end": 16245,
+"text": "SAML single sign-on (SSO)\n"
+},
+{
+"id": "S1L641",
+"start": 16245,
+"end": 16329,
+"text": "Use an identity provider to manage the identities of GitHub users and applications.\n"
+},
+{
+"id": "S1L642",
+"start": 16329,
+"end": 16334,
+"text": "Free\n"
+},
+{
+"id": "S1L643",
+"start": 16334,
+"end": 16347,
+"text": "Not included\n"
+},
+{
+"id": "S1L644",
+"start": 16347,
+"end": 16352,
+"text": "Team\n"
+},
+{
+"id": "S1L645",
+"start": 16352,
+"end": 16365,
+"text": "Not included\n"
+},
+{
+"id": "S1L646",
+"start": 16365,
+"end": 16376,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L647",
+"start": 16376,
+"end": 16385,
+"text": "Included\n"
+},
+{
+"id": "S1L648",
+"start": 16385,
+"end": 16390,
+"text": "LDAP\n"
+},
+{
+"id": "S1L649",
+"start": 16390,
+"end": 16491,
+"text": "Access GitHub Enterprise Server using your existing accounts and centrally manage repository access.\n"
+},
+{
+"id": "S1L650",
+"start": 16491,
+"end": 16496,
+"text": "Free\n"
+},
+{
+"id": "S1L651",
+"start": 16496,
+"end": 16509,
+"text": "Not included\n"
+},
+{
+"id": "S1L652",
+"start": 16509,
+"end": 16514,
+"text": "Team\n"
+},
+{
+"id": "S1L653",
+"start": 16514,
+"end": 16527,
+"text": "Not included\n"
+},
+{
+"id": "S1L654",
+"start": 16527,
+"end": 16538,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L655",
+"start": 16538,
+"end": 16547,
+"text": "Included\n"
+},
+{
+"id": "S1L656",
+"start": 16547,
+"end": 16561,
+"text": "IP allow list\n"
+},
+{
+"id": "S1L657",
+"start": 16561,
+"end": 16605,
+"text": "Limit access to known allowed IP addresses.\n"
+},
+{
+"id": "S1L658",
+"start": 16605,
+"end": 16610,
+"text": "Free\n"
+},
+{
+"id": "S1L659",
+"start": 16610,
+"end": 16623,
+"text": "Not included\n"
+},
+{
+"id": "S1L660",
+"start": 16623,
+"end": 16628,
+"text": "Team\n"
+},
+{
+"id": "S1L661",
+"start": 16628,
+"end": 16641,
+"text": "Not included\n"
+},
+{
+"id": "S1L662",
+"start": 16641,
+"end": 16652,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L663",
+"start": 16652,
+"end": 16669,
+"text": "Enterprise Cloud\n"
+},
+{
+"id": "S1L664",
+"start": 16669,
+"end": 16698,
+"text": "Marketplace and integrations\n"
+},
+{
+"id": "S1L665",
+"start": 16698,
+"end": 16710,
+"text": "GitHub Apps\n"
+},
+{
+"id": "S1L666",
+"start": 16710,
+"end": 16876,
+"text": "Install apps that integrate directly with GitHub's API to improve development workflows – or build your own for private use or publication in the GitHub Marketplace.\n"
+},
+{
+"id": "S1L667",
+"start": 16876,
+"end": 16881,
+"text": "Free\n"
+},
+{
+"id": "S1L668",
+"start": 16881,
+"end": 16891,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L669",
+"start": 16891,
+"end": 16896,
+"text": "Team\n"
+},
+{
+"id": "S1L670",
+"start": 16896,
+"end": 16906,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L671",
+"start": 16906,
+"end": 16917,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L672",
+"start": 16917,
+"end": 16927,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L673",
+"start": 16927,
+"end": 16941,
+"text": "Status checks\n"
+},
+{
+"id": "S1L674",
+"start": 16941,
+"end": 17091,
+"text": "Define tests that GitHub automatically runs against code being committed to your repository, and get details about failures and what is causing them.\n"
+},
+{
+"id": "S1L675",
+"start": 17091,
+"end": 17096,
+"text": "Free\n"
+},
+{
+"id": "S1L676",
+"start": 17096,
+"end": 17105,
+"text": "Included\n"
+},
+{
+"id": "S1L677",
+"start": 17105,
+"end": 17110,
+"text": "Team\n"
+},
+{
+"id": "S1L678",
+"start": 17110,
+"end": 17119,
+"text": "Included\n"
+},
+{
+"id": "S1L679",
+"start": 17119,
+"end": 17130,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L680",
+"start": 17130,
+"end": 17139,
+"text": "Included\n"
+},
+{
+"id": "S1L681",
+"start": 17139,
+"end": 17157,
+"text": "Pre-receive hooks\n"
+},
+{
+"id": "S1L682",
+"start": 17157,
+"end": 17260,
+"text": "Create requirements for automatically accepting or rejecting a push based on the contents of the push.\n"
+},
+{
+"id": "S1L683",
+"start": 17260,
+"end": 17265,
+"text": "Free\n"
+},
+{
+"id": "S1L684",
+"start": 17265,
+"end": 17278,
+"text": "Not included\n"
+},
+{
+"id": "S1L685",
+"start": 17278,
+"end": 17283,
+"text": "Team\n"
+},
+{
+"id": "S1L686",
+"start": 17283,
+"end": 17296,
+"text": "Not included\n"
+},
+{
+"id": "S1L687",
+"start": 17296,
+"end": 17307,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L688",
+"start": 17307,
+"end": 17325,
+"text": "Enterprise Server\n"
+},
+{
+"id": "S1L689",
+"start": 17325,
+"end": 17348,
+"text": "Support and deployment\n"
+},
+{
+"id": "S1L690",
+"start": 17348,
+"end": 17366,
+"text": "Community Support\n"
+},
+{
+"id": "S1L691",
+"start": 17366,
+"end": 17445,
+"text": "Get help with most of your GitHub questions and issues in our Community Forum.\n"
+},
+{
+"id": "S1L692",
+"start": 17445,
+"end": 17450,
+"text": "Free\n"
+},
+{
+"id": "S1L693",
+"start": 17450,
+"end": 17459,
+"text": "Included\n"
+},
+{
+"id": "S1L694",
+"start": 17459,
+"end": 17464,
+"text": "Team\n"
+},
+{
+"id": "S1L695",
+"start": 17464,
+"end": 17473,
+"text": "Included\n"
+},
+{
+"id": "S1L696",
+"start": 17473,
+"end": 17484,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L697",
+"start": 17484,
+"end": 17493,
+"text": "Included\n"
+},
+{
+"id": "S1L698",
+"start": 17493,
+"end": 17510,
+"text": "Standard Support\n"
+},
+{
+"id": "S1L699",
+"start": 17510,
+"end": 17616,
+"text": "GitHub Support can help you troubleshoot issues you run into while using GitHub. Get support via the web.\n"
+},
+{
+"id": "S1L700",
+"start": 17616,
+"end": 17621,
+"text": "Free\n"
+},
+{
+"id": "S1L701",
+"start": 17621,
+"end": 17634,
+"text": "Not included\n"
+},
+{
+"id": "S1L702",
+"start": 17634,
+"end": 17639,
+"text": "Team\n"
+},
+{
+"id": "S1L703",
+"start": 17639,
+"end": 17648,
+"text": "Included\n"
+},
+{
+"id": "S1L704",
+"start": 17648,
+"end": 17659,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L705",
+"start": 17659,
+"end": 17668,
+"text": "Included\n"
+},
+{
+"id": "S1L706",
+"start": 17668,
+"end": 17701,
+"text": "Premium and Premium Plus Support\n"
+},
+{
+"id": "S1L707",
+"start": 17701,
+"end": 17901,
+"text": "With Premium, get a 30-minute SLA on Urgent tickets and 24/7 web and phone support via callback request. With Premium Plus, get everything in Premium, assigned Customer Reliability Engineer and more.\n"
+},
+{
+"id": "S1L708",
+"start": 17901,
+"end": 17934,
+"text": "Learn more about Premium Support\n"
+},
+{
+"id": "S1L709",
+"start": 17934,
+"end": 17939,
+"text": "Free\n"
+},
+{
+"id": "S1L710",
+"start": 17939,
+"end": 17952,
+"text": "Not included\n"
+},
+{
+"id": "S1L711",
+"start": 17952,
+"end": 17957,
+"text": "Team\n"
+},
+{
+"id": "S1L712",
+"start": 17957,
+"end": 17970,
+"text": "Not included\n"
+},
+{
+"id": "S1L713",
+"start": 17970,
+"end": 17981,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L714",
+"start": 17981,
+"end": 17991,
+"text": "Available\n"
+},
+{
+"id": "S1L715",
+"start": 17991,
+"end": 18007,
+"text": "Invoice billing\n"
+},
+{
+"id": "S1L716",
+"start": 18007,
+"end": 18066,
+"text": "Pay bills via invoice, rather than using your credit card.\n"
+},
+{
+"id": "S1L717",
+"start": 18066,
+"end": 18071,
+"text": "Free\n"
+},
+{
+"id": "S1L718",
+"start": 18071,
+"end": 18084,
+"text": "Not included\n"
+},
+{
+"id": "S1L719",
+"start": 18084,
+"end": 18089,
+"text": "Team\n"
+},
+{
+"id": "S1L720",
+"start": 18089,
+"end": 18102,
+"text": "Not included\n"
+},
+{
+"id": "S1L721",
+"start": 18102,
+"end": 18113,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L722",
+"start": 18113,
+"end": 18122,
+"text": "Included\n"
+},
+{
+"id": "S1L723",
+"start": 18122,
+"end": 18145,
+"text": "Self-hosted deployment\n"
+},
+{
+"id": "S1L724",
+"start": 18145,
+"end": 18218,
+"text": "Self-hosted GitHub for on-prem appliances or self-managed cloud tenants.\n"
+},
+{
+"id": "S1L725",
+"start": 18218,
+"end": 18223,
+"text": "Free\n"
+},
+{
+"id": "S1L726",
+"start": 18223,
+"end": 18236,
+"text": "Not included\n"
+},
+{
+"id": "S1L727",
+"start": 18236,
+"end": 18241,
+"text": "Team\n"
+},
+{
+"id": "S1L728",
+"start": 18241,
+"end": 18254,
+"text": "Not included\n"
+},
+{
+"id": "S1L729",
+"start": 18254,
+"end": 18265,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L730",
+"start": 18265,
+"end": 18283,
+"text": "Enterprise Server\n"
+},
+{
+"id": "S1L731",
+"start": 18283,
+"end": 18298,
+"text": "Data residency\n"
+},
+{
+"id": "S1L732",
+"start": 18298,
+"end": 18610,
+"text": "Multi-tenant enterprise SaaS solution on Microsoft Azure, allowing you to choose a regional cloud deployment for data residency, so your in-scope data is stored at rest in a designated location. This is available in the EU and Australia with additional regions coming soon. Contact our sales team to learn more.\n"
+},
+{
+"id": "S1L733",
+"start": 18610,
+"end": 18615,
+"text": "Free\n"
+},
+{
+"id": "S1L734",
+"start": 18615,
+"end": 18628,
+"text": "Not included\n"
+},
+{
+"id": "S1L735",
+"start": 18628,
+"end": 18633,
+"text": "Team\n"
+},
+{
+"id": "S1L736",
+"start": 18633,
+"end": 18646,
+"text": "Not included\n"
+},
+{
+"id": "S1L737",
+"start": 18646,
+"end": 18657,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L738",
+"start": 18657,
+"end": 18674,
+"text": "Enterprise Cloud\n"
+},
+{
+"id": "S1L739",
+"start": 18674,
+"end": 18716,
+"text": "We love people who are changing the world\n"
+},
+{
+"id": "S1L740",
+"start": 18716,
+"end": 18734,
+"text": "Open source teams\n"
+},
+{
+"id": "S1L741",
+"start": 18734,
+"end": 18853,
+"text": "If you manage multiple contributors, there’s a free option. We also run GitHub Sponsors, where we help fund your work.\n"
+},
+{
+"id": "S1L742",
+"start": 18853,
+"end": 18864,
+"text": "Learn more\n"
+},
+{
+"id": "S1L743",
+"start": 18864,
+"end": 18886,
+"text": "Students and teachers\n"
+},
+{
+"id": "S1L744",
+"start": 18886,
+"end": 19026,
+"text": "We’ve partnered with industry leaders to give students and teachers free access to the best developer tools—for the school year and beyond.\n"
+},
+{
+"id": "S1L745",
+"start": 19026,
+"end": 19037,
+"text": "Learn more\n"
+},
+{
+"id": "S1L746",
+"start": 19037,
+"end": 19048,
+"text": "Nonprofits\n"
+},
+{
+"id": "S1L747",
+"start": 19048,
+"end": 19156,
+"text": "Work for a government-recognized nonprofit, association, or 501(c)(3)? Get a discounted Organization on us.\n"
+},
+{
+"id": "S1L748",
+"start": 19156,
+"end": 19167,
+"text": "Learn more\n"
+},
+{
+"id": "S1L749",
+"start": 19167,
+"end": 19183,
+"text": "Site-wide Links\n"
+},
+{
+"id": "S1L750",
+"start": 19183,
+"end": 19208,
+"text": "The developer newsletter\n"
+},
+{
+"id": "S1L751",
+"start": 19208,
+"end": 19292,
+"text": "Get tips, technical guides, and best practices. Twice a month. Right in your inbox.\n"
+},
+{
+"id": "S1L752",
+"start": 19292,
+"end": 19302,
+"text": "Subscribe\n"
+},
+{
+"id": "S1L753",
+"start": 19302,
+"end": 19311,
+"text": "Products\n"
+},
+{
+"id": "S1L754",
+"start": 19311,
+"end": 19318,
+"text": "GitHub\n"
+},
+{
+"id": "S1L755",
+"start": 19318,
+"end": 19326,
+"text": "Actions\n"
+},
+{
+"id": "S1L756",
+"start": 19326,
+"end": 19339,
+"text": "Code Quality\n"
+},
+{
+"id": "S1L757",
+"start": 19339,
+"end": 19347,
+"text": "Copilot\n"
+},
+{
+"id": "S1L758",
+"start": 19347,
+"end": 19358,
+"text": "Codespaces\n"
+},
+{
+"id": "S1L759",
+"start": 19358,
+"end": 19372,
+"text": "Code Security\n"
+},
+{
+"id": "S1L760",
+"start": 19372,
+"end": 19390,
+"text": "Secret Protection\n"
+},
+{
+"id": "S1L761",
+"start": 19390,
+"end": 19398,
+"text": "Pricing\n"
+},
+{
+"id": "S1L762",
+"start": 19398,
+"end": 19403,
+"text": "Team\n"
+},
+{
+"id": "S1L763",
+"start": 19403,
+"end": 19413,
+"text": "Resources\n"
+},
+{
+"id": "S1L764",
+"start": 19413,
+"end": 19421,
+"text": "Roadmap\n"
+},
+{
+"id": "S1L765",
+"start": 19421,
+"end": 19436,
+"text": "Compare GitHub\n"
+},
+{
+"id": "S1L766",
+"start": 19436,
+"end": 19449,
+"text": "All Features\n"
+},
+{
+"id": "S1L767",
+"start": 19449,
+"end": 19460,
+"text": "Developers\n"
+},
+{
+"id": "S1L768",
+"start": 19460,
+"end": 19474,
+"text": "Developer API\n"
+},
+{
+"id": "S1L769",
+"start": 19474,
+"end": 19484,
+"text": "Education\n"
+},
+{
+"id": "S1L770",
+"start": 19484,
+"end": 19495,
+"text": "GitHub CLI\n"
+},
+{
+"id": "S1L771",
+"start": 19495,
+"end": 19510,
+"text": "GitHub Desktop\n"
+},
+{
+"id": "S1L772",
+"start": 19510,
+"end": 19524,
+"text": "GitHub Mobile\n"
+},
+{
+"id": "S1L773",
+"start": 19524,
+"end": 19537,
+"text": "Integrations\n"
+},
+{
+"id": "S1L774",
+"start": 19537,
+"end": 19550,
+"text": "MCP Registry\n"
+},
+{
+"id": "S1L775",
+"start": 19550,
+"end": 19559,
+"text": "Training\n"
+},
+{
+"id": "S1L776",
+"start": 19559,
+"end": 19578,
+"text": "Build with Copilot\n"
+},
+{
+"id": "S1L777",
+"start": 19578,
+"end": 19586,
+"text": "Support\n"
+},
+{
+"id": "S1L778",
+"start": 19586,
+"end": 19591,
+"text": "Docs\n"
+},
+{
+"id": "S1L779",
+"start": 19591,
+"end": 19607,
+"text": "Community Forum\n"
+},
+{
+"id": "S1L780",
+"start": 19607,
+"end": 19629,
+"text": "Professional Services\n"
+},
+{
+"id": "S1L781",
+"start": 19629,
+"end": 19645,
+"text": "Premium Support\n"
+},
+{
+"id": "S1L782",
+"start": 19645,
+"end": 19659,
+"text": "GitHub Status\n"
+},
+{
+"id": "S1L783",
+"start": 19659,
+"end": 19674,
+"text": "Contact GitHub\n"
+},
+{
+"id": "S1L784",
+"start": 19674,
+"end": 19682,
+"text": "Sitemap\n"
+},
+{
+"id": "S1L785",
+"start": 19682,
+"end": 19690,
+"text": "Company\n"
+},
+{
+"id": "S1L786",
+"start": 19690,
+"end": 19696,
+"text": "About\n"
+},
+{
+"id": "S1L787",
+"start": 19696,
+"end": 19707,
+"text": "Why GitHub\n"
+},
+{
+"id": "S1L788",
+"start": 19707,
+"end": 19724,
+"text": "Customer Stories\n"
+},
+{
+"id": "S1L789",
+"start": 19724,
+"end": 19729,
+"text": "Blog\n"
+},
+{
+"id": "S1L790",
+"start": 19729,
+"end": 19737,
+"text": "Careers\n"
+},
+{
+"id": "S1L791",
+"start": 19737,
+"end": 19747,
+"text": "Inclusion\n"
+},
+{
+"id": "S1L792",
+"start": 19747,
+"end": 19756,
+"text": "Partners\n"
+},
+{
+"id": "S1L793",
+"start": 19756,
+"end": 19770,
+"text": "Social Impact\n"
+},
+{
+"id": "S1L794",
+"start": 19770,
+"end": 19775,
+"text": "Shop\n"
+},
+{
+"id": "S1L795",
+"start": 19775,
+"end": 19788,
+"text": "What is Git?\n"
+},
+{
+"id": "S1L796",
+"start": 19788,
+"end": 19808,
+"text": "© 2026 GitHub, Inc.\n"
+},
+{
+"id": "S1L797",
+"start": 19808,
+"end": 19814,
+"text": "Terms\n"
+},
+{
+"id": "S1L798",
+"start": 19814,
+"end": 19822,
+"text": "Privacy\n"
+},
+{
+"id": "S1L799",
+"start": 19822,
+"end": 19837,
+"text": "Manage cookies\n"
+},
+{
+"id": "S1L800",
+"start": 19837,
+"end": 19874,
+"text": "Do not share my personal information\n"
+},
+{
+"id": "S1L801",
+"start": 19874,
+"end": 19893,
+"text": "GitHub on LinkedIn\n"
+},
+{
+"id": "S1L802",
+"start": 19893,
+"end": 19913,
+"text": "GitHub on Instagram\n"
+},
+{
+"id": "S1L803",
+"start": 19913,
+"end": 19931,
+"text": "GitHub on YouTube\n"
+},
+{
+"id": "S1L804",
+"start": 19931,
+"end": 19943,
+"text": "GitHub on X\n"
+},
+{
+"id": "S1L805",
+"start": 19943,
+"end": 19960,
+"text": "GitHub on TikTok\n"
+},
+{
+"id": "S1L806",
+"start": 19960,
+"end": 19977,
+"text": "GitHub on Twitch\n"
+},
+{
+"id": "S1L807",
+"start": 19977,
+"end": 20009,
+"text": "GitHub’s organization on GitHub\n"
+},
+{
+"id": "S1L808",
+"start": 20009,
+"end": 20017,
+"text": "English\n"
+},
+{
+"id": "S1L809",
+"start": 20017,
+"end": 20060,
+"text": "You can’t perform that action at this time."
+}
+]
+}

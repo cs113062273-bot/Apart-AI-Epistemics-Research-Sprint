@@ -1,0 +1,3054 @@
+{
+"page": "Supabase pricing",
+"url": "https://supabase.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 16,
+"text": "Skip to content\n"
+},
+{
+"id": "S1L2",
+"start": 16,
+"end": 24,
+"text": "Product\n"
+},
+{
+"id": "S1L3",
+"start": 24,
+"end": 35,
+"text": "Developers\n"
+},
+{
+"id": "S1L4",
+"start": 35,
+"end": 45,
+"text": "Solutions\n"
+},
+{
+"id": "S1L5",
+"start": 45,
+"end": 53,
+"text": "Pricing\n"
+},
+{
+"id": "S1L6",
+"start": 53,
+"end": 58,
+"text": "Docs\n"
+},
+{
+"id": "S1L7",
+"start": 58,
+"end": 63,
+"text": "Blog\n"
+},
+{
+"id": "S1L8",
+"start": 63,
+"end": 97,
+"text": "114.9K Sign in Start your project\n"
+},
+{
+"id": "S1L9",
+"start": 97,
+"end": 107,
+"text": "Main menu\n"
+},
+{
+"id": "S1L10",
+"start": 107,
+"end": 154,
+"text": "Product Developers Solutions Pricing Docs Blog\n"
+},
+{
+"id": "S1L11",
+"start": 154,
+"end": 162,
+"text": "Product\n"
+},
+{
+"id": "S1L12",
+"start": 162,
+"end": 171,
+"text": "Database\n"
+},
+{
+"id": "S1L13",
+"start": 171,
+"end": 204,
+"text": "Fully portable Postgres database\n"
+},
+{
+"id": "S1L14",
+"start": 204,
+"end": 219,
+"text": "Authentication\n"
+},
+{
+"id": "S1L15",
+"start": 219,
+"end": 250,
+"text": "User Management out of the box\n"
+},
+{
+"id": "S1L16",
+"start": 250,
+"end": 258,
+"text": "Storage\n"
+},
+{
+"id": "S1L17",
+"start": 258,
+"end": 291,
+"text": "Serverless storage for any media\n"
+},
+{
+"id": "S1L18",
+"start": 291,
+"end": 306,
+"text": "Edge Functions\n"
+},
+{
+"id": "S1L19",
+"start": 306,
+"end": 339,
+"text": "Deploy code globally on the edge\n"
+},
+{
+"id": "S1L20",
+"start": 339,
+"end": 347,
+"text": "Compute\n"
+},
+{
+"id": "S1L21",
+"start": 347,
+"end": 361,
+"text": "Private Alpha\n"
+},
+{
+"id": "S1L22",
+"start": 361,
+"end": 392,
+"text": "Sandboxes and backend services\n"
+},
+{
+"id": "S1L23",
+"start": 392,
+"end": 401,
+"text": "Realtime\n"
+},
+{
+"id": "S1L24",
+"start": 401,
+"end": 434,
+"text": "Synchronize and broadcast events\n"
+},
+{
+"id": "S1L25",
+"start": 434,
+"end": 442,
+"text": "Modules\n"
+},
+{
+"id": "S1L26",
+"start": 442,
+"end": 449,
+"text": "Vector\n"
+},
+{
+"id": "S1L27",
+"start": 449,
+"end": 481,
+"text": "AI toolkit to manage embeddings\n"
+},
+{
+"id": "S1L28",
+"start": 481,
+"end": 486,
+"text": "Cron\n"
+},
+{
+"id": "S1L29",
+"start": 486,
+"end": 521,
+"text": "Schedule and manage recurring Jobs\n"
+},
+{
+"id": "S1L30",
+"start": 521,
+"end": 528,
+"text": "Queues\n"
+},
+{
+"id": "S1L31",
+"start": 528,
+"end": 576,
+"text": "Durable Message Queues with guaranteed delivery\n"
+},
+{
+"id": "S1L32",
+"start": 576,
+"end": 630,
+"text": "Features Explore everything you can do with Supabase.\n"
+},
+{
+"id": "S1L33",
+"start": 630,
+"end": 651,
+"text": "Predictable pricing,\n"
+},
+{
+"id": "S1L34",
+"start": 651,
+"end": 669,
+"text": "designed to scale\n"
+},
+{
+"id": "S1L35",
+"start": 669,
+"end": 754,
+"text": "Start building for free, collaborate with your team, then scale to millions of users\n"
+},
+{
+"id": "S1L36",
+"start": 754,
+"end": 763,
+"text": "AI tools\n"
+},
+{
+"id": "S1L37",
+"start": 763,
+"end": 803,
+"text": "Copy as Markdown Ask ChatGPT Ask Claude\n"
+},
+{
+"id": "S1L38",
+"start": 803,
+"end": 808,
+"text": "Free\n"
+},
+{
+"id": "S1L39",
+"start": 808,
+"end": 856,
+"text": "Perfect for passion projects & simple websites.\n"
+},
+{
+"id": "S1L40",
+"start": 856,
+"end": 871,
+"text": "Start for Free\n"
+},
+{
+"id": "S1L41",
+"start": 871,
+"end": 882,
+"text": "$0 / month\n"
+},
+{
+"id": "S1L42",
+"start": 882,
+"end": 900,
+"text": "Get started with:\n"
+},
+{
+"id": "S1L43",
+"start": 900,
+"end": 923,
+"text": "Unlimited API requests\n"
+},
+{
+"id": "S1L44",
+"start": 923,
+"end": 951,
+"text": "50,000 monthly active users\n"
+},
+{
+"id": "S1L45",
+"start": 951,
+"end": 972,
+"text": "500 MB database size\n"
+},
+{
+"id": "S1L46",
+"start": 972,
+"end": 996,
+"text": "Shared CPU • 500 MB RAM\n"
+},
+{
+"id": "S1L47",
+"start": 996,
+"end": 1008,
+"text": "5 GB egress\n"
+},
+{
+"id": "S1L48",
+"start": 1008,
+"end": 1027,
+"text": "5 GB cached egress\n"
+},
+{
+"id": "S1L49",
+"start": 1027,
+"end": 1045,
+"text": "1 GB file storage\n"
+},
+{
+"id": "S1L50",
+"start": 1045,
+"end": 1063,
+"text": "Community support\n"
+},
+{
+"id": "S1L51",
+"start": 1063,
+"end": 1144,
+"text": "Free projects are paused after 1 week of inactivity. Limit of 2 active projects.\n"
+},
+{
+"id": "S1L52",
+"start": 1144,
+"end": 1148,
+"text": "Pro\n"
+},
+{
+"id": "S1L53",
+"start": 1148,
+"end": 1161,
+"text": "Most Popular\n"
+},
+{
+"id": "S1L54",
+"start": 1161,
+"end": 1214,
+"text": "For production applications with the power to scale.\n"
+},
+{
+"id": "S1L55",
+"start": 1214,
+"end": 1226,
+"text": "Get Started\n"
+},
+{
+"id": "S1L56",
+"start": 1226,
+"end": 1231,
+"text": "From\n"
+},
+{
+"id": "S1L57",
+"start": 1231,
+"end": 1243,
+"text": "$25 / month\n"
+},
+{
+"id": "S1L58",
+"start": 1243,
+"end": 1323,
+"text": "First project included. Additional projects from $10/mo. See how pricing scales\n"
+},
+{
+"id": "S1L59",
+"start": 1323,
+"end": 1358,
+"text": "Everything in the Free Plan, plus:\n"
+},
+{
+"id": "S1L60",
+"start": 1358,
+"end": 1387,
+"text": "100,000 monthly active users\n"
+},
+{
+"id": "S1L61",
+"start": 1387,
+"end": 1409,
+"text": "then $0.00325 per MAU\n"
+},
+{
+"id": "S1L62",
+"start": 1409,
+"end": 1436,
+"text": "8 GB disk size per project\n"
+},
+{
+"id": "S1L63",
+"start": 1436,
+"end": 1455,
+"text": "then $0.125 per GB\n"
+},
+{
+"id": "S1L64",
+"start": 1455,
+"end": 1469,
+"text": "250 GB egress\n"
+},
+{
+"id": "S1L65",
+"start": 1469,
+"end": 1487,
+"text": "then $0.09 per GB\n"
+},
+{
+"id": "S1L66",
+"start": 1487,
+"end": 1508,
+"text": "250 GB cached egress\n"
+},
+{
+"id": "S1L67",
+"start": 1508,
+"end": 1526,
+"text": "then $0.03 per GB\n"
+},
+{
+"id": "S1L68",
+"start": 1526,
+"end": 1546,
+"text": "100 GB file storage\n"
+},
+{
+"id": "S1L69",
+"start": 1546,
+"end": 1566,
+"text": "then $0.0213 per GB\n"
+},
+{
+"id": "S1L70",
+"start": 1566,
+"end": 1580,
+"text": "Email support\n"
+},
+{
+"id": "S1L71",
+"start": 1580,
+"end": 1612,
+"text": "Daily backups stored for 7 days\n"
+},
+{
+"id": "S1L72",
+"start": 1612,
+"end": 1632,
+"text": "7-day log retention\n"
+},
+{
+"id": "S1L73",
+"start": 1632,
+"end": 1647,
+"text": "Add Log Drains\n"
+},
+{
+"id": "S1L74",
+"start": 1647,
+"end": 1685,
+"text": "additional $60 per drain, per project\n"
+},
+{
+"id": "S1L75",
+"start": 1685,
+"end": 1690,
+"text": "Team\n"
+},
+{
+"id": "S1L76",
+"start": 1690,
+"end": 1767,
+"text": "Add features such as SSO, control over backups, and industry certifications.\n"
+},
+{
+"id": "S1L77",
+"start": 1767,
+"end": 1779,
+"text": "Get Started\n"
+},
+{
+"id": "S1L78",
+"start": 1779,
+"end": 1784,
+"text": "From\n"
+},
+{
+"id": "S1L79",
+"start": 1784,
+"end": 1797,
+"text": "$599 / month\n"
+},
+{
+"id": "S1L80",
+"start": 1797,
+"end": 1877,
+"text": "First project included. Additional projects from $10/mo. See how pricing scales\n"
+},
+{
+"id": "S1L81",
+"start": 1877,
+"end": 1911,
+"text": "Everything in the Pro Plan, plus:\n"
+},
+{
+"id": "S1L82",
+"start": 1911,
+"end": 1928,
+"text": "SOC2 & ISO 27001\n"
+},
+{
+"id": "S1L83",
+"start": 1928,
+"end": 1964,
+"text": "Project-scoped and read-only access\n"
+},
+{
+"id": "S1L84",
+"start": 1964,
+"end": 1995,
+"text": "HIPAA available as paid add-on\n"
+},
+{
+"id": "S1L85",
+"start": 1995,
+"end": 2022,
+"text": "SSO for Supabase Dashboard\n"
+},
+{
+"id": "S1L86",
+"start": 2022,
+"end": 2052,
+"text": "Priority email support & SLAs\n"
+},
+{
+"id": "S1L87",
+"start": 2052,
+"end": 2085,
+"text": "Daily backups stored for 14 days\n"
+},
+{
+"id": "S1L88",
+"start": 2085,
+"end": 2106,
+"text": "28-day log retention\n"
+},
+{
+"id": "S1L89",
+"start": 2106,
+"end": 2117,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L90",
+"start": 2117,
+"end": 2180,
+"text": "For large-scale applications running Internet scale workloads.\n"
+},
+{
+"id": "S1L91",
+"start": 2180,
+"end": 2191,
+"text": "Contact us\n"
+},
+{
+"id": "S1L92",
+"start": 2191,
+"end": 2198,
+"text": "Custom\n"
+},
+{
+"id": "S1L93",
+"start": 2198,
+"end": 2227,
+"text": "Technical Account Management\n"
+},
+{
+"id": "S1L94",
+"start": 2227,
+"end": 2239,
+"text": "Uptime SLAs\n"
+},
+{
+"id": "S1L95",
+"start": 2239,
+"end": 2264,
+"text": "Supports AWS PrivateLink\n"
+},
+{
+"id": "S1L96",
+"start": 2264,
+"end": 2300,
+"text": "24×7×365 premium enterprise support\n"
+},
+{
+"id": "S1L97",
+"start": 2300,
+"end": 2322,
+"text": "Private Slack channel\n"
+},
+{
+"id": "S1L98",
+"start": 2322,
+"end": 2353,
+"text": "Custom Security Questionnaires\n"
+},
+{
+"id": "S1L99",
+"start": 2353,
+"end": 2367,
+"text": "Compare Plans\n"
+},
+{
+"id": "S1L100",
+"start": 2367,
+"end": 2391,
+"text": "Learn how billing works\n"
+},
+{
+"id": "S1L101",
+"start": 2391,
+"end": 2417,
+"text": "How compute pricing works\n"
+},
+{
+"id": "S1L102",
+"start": 2417,
+"end": 2470,
+"text": "Choose a plan, add projects, and see your total cost\n"
+},
+{
+"id": "S1L103",
+"start": 2470,
+"end": 2503,
+"text": "What is “compute”? About compute\n"
+},
+{
+"id": "S1L104",
+"start": 2503,
+"end": 2523,
+"text": "1. Choose your plan\n"
+},
+{
+"id": "S1L105",
+"start": 2523,
+"end": 2532,
+"text": "Pro Team\n"
+},
+{
+"id": "S1L106",
+"start": 2532,
+"end": 2536,
+"text": "Pro\n"
+},
+{
+"id": "S1L107",
+"start": 2536,
+"end": 2547,
+"text": "$25 /month\n"
+},
+{
+"id": "S1L108",
+"start": 2547,
+"end": 2582,
+"text": "Everything in the Free Plan, plus:\n"
+},
+{
+"id": "S1L109",
+"start": 2582,
+"end": 2608,
+"text": "100K monthly active users\n"
+},
+{
+"id": "S1L110",
+"start": 2608,
+"end": 2635,
+"text": "8 GB disk size per project\n"
+},
+{
+"id": "S1L111",
+"start": 2635,
+"end": 2652,
+"text": "250 GB bandwidth\n"
+},
+{
+"id": "S1L112",
+"start": 2652,
+"end": 2684,
+"text": "Daily backups (7 day retention)\n"
+},
+{
+"id": "S1L113",
+"start": 2684,
+"end": 2698,
+"text": "Email support\n"
+},
+{
+"id": "S1L114",
+"start": 2698,
+"end": 2780,
+"text": "Paid plans include $10/mo in compute credits, enough to cover one Micro instance.\n"
+},
+{
+"id": "S1L115",
+"start": 2780,
+"end": 2819,
+"text": "2. Configure compute for your projects\n"
+},
+{
+"id": "S1L116",
+"start": 2819,
+"end": 2882,
+"text": "Add projects and adjust compute to estimate your monthly cost.\n"
+},
+{
+"id": "S1L117",
+"start": 2882,
+"end": 2900,
+"text": "Monthly estimate:\n"
+},
+{
+"id": "S1L118",
+"start": 2900,
+"end": 2922,
+"text": "Plan subscription $25\n"
+},
+{
+"id": "S1L119",
+"start": 2922,
+"end": 2940,
+"text": "Total Compute $10\n"
+},
+{
+"id": "S1L120",
+"start": 2940,
+"end": 2962,
+"text": "Compute Credits - $10\n"
+},
+{
+"id": "S1L121",
+"start": 2962,
+"end": 2992,
+"text": "Total About this estimate $25\n"
+},
+{
+"id": "S1L122",
+"start": 2992,
+"end": 2998,
+"text": "Micro\n"
+},
+{
+"id": "S1L123",
+"start": 2998,
+"end": 3008,
+"text": "Project 1\n"
+},
+{
+"id": "S1L124",
+"start": 3008,
+"end": 3012,
+"text": "$10\n"
+},
+{
+"id": "S1L125",
+"start": 3012,
+"end": 3027,
+"text": "Drag to adjust\n"
+},
+{
+"id": "S1L126",
+"start": 3027,
+"end": 3090,
+"text": "1 GB RAM / Shared compute / Connections: Direct 60, Pooler 200\n"
+},
+{
+"id": "S1L127",
+"start": 3090,
+"end": 3102,
+"text": "Add Project\n"
+},
+{
+"id": "S1L128",
+"start": 3102,
+"end": 3125,
+"text": "Starts from $10 /month\n"
+},
+{
+"id": "S1L129",
+"start": 3125,
+"end": 3145,
+"text": "Scale compute up to\n"
+},
+{
+"id": "S1L130",
+"start": 3145,
+"end": 3169,
+"text": "64 vCPUs and 256 GB RAM\n"
+},
+{
+"id": "S1L131",
+"start": 3169,
+"end": 3197,
+"text": "Learn about Compute add-ons\n"
+},
+{
+"id": "S1L132",
+"start": 3197,
+"end": 3285,
+"text": "Compute Size | Price USD | Compute | Memory | Connections: Direct | Connections: Pooler\n"
+},
+{
+"id": "S1L133",
+"start": 3285,
+"end": 3322,
+"text": "First instance is free on paid plans\n"
+},
+{
+"id": "S1L134",
+"start": 3322,
+"end": 3369,
+"text": "Micro | $10 | Shared compute | 1 GB | 60 | 200\n"
+},
+{
+"id": "S1L135",
+"start": 3369,
+"end": 3416,
+"text": "Small | $15 | Shared compute | 2 GB | 90 | 400\n"
+},
+{
+"id": "S1L136",
+"start": 3416,
+"end": 3465,
+"text": "Medium | $60 | Shared compute | 4 GB | 120 | 600\n"
+},
+{
+"id": "S1L137",
+"start": 3465,
+"end": 3519,
+"text": "Large | $110 | Dedicated · 2 vCPUs | 8 GB | 160 | 800\n"
+},
+{
+"id": "S1L138",
+"start": 3519,
+"end": 3573,
+"text": "XL | $210 | Dedicated · 4 vCPUs | 16 GB | 240 | 1,000\n"
+},
+{
+"id": "S1L139",
+"start": 3573,
+"end": 3628,
+"text": "2XL | $410 | Dedicated · 8 vCPUs | 32 GB | 380 | 1,500\n"
+},
+{
+"id": "S1L140",
+"start": 3628,
+"end": 3684,
+"text": "4XL | $960 | Dedicated · 16 vCPUs | 64 GB | 480 | 3,000\n"
+},
+{
+"id": "S1L141",
+"start": 3684,
+"end": 3743,
+"text": "8XL | $1,870 | Dedicated · 32 vCPUs | 128 GB | 490 | 6,000\n"
+},
+{
+"id": "S1L142",
+"start": 3743,
+"end": 3803,
+"text": "12XL | $2,800 | Dedicated · 48 vCPUs | 192 GB | 500 | 9,000\n"
+},
+{
+"id": "S1L143",
+"start": 3803,
+"end": 3864,
+"text": "16XL | $3,730 | Dedicated · 64 vCPUs | 256 GB | 500 | 12,000\n"
+},
+{
+"id": "S1L144",
+"start": 3864,
+"end": 3919,
+"text": ">16XL | Contact Us | Custom | Custom | Custom | Custom\n"
+},
+{
+"id": "S1L145",
+"start": 3919,
+"end": 3940,
+"text": "Compute Size | Micro\n"
+},
+{
+"id": "S1L146",
+"start": 3940,
+"end": 3956,
+"text": "Price USD | $10\n"
+},
+{
+"id": "S1L147",
+"start": 3956,
+"end": 3981,
+"text": "Compute | Shared compute\n"
+},
+{
+"id": "S1L148",
+"start": 3981,
+"end": 3995,
+"text": "Memory | 1 GB\n"
+},
+{
+"id": "S1L149",
+"start": 3995,
+"end": 4020,
+"text": "Connections: Direct | 60\n"
+},
+{
+"id": "S1L150",
+"start": 4020,
+"end": 4046,
+"text": "Connections: Pooler | 200\n"
+},
+{
+"id": "S1L151",
+"start": 4046,
+"end": 4059,
+"text": "Plan | Small\n"
+},
+{
+"id": "S1L152",
+"start": 4059,
+"end": 4075,
+"text": "Price USD | $15\n"
+},
+{
+"id": "S1L153",
+"start": 4075,
+"end": 4100,
+"text": "Compute | Shared compute\n"
+},
+{
+"id": "S1L154",
+"start": 4100,
+"end": 4114,
+"text": "Memory | 2 GB\n"
+},
+{
+"id": "S1L155",
+"start": 4114,
+"end": 4153,
+"text": "Connections: Direct (recommended) | 90\n"
+},
+{
+"id": "S1L156",
+"start": 4153,
+"end": 4193,
+"text": "Connections: Pooler (recommended) | 400\n"
+},
+{
+"id": "S1L157",
+"start": 4193,
+"end": 4207,
+"text": "Plan | Medium\n"
+},
+{
+"id": "S1L158",
+"start": 4207,
+"end": 4223,
+"text": "Price USD | $60\n"
+},
+{
+"id": "S1L159",
+"start": 4223,
+"end": 4248,
+"text": "Compute | Shared compute\n"
+},
+{
+"id": "S1L160",
+"start": 4248,
+"end": 4262,
+"text": "Memory | 4 GB\n"
+},
+{
+"id": "S1L161",
+"start": 4262,
+"end": 4302,
+"text": "Connections: Direct (recommended) | 120\n"
+},
+{
+"id": "S1L162",
+"start": 4302,
+"end": 4342,
+"text": "Connections: Pooler (recommended) | 600\n"
+},
+{
+"id": "S1L163",
+"start": 4342,
+"end": 4355,
+"text": "Plan | Large\n"
+},
+{
+"id": "S1L164",
+"start": 4355,
+"end": 4372,
+"text": "Price USD | $110\n"
+},
+{
+"id": "S1L165",
+"start": 4372,
+"end": 4402,
+"text": "Compute | Dedicated · 2 vCPUs\n"
+},
+{
+"id": "S1L166",
+"start": 4402,
+"end": 4416,
+"text": "Memory | 8 GB\n"
+},
+{
+"id": "S1L167",
+"start": 4416,
+"end": 4456,
+"text": "Connections: Direct (recommended) | 160\n"
+},
+{
+"id": "S1L168",
+"start": 4456,
+"end": 4496,
+"text": "Connections: Pooler (recommended) | 800\n"
+},
+{
+"id": "S1L169",
+"start": 4496,
+"end": 4506,
+"text": "Plan | XL\n"
+},
+{
+"id": "S1L170",
+"start": 4506,
+"end": 4523,
+"text": "Price USD | $210\n"
+},
+{
+"id": "S1L171",
+"start": 4523,
+"end": 4553,
+"text": "Compute | Dedicated · 4 vCPUs\n"
+},
+{
+"id": "S1L172",
+"start": 4553,
+"end": 4568,
+"text": "Memory | 16 GB\n"
+},
+{
+"id": "S1L173",
+"start": 4568,
+"end": 4608,
+"text": "Connections: Direct (recommended) | 240\n"
+},
+{
+"id": "S1L174",
+"start": 4608,
+"end": 4650,
+"text": "Connections: Pooler (recommended) | 1,000\n"
+},
+{
+"id": "S1L175",
+"start": 4650,
+"end": 4661,
+"text": "Plan | 2XL\n"
+},
+{
+"id": "S1L176",
+"start": 4661,
+"end": 4678,
+"text": "Price USD | $410\n"
+},
+{
+"id": "S1L177",
+"start": 4678,
+"end": 4708,
+"text": "Compute | Dedicated · 8 vCPUs\n"
+},
+{
+"id": "S1L178",
+"start": 4708,
+"end": 4723,
+"text": "Memory | 32 GB\n"
+},
+{
+"id": "S1L179",
+"start": 4723,
+"end": 4763,
+"text": "Connections: Direct (recommended) | 380\n"
+},
+{
+"id": "S1L180",
+"start": 4763,
+"end": 4805,
+"text": "Connections: Pooler (recommended) | 1,500\n"
+},
+{
+"id": "S1L181",
+"start": 4805,
+"end": 4816,
+"text": "Plan | 4XL\n"
+},
+{
+"id": "S1L182",
+"start": 4816,
+"end": 4833,
+"text": "Price USD | $960\n"
+},
+{
+"id": "S1L183",
+"start": 4833,
+"end": 4864,
+"text": "Compute | Dedicated · 16 vCPUs\n"
+},
+{
+"id": "S1L184",
+"start": 4864,
+"end": 4879,
+"text": "Memory | 64 GB\n"
+},
+{
+"id": "S1L185",
+"start": 4879,
+"end": 4919,
+"text": "Connections: Direct (recommended) | 480\n"
+},
+{
+"id": "S1L186",
+"start": 4919,
+"end": 4961,
+"text": "Connections: Pooler (recommended) | 3,000\n"
+},
+{
+"id": "S1L187",
+"start": 4961,
+"end": 4972,
+"text": "Plan | 8XL\n"
+},
+{
+"id": "S1L188",
+"start": 4972,
+"end": 4991,
+"text": "Price USD | $1,870\n"
+},
+{
+"id": "S1L189",
+"start": 4991,
+"end": 5022,
+"text": "Compute | Dedicated · 32 vCPUs\n"
+},
+{
+"id": "S1L190",
+"start": 5022,
+"end": 5038,
+"text": "Memory | 128 GB\n"
+},
+{
+"id": "S1L191",
+"start": 5038,
+"end": 5078,
+"text": "Connections: Direct (recommended) | 490\n"
+},
+{
+"id": "S1L192",
+"start": 5078,
+"end": 5120,
+"text": "Connections: Pooler (recommended) | 6,000\n"
+},
+{
+"id": "S1L193",
+"start": 5120,
+"end": 5132,
+"text": "Plan | 12XL\n"
+},
+{
+"id": "S1L194",
+"start": 5132,
+"end": 5151,
+"text": "Price USD | $2,800\n"
+},
+{
+"id": "S1L195",
+"start": 5151,
+"end": 5182,
+"text": "Compute | Dedicated · 48 vCPUs\n"
+},
+{
+"id": "S1L196",
+"start": 5182,
+"end": 5198,
+"text": "Memory | 192 GB\n"
+},
+{
+"id": "S1L197",
+"start": 5198,
+"end": 5238,
+"text": "Connections: Direct (recommended) | 500\n"
+},
+{
+"id": "S1L198",
+"start": 5238,
+"end": 5280,
+"text": "Connections: Pooler (recommended) | 9,000\n"
+},
+{
+"id": "S1L199",
+"start": 5280,
+"end": 5292,
+"text": "Plan | 16XL\n"
+},
+{
+"id": "S1L200",
+"start": 5292,
+"end": 5311,
+"text": "Price USD | $3,730\n"
+},
+{
+"id": "S1L201",
+"start": 5311,
+"end": 5342,
+"text": "Compute | Dedicated · 64 vCPUs\n"
+},
+{
+"id": "S1L202",
+"start": 5342,
+"end": 5358,
+"text": "Memory | 256 GB\n"
+},
+{
+"id": "S1L203",
+"start": 5358,
+"end": 5398,
+"text": "Connections: Direct (recommended) | 500\n"
+},
+{
+"id": "S1L204",
+"start": 5398,
+"end": 5441,
+"text": "Connections: Pooler (recommended) | 12,000\n"
+},
+{
+"id": "S1L205",
+"start": 5441,
+"end": 5454,
+"text": "Plan | >16XL\n"
+},
+{
+"id": "S1L206",
+"start": 5454,
+"end": 5477,
+"text": "Price USD | Contact Us\n"
+},
+{
+"id": "S1L207",
+"start": 5477,
+"end": 5494,
+"text": "Compute | Custom\n"
+},
+{
+"id": "S1L208",
+"start": 5494,
+"end": 5510,
+"text": "Memory | Custom\n"
+},
+{
+"id": "S1L209",
+"start": 5510,
+"end": 5553,
+"text": "Connections: Direct (recommended) | Custom\n"
+},
+{
+"id": "S1L210",
+"start": 5553,
+"end": 5596,
+"text": "Connections: Pooler (recommended) | Custom\n"
+},
+{
+"id": "S1L211",
+"start": 5596,
+"end": 5633,
+"text": "Choose the best compute size for you\n"
+},
+{
+"id": "S1L212",
+"start": 5633,
+"end": 5766,
+"text": "Every project on the Supabase Platform comes with its own dedicated Postgres instance. Select the compute size that fits your needs.\n"
+},
+{
+"id": "S1L213",
+"start": 5766,
+"end": 5965,
+"text": "Compute instances are billed hourly and you can scale up or down at any time. Paid Plans come with $10 /month in compute credits to cover one Micro instance or offset the cost of any other instance.\n"
+},
+{
+"id": "S1L214",
+"start": 5965,
+"end": 6031,
+"text": "Read more on usage-based billing for compute or Compute Add-ons .\n"
+},
+{
+"id": "S1L215",
+"start": 6031,
+"end": 6056,
+"text": "Expand Pricing breakdown\n"
+},
+{
+"id": "S1L216",
+"start": 6056,
+"end": 6085,
+"text": "Advanced disk configurations\n"
+},
+{
+"id": "S1L217",
+"start": 6085,
+"end": 6137,
+"text": "Scale database storage up to 60 TB and 80,000 IOPS.\n"
+},
+{
+"id": "S1L218",
+"start": 6137,
+"end": 6186,
+"text": "Max Size | Size | IOPS | Throughput | Durability\n"
+},
+{
+"id": "S1L219",
+"start": 6186,
+"end": 6375,
+"text": "General Purpose Balance between price and performance | 64 TB | 8 GB included then $0.125 per GB | 3,000 IOPS included then $0.024 per IOPS | 125 MB/s included then $0.095 per MB/s | 99.9%\n"
+},
+{
+"id": "S1L220",
+"start": 6375,
+"end": 6511,
+"text": "High Performance For mission critical applications | 60 TB | $0.195 per GB | $0.119 per IOPS | Scales automatically with IOPS | 99.999%\n"
+},
+{
+"id": "S1L221",
+"start": 6511,
+"end": 6539,
+"text": "Disk Type | General Purpose\n"
+},
+{
+"id": "S1L222",
+"start": 6539,
+"end": 6556,
+"text": "Max Size | 64 TB\n"
+},
+{
+"id": "S1L223",
+"start": 6556,
+"end": 6596,
+"text": "Size | 8 GB included then $0.125 per GB\n"
+},
+{
+"id": "S1L224",
+"start": 6596,
+"end": 6644,
+"text": "IOPS | 3,000 IOPS included then $0.024 per IOPS\n"
+},
+{
+"id": "S1L225",
+"start": 6644,
+"end": 6696,
+"text": "Throughput | 125 MB/s included then $0.095 per MB/s\n"
+},
+{
+"id": "S1L226",
+"start": 6696,
+"end": 6715,
+"text": "Durability | 99.9%\n"
+},
+{
+"id": "S1L227",
+"start": 6715,
+"end": 6744,
+"text": "Disk Type | High Performance\n"
+},
+{
+"id": "S1L228",
+"start": 6744,
+"end": 6761,
+"text": "Max Size | 60 TB\n"
+},
+{
+"id": "S1L229",
+"start": 6761,
+"end": 6782,
+"text": "Size | $0.195 per GB\n"
+},
+{
+"id": "S1L230",
+"start": 6782,
+"end": 6805,
+"text": "IOPS | $0.119 per IOPS\n"
+},
+{
+"id": "S1L231",
+"start": 6805,
+"end": 6849,
+"text": "Throughput | Scales automatically with IOPS\n"
+},
+{
+"id": "S1L232",
+"start": 6849,
+"end": 6870,
+"text": "Durability | 99.999%\n"
+},
+{
+"id": "S1L233",
+"start": 6870,
+"end": 6903,
+"text": "Learn about advanced disk config\n"
+},
+{
+"id": "S1L234",
+"start": 6903,
+"end": 6926,
+"text": "Fine-tune your project\n"
+},
+{
+"id": "S1L235",
+"start": 6926,
+"end": 6991,
+"text": "Go beyond your Plan limits and level up your Supabase experience\n"
+},
+{
+"id": "S1L236",
+"start": 6991,
+"end": 7004,
+"text": "Spend Cap On\n"
+},
+{
+"id": "S1L237",
+"start": 7004,
+"end": 7026,
+"text": "Available on Pro Plan\n"
+},
+{
+"id": "S1L238",
+"start": 7026,
+"end": 7039,
+"text": "Cost Control\n"
+},
+{
+"id": "S1L239",
+"start": 7039,
+"end": 7236,
+"text": "The Pro Plan has a spend cap enabled by default to keep costs under control. If you want to scale beyond the plan's included quota, simply switch off the spend cap to pay for additional resources.\n"
+},
+{
+"id": "S1L240",
+"start": 7236,
+"end": 7261,
+"text": "Learn about Cost Control\n"
+},
+{
+"id": "S1L241",
+"start": 7261,
+"end": 7280,
+"text": "Flat fee $10/month\n"
+},
+{
+"id": "S1L242",
+"start": 7280,
+"end": 7294,
+"text": "Custom Domain\n"
+},
+{
+"id": "S1L243",
+"start": 7294,
+"end": 7387,
+"text": "Use your own domain for your Supabase project to present a branded experience to your users.\n"
+},
+{
+"id": "S1L244",
+"start": 7387,
+"end": 7410,
+"text": "Starts from $100/month\n"
+},
+{
+"id": "S1L245",
+"start": 7410,
+"end": 7433,
+"text": "Point in Time Recovery\n"
+},
+{
+"id": "S1L246",
+"start": 7433,
+"end": 7494,
+"text": "Roll back to any specific point in time, down to the second.\n"
+},
+{
+"id": "S1L247",
+"start": 7494,
+"end": 7506,
+"text": "Change plan\n"
+},
+{
+"id": "S1L248",
+"start": 7506,
+"end": 7511,
+"text": "Free\n"
+},
+{
+"id": "S1L249",
+"start": 7511,
+"end": 7521,
+"text": "$0 /month\n"
+},
+{
+"id": "S1L250",
+"start": 7521,
+"end": 7564,
+"text": "Perfect for hobby projects and experiments\n"
+},
+{
+"id": "S1L251",
+"start": 7564,
+"end": 7579,
+"text": "Start for Free\n"
+},
+{
+"id": "S1L252",
+"start": 7579,
+"end": 7588,
+"text": "Database\n"
+},
+{
+"id": "S1L253",
+"start": 7588,
+"end": 7607,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L254",
+"start": 7607,
+"end": 7654,
+"text": "Dedicated Postgres Database | Included in free\n"
+},
+{
+"id": "S1L255",
+"start": 7654,
+"end": 7696,
+"text": "Unlimited API requests | Included in free\n"
+},
+{
+"id": "S1L256",
+"start": 7696,
+"end": 7754,
+"text": "Database size | 500 MB database size per project included\n"
+},
+{
+"id": "S1L257",
+"start": 7754,
+"end": 7798,
+"text": "Advanced disk config | Not included in free\n"
+},
+{
+"id": "S1L258",
+"start": 7798,
+"end": 7839,
+"text": "Automatic backups | Not included in free\n"
+},
+{
+"id": "S1L259",
+"start": 7839,
+"end": 7885,
+"text": "Point in time recovery | Not included in free\n"
+},
+{
+"id": "S1L260",
+"start": 7885,
+"end": 7922,
+"text": "Pausing | After 1 week of inactivity\n"
+},
+{
+"id": "S1L261",
+"start": 7922,
+"end": 7955,
+"text": "Branching | Not included in free\n"
+},
+{
+"id": "S1L262",
+"start": 7955,
+"end": 7978,
+"text": "Egress | 5 GB included\n"
+},
+{
+"id": "S1L263",
+"start": 7978,
+"end": 8011,
+"text": "Pipelines | Not included in free\n"
+},
+{
+"id": "S1L264",
+"start": 8011,
+"end": 8016,
+"text": "Auth\n"
+},
+{
+"id": "S1L265",
+"start": 8016,
+"end": 8035,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L266",
+"start": 8035,
+"end": 8059,
+"text": "Total Users | Unlimited\n"
+},
+{
+"id": "S1L267",
+"start": 8059,
+"end": 8082,
+"text": "MAUs | 50,000 included\n"
+},
+{
+"id": "S1L268",
+"start": 8082,
+"end": 8121,
+"text": "User data ownership | Included in free\n"
+},
+{
+"id": "S1L269",
+"start": 8121,
+"end": 8159,
+"text": "Anonymous Sign-ins | Included in free\n"
+},
+{
+"id": "S1L270",
+"start": 8159,
+"end": 8201,
+"text": "Social OAuth providers | Included in free\n"
+},
+{
+"id": "S1L271",
+"start": 8201,
+"end": 8237,
+"text": "OAuth 2.1 Server | Included in free\n"
+},
+{
+"id": "S1L272",
+"start": 8237,
+"end": 8275,
+"text": "Custom SMTP server | Included in free\n"
+},
+{
+"id": "S1L273",
+"start": 8275,
+"end": 8335,
+"text": "Remove Supabase branding from emails | Not included in free\n"
+},
+{
+"id": "S1L274",
+"start": 8335,
+"end": 8362,
+"text": "Auth Audit Logs | 24 hours\n"
+},
+{
+"id": "S1L275",
+"start": 8362,
+"end": 8405,
+"text": "Basic Multi-Factor Auth | Included in free\n"
+},
+{
+"id": "S1L276",
+"start": 8405,
+"end": 8463,
+"text": "Advanced Multi-Factor Auth - Phone | Not included in free\n"
+},
+{
+"id": "S1L277",
+"start": 8463,
+"end": 8498,
+"text": "Third-Party MAUs | 50,000 included\n"
+},
+{
+"id": "S1L278",
+"start": 8498,
+"end": 8547,
+"text": "Single Sign-On (SAML 2.0) | Not included in free\n"
+},
+{
+"id": "S1L279",
+"start": 8547,
+"end": 8597,
+"text": "Leaked password protection | Not included in free\n"
+},
+{
+"id": "S1L280",
+"start": 8597,
+"end": 8644,
+"text": "Single session per user | Not included in free\n"
+},
+{
+"id": "S1L281",
+"start": 8644,
+"end": 8684,
+"text": "Session timeouts | Not included in free\n"
+},
+{
+"id": "S1L282",
+"start": 8684,
+"end": 8746,
+"text": "Auth Hooks | Custom Access Token (JWT), Send custom email/SMS\n"
+},
+{
+"id": "S1L283",
+"start": 8746,
+"end": 8796,
+"text": "Advanced security features | Not included in free\n"
+},
+{
+"id": "S1L284",
+"start": 8796,
+"end": 8804,
+"text": "Storage\n"
+},
+{
+"id": "S1L285",
+"start": 8804,
+"end": 8823,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L286",
+"start": 8823,
+"end": 8847,
+"text": "Storage | 1 GB included\n"
+},
+{
+"id": "S1L287",
+"start": 8847,
+"end": 8877,
+"text": "Cached Egress | 5 GB included\n"
+},
+{
+"id": "S1L288",
+"start": 8877,
+"end": 8919,
+"text": "Custom access controls | Included in free\n"
+},
+{
+"id": "S1L289",
+"start": 8919,
+"end": 8948,
+"text": "Max file upload size | 50 MB\n"
+},
+{
+"id": "S1L290",
+"start": 8948,
+"end": 8985,
+"text": "Content Delivery Network | Basic CDN\n"
+},
+{
+"id": "S1L291",
+"start": 8985,
+"end": 9030,
+"text": "Image Transformations | Not included in free\n"
+},
+{
+"id": "S1L292",
+"start": 9030,
+"end": 9039,
+"text": "Realtime\n"
+},
+{
+"id": "S1L293",
+"start": 9039,
+"end": 9058,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L294",
+"start": 9058,
+"end": 9094,
+"text": "Postgres Changes | Included in free\n"
+},
+{
+"id": "S1L295",
+"start": 9094,
+"end": 9137,
+"text": "Concurrent Peak Connections | 200 included\n"
+},
+{
+"id": "S1L296",
+"start": 9137,
+"end": 9177,
+"text": "Messages Per Month | 2 Million included\n"
+},
+{
+"id": "S1L297",
+"start": 9177,
+"end": 9203,
+"text": "Max Message Size | 256 KB\n"
+},
+{
+"id": "S1L298",
+"start": 9203,
+"end": 9218,
+"text": "Edge Functions\n"
+},
+{
+"id": "S1L299",
+"start": 9218,
+"end": 9237,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L300",
+"start": 9237,
+"end": 9268,
+"text": "Invocations | 500,000 included\n"
+},
+{
+"id": "S1L301",
+"start": 9268,
+"end": 9278,
+"text": "Dashboard\n"
+},
+{
+"id": "S1L302",
+"start": 9278,
+"end": 9297,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L303",
+"start": 9297,
+"end": 9322,
+"text": "Team members | Unlimited\n"
+},
+{
+"id": "S1L304",
+"start": 9322,
+"end": 9355,
+"text": "Platform Security and Compliance\n"
+},
+{
+"id": "S1L305",
+"start": 9355,
+"end": 9374,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L306",
+"start": 9374,
+"end": 9413,
+"text": "Log retention (API & Database) | 1 day\n"
+},
+{
+"id": "S1L307",
+"start": 9413,
+"end": 9443,
+"text": "Log Ingestion | 1 GB included\n"
+},
+{
+"id": "S1L308",
+"start": 9443,
+"end": 9471,
+"text": "Log Query | 100 GB included\n"
+},
+{
+"id": "S1L309",
+"start": 9471,
+"end": 9504,
+"text": "Log Drain | Not included in free\n"
+},
+{
+"id": "S1L310",
+"start": 9504,
+"end": 9547,
+"text": "Platform Audit Logs | Not included in free\n"
+},
+{
+"id": "S1L311",
+"start": 9547,
+"end": 9587,
+"text": "Metrics endpoint | Not included in free\n"
+},
+{
+"id": "S1L312",
+"start": 9587,
+"end": 9615,
+"text": "SOC2 | Not included in free\n"
+},
+{
+"id": "S1L313",
+"start": 9615,
+"end": 9648,
+"text": "ISO 27001 | Not included in free\n"
+},
+{
+"id": "S1L314",
+"start": 9648,
+"end": 9677,
+"text": "HIPAA | Not included in free\n"
+},
+{
+"id": "S1L315",
+"start": 9677,
+"end": 9716,
+"text": "AWS PrivateLink | Not included in free\n"
+},
+{
+"id": "S1L316",
+"start": 9716,
+"end": 9743,
+"text": "SSO | Not included in free\n"
+},
+{
+"id": "S1L317",
+"start": 9743,
+"end": 9778,
+"text": "Uptime SLAs | Not included in free\n"
+},
+{
+"id": "S1L318",
+"start": 9778,
+"end": 9817,
+"text": "Access Roles | Owner, Admin, Developer\n"
+},
+{
+"id": "S1L319",
+"start": 9817,
+"end": 9852,
+"text": "Vanity URLs | Not included in free\n"
+},
+{
+"id": "S1L320",
+"start": 9852,
+"end": 9890,
+"text": "Custom Domains | Not included in free\n"
+},
+{
+"id": "S1L321",
+"start": 9890,
+"end": 9898,
+"text": "Support\n"
+},
+{
+"id": "S1L322",
+"start": 9898,
+"end": 9917,
+"text": "Feature | Included\n"
+},
+{
+"id": "S1L323",
+"start": 9917,
+"end": 9954,
+"text": "Community Support | Included in free\n"
+},
+{
+"id": "S1L324",
+"start": 9954,
+"end": 9991,
+"text": "Email Support | Not included in free\n"
+},
+{
+"id": "S1L325",
+"start": 9991,
+"end": 10032,
+"text": "Email Support SLA | Not included in free\n"
+},
+{
+"id": "S1L326",
+"start": 10032,
+"end": 10074,
+"text": "Designated support | Not included in free\n"
+},
+{
+"id": "S1L327",
+"start": 10074,
+"end": 10117,
+"text": "On Boarding Support | Not included in free\n"
+},
+{
+"id": "S1L328",
+"start": 10117,
+"end": 10173,
+"text": "Designated Customer Success Team | Not included in free\n"
+},
+{
+"id": "S1L329",
+"start": 10173,
+"end": 10224,
+"text": "Security Questionnaire Help | Not included in free\n"
+},
+{
+"id": "S1L330",
+"start": 10224,
+"end": 10248,
+"text": "Pricing plan comparison\n"
+},
+{
+"id": "S1L331",
+"start": 10248,
+"end": 10385,
+"text": "Feature by | Free $0 / month Start for Free | Pro $25 / month Get Started | Team $599 / month Get Started | Enterprise Custom Contact us\n"
+},
+{
+"id": "S1L332",
+"start": 10385,
+"end": 10394,
+"text": "Database\n"
+},
+{
+"id": "S1L333",
+"start": 10394,
+"end": 10512,
+"text": "Dedicated Postgres Database About Dedicated Postgres Database | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L334",
+"start": 10512,
+"end": 10591,
+"text": "Unlimited API requests | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L335",
+"start": 10591,
+"end": 10792,
+"text": "Database size About Database size | 500 MB database size per project included | 8 GB disk size per project included then $0.125 per GB | 8 GB disk size per project included then $0.125 per GB | Custom\n"
+},
+{
+"id": "S1L336",
+"start": 10792,
+"end": 10900,
+"text": "Advanced disk config About Advanced disk config | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L337",
+"start": 10900,
+"end": 11069,
+"text": "Automatic backups About Automatic backups | Not included in | About Automatic backups on the pro plan 7 days | About Automatic backups on the team plan 14 days | Custom\n"
+},
+{
+"id": "S1L338",
+"start": 11069,
+"end": 11283,
+"text": "Point in time recovery About Point in time recovery | Not included in | $100 per month per 7 days retention | $100 per month per 7 days retention | $100 per month per 7 days retention, >28 days retention available\n"
+},
+{
+"id": "S1L339",
+"start": 11283,
+"end": 11358,
+"text": "Pausing About Pausing | After 1 week of inactivity | Never | Never | Never\n"
+},
+{
+"id": "S1L340",
+"start": 11358,
+"end": 11459,
+"text": "Branching | Not included in | $0.01344 per branch, per hour | $0.01344 per branch, per hour | Custom\n"
+},
+{
+"id": "S1L341",
+"start": 11459,
+"end": 11576,
+"text": "Egress About Egress | 5 GB included | 250 GB included then $0.09 per GB | 250 GB included then $0.09 per GB | Custom\n"
+},
+{
+"id": "S1L342",
+"start": 11576,
+"end": 11877,
+"text": "Pipelines About Pipelines | Not included in | $0.053 per pipeline per hour $3.00 per GB processed during ongoing replication $0.60 per GB processed during initial sync | $0.053 per pipeline per hour $3.00 per GB processed during ongoing replication $0.60 per GB processed during initial sync | Custom\n"
+},
+{
+"id": "S1L343",
+"start": 11877,
+"end": 11882,
+"text": "Auth\n"
+},
+{
+"id": "S1L344",
+"start": 11882,
+"end": 11960,
+"text": "Total Users About Total Users | Unlimited | Unlimited | Unlimited | Unlimited\n"
+},
+{
+"id": "S1L345",
+"start": 11960,
+"end": 12085,
+"text": "MAUs About MAUs | 50,000 included | 100,000 included then $0.00325 per MAU | 100,000 included then $0.00325 per MAU | Custom\n"
+},
+{
+"id": "S1L346",
+"start": 12085,
+"end": 12187,
+"text": "User data ownership About User data ownership | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L347",
+"start": 12187,
+"end": 12287,
+"text": "Anonymous Sign-ins About Anonymous Sign-ins | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L348",
+"start": 12287,
+"end": 12366,
+"text": "Social OAuth providers | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L349",
+"start": 12366,
+"end": 12462,
+"text": "OAuth 2.1 Server About OAuth 2.1 Server | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L350",
+"start": 12462,
+"end": 12537,
+"text": "Custom SMTP server | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L351",
+"start": 12537,
+"end": 12634,
+"text": "Remove Supabase branding from emails | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L352",
+"start": 12634,
+"end": 12716,
+"text": "Auth Audit Logs About Auth Audit Logs | 24 hours | 7 days | 28 days | Included in\n"
+},
+{
+"id": "S1L353",
+"start": 12716,
+"end": 12826,
+"text": "Basic Multi-Factor Auth About Basic Multi-Factor Auth | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L354",
+"start": 12826,
+"end": 13083,
+"text": "Advanced Multi-Factor Auth - Phone About Advanced Multi-Factor Auth - Phone | Not included in | $75 per month for first project then $10 per month per additional projects | $75 per month for first project then $10 per month per additional projects | Custom\n"
+},
+{
+"id": "S1L355",
+"start": 13083,
+"end": 13232,
+"text": "Third-Party MAUs About Third-Party MAUs | 50,000 included | 100,000 included then $0.00325 per MAU | 100,000 included then $0.00325 per MAU | Custom\n"
+},
+{
+"id": "S1L356",
+"start": 13232,
+"end": 13357,
+"text": "Single Sign-On (SAML 2.0) | Not included in | 50 included then $0.015 per MAU | 50 included then $0.015 per MAU | Contact Us\n"
+},
+{
+"id": "S1L357",
+"start": 13357,
+"end": 13444,
+"text": "Leaked password protection | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L358",
+"start": 13444,
+"end": 13528,
+"text": "Single session per user | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L359",
+"start": 13528,
+"end": 13605,
+"text": "Session timeouts | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L360",
+"start": 13605,
+"end": 13730,
+"text": "Auth Hooks | Custom Access Token (JWT), Send custom email/SMS | Custom Access Token (JWT), Send custom email/SMS | All | All\n"
+},
+{
+"id": "S1L361",
+"start": 13730,
+"end": 13824,
+"text": "Advanced security features | Not included in | Not included in | Not included in | Contact Us\n"
+},
+{
+"id": "S1L362",
+"start": 13824,
+"end": 13832,
+"text": "Storage\n"
+},
+{
+"id": "S1L363",
+"start": 13832,
+"end": 13955,
+"text": "Storage About Storage | 1 GB included | 100 GB included then $0.0213 per GB | 100 GB included then $0.0213 per GB | Custom\n"
+},
+{
+"id": "S1L364",
+"start": 13955,
+"end": 14086,
+"text": "Cached Egress About Cached Egress | 5 GB included | 250 GB included then $0.03 per GB | 250 GB included then $0.03 per GB | Custom\n"
+},
+{
+"id": "S1L365",
+"start": 14086,
+"end": 14165,
+"text": "Custom access controls | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L366",
+"start": 14165,
+"end": 14248,
+"text": "Max file upload size About Max file upload size | 50 MB | 500 GB | 500 GB | Custom\n"
+},
+{
+"id": "S1L367",
+"start": 14248,
+"end": 14352,
+"text": "Content Delivery Network About Content Delivery Network | Basic CDN | Smart CDN | Smart CDN | Smart CDN\n"
+},
+{
+"id": "S1L368",
+"start": 14352,
+"end": 14549,
+"text": "Image Transformations About Image Transformations | Not included in | 100 origin images included then $5 per 1000 origin images | 100 origin images included then $5 per 1000 origin images | Custom\n"
+},
+{
+"id": "S1L369",
+"start": 14549,
+"end": 14558,
+"text": "Realtime\n"
+},
+{
+"id": "S1L370",
+"start": 14558,
+"end": 14631,
+"text": "Postgres Changes | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L371",
+"start": 14631,
+"end": 14826,
+"text": "Concurrent Peak Connections About Concurrent Peak Connections | 200 included | 500 included then $10 per 1000 | 500 included then $10 per 1000 | Custom concurrent connections and volume discount\n"
+},
+{
+"id": "S1L372",
+"start": 14826,
+"end": 15010,
+"text": "Messages Per Month About Messages Per Month | 2 Million included | 5 Million included then $2.50 per Million | 5 Million included then $2.50 per Million | Volume discounts on messages\n"
+},
+{
+"id": "S1L373",
+"start": 15010,
+"end": 15059,
+"text": "Max Message Size | 256 KB | 3 MB | 3 MB | Custom\n"
+},
+{
+"id": "S1L374",
+"start": 15059,
+"end": 15074,
+"text": "Edge Functions\n"
+},
+{
+"id": "S1L375",
+"start": 15074,
+"end": 15218,
+"text": "Invocations About Invocations | 500,000 included | 2 Million included then $2 per 1 Million | 2 Million included then $2 per 1 Million | Custom\n"
+},
+{
+"id": "S1L376",
+"start": 15218,
+"end": 15228,
+"text": "Dashboard\n"
+},
+{
+"id": "S1L377",
+"start": 15228,
+"end": 15289,
+"text": "Team members | Unlimited | Unlimited | Unlimited | Unlimited\n"
+},
+{
+"id": "S1L378",
+"start": 15289,
+"end": 15322,
+"text": "Platform Security and Compliance\n"
+},
+{
+"id": "S1L379",
+"start": 15322,
+"end": 15390,
+"text": "Log retention (API & Database) | 1 day | 7 days | 28 days | 90 days\n"
+},
+{
+"id": "S1L380",
+"start": 15390,
+"end": 15519,
+"text": "Log Ingestion About Log Ingestion | 1 GB included | 20 GB included then $0.50 per GB | 20 GB included then $0.50 per GB | Custom\n"
+},
+{
+"id": "S1L381",
+"start": 15519,
+"end": 15628,
+"text": "Log Query About Log Query | 100 GB included | Log Ingestion Usage x 100 | Log Ingestion Usage x 100 | Custom\n"
+},
+{
+"id": "S1L382",
+"start": 15628,
+"end": 15831,
+"text": "Log Drain About Log Drain | Not included in | $60 per drain per month + $0.20 per million events + $0.09 per GB egress | $60 per drain per month + $0.20 per million events + $0.09 per GB egress | Custom\n"
+},
+{
+"id": "S1L383",
+"start": 15831,
+"end": 15941,
+"text": "Platform Audit Logs About Platform Audit Logs | Not included in | Not included in | Included in | Included in\n"
+},
+{
+"id": "S1L384",
+"start": 15941,
+"end": 16018,
+"text": "Metrics endpoint | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L385",
+"start": 16018,
+"end": 16087,
+"text": "SOC2 | Not included in | Not included in | Included in | Included in\n"
+},
+{
+"id": "S1L386",
+"start": 16087,
+"end": 16161,
+"text": "ISO 27001 | Not included in | Not included in | Included in | Included in\n"
+},
+{
+"id": "S1L387",
+"start": 16161,
+"end": 16269,
+"text": "HIPAA About HIPAA | Not included in | Not included in | Available as paid add-on | Available as paid add-on\n"
+},
+{
+"id": "S1L388",
+"start": 16269,
+"end": 16371,
+"text": "AWS PrivateLink About AWS PrivateLink | Not included in | Not included in | Included in | Included in\n"
+},
+{
+"id": "S1L389",
+"start": 16371,
+"end": 16437,
+"text": "SSO | Not included in | Not included in | Contact Us | Contact Us\n"
+},
+{
+"id": "S1L390",
+"start": 16437,
+"end": 16517,
+"text": "Uptime SLAs | Not included in | Not included in | Not included in | Included in\n"
+},
+{
+"id": "S1L391",
+"start": 16517,
+"end": 16701,
+"text": "Access Roles About Access Roles | Owner, Admin, Developer | Owner, Admin, Developer | Owner, Admin, Developer, Read-only, Predefined project scoped roles | Custom project scoped roles\n"
+},
+{
+"id": "S1L392",
+"start": 16701,
+"end": 16773,
+"text": "Vanity URLs | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L393",
+"start": 16773,
+"end": 16975,
+"text": "Custom Domains | Not included in | $10 per domain per month per project add on | $10 per domain per month per project add on | About Custom Domains on the enterprise plan 1, additional $10/domain/month\n"
+},
+{
+"id": "S1L394",
+"start": 16975,
+"end": 16983,
+"text": "Support\n"
+},
+{
+"id": "S1L395",
+"start": 16983,
+"end": 17057,
+"text": "Community Support | Included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L396",
+"start": 17057,
+"end": 17131,
+"text": "Email Support | Not included in | Included in | Included in | Included in\n"
+},
+{
+"id": "S1L397",
+"start": 17131,
+"end": 17213,
+"text": "Email Support SLA | Not included in | Not included in | Included in | Included in\n"
+},
+{
+"id": "S1L398",
+"start": 17213,
+"end": 17300,
+"text": "Designated support | Not included in | Not included in | Not included in | Included in\n"
+},
+{
+"id": "S1L399",
+"start": 17300,
+"end": 17388,
+"text": "On Boarding Support | Not included in | Not included in | Not included in | Included in\n"
+},
+{
+"id": "S1L400",
+"start": 17388,
+"end": 17489,
+"text": "Designated Customer Success Team | Not included in | Not included in | Not included in | Included in\n"
+},
+{
+"id": "S1L401",
+"start": 17489,
+"end": 17581,
+"text": "Security Questionnaire Help | Not included in | Not included in | Included in | Included in\n"
+},
+{
+"id": "S1L402",
+"start": 17581,
+"end": 17608,
+"text": "Frequently asked questions\n"
+},
+{
+"id": "S1L403",
+"start": 17608,
+"end": 17656,
+"text": "Can I cap my usage so my bill doesn't run over?\n"
+},
+{
+"id": "S1L404",
+"start": 17656,
+"end": 17788,
+"text": "Yes. Spend caps are on by default on the Pro Plan. You can turn spend caps off for usage beyond the Plan limits to pay as you grow.\n"
+},
+{
+"id": "S1L405",
+"start": 17788,
+"end": 17857,
+"text": "I'm worried I could end up with a huge bill at the end of the month.\n"
+},
+{
+"id": "S1L406",
+"start": 17857,
+"end": 17973,
+"text": "Spend caps are on by default and you need to toggle them off from your dashboard to enable pay as you grow pricing.\n"
+},
+{
+"id": "S1L407",
+"start": 17973,
+"end": 17996,
+"text": "When will I be billed?\n"
+},
+{
+"id": "S1L408",
+"start": 17996,
+"end": 18125,
+"text": "Our Pro Plan is charged up front, and billed on a monthly basis. Additional usage costs are also billed at the end of the month.\n"
+},
+{
+"id": "S1L409",
+"start": 18125,
+"end": 18169,
+"text": "Does Supabase charge sales tax, VAT or GST?\n"
+},
+{
+"id": "S1L410",
+"start": 18169,
+"end": 18326,
+"text": "Supabase applies sales tax, VAT, GST, and other indirect taxes where required by law, based on your billing address. For more details, see our Billing FAQ .\n"
+},
+{
+"id": "S1L411",
+"start": 18326,
+"end": 18378,
+"text": "Are you going to change your pricing in the future?\n"
+},
+{
+"id": "S1L412",
+"start": 18378,
+"end": 18512,
+"text": "Pricing may change in the future. As a team of developers, we are committed to keeping our pricing as developer friendly as possible.\n"
+},
+{
+"id": "S1L413",
+"start": 18512,
+"end": 18554,
+"text": "What happens if I cancel my subscription?\n"
+},
+{
+"id": "S1L414",
+"start": 18554,
+"end": 18680,
+"text": "The organization is allocated credits for unused time during the billing month. Those credits can be used for other projects.\n"
+},
+{
+"id": "S1L415",
+"start": 18680,
+"end": 18706,
+"text": "How can I track my usage?\n"
+},
+{
+"id": "S1L416",
+"start": 18706,
+"end": 19007,
+"text": "You can track your organization's usage at any time on the usage page in the dashboard, which shows how each project is tracking against your plan's limits. Your upcoming invoice on the billing page updates as you go, and organizations on the Pro Plan or above can use the Spend cap to control costs.\n"
+},
+{
+"id": "S1L417",
+"start": 19007,
+"end": 19074,
+"text": "What if I need one project for development and one for production?\n"
+},
+{
+"id": "S1L418",
+"start": 19074,
+"end": 19327,
+"text": "You can create two projects, one for development and one for production — the Free Plan includes two free projects. You can also use Branching , available on the Pro Plan and above, to run a separate development environment off your production project.\n"
+},
+{
+"id": "S1L419",
+"start": 19327,
+"end": 19362,
+"text": "Can I self-host Supabase for free?\n"
+},
+{
+"id": "S1L420",
+"start": 19362,
+"end": 19473,
+"text": "Yes, you can use the Docker setup or the Supabase CLI . Supabase Studio is also available in the Docker setup.\n"
+},
+{
+"id": "S1L421",
+"start": 19473,
+"end": 19501,
+"text": "Can I pause a free project?\n"
+},
+{
+"id": "S1L422",
+"start": 19501,
+"end": 19677,
+"text": "Yes, you can pause a project at any time. Our Free Plan gives you 2 free projects, but you can have as many paused projects as you want. Just pause and unpause them as needed.\n"
+},
+{
+"id": "S1L423",
+"start": 19677,
+"end": 19726,
+"text": "Can I purchase Supabase through AWS Marketplace?\n"
+},
+{
+"id": "S1L424",
+"start": 19726,
+"end": 20108,
+"text": "Yes. If your organization has an AWS spend commitment (such as a PPA or EDP), you can buy Pro or Team through AWS Marketplace so eligible Supabase spend counts toward that commitment. Billing details and plan management then run through AWS, and Spend Cap is unavailable for AWS-managed organizations. Learn more on our AWS Marketplace page , or go straight to the public listing .\n"
+},
+{
+"id": "S1L425",
+"start": 20108,
+"end": 20201,
+"text": "Can't find the answer to your question? Open a support ticket to receive help from our team.\n"
+},
+{
+"id": "S1L426",
+"start": 20201,
+"end": 20239,
+"text": "Build in a weekend, scale to millions\n"
+},
+{
+"id": "S1L427",
+"start": 20239,
+"end": 20273,
+"text": "Start your project Request a demo\n"
+},
+{
+"id": "S1L428",
+"start": 20273,
+"end": 20280,
+"text": "Footer\n"
+},
+{
+"id": "S1L429",
+"start": 20280,
+"end": 20319,
+"text": "We protect your data. More on Security\n"
+},
+{
+"id": "S1L430",
+"start": 20319,
+"end": 20341,
+"text": "SOC2 Type 2 Certified\n"
+},
+{
+"id": "S1L431",
+"start": 20341,
+"end": 20357,
+"text": "HIPAA Compliant\n"
+},
+{
+"id": "S1L432",
+"start": 20357,
+"end": 20377,
+"text": "ISO 27001 Certified\n"
+},
+{
+"id": "S1L433",
+"start": 20377,
+"end": 20385,
+"text": "Twitter\n"
+},
+{
+"id": "S1L434",
+"start": 20385,
+"end": 20392,
+"text": "GitHub\n"
+},
+{
+"id": "S1L435",
+"start": 20392,
+"end": 20400,
+"text": "Discord\n"
+},
+{
+"id": "S1L436",
+"start": 20400,
+"end": 20408,
+"text": "Youtube\n"
+},
+{
+"id": "S1L437",
+"start": 20408,
+"end": 20415,
+"text": "TikTok\n"
+},
+{
+"id": "S1L438",
+"start": 20415,
+"end": 20425,
+"text": "Instagram\n"
+},
+{
+"id": "S1L439",
+"start": 20425,
+"end": 20469,
+"text": "Get product updates and news from Supabase.\n"
+},
+{
+"id": "S1L440",
+"start": 20469,
+"end": 20479,
+"text": "Subscribe\n"
+},
+{
+"id": "S1L441",
+"start": 20479,
+"end": 20487,
+"text": "Product\n"
+},
+{
+"id": "S1L442",
+"start": 20487,
+"end": 20495,
+"text": "Pricing\n"
+},
+{
+"id": "S1L443",
+"start": 20495,
+"end": 20504,
+"text": "Database\n"
+},
+{
+"id": "S1L444",
+"start": 20504,
+"end": 20509,
+"text": "Auth\n"
+},
+{
+"id": "S1L445",
+"start": 20509,
+"end": 20519,
+"text": "Functions\n"
+},
+{
+"id": "S1L446",
+"start": 20519,
+"end": 20527,
+"text": "Compute\n"
+},
+{
+"id": "S1L447",
+"start": 20527,
+"end": 20536,
+"text": "Realtime\n"
+},
+{
+"id": "S1L448",
+"start": 20536,
+"end": 20544,
+"text": "Storage\n"
+},
+{
+"id": "S1L449",
+"start": 20544,
+"end": 20551,
+"text": "Vector\n"
+},
+{
+"id": "S1L450",
+"start": 20551,
+"end": 20556,
+"text": "Cron\n"
+},
+{
+"id": "S1L451",
+"start": 20556,
+"end": 20572,
+"text": "Feature Catalog\n"
+},
+{
+"id": "S1L452",
+"start": 20572,
+"end": 20584,
+"text": "Launch Week\n"
+},
+{
+"id": "S1L453",
+"start": 20584,
+"end": 20594,
+"text": "Solutions\n"
+},
+{
+"id": "S1L454",
+"start": 20594,
+"end": 20606,
+"text": "AI Builders\n"
+},
+{
+"id": "S1L455",
+"start": 20606,
+"end": 20614,
+"text": "No Code\n"
+},
+{
+"id": "S1L456",
+"start": 20614,
+"end": 20624,
+"text": "Beginners\n"
+},
+{
+"id": "S1L457",
+"start": 20624,
+"end": 20635,
+"text": "Developers\n"
+},
+{
+"id": "S1L458",
+"start": 20635,
+"end": 20649,
+"text": "Postgres Devs\n"
+},
+{
+"id": "S1L459",
+"start": 20649,
+"end": 20661,
+"text": "Vibe Coders\n"
+},
+{
+"id": "S1L460",
+"start": 20661,
+"end": 20683,
+"text": "Hackathon Contestants\n"
+},
+{
+"id": "S1L461",
+"start": 20683,
+"end": 20692,
+"text": "Startups\n"
+},
+{
+"id": "S1L462",
+"start": 20692,
+"end": 20701,
+"text": "Agencies\n"
+},
+{
+"id": "S1L463",
+"start": 20701,
+"end": 20712,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L464",
+"start": 20712,
+"end": 20729,
+"text": "Innovation Teams\n"
+},
+{
+"id": "S1L465",
+"start": 20729,
+"end": 20745,
+"text": "Hosted Postgres\n"
+},
+{
+"id": "S1L466",
+"start": 20745,
+"end": 20754,
+"text": "B2B SaaS\n"
+},
+{
+"id": "S1L467",
+"start": 20754,
+"end": 20762,
+"text": "FinServ\n"
+},
+{
+"id": "S1L468",
+"start": 20762,
+"end": 20773,
+"text": "Healthcare\n"
+},
+{
+"id": "S1L469",
+"start": 20773,
+"end": 20780,
+"text": "Agents\n"
+},
+{
+"id": "S1L470",
+"start": 20780,
+"end": 20801,
+"text": "Switch from Firebase\n"
+},
+{
+"id": "S1L471",
+"start": 20801,
+"end": 20818,
+"text": "Switch from Neon\n"
+},
+{
+"id": "S1L472",
+"start": 20818,
+"end": 20828,
+"text": "Resources\n"
+},
+{
+"id": "S1L473",
+"start": 20828,
+"end": 20833,
+"text": "Blog\n"
+},
+{
+"id": "S1L474",
+"start": 20833,
+"end": 20841,
+"text": "Support\n"
+},
+{
+"id": "S1L475",
+"start": 20841,
+"end": 20855,
+"text": "System Status\n"
+},
+{
+"id": "S1L476",
+"start": 20855,
+"end": 20872,
+"text": "Become a Partner\n"
+},
+{
+"id": "S1L477",
+"start": 20872,
+"end": 20888,
+"text": "Partner Catalog\n"
+},
+{
+"id": "S1L478",
+"start": 20888,
+"end": 20903,
+"text": "Knowledge Base\n"
+},
+{
+"id": "S1L479",
+"start": 20903,
+"end": 20908,
+"text": "FAQs\n"
+},
+{
+"id": "S1L480",
+"start": 20908,
+"end": 20925,
+"text": "Brand Guidelines\n"
+},
+{
+"id": "S1L481",
+"start": 20925,
+"end": 20947,
+"text": "Security & Compliance\n"
+},
+{
+"id": "S1L482",
+"start": 20947,
+"end": 20955,
+"text": "Regions\n"
+},
+{
+"id": "S1L483",
+"start": 20955,
+"end": 20963,
+"text": "dbarena\n"
+},
+{
+"id": "S1L484",
+"start": 20963,
+"end": 20968,
+"text": "SOC2\n"
+},
+{
+"id": "S1L485",
+"start": 20968,
+"end": 20974,
+"text": "HIPAA\n"
+},
+{
+"id": "S1L486",
+"start": 20974,
+"end": 20985,
+"text": "Developers\n"
+},
+{
+"id": "S1L487",
+"start": 20985,
+"end": 20999,
+"text": "Documentation\n"
+},
+{
+"id": "S1L488",
+"start": 20999,
+"end": 21016,
+"text": "Supabase Library\n"
+},
+{
+"id": "S1L489",
+"start": 21016,
+"end": 21026,
+"text": "Changelog\n"
+},
+{
+"id": "S1L490",
+"start": 21026,
+"end": 21030,
+"text": "RSS\n"
+},
+{
+"id": "S1L491",
+"start": 21030,
+"end": 21040,
+"text": "Community\n"
+},
+{
+"id": "S1L492",
+"start": 21040,
+"end": 21058,
+"text": "Events & Webinars\n"
+},
+{
+"id": "S1L493",
+"start": 21058,
+"end": 21068,
+"text": "SupaSquad\n"
+},
+{
+"id": "S1L494",
+"start": 21068,
+"end": 21081,
+"text": "Contributing\n"
+},
+{
+"id": "S1L495",
+"start": 21081,
+"end": 21093,
+"text": "Open Source\n"
+},
+{
+"id": "S1L496",
+"start": 21093,
+"end": 21099,
+"text": "DevTo\n"
+},
+{
+"id": "S1L497",
+"start": 21099,
+"end": 21107,
+"text": "Company\n"
+},
+{
+"id": "S1L498",
+"start": 21107,
+"end": 21115,
+"text": "Careers\n"
+},
+{
+"id": "S1L499",
+"start": 21115,
+"end": 21136,
+"text": "General Availability\n"
+},
+{
+"id": "S1L500",
+"start": 21136,
+"end": 21146,
+"text": "Legal Hub\n"
+},
+{
+"id": "S1L501",
+"start": 21146,
+"end": 21161,
+"text": "Privacy Policy\n"
+},
+{
+"id": "S1L502",
+"start": 21161,
+"end": 21178,
+"text": "Privacy Settings\n"
+},
+{
+"id": "S1L503",
+"start": 21178,
+"end": 21200,
+"text": "Acceptable Use Policy\n"
+},
+{
+"id": "S1L504",
+"start": 21200,
+"end": 21211,
+"text": "Humans.txt\n"
+},
+{
+"id": "S1L505",
+"start": 21211,
+"end": 21223,
+"text": "Lawyers.txt\n"
+},
+{
+"id": "S1L506",
+"start": 21223,
+"end": 21236,
+"text": "Security.txt\n"
+},
+{
+"id": "S1L507",
+"start": 21236,
+"end": 21247,
+"text": "Contact Us\n"
+},
+{
+"id": "S1L508",
+"start": 21247,
+"end": 21261,
+"text": "© Supabase Inc"
+}
+]
+}

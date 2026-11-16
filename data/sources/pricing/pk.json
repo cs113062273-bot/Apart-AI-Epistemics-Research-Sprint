@@ -1,0 +1,2466 @@
+{
+"page": "Postmark pricing",
+"url": "https://postmarkapp.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 68,
+"text": "🤖 Teach your AI coding agent how to send email with Postmark Skills\n"
+},
+{
+"id": "S1L2",
+"start": 68,
+"end": 79,
+"text": "Learn more\n"
+},
+{
+"id": "S1L3",
+"start": 79,
+"end": 81,
+"text": "x\n"
+},
+{
+"id": "S1L4",
+"start": 81,
+"end": 90,
+"text": "Postmark\n"
+},
+{
+"id": "S1L5",
+"start": 90,
+"end": 97,
+"text": "Log In\n"
+},
+{
+"id": "S1L6",
+"start": 97,
+"end": 111,
+"text": "Why Postmark?\n"
+},
+{
+"id": "S1L7",
+"start": 111,
+"end": 119,
+"text": "Product\n"
+},
+{
+"id": "S1L8",
+"start": 119,
+"end": 128,
+"text": "Features\n"
+},
+{
+"id": "S1L9",
+"start": 128,
+"end": 138,
+"text": "Email API\n"
+},
+{
+"id": "S1L10",
+"start": 138,
+"end": 151,
+"text": "SMTP Service\n"
+},
+{
+"id": "S1L11",
+"start": 151,
+"end": 167,
+"text": "Message Streams\n"
+},
+{
+"id": "S1L12",
+"start": 167,
+"end": 187,
+"text": "Transactional Email\n"
+},
+{
+"id": "S1L13",
+"start": 187,
+"end": 202,
+"text": "Email Delivery\n"
+},
+{
+"id": "S1L14",
+"start": 202,
+"end": 218,
+"text": "Email Templates\n"
+},
+{
+"id": "S1L15",
+"start": 218,
+"end": 232,
+"text": "Inbound Email\n"
+},
+{
+"id": "S1L16",
+"start": 232,
+"end": 254,
+"text": "Analytics & Retention\n"
+},
+{
+"id": "S1L17",
+"start": 254,
+"end": 267,
+"text": "Integrations\n"
+},
+{
+"id": "S1L18",
+"start": 267,
+"end": 280,
+"text": "Bulk API New\n"
+},
+{
+"id": "S1L19",
+"start": 280,
+"end": 293,
+"text": "Postmark For\n"
+},
+{
+"id": "S1L20",
+"start": 293,
+"end": 302,
+"text": "Agencies\n"
+},
+{
+"id": "S1L21",
+"start": 302,
+"end": 313,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L22",
+"start": 313,
+"end": 322,
+"text": "Startups\n"
+},
+{
+"id": "S1L23",
+"start": 322,
+"end": 344,
+"text": "Bootstrapped Startups\n"
+},
+{
+"id": "S1L24",
+"start": 344,
+"end": 358,
+"text": "Side Projects\n"
+},
+{
+"id": "S1L25",
+"start": 358,
+"end": 371,
+"text": "Postmark vs.\n"
+},
+{
+"id": "S1L26",
+"start": 371,
+"end": 380,
+"text": "SendGrid\n"
+},
+{
+"id": "S1L27",
+"start": 380,
+"end": 388,
+"text": "Mailgun\n"
+},
+{
+"id": "S1L28",
+"start": 388,
+"end": 399,
+"text": "Amazon SES\n"
+},
+{
+"id": "S1L29",
+"start": 399,
+"end": 409,
+"text": "SparkPost\n"
+},
+{
+"id": "S1L30",
+"start": 409,
+"end": 418,
+"text": "Mandrill\n"
+},
+{
+"id": "S1L31",
+"start": 418,
+"end": 429,
+"text": "Resend New\n"
+},
+{
+"id": "S1L32",
+"start": 429,
+"end": 437,
+"text": "Pricing\n"
+},
+{
+"id": "S1L33",
+"start": 437,
+"end": 447,
+"text": "Resources\n"
+},
+{
+"id": "S1L34",
+"start": 447,
+"end": 452,
+"text": "Blog\n"
+},
+{
+"id": "S1L35",
+"start": 452,
+"end": 470,
+"text": "API Documentation\n"
+},
+{
+"id": "S1L36",
+"start": 470,
+"end": 486,
+"text": "Getting Started\n"
+},
+{
+"id": "S1L37",
+"start": 486,
+"end": 499,
+"text": "Email Guides\n"
+},
+{
+"id": "S1L38",
+"start": 499,
+"end": 511,
+"text": "Email Comic\n"
+},
+{
+"id": "S1L39",
+"start": 511,
+"end": 520,
+"text": "Webinars\n"
+},
+{
+"id": "S1L40",
+"start": 520,
+"end": 527,
+"text": "Videos\n"
+},
+{
+"id": "S1L41",
+"start": 527,
+"end": 535,
+"text": "Podcast\n"
+},
+{
+"id": "S1L42",
+"start": 535,
+"end": 540,
+"text": "Labs\n"
+},
+{
+"id": "S1L43",
+"start": 540,
+"end": 554,
+"text": "DMARC Digests\n"
+},
+{
+"id": "S1L44",
+"start": 554,
+"end": 563,
+"text": "Glossary\n"
+},
+{
+"id": "S1L45",
+"start": 563,
+"end": 568,
+"text": "Help\n"
+},
+{
+"id": "S1L46",
+"start": 568,
+"end": 583,
+"text": "Support Center\n"
+},
+{
+"id": "S1L47",
+"start": 583,
+"end": 599,
+"text": "Contact Support\n"
+},
+{
+"id": "S1L48",
+"start": 599,
+"end": 613,
+"text": "Talk to Sales\n"
+},
+{
+"id": "S1L49",
+"start": 613,
+"end": 620,
+"text": "Status\n"
+},
+{
+"id": "S1L50",
+"start": 620,
+"end": 627,
+"text": "Log in\n"
+},
+{
+"id": "S1L51",
+"start": 627,
+"end": 644,
+"text": "Start free trial\n"
+},
+{
+"id": "S1L52",
+"start": 644,
+"end": 658,
+"text": "Why Postmark?\n"
+},
+{
+"id": "S1L53",
+"start": 658,
+"end": 666,
+"text": "Product\n"
+},
+{
+"id": "S1L54",
+"start": 666,
+"end": 675,
+"text": "Features\n"
+},
+{
+"id": "S1L55",
+"start": 675,
+"end": 685,
+"text": "Email API\n"
+},
+{
+"id": "S1L56",
+"start": 685,
+"end": 698,
+"text": "SMTP Service\n"
+},
+{
+"id": "S1L57",
+"start": 698,
+"end": 714,
+"text": "Message Streams\n"
+},
+{
+"id": "S1L58",
+"start": 714,
+"end": 734,
+"text": "Transactional Email\n"
+},
+{
+"id": "S1L59",
+"start": 734,
+"end": 749,
+"text": "Email Delivery\n"
+},
+{
+"id": "S1L60",
+"start": 749,
+"end": 765,
+"text": "Email Templates\n"
+},
+{
+"id": "S1L61",
+"start": 765,
+"end": 779,
+"text": "Inbound Email\n"
+},
+{
+"id": "S1L62",
+"start": 779,
+"end": 801,
+"text": "Analytics & Retention\n"
+},
+{
+"id": "S1L63",
+"start": 801,
+"end": 814,
+"text": "Integrations\n"
+},
+{
+"id": "S1L64",
+"start": 814,
+"end": 827,
+"text": "Bulk API New\n"
+},
+{
+"id": "S1L65",
+"start": 827,
+"end": 840,
+"text": "Postmark For\n"
+},
+{
+"id": "S1L66",
+"start": 840,
+"end": 849,
+"text": "Agencies\n"
+},
+{
+"id": "S1L67",
+"start": 849,
+"end": 860,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L68",
+"start": 860,
+"end": 869,
+"text": "Startups\n"
+},
+{
+"id": "S1L69",
+"start": 869,
+"end": 891,
+"text": "Bootstrapped Startups\n"
+},
+{
+"id": "S1L70",
+"start": 891,
+"end": 905,
+"text": "Side Projects\n"
+},
+{
+"id": "S1L71",
+"start": 905,
+"end": 918,
+"text": "Postmark vs.\n"
+},
+{
+"id": "S1L72",
+"start": 918,
+"end": 927,
+"text": "SendGrid\n"
+},
+{
+"id": "S1L73",
+"start": 927,
+"end": 935,
+"text": "Mailgun\n"
+},
+{
+"id": "S1L74",
+"start": 935,
+"end": 946,
+"text": "Amazon SES\n"
+},
+{
+"id": "S1L75",
+"start": 946,
+"end": 956,
+"text": "SparkPost\n"
+},
+{
+"id": "S1L76",
+"start": 956,
+"end": 965,
+"text": "Mandrill\n"
+},
+{
+"id": "S1L77",
+"start": 965,
+"end": 976,
+"text": "Resend New\n"
+},
+{
+"id": "S1L78",
+"start": 976,
+"end": 984,
+"text": "Pricing\n"
+},
+{
+"id": "S1L79",
+"start": 984,
+"end": 994,
+"text": "Resources\n"
+},
+{
+"id": "S1L80",
+"start": 994,
+"end": 999,
+"text": "Blog\n"
+},
+{
+"id": "S1L81",
+"start": 999,
+"end": 1017,
+"text": "API Documentation\n"
+},
+{
+"id": "S1L82",
+"start": 1017,
+"end": 1033,
+"text": "Getting Started\n"
+},
+{
+"id": "S1L83",
+"start": 1033,
+"end": 1046,
+"text": "Email Guides\n"
+},
+{
+"id": "S1L84",
+"start": 1046,
+"end": 1058,
+"text": "Email Comic\n"
+},
+{
+"id": "S1L85",
+"start": 1058,
+"end": 1067,
+"text": "Webinars\n"
+},
+{
+"id": "S1L86",
+"start": 1067,
+"end": 1074,
+"text": "Videos\n"
+},
+{
+"id": "S1L87",
+"start": 1074,
+"end": 1082,
+"text": "Podcast\n"
+},
+{
+"id": "S1L88",
+"start": 1082,
+"end": 1087,
+"text": "Labs\n"
+},
+{
+"id": "S1L89",
+"start": 1087,
+"end": 1101,
+"text": "DMARC Digests\n"
+},
+{
+"id": "S1L90",
+"start": 1101,
+"end": 1110,
+"text": "Glossary\n"
+},
+{
+"id": "S1L91",
+"start": 1110,
+"end": 1115,
+"text": "Help\n"
+},
+{
+"id": "S1L92",
+"start": 1115,
+"end": 1130,
+"text": "Support Center\n"
+},
+{
+"id": "S1L93",
+"start": 1130,
+"end": 1146,
+"text": "Contact Support\n"
+},
+{
+"id": "S1L94",
+"start": 1146,
+"end": 1160,
+"text": "Talk to Sales\n"
+},
+{
+"id": "S1L95",
+"start": 1160,
+"end": 1167,
+"text": "Status\n"
+},
+{
+"id": "S1L96",
+"start": 1167,
+"end": 1174,
+"text": "Log in\n"
+},
+{
+"id": "S1L97",
+"start": 1174,
+"end": 1191,
+"text": "Start free trial\n"
+},
+{
+"id": "S1L98",
+"start": 1191,
+"end": 1225,
+"text": "Already have an account? Log in →\n"
+},
+{
+"id": "S1L99",
+"start": 1225,
+"end": 1271,
+"text": "Simple pricing that scales with your business\n"
+},
+{
+"id": "S1L100",
+"start": 1271,
+"end": 1358,
+"text": "No hidden fees, no guesswork. Just the features you need, at a price that makes sense.\n"
+},
+{
+"id": "S1L101",
+"start": 1358,
+"end": 1399,
+"text": "Start Free Trial No Credit Card Required\n"
+},
+{
+"id": "S1L102",
+"start": 1399,
+"end": 1451,
+"text": "How many emails do you send and receive each month?\n"
+},
+{
+"id": "S1L103",
+"start": 1451,
+"end": 1465,
+"text": "10,000 emails\n"
+},
+{
+"id": "S1L104",
+"start": 1465,
+"end": 1470,
+"text": "Free\n"
+},
+{
+"id": "S1L105",
+"start": 1470,
+"end": 1480,
+"text": "$0.00 /mo\n"
+},
+{
+"id": "S1L106",
+"start": 1480,
+"end": 1524,
+"text": "Test your integration with 100 emails/month\n"
+},
+{
+"id": "S1L107",
+"start": 1524,
+"end": 1542,
+"text": "100 emails/month.\n"
+},
+{
+"id": "S1L108",
+"start": 1542,
+"end": 1576,
+"text": "No overages allowed in this plan.\n"
+},
+{
+"id": "S1L109",
+"start": 1576,
+"end": 1589,
+"text": "Perfect for:\n"
+},
+{
+"id": "S1L110",
+"start": 1589,
+"end": 1614,
+"text": "Testing your integration\n"
+},
+{
+"id": "S1L111",
+"start": 1614,
+"end": 1651,
+"text": "Evaluating Postmark's deliverability\n"
+},
+{
+"id": "S1L112",
+"start": 1651,
+"end": 1681,
+"text": "Side projects with low volume\n"
+},
+{
+"id": "S1L113",
+"start": 1681,
+"end": 1698,
+"text": "Start Free Trial\n"
+},
+{
+"id": "S1L114",
+"start": 1698,
+"end": 1704,
+"text": "Basic\n"
+},
+{
+"id": "S1L115",
+"start": 1704,
+"end": 1715,
+"text": "$15.00 /mo\n"
+},
+{
+"id": "S1L116",
+"start": 1715,
+"end": 1753,
+"text": "For solo developers and smaller teams\n"
+},
+{
+"id": "S1L117",
+"start": 1753,
+"end": 1786,
+"text": "Starting at 10,000 emails/month.\n"
+},
+{
+"id": "S1L118",
+"start": 1786,
+"end": 1815,
+"text": "Extra emails @ $1.80 / 1,000\n"
+},
+{
+"id": "S1L119",
+"start": 1815,
+"end": 1825,
+"text": "Includes:\n"
+},
+{
+"id": "S1L120",
+"start": 1825,
+"end": 1871,
+"text": "Industry-leading deliverability rates & speed\n"
+},
+{
+"id": "S1L121",
+"start": 1871,
+"end": 1893,
+"text": "45-day data retention\n"
+},
+{
+"id": "S1L122",
+"start": 1893,
+"end": 1918,
+"text": "5 Custom sending domains\n"
+},
+{
+"id": "S1L123",
+"start": 1918,
+"end": 1939,
+"text": "Unlimited emails/day\n"
+},
+{
+"id": "S1L124",
+"start": 1939,
+"end": 1971,
+"text": "Detailed analytics and insights\n"
+},
+{
+"id": "S1L125",
+"start": 1971,
+"end": 1979,
+"text": "Buy Now\n"
+},
+{
+"id": "S1L126",
+"start": 1979,
+"end": 1993,
+"text": "Most Popular!\n"
+},
+{
+"id": "S1L127",
+"start": 1993,
+"end": 1997,
+"text": "Pro\n"
+},
+{
+"id": "S1L128",
+"start": 1997,
+"end": 2008,
+"text": "$16.50 /mo\n"
+},
+{
+"id": "S1L129",
+"start": 2008,
+"end": 2043,
+"text": "For start-ups and small businesses\n"
+},
+{
+"id": "S1L130",
+"start": 2043,
+"end": 2076,
+"text": "Starting at 10,000 emails/month.\n"
+},
+{
+"id": "S1L131",
+"start": 2076,
+"end": 2105,
+"text": "Extra emails @ $1.30 / 1,000\n"
+},
+{
+"id": "S1L132",
+"start": 2105,
+"end": 2115,
+"text": "Includes:\n"
+},
+{
+"id": "S1L133",
+"start": 2115,
+"end": 2161,
+"text": "Industry-leading deliverability rates & speed\n"
+},
+{
+"id": "S1L134",
+"start": 2161,
+"end": 2221,
+"text": "Customizable data retention up to 365 days (45-day default)\n"
+},
+{
+"id": "S1L135",
+"start": 2221,
+"end": 2247,
+"text": "10 Custom sending domains\n"
+},
+{
+"id": "S1L136",
+"start": 2247,
+"end": 2268,
+"text": "Unlimited emails/day\n"
+},
+{
+"id": "S1L137",
+"start": 2268,
+"end": 2300,
+"text": "Detailed analytics and insights\n"
+},
+{
+"id": "S1L138",
+"start": 2300,
+"end": 2325,
+"text": "Inbound email processing\n"
+},
+{
+"id": "S1L139",
+"start": 2325,
+"end": 2333,
+"text": "Buy Now\n"
+},
+{
+"id": "S1L140",
+"start": 2333,
+"end": 2342,
+"text": "Platform\n"
+},
+{
+"id": "S1L141",
+"start": 2342,
+"end": 2353,
+"text": "$18.00 /mo\n"
+},
+{
+"id": "S1L142",
+"start": 2353,
+"end": 2370,
+"text": "For agencies and\n"
+},
+{
+"id": "S1L143",
+"start": 2370,
+"end": 2383,
+"text": "larger teams\n"
+},
+{
+"id": "S1L144",
+"start": 2383,
+"end": 2416,
+"text": "Starting at 10,000 emails/month.\n"
+},
+{
+"id": "S1L145",
+"start": 2416,
+"end": 2445,
+"text": "Extra emails @ $1.20 / 1,000\n"
+},
+{
+"id": "S1L146",
+"start": 2445,
+"end": 2455,
+"text": "Includes:\n"
+},
+{
+"id": "S1L147",
+"start": 2455,
+"end": 2501,
+"text": "Industry-leading deliverability rates & speed\n"
+},
+{
+"id": "S1L148",
+"start": 2501,
+"end": 2561,
+"text": "Customizable data retention up to 365 days (45-day default)\n"
+},
+{
+"id": "S1L149",
+"start": 2561,
+"end": 2594,
+"text": "Unlimited Custom sending domains\n"
+},
+{
+"id": "S1L150",
+"start": 2594,
+"end": 2615,
+"text": "Unlimited emails/day\n"
+},
+{
+"id": "S1L151",
+"start": 2615,
+"end": 2647,
+"text": "Detailed analytics and insights\n"
+},
+{
+"id": "S1L152",
+"start": 2647,
+"end": 2672,
+"text": "Inbound email processing\n"
+},
+{
+"id": "S1L153",
+"start": 2672,
+"end": 2680,
+"text": "Buy Now\n"
+},
+{
+"id": "S1L154",
+"start": 2680,
+"end": 2696,
+"text": "Hey Big Sender!\n"
+},
+{
+"id": "S1L155",
+"start": 2696,
+"end": 2748,
+"text": "Let’s work together to improve your deliverability.\n"
+},
+{
+"id": "S1L156",
+"start": 2748,
+"end": 2806,
+"text": "Contact our sales team to discuss custom pricing options.\n"
+},
+{
+"id": "S1L157",
+"start": 2806,
+"end": 2824,
+"text": "What's your name?\n"
+},
+{
+"id": "S1L158",
+"start": 2824,
+"end": 2859,
+"text": "What's your company email address?\n"
+},
+{
+"id": "S1L159",
+"start": 2859,
+"end": 2910,
+"text": "We'll never use this email for marketing purposes.\n"
+},
+{
+"id": "S1L160",
+"start": 2910,
+"end": 2954,
+"text": "Who is your current email service provider?\n"
+},
+{
+"id": "S1L161",
+"start": 2954,
+"end": 3111,
+"text": "Select an option… SendGrid (Twilio) Mailgun MessageBird Email (Formerly SparkPost) Mailchimp Transactional (Formerly Mandrill) AWS SES In-house system Other\n"
+},
+{
+"id": "S1L162",
+"start": 3111,
+"end": 3152,
+"text": "What is your anticipated monthly volume?\n"
+},
+{
+"id": "S1L163",
+"start": 3152,
+"end": 3255,
+"text": "Select a volume… Less than 1.5 million/month Between 1.5 – 10 million/month More than 10 million/month\n"
+},
+{
+"id": "S1L164",
+"start": 3255,
+"end": 3319,
+"text": "Please complete all required fields to enable the submit button\n"
+},
+{
+"id": "S1L165",
+"start": 3319,
+"end": 3351,
+"text": "Get started risk-free, for free\n"
+},
+{
+"id": "S1L166",
+"start": 3351,
+"end": 3468,
+"text": "Everyone starts on our free Developer plan, which includes 100 emails every month. And it never expires or runs out.\n"
+},
+{
+"id": "S1L167",
+"start": 3468,
+"end": 3485,
+"text": "Start Free Trial\n"
+},
+{
+"id": "S1L168",
+"start": 3485,
+"end": 3494,
+"text": "Features\n"
+},
+{
+"id": "S1L169",
+"start": 3494,
+"end": 3499,
+"text": "Free\n"
+},
+{
+"id": "S1L170",
+"start": 3499,
+"end": 3505,
+"text": "Basic\n"
+},
+{
+"id": "S1L171",
+"start": 3505,
+"end": 3509,
+"text": "Pro\n"
+},
+{
+"id": "S1L172",
+"start": 3509,
+"end": 3518,
+"text": "Platform\n"
+},
+{
+"id": "S1L173",
+"start": 3518,
+"end": 3523,
+"text": "Free\n"
+},
+{
+"id": "S1L174",
+"start": 3523,
+"end": 3533,
+"text": "$0.00 /mo\n"
+},
+{
+"id": "S1L175",
+"start": 3533,
+"end": 3550,
+"text": "Start Free Trial\n"
+},
+{
+"id": "S1L176",
+"start": 3550,
+"end": 3556,
+"text": "Basic\n"
+},
+{
+"id": "S1L177",
+"start": 3556,
+"end": 3567,
+"text": "$15.00 /mo\n"
+},
+{
+"id": "S1L178",
+"start": 3567,
+"end": 3575,
+"text": "Buy Now\n"
+},
+{
+"id": "S1L179",
+"start": 3575,
+"end": 3579,
+"text": "Pro\n"
+},
+{
+"id": "S1L180",
+"start": 3579,
+"end": 3590,
+"text": "$16.50 /mo\n"
+},
+{
+"id": "S1L181",
+"start": 3590,
+"end": 3598,
+"text": "Buy Now\n"
+},
+{
+"id": "S1L182",
+"start": 3598,
+"end": 3607,
+"text": "Platform\n"
+},
+{
+"id": "S1L183",
+"start": 3607,
+"end": 3618,
+"text": "$18.00 /mo\n"
+},
+{
+"id": "S1L184",
+"start": 3618,
+"end": 3626,
+"text": "Buy Now\n"
+},
+{
+"id": "S1L185",
+"start": 3626,
+"end": 3643,
+"text": "Send and Receive\n"
+},
+{
+"id": "S1L186",
+"start": 3643,
+"end": 3652,
+"text": "REST API\n"
+},
+{
+"id": "S1L187",
+"start": 3652,
+"end": 3657,
+"text": "SMTP\n"
+},
+{
+"id": "S1L188",
+"start": 3657,
+"end": 3685,
+"text": "Multi-Region Routing (SMTP)\n"
+},
+{
+"id": "S1L189",
+"start": 3685,
+"end": 3705,
+"text": "Transactional email\n"
+},
+{
+"id": "S1L190",
+"start": 3705,
+"end": 3720,
+"text": "Bulk Email API\n"
+},
+{
+"id": "S1L191",
+"start": 3720,
+"end": 3722,
+"text": "-\n"
+},
+{
+"id": "S1L192",
+"start": 3722,
+"end": 3736,
+"text": "Batch sending\n"
+},
+{
+"id": "S1L193",
+"start": 3736,
+"end": 3754,
+"text": "Daily email limit\n"
+},
+{
+"id": "S1L194",
+"start": 3754,
+"end": 3764,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L195",
+"start": 3764,
+"end": 3778,
+"text": "Inbound Email\n"
+},
+{
+"id": "S1L196",
+"start": 3778,
+"end": 3780,
+"text": "-\n"
+},
+{
+"id": "S1L197",
+"start": 3780,
+"end": 3810,
+"text": "Transactional Message Streams\n"
+},
+{
+"id": "S1L198",
+"start": 3810,
+"end": 3851,
+"text": "Marketing/Bulk/Broadcast message streams\n"
+},
+{
+"id": "S1L199",
+"start": 3851,
+"end": 3868,
+"text": "Up to 30 streams\n"
+},
+{
+"id": "S1L200",
+"start": 3868,
+"end": 3885,
+"text": "Up to 15 streams\n"
+},
+{
+"id": "S1L201",
+"start": 3885,
+"end": 3902,
+"text": "Up to 30 streams\n"
+},
+{
+"id": "S1L202",
+"start": 3902,
+"end": 3912,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L203",
+"start": 3912,
+"end": 3920,
+"text": "Servers\n"
+},
+{
+"id": "S1L204",
+"start": 3920,
+"end": 3937,
+"text": "Up to 10 servers\n"
+},
+{
+"id": "S1L205",
+"start": 3937,
+"end": 3953,
+"text": "Up to 5 servers\n"
+},
+{
+"id": "S1L206",
+"start": 3953,
+"end": 3970,
+"text": "Up to 10 servers\n"
+},
+{
+"id": "S1L207",
+"start": 3970,
+"end": 3980,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L208",
+"start": 3980,
+"end": 4003,
+"text": "Custom sending domains\n"
+},
+{
+"id": "S1L209",
+"start": 4003,
+"end": 4020,
+"text": "Up to 10 domains\n"
+},
+{
+"id": "S1L210",
+"start": 4020,
+"end": 4036,
+"text": "Up to 5 domains\n"
+},
+{
+"id": "S1L211",
+"start": 4036,
+"end": 4053,
+"text": "Up to 10 domains\n"
+},
+{
+"id": "S1L212",
+"start": 4053,
+"end": 4063,
+"text": "Unlimited\n"
+},
+{
+"id": "S1L213",
+"start": 4063,
+"end": 4090,
+"text": "Responsive email templates\n"
+},
+{
+"id": "S1L214",
+"start": 4090,
+"end": 4126,
+"text": "Email template editor & import tool\n"
+},
+{
+"id": "S1L215",
+"start": 4126,
+"end": 4151,
+"text": "High quality, vetted IPs\n"
+},
+{
+"id": "S1L216",
+"start": 4151,
+"end": 4165,
+"text": "Dedicated IPs\n"
+},
+{
+"id": "S1L217",
+"start": 4165,
+"end": 4167,
+"text": "-\n"
+},
+{
+"id": "S1L218",
+"start": 4167,
+"end": 4190,
+"text": "Suppression Management\n"
+},
+{
+"id": "S1L219",
+"start": 4190,
+"end": 4212,
+"text": "Automatic suppression\n"
+},
+{
+"id": "S1L220",
+"start": 4212,
+"end": 4244,
+"text": "DKIM, SPF, DMARC Authentication\n"
+},
+{
+"id": "S1L221",
+"start": 4244,
+"end": 4265,
+"text": "Seamless Integration\n"
+},
+{
+"id": "S1L222",
+"start": 4265,
+"end": 4278,
+"text": "Sandbox Mode\n"
+},
+{
+"id": "S1L223",
+"start": 4278,
+"end": 4304,
+"text": "Dynamic API Documentation\n"
+},
+{
+"id": "S1L224",
+"start": 4304,
+"end": 4321,
+"text": "Migration guides\n"
+},
+{
+"id": "S1L225",
+"start": 4321,
+"end": 4336,
+"text": "Event Webhooks\n"
+},
+{
+"id": "S1L226",
+"start": 4336,
+"end": 4361,
+"text": "Secure webhook endpoints\n"
+},
+{
+"id": "S1L227",
+"start": 4361,
+"end": 4375,
+"text": "Official SDKs\n"
+},
+{
+"id": "S1L228",
+"start": 4375,
+"end": 4392,
+"text": "Data & Analytics\n"
+},
+{
+"id": "S1L229",
+"start": 4392,
+"end": 4420,
+"text": "Detailed Activity Retention\n"
+},
+{
+"id": "S1L230",
+"start": 4420,
+"end": 4443,
+"text": "Full message retention\n"
+},
+{
+"id": "S1L231",
+"start": 4443,
+"end": 4451,
+"text": "45 Days\n"
+},
+{
+"id": "S1L232",
+"start": 4451,
+"end": 4488,
+"text": "Custom retention available as add-on\n"
+},
+{
+"id": "S1L233",
+"start": 4488,
+"end": 4496,
+"text": "45 Days\n"
+},
+{
+"id": "S1L234",
+"start": 4496,
+"end": 4533,
+"text": "Custom retention available as add-on\n"
+},
+{
+"id": "S1L235",
+"start": 4533,
+"end": 4554,
+"text": "Granular bounce data\n"
+},
+{
+"id": "S1L236",
+"start": 4554,
+"end": 4593,
+"text": "Delivery, Bounce, Spam, and Open Rates\n"
+},
+{
+"id": "S1L237",
+"start": 4593,
+"end": 4622,
+"text": "Email Open and Link tracking\n"
+},
+{
+"id": "S1L238",
+"start": 4622,
+"end": 4637,
+"text": "Custom Tagging\n"
+},
+{
+"id": "S1L239",
+"start": 4637,
+"end": 4647,
+"text": "Stats API\n"
+},
+{
+"id": "S1L240",
+"start": 4647,
+"end": 4666,
+"text": "Support & Security\n"
+},
+{
+"id": "S1L241",
+"start": 4666,
+"end": 4683,
+"text": "SOC 2 Compliance\n"
+},
+{
+"id": "S1L242",
+"start": 4683,
+"end": 4694,
+"text": "User Roles\n"
+},
+{
+"id": "S1L243",
+"start": 4694,
+"end": 4710,
+"text": "GDPR compliance\n"
+},
+{
+"id": "S1L244",
+"start": 4710,
+"end": 4730,
+"text": "Penetration testing\n"
+},
+{
+"id": "S1L245",
+"start": 4730,
+"end": 4746,
+"text": "DDoS protection\n"
+},
+{
+"id": "S1L246",
+"start": 4746,
+"end": 4772,
+"text": "Two-factor authentication\n"
+},
+{
+"id": "S1L247",
+"start": 4772,
+"end": 4796,
+"text": "API permission controls\n"
+},
+{
+"id": "S1L248",
+"start": 4796,
+"end": 4802,
+"text": "Users\n"
+},
+{
+"id": "S1L249",
+"start": 4802,
+"end": 4818,
+"text": "Number of Users\n"
+},
+{
+"id": "S1L250",
+"start": 4818,
+"end": 4832,
+"text": "Up to 6 users\n"
+},
+{
+"id": "S1L251",
+"start": 4832,
+"end": 4846,
+"text": "Up to 4 users\n"
+},
+{
+"id": "S1L252",
+"start": 4846,
+"end": 4860,
+"text": "Up to 6 users\n"
+},
+{
+"id": "S1L253",
+"start": 4860,
+"end": 4876,
+"text": "Unlimited users\n"
+},
+{
+"id": "S1L254",
+"start": 4876,
+"end": 4893,
+"text": "Optional add-ons\n"
+},
+{
+"id": "S1L255",
+"start": 4893,
+"end": 4907,
+"text": "Dedicated IPs\n"
+},
+{
+"id": "S1L256",
+"start": 4907,
+"end": 4935,
+"text": "Starts at $50 /month per IP\n"
+},
+{
+"id": "S1L257",
+"start": 4935,
+"end": 5036,
+"text": "Our fully managed dedicated IPs are available to customers sending 300,000 emails per month or more.\n"
+},
+{
+"id": "S1L258",
+"start": 5036,
+"end": 5074,
+"text": "Only available on Pro plans or higher\n"
+},
+{
+"id": "S1L259",
+"start": 5074,
+"end": 5087,
+"text": "Learn more →\n"
+},
+{
+"id": "S1L260",
+"start": 5087,
+"end": 5113,
+"text": "Custom activity retention\n"
+},
+{
+"id": "S1L261",
+"start": 5113,
+"end": 5133,
+"text": "Starts at $5 /month\n"
+},
+{
+"id": "S1L262",
+"start": 5133,
+"end": 5264,
+"text": "Customize how long Postmark will store activity data and message content for your emails. Statistics are always kept indefinitely.\n"
+},
+{
+"id": "S1L263",
+"start": 5264,
+"end": 5302,
+"text": "Only available on Pro plans or higher\n"
+},
+{
+"id": "S1L264",
+"start": 5302,
+"end": 5315,
+"text": "Learn more →\n"
+},
+{
+"id": "S1L265",
+"start": 5315,
+"end": 5332,
+"text": "DMARC monitoring\n"
+},
+{
+"id": "S1L266",
+"start": 5332,
+"end": 5364,
+"text": "Starts at $14 /month per domain\n"
+},
+{
+"id": "S1L267",
+"start": 5364,
+"end": 5498,
+"text": "Fix authentication issues that prevent your email from reaching the inbox and see who’s sending using your domain with DMARC Digests.\n"
+},
+{
+"id": "S1L268",
+"start": 5498,
+"end": 5511,
+"text": "Learn more →\n"
+},
+{
+"id": "S1L269",
+"start": 5511,
+"end": 5572,
+"text": "All the tools you need to make managing your emails a breeze\n"
+},
+{
+"id": "S1L270",
+"start": 5572,
+"end": 5644,
+"text": "Industry-leading delivery speeds. Up to 4x faster than other providers.\n"
+},
+{
+"id": "S1L271",
+"start": 5644,
+"end": 5775,
+"text": "Take the pain out of handling inbound email. Postmark turns inbound email into a handy JSON object and posts it to a web hook URL.\n"
+},
+{
+"id": "S1L272",
+"start": 5775,
+"end": 5885,
+"text": "Responsive templates for sending transactional emails, including welcome messages, password resets, and more.\n"
+},
+{
+"id": "S1L273",
+"start": 5885,
+"end": 6004,
+"text": "45 days worth of full content history by default to help you troubleshoot (customizable from 7 to 365 days if needed).\n"
+},
+{
+"id": "S1L274",
+"start": 6004,
+"end": 6092,
+"text": "We share our delivery statistics to the major inbox providers right on our status page.\n"
+},
+{
+"id": "S1L275",
+"start": 6092,
+"end": 6159,
+"text": "Reliable link tracking so you can monitor and improve your emails.\n"
+},
+{
+"id": "S1L276",
+"start": 6159,
+"end": 6194,
+"text": "See how Postmark stacks up against\n"
+},
+{
+"id": "S1L277",
+"start": 6194,
+"end": 6224,
+"text": "other email service providers\n"
+},
+{
+"id": "S1L278",
+"start": 6224,
+"end": 6269,
+"text": "Select a provider below to see a comparison.\n"
+},
+{
+"id": "S1L279",
+"start": 6269,
+"end": 6307,
+"text": "Here’s what our customers think of us\n"
+},
+{
+"id": "S1L280",
+"start": 6307,
+"end": 6695,
+"text": "Postmark has a reputation for high quality. Even though there are several good companies, we were convinced by Postmark’s clear documentation and transparent roadmap. Further, building email infrastructure is really a partnership — we wanted to invest in a platform that would continue to grow along with our needs, not one that was fairly static and falling behind the technology curve.\n"
+},
+{
+"id": "S1L281",
+"start": 6695,
+"end": 6715,
+"text": "Read the full story\n"
+},
+{
+"id": "S1L282",
+"start": 6715,
+"end": 6727,
+"text": "Cliff Chang\n"
+},
+{
+"id": "S1L283",
+"start": 6727,
+"end": 6753,
+"text": "Product Engineer at Asana\n"
+},
+{
+"id": "S1L284",
+"start": 6753,
+"end": 6924,
+"text": "I was shocked to see Postmark open rates were an 11% improvement over SES in our test. Needless to say we started sending all of our transactional email through Postmark.\n"
+},
+{
+"id": "S1L285",
+"start": 6924,
+"end": 6938,
+"text": "Dave Marshall\n"
+},
+{
+"id": "S1L286",
+"start": 6938,
+"end": 6961,
+"text": "CTO at Childcare.co.uk\n"
+},
+{
+"id": "S1L287",
+"start": 6961,
+"end": 7213,
+"text": "We’re really happy we decided to use Postmark for ITV’s British Soap Awards. We only count votes from verified email addresses and Postmark’s excellent delivery has lead to our highest verification percentage ever. We'll definitely use Postmark again!\n"
+},
+{
+"id": "S1L288",
+"start": 7213,
+"end": 7227,
+"text": "Owen Matthews\n"
+},
+{
+"id": "S1L289",
+"start": 7227,
+"end": 7260,
+"text": "Creative Director at Ten4 Design\n"
+},
+{
+"id": "S1L290",
+"start": 7260,
+"end": 7333,
+"text": "Postmark blows every other transactional email product out of the water.\n"
+},
+{
+"id": "S1L291",
+"start": 7333,
+"end": 7344,
+"text": "Kyle Racki\n"
+},
+{
+"id": "S1L292",
+"start": 7344,
+"end": 7361,
+"text": "CEO at Proposify\n"
+},
+{
+"id": "S1L293",
+"start": 7361,
+"end": 7388,
+"text": "Frequently Asked Questions\n"
+},
+{
+"id": "S1L294",
+"start": 7388,
+"end": 7415,
+"text": "Do you offer a free trial?\n"
+},
+{
+"id": "S1L295",
+"start": 7415,
+"end": 7549,
+"text": "All new accounts start off on our free developer plan with 100 emails per month. Use it for however long you need, it doesn’t expire.\n"
+},
+{
+"id": "S1L296",
+"start": 7549,
+"end": 7577,
+"text": "Do you offer dedicated IPs?\n"
+},
+{
+"id": "S1L297",
+"start": 7577,
+"end": 7679,
+"text": "Dedicated IPs are available to high-volume senders. Read about our policy for issuing dedicated IPs .\n"
+},
+{
+"id": "S1L298",
+"start": 7679,
+"end": 7736,
+"text": "What happens if I go over my plan’s monthly email limit?\n"
+},
+{
+"id": "S1L299",
+"start": 7736,
+"end": 7872,
+"text": "Extra emails on our paid plans are calculated at the end of your billing cycle and included with your plan cost for the upcoming month.\n"
+},
+{
+"id": "S1L300",
+"start": 7872,
+"end": 7920,
+"text": "Visit our support article for more information.\n"
+},
+{
+"id": "S1L301",
+"start": 7920,
+"end": 7954,
+"text": "What payment types do you accept?\n"
+},
+{
+"id": "S1L302",
+"start": 7954,
+"end": 8074,
+"text": "We accept payments via Visa, MasterCard, American Express, Diners, and JCB. We do not accept PayPal or Purchase Orders.\n"
+},
+{
+"id": "S1L303",
+"start": 8074,
+"end": 8127,
+"text": "Do you have a tier smaller than 10,000 emails/month?\n"
+},
+{
+"id": "S1L304",
+"start": 8127,
+"end": 8226,
+"text": "We do not offer a tier between 100 emails/month (our free developer plan) and 10,000 emails/month.\n"
+},
+{
+"id": "S1L305",
+"start": 8226,
+"end": 8276,
+"text": "Can I send bulk marketing email through Postmark?\n"
+},
+{
+"id": "S1L306",
+"start": 8276,
+"end": 8586,
+"text": "Yes you can! To comply with industry best practices and to maintain our high deliverability, it's important though that transactional and marketing emails never mix. That's why we created Message Streams , a parallel but completely separate sending infrastructures for your transactional and broadcast emails.\n"
+},
+{
+"id": "S1L307",
+"start": 8586,
+"end": 8618,
+"text": "Do you offer high-volume plans?\n"
+},
+{
+"id": "S1L308",
+"start": 8618,
+"end": 8679,
+"text": "Yes! Contact us to learn more about our high-volume pricing.\n"
+},
+{
+"id": "S1L309",
+"start": 8679,
+"end": 8727,
+"text": "Do unused emails roll over into the next month?\n"
+},
+{
+"id": "S1L310",
+"start": 8727,
+"end": 8860,
+"text": "No. If you are under your email limit at the end of a billing period, the unused emails do not roll over to the next billing period.\n"
+},
+{
+"id": "S1L311",
+"start": 8860,
+"end": 8912,
+"text": "Do you offer a discount for bootstrapped companies?\n"
+},
+{
+"id": "S1L312",
+"start": 8912,
+"end": 9103,
+"text": "Yes! If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact our support team and we’ll give you $75 account credit to help with your email costs.\n"
+},
+{
+"id": "S1L313",
+"start": 9103,
+"end": 9130,
+"text": "Do you offer annual plans?\n"
+},
+{
+"id": "S1L314",
+"start": 9130,
+"end": 9363,
+"text": "Not right now, but we’d like to! We’re looking at introducing annual plans, which can offer some flexibility to customers who have lower and/or seasonal volume. Contact us if you’d like to be notified when we introduce annual plans.\n"
+},
+{
+"id": "S1L315",
+"start": 9363,
+"end": 9403,
+"text": "Trusted by leading businesses worldwide\n"
+},
+{
+"id": "S1L316",
+"start": 9403,
+"end": 9485,
+"text": "Join thousands of businesses that already trust their email delivery to Postmark.\n"
+},
+{
+"id": "S1L317",
+"start": 9485,
+"end": 9492,
+"text": "Paddle\n"
+},
+{
+"id": "S1L318",
+"start": 9492,
+"end": 9506,
+"text": "Indie Hackers\n"
+},
+{
+"id": "S1L319",
+"start": 9506,
+"end": 9516,
+"text": "Faire.com\n"
+},
+{
+"id": "S1L320",
+"start": 9516,
+"end": 9521,
+"text": "IKEA\n"
+},
+{
+"id": "S1L321",
+"start": 9521,
+"end": 9528,
+"text": "litmus\n"
+},
+{
+"id": "S1L322",
+"start": 9528,
+"end": 9533,
+"text": "desk\n"
+},
+{
+"id": "S1L323",
+"start": 9533,
+"end": 9543,
+"text": "minecraft\n"
+},
+{
+"id": "S1L324",
+"start": 9543,
+"end": 9554,
+"text": "livestream\n"
+},
+{
+"id": "S1L325",
+"start": 9554,
+"end": 9561,
+"text": "UNICEF\n"
+},
+{
+"id": "S1L326",
+"start": 9561,
+"end": 9567,
+"text": "Asana\n"
+},
+{
+"id": "S1L327",
+"start": 9567,
+"end": 9571,
+"text": "Moz\n"
+},
+{
+"id": "S1L328",
+"start": 9571,
+"end": 9584,
+"text": "Code Climate\n"
+},
+{
+"id": "S1L329",
+"start": 9584,
+"end": 9593,
+"text": "LiveChat\n"
+},
+{
+"id": "S1L330",
+"start": 9593,
+"end": 9603,
+"text": "1Password\n"
+},
+{
+"id": "S1L331",
+"start": 9603,
+"end": 9610,
+"text": "Wistia\n"
+},
+{
+"id": "S1L332",
+"start": 9610,
+"end": 9621,
+"text": "Betterment\n"
+},
+{
+"id": "S1L333",
+"start": 9621,
+"end": 9629,
+"text": "Webflow\n"
+},
+{
+"id": "S1L334",
+"start": 9629,
+"end": 9638,
+"text": "InVision\n"
+},
+{
+"id": "S1L335",
+"start": 9638,
+"end": 9680,
+"text": "Try Postmark Free No Credit Card Required\n"
+},
+{
+"id": "S1L336",
+"start": 9680,
+"end": 9688,
+"text": "Product\n"
+},
+{
+"id": "S1L337",
+"start": 9688,
+"end": 9696,
+"text": "Pricing\n"
+},
+{
+"id": "S1L338",
+"start": 9696,
+"end": 9706,
+"text": "Customers\n"
+},
+{
+"id": "S1L339",
+"start": 9706,
+"end": 9714,
+"text": "Reviews\n"
+},
+{
+"id": "S1L340",
+"start": 9714,
+"end": 9728,
+"text": "Dedicated IPs\n"
+},
+{
+"id": "S1L341",
+"start": 9728,
+"end": 9753,
+"text": "Referral Partner Program\n"
+},
+{
+"id": "S1L342",
+"start": 9753,
+"end": 9768,
+"text": "Latest Updates\n"
+},
+{
+"id": "S1L343",
+"start": 9768,
+"end": 9778,
+"text": "Community\n"
+},
+{
+"id": "S1L344",
+"start": 9778,
+"end": 9798,
+"text": "Postmark on Discord\n"
+},
+{
+"id": "S1L345",
+"start": 9798,
+"end": 9812,
+"text": "Postmark on X\n"
+},
+{
+"id": "S1L346",
+"start": 9812,
+"end": 9833,
+"text": "Postmark on LinkedIn\n"
+},
+{
+"id": "S1L347",
+"start": 9833,
+"end": 9853,
+"text": "Postmark on YouTube\n"
+},
+{
+"id": "S1L348",
+"start": 9853,
+"end": 9862,
+"text": "Features\n"
+},
+{
+"id": "S1L349",
+"start": 9862,
+"end": 9872,
+"text": "Email API\n"
+},
+{
+"id": "S1L350",
+"start": 9872,
+"end": 9881,
+"text": "Bulk API\n"
+},
+{
+"id": "S1L351",
+"start": 9881,
+"end": 9894,
+"text": "SMTP Service\n"
+},
+{
+"id": "S1L352",
+"start": 9894,
+"end": 9910,
+"text": "Message Streams\n"
+},
+{
+"id": "S1L353",
+"start": 9910,
+"end": 9930,
+"text": "Transactional Email\n"
+},
+{
+"id": "S1L354",
+"start": 9930,
+"end": 9945,
+"text": "Email Delivery\n"
+},
+{
+"id": "S1L355",
+"start": 9945,
+"end": 9955,
+"text": "Templates\n"
+},
+{
+"id": "S1L356",
+"start": 9955,
+"end": 9969,
+"text": "Inbound Email\n"
+},
+{
+"id": "S1L357",
+"start": 9969,
+"end": 9991,
+"text": "Analytics & Retention\n"
+},
+{
+"id": "S1L358",
+"start": 9991,
+"end": 10004,
+"text": "Integrations\n"
+},
+{
+"id": "S1L359",
+"start": 10004,
+"end": 10013,
+"text": "Webhooks\n"
+},
+{
+"id": "S1L360",
+"start": 10013,
+"end": 10022,
+"text": "Security\n"
+},
+{
+"id": "S1L361",
+"start": 10022,
+"end": 10036,
+"text": "Email Experts\n"
+},
+{
+"id": "S1L362",
+"start": 10036,
+"end": 10044,
+"text": "Rebound\n"
+},
+{
+"id": "S1L363",
+"start": 10044,
+"end": 10057,
+"text": "Postmark For\n"
+},
+{
+"id": "S1L364",
+"start": 10057,
+"end": 10066,
+"text": "Agencies\n"
+},
+{
+"id": "S1L365",
+"start": 10066,
+"end": 10075,
+"text": "Startups\n"
+},
+{
+"id": "S1L366",
+"start": 10075,
+"end": 10086,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L367",
+"start": 10086,
+"end": 10108,
+"text": "Bootstrapped Startups\n"
+},
+{
+"id": "S1L368",
+"start": 10108,
+"end": 10122,
+"text": "Side Projects\n"
+},
+{
+"id": "S1L369",
+"start": 10122,
+"end": 10133,
+"text": "Developers\n"
+},
+{
+"id": "S1L370",
+"start": 10133,
+"end": 10146,
+"text": "Postmark vs.\n"
+},
+{
+"id": "S1L371",
+"start": 10146,
+"end": 10155,
+"text": "SendGrid\n"
+},
+{
+"id": "S1L372",
+"start": 10155,
+"end": 10165,
+"text": "SparkPost\n"
+},
+{
+"id": "S1L373",
+"start": 10165,
+"end": 10173,
+"text": "Mailgun\n"
+},
+{
+"id": "S1L374",
+"start": 10173,
+"end": 10184,
+"text": "Amazon SES\n"
+},
+{
+"id": "S1L375",
+"start": 10184,
+"end": 10193,
+"text": "Mandrill\n"
+},
+{
+"id": "S1L376",
+"start": 10193,
+"end": 10200,
+"text": "Resend\n"
+},
+{
+"id": "S1L377",
+"start": 10200,
+"end": 10210,
+"text": "Resources\n"
+},
+{
+"id": "S1L378",
+"start": 10210,
+"end": 10215,
+"text": "Blog\n"
+},
+{
+"id": "S1L379",
+"start": 10215,
+"end": 10233,
+"text": "API Documentation\n"
+},
+{
+"id": "S1L380",
+"start": 10233,
+"end": 10246,
+"text": "API Explorer\n"
+},
+{
+"id": "S1L381",
+"start": 10246,
+"end": 10262,
+"text": "Getting Started\n"
+},
+{
+"id": "S1L382",
+"start": 10262,
+"end": 10275,
+"text": "Email Guides\n"
+},
+{
+"id": "S1L383",
+"start": 10275,
+"end": 10287,
+"text": "Email Comic\n"
+},
+{
+"id": "S1L384",
+"start": 10287,
+"end": 10294,
+"text": "Videos\n"
+},
+{
+"id": "S1L385",
+"start": 10294,
+"end": 10302,
+"text": "Podcast\n"
+},
+{
+"id": "S1L386",
+"start": 10302,
+"end": 10316,
+"text": "DMARC Digests\n"
+},
+{
+"id": "S1L387",
+"start": 10316,
+"end": 10325,
+"text": "Webinars\n"
+},
+{
+"id": "S1L388",
+"start": 10325,
+"end": 10330,
+"text": "Labs\n"
+},
+{
+"id": "S1L389",
+"start": 10330,
+"end": 10347,
+"text": "Migration Guides\n"
+},
+{
+"id": "S1L390",
+"start": 10347,
+"end": 10358,
+"text": "Newsletter\n"
+},
+{
+"id": "S1L391",
+"start": 10358,
+"end": 10367,
+"text": "Glossary\n"
+},
+{
+"id": "S1L392",
+"start": 10367,
+"end": 10372,
+"text": "Help\n"
+},
+{
+"id": "S1L393",
+"start": 10372,
+"end": 10387,
+"text": "Support Center\n"
+},
+{
+"id": "S1L394",
+"start": 10387,
+"end": 10403,
+"text": "Contact Support\n"
+},
+{
+"id": "S1L395",
+"start": 10403,
+"end": 10417,
+"text": "Talk to Sales\n"
+},
+{
+"id": "S1L396",
+"start": 10417,
+"end": 10432,
+"text": "Service Status\n"
+},
+{
+"id": "S1L397",
+"start": 10432,
+"end": 10458,
+"text": "Visit ActiveCampaign for:\n"
+},
+{
+"id": "S1L398",
+"start": 10458,
+"end": 10479,
+"text": "Autonomous Marketing\n"
+},
+{
+"id": "S1L399",
+"start": 10479,
+"end": 10495,
+"text": "Email Marketing\n"
+},
+{
+"id": "S1L400",
+"start": 10495,
+"end": 10518,
+"text": "CRM & Sales Automation\n"
+},
+{
+"id": "S1L401",
+"start": 10518,
+"end": 10538,
+"text": "WhatsApp Automation\n"
+},
+{
+"id": "S1L402",
+"start": 10538,
+"end": 10553,
+"text": "SMS Automation\n"
+},
+{
+"id": "S1L403",
+"start": 10553,
+"end": 10575,
+"text": "Forms & Landing Pages\n"
+},
+{
+"id": "S1L404",
+"start": 10575,
+"end": 10605,
+"text": "Made with ♥ at ActiveCampaign\n"
+},
+{
+"id": "S1L405",
+"start": 10605,
+"end": 10622,
+"text": "Privacy Policy ↗\n"
+},
+{
+"id": "S1L406",
+"start": 10622,
+"end": 10639,
+"text": "Terms of Service\n"
+},
+{
+"id": "S1L407",
+"start": 10639,
+"end": 10658,
+"text": "EU Data Protection\n"
+},
+{
+"id": "S1L408",
+"start": 10658,
+"end": 10672,
+"text": "Cookie Policy\n"
+},
+{
+"id": "S1L409",
+"start": 10672,
+"end": 10688,
+"text": "Cookie settings\n"
+},
+{
+"id": "S1L410",
+"start": 10688,
+"end": 10716,
+"text": "© ActiveCampaign, LLC, 2026."
+}
+]
+}

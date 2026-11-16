@@ -1,0 +1,3198 @@
+{
+"page": "Asana pricing",
+"url": "https://asana.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 38,
+"text": "Products Solutions Learning & support\n"
+},
+{
+"id": "S1L2",
+"start": 38,
+"end": 46,
+"text": "Pricing\n"
+},
+{
+"id": "S1L3",
+"start": 46,
+"end": 77,
+"text": "Choose your preferred language\n"
+},
+{
+"id": "S1L4",
+"start": 77,
+"end": 125,
+"text": "Contact sales Get started Upgrade Contact sales\n"
+},
+{
+"id": "S1L5",
+"start": 125,
+"end": 134,
+"text": "Products\n"
+},
+{
+"id": "S1L6",
+"start": 134,
+"end": 158,
+"text": "Agentic Work Management\n"
+},
+{
+"id": "S1L7",
+"start": 158,
+"end": 185,
+"text": "For cross-functional teams\n"
+},
+{
+"id": "S1L8",
+"start": 185,
+"end": 210,
+"text": "Asana Service Management\n"
+},
+{
+"id": "S1L9",
+"start": 210,
+"end": 228,
+"text": "For service teams\n"
+},
+{
+"id": "S1L10",
+"start": 228,
+"end": 252,
+"text": "Asana Client Management\n"
+},
+{
+"id": "S1L11",
+"start": 252,
+"end": 285,
+"text": "For teams delivering client work\n"
+},
+{
+"id": "S1L12",
+"start": 285,
+"end": 302,
+"text": "Command by Asana\n"
+},
+{
+"id": "S1L13",
+"start": 302,
+"end": 322,
+"text": "For developer teams\n"
+},
+{
+"id": "S1L14",
+"start": 322,
+"end": 339,
+"text": "StackAI by Asana\n"
+},
+{
+"id": "S1L15",
+"start": 339,
+"end": 367,
+"text": "For every critical workflow\n"
+},
+{
+"id": "S1L16",
+"start": 367,
+"end": 379,
+"text": "AI Platform\n"
+},
+{
+"id": "S1L17",
+"start": 379,
+"end": 392,
+"text": "AI Teammates\n"
+},
+{
+"id": "S1L18",
+"start": 392,
+"end": 429,
+"text": "Ready-to-go AI agents for every team\n"
+},
+{
+"id": "S1L19",
+"start": 429,
+"end": 439,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L20",
+"start": 439,
+"end": 468,
+"text": "Powerful no-code automations\n"
+},
+{
+"id": "S1L21",
+"start": 468,
+"end": 479,
+"text": "Asana Dash\n"
+},
+{
+"id": "S1L22",
+"start": 479,
+"end": 502,
+"text": "Your AI Chief of Staff\n"
+},
+{
+"id": "S1L23",
+"start": 502,
+"end": 520,
+"text": "Asana Foundations\n"
+},
+{
+"id": "S1L24",
+"start": 520,
+"end": 539,
+"text": "Admin and security\n"
+},
+{
+"id": "S1L25",
+"start": 539,
+"end": 556,
+"text": "App integrations\n"
+},
+{
+"id": "S1L26",
+"start": 556,
+"end": 566,
+"text": "Developer\n"
+},
+{
+"id": "S1L27",
+"start": 566,
+"end": 589,
+"text": "Latest feature release\n"
+},
+{
+"id": "S1L28",
+"start": 589,
+"end": 602,
+"text": "Company Type\n"
+},
+{
+"id": "S1L29",
+"start": 602,
+"end": 613,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L30",
+"start": 613,
+"end": 628,
+"text": "Small business\n"
+},
+{
+"id": "S1L31",
+"start": 628,
+"end": 638,
+"text": "Nonprofit\n"
+},
+{
+"id": "S1L32",
+"start": 638,
+"end": 647,
+"text": "Agencies\n"
+},
+{
+"id": "S1L33",
+"start": 647,
+"end": 653,
+"text": "Teams\n"
+},
+{
+"id": "S1L34",
+"start": 653,
+"end": 664,
+"text": "Operations\n"
+},
+{
+"id": "S1L35",
+"start": 664,
+"end": 674,
+"text": "Marketing\n"
+},
+{
+"id": "S1L36",
+"start": 674,
+"end": 677,
+"text": "IT\n"
+},
+{
+"id": "S1L37",
+"start": 677,
+"end": 685,
+"text": "Leaders\n"
+},
+{
+"id": "S1L38",
+"start": 685,
+"end": 696,
+"text": "Industries\n"
+},
+{
+"id": "S1L39",
+"start": 696,
+"end": 707,
+"text": "Government\n"
+},
+{
+"id": "S1L40",
+"start": 707,
+"end": 718,
+"text": "Healthcare\n"
+},
+{
+"id": "S1L41",
+"start": 718,
+"end": 725,
+"text": "Retail\n"
+},
+{
+"id": "S1L42",
+"start": 725,
+"end": 744,
+"text": "Financial services\n"
+},
+{
+"id": "S1L43",
+"start": 744,
+"end": 754,
+"text": "Education\n"
+},
+{
+"id": "S1L44",
+"start": 754,
+"end": 768,
+"text": "Manufacturing\n"
+},
+{
+"id": "S1L45",
+"start": 768,
+"end": 792,
+"text": "Media and entertainment\n"
+},
+{
+"id": "S1L46",
+"start": 792,
+"end": 802,
+"text": "Use Cases\n"
+},
+{
+"id": "S1L47",
+"start": 802,
+"end": 818,
+"text": "Goal management\n"
+},
+{
+"id": "S1L48",
+"start": 818,
+"end": 842,
+"text": "Organizational planning\n"
+},
+{
+"id": "S1L49",
+"start": 842,
+"end": 857,
+"text": "Project intake\n"
+},
+{
+"id": "S1L50",
+"start": 857,
+"end": 875,
+"text": "Resource planning\n"
+},
+{
+"id": "S1L51",
+"start": 875,
+"end": 892,
+"text": "Product launches\n"
+},
+{
+"id": "S1L52",
+"start": 892,
+"end": 911,
+"text": "View all use cases\n"
+},
+{
+"id": "S1L53",
+"start": 911,
+"end": 917,
+"text": "LEARN\n"
+},
+{
+"id": "S1L54",
+"start": 917,
+"end": 933,
+"text": "Resource center\n"
+},
+{
+"id": "S1L55",
+"start": 933,
+"end": 953,
+"text": "Events and webinars\n"
+},
+{
+"id": "S1L56",
+"start": 953,
+"end": 970,
+"text": "Customer stories\n"
+},
+{
+"id": "S1L57",
+"start": 970,
+"end": 984,
+"text": "Asana Academy\n"
+},
+{
+"id": "S1L58",
+"start": 984,
+"end": 999,
+"text": "Certifications\n"
+},
+{
+"id": "S1L59",
+"start": 999,
+"end": 1009,
+"text": "Trainings\n"
+},
+{
+"id": "S1L60",
+"start": 1009,
+"end": 1017,
+"text": "SUPPORT\n"
+},
+{
+"id": "S1L61",
+"start": 1017,
+"end": 1029,
+"text": "Help Center\n"
+},
+{
+"id": "S1L62",
+"start": 1029,
+"end": 1039,
+"text": "Community\n"
+},
+{
+"id": "S1L63",
+"start": 1039,
+"end": 1049,
+"text": "Templates\n"
+},
+{
+"id": "S1L64",
+"start": 1049,
+"end": 1058,
+"text": "SERVICES\n"
+},
+{
+"id": "S1L65",
+"start": 1058,
+"end": 1075,
+"text": "Customer Success\n"
+},
+{
+"id": "S1L66",
+"start": 1075,
+"end": 1090,
+"text": "Find a partner\n"
+},
+{
+"id": "S1L67",
+"start": 1090,
+"end": 1107,
+"text": "Become a partner\n"
+},
+{
+"id": "S1L68",
+"start": 1107,
+"end": 1121,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L69",
+"start": 1121,
+"end": 1131,
+"text": "View demo\n"
+},
+{
+"id": "S1L70",
+"start": 1131,
+"end": 1144,
+"text": "Download app\n"
+},
+{
+"id": "S1L71",
+"start": 1144,
+"end": 1153,
+"text": "Products\n"
+},
+{
+"id": "S1L72",
+"start": 1153,
+"end": 1163,
+"text": "Solutions\n"
+},
+{
+"id": "S1L73",
+"start": 1163,
+"end": 1182,
+"text": "Learning & support\n"
+},
+{
+"id": "S1L74",
+"start": 1182,
+"end": 1190,
+"text": "Pricing\n"
+},
+{
+"id": "S1L75",
+"start": 1190,
+"end": 1204,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L76",
+"start": 1204,
+"end": 1214,
+"text": "View demo\n"
+},
+{
+"id": "S1L77",
+"start": 1214,
+"end": 1227,
+"text": "Download app\n"
+},
+{
+"id": "S1L78",
+"start": 1227,
+"end": 1275,
+"text": "Contact sales Get started Upgrade Contact sales\n"
+},
+{
+"id": "S1L79",
+"start": 1275,
+"end": 1299,
+"text": "Agentic Work Management\n"
+},
+{
+"id": "S1L80",
+"start": 1299,
+"end": 1324,
+"text": "Power every team with AI\n"
+},
+{
+"id": "S1L81",
+"start": 1324,
+"end": 1332,
+"text": "Monthly\n"
+},
+{
+"id": "S1L82",
+"start": 1332,
+"end": 1354,
+"text": "Yearly Save up to 18%\n"
+},
+{
+"id": "S1L83",
+"start": 1354,
+"end": 1363,
+"text": "Personal\n"
+},
+{
+"id": "S1L84",
+"start": 1363,
+"end": 1413,
+"text": "For one or two people managing personal projects.\n"
+},
+{
+"id": "S1L85",
+"start": 1413,
+"end": 1416,
+"text": "$0\n"
+},
+{
+"id": "S1L86",
+"start": 1416,
+"end": 1429,
+"text": "Free forever\n"
+},
+{
+"id": "S1L87",
+"start": 1429,
+"end": 1437,
+"text": "Sign up\n"
+},
+{
+"id": "S1L88",
+"start": 1437,
+"end": 1471,
+"text": "Manage tasks and personal to-dos:\n"
+},
+{
+"id": "S1L89",
+"start": 1471,
+"end": 1479,
+"text": "2 users\n"
+},
+{
+"id": "S1L90",
+"start": 1479,
+"end": 1508,
+"text": "Unlimited tasks and projects\n"
+},
+{
+"id": "S1L91",
+"start": 1508,
+"end": 1639,
+"text": "Never run out of space for work. Create as many tasks and projects as you need to track to‑dos and tie them to higher‑level goals.\n"
+},
+{
+"id": "S1L92",
+"start": 1639,
+"end": 1671,
+"text": "List, board, and calendar views\n"
+},
+{
+"id": "S1L93",
+"start": 1671,
+"end": 1799,
+"text": "See work the way you need – flip between lists for details, boards for flow, or calendars for deadlines without losing context.\n"
+},
+{
+"id": "S1L94",
+"start": 1799,
+"end": 1837,
+"text": "Unlimited storage, 100MB max per file\n"
+},
+{
+"id": "S1L95",
+"start": 1837,
+"end": 1972,
+"text": "Keep all your documents in one place. Upload as many files as you need (up to 100 MB each) so your team never has to hunt for content.\n"
+},
+{
+"id": "S1L96",
+"start": 1972,
+"end": 1987,
+"text": "Status updates\n"
+},
+{
+"id": "S1L97",
+"start": 1987,
+"end": 2099,
+"text": "Keep everyone aligned. Post concise updates on what’s been accomplished and what’s ahead so teams stay focused.\n"
+},
+{
+"id": "S1L98",
+"start": 2099,
+"end": 2131,
+"text": "Time tracking with integrations\n"
+},
+{
+"id": "S1L99",
+"start": 2131,
+"end": 2283,
+"text": "Know how long work really takes. By syncing with your time‑tracking tools, Asana shows actual effort so you can plan budgets and schedules confidently.\n"
+},
+{
+"id": "S1L100",
+"start": 2283,
+"end": 2306,
+"text": "100+ free integrations\n"
+},
+{
+"id": "S1L101",
+"start": 2306,
+"end": 2448,
+"text": "Use your favorite tools without friction. Integrate Asana with Slack, Google Drive, Zoom and 100+ apps to centralize conversations and files.\n"
+},
+{
+"id": "S1L102",
+"start": 2448,
+"end": 2456,
+"text": "Starter\n"
+},
+{
+"id": "S1L103",
+"start": 2456,
+"end": 2552,
+"text": "For small teams and professionals that need to track their projects progress and hit deadlines.\n"
+},
+{
+"id": "S1L104",
+"start": 2552,
+"end": 2595,
+"text": "$10.99 Per user, per month billed annually\n"
+},
+{
+"id": "S1L105",
+"start": 2595,
+"end": 2616,
+"text": "Sign up Purchase now\n"
+},
+{
+"id": "S1L106",
+"start": 2616,
+"end": 2635,
+"text": "Asana AI included:\n"
+},
+{
+"id": "S1L107",
+"start": 2635,
+"end": 2663,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L108",
+"start": 2663,
+"end": 2733,
+"text": "Includes 5 requests per user per month, up to 50 requests per account\n"
+},
+{
+"id": "S1L109",
+"start": 2733,
+"end": 2743,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L110",
+"start": 2743,
+"end": 2794,
+"text": "Includes 50K credits per billing account per month\n"
+},
+{
+"id": "S1L111",
+"start": 2794,
+"end": 2824,
+"text": "Everything in Personal, plus:\n"
+},
+{
+"id": "S1L112",
+"start": 2824,
+"end": 2844,
+"text": "No user seat limits\n"
+},
+{
+"id": "S1L113",
+"start": 2844,
+"end": 2869,
+"text": "Timeline and Gantt views\n"
+},
+{
+"id": "S1L114",
+"start": 2869,
+"end": 3010,
+"text": "Plan projects with confidence. Visualize schedules on a timeline and dive into task dependencies and progress with interactive Gantt charts.\n"
+},
+{
+"id": "S1L115",
+"start": 3010,
+"end": 3031,
+"text": "Reporting dashboards\n"
+},
+{
+"id": "S1L116",
+"start": 3031,
+"end": 3159,
+"text": "See the big picture at a glance. Dashboards turn project data into charts and metrics so you instantly know if you’re on track.\n"
+},
+{
+"id": "S1L117",
+"start": 3159,
+"end": 3181,
+"text": "Unlimited automations\n"
+},
+{
+"id": "S1L118",
+"start": 3181,
+"end": 3313,
+"text": "Let routine work run itself as many times as you need to. Create automations to assign work, send alerts and keep statuses current.\n"
+},
+{
+"id": "S1L119",
+"start": 3313,
+"end": 3319,
+"text": "Forms\n"
+},
+{
+"id": "S1L120",
+"start": 3319,
+"end": 3442,
+"text": "Get all the info you need. Intake forms capture requests and details and automatically create tasks, so nothing gets lost.\n"
+},
+{
+"id": "S1L121",
+"start": 3442,
+"end": 3459,
+"text": "Custom templates\n"
+},
+{
+"id": "S1L122",
+"start": 3459,
+"end": 3594,
+"text": "Standardize how work starts. Create templates that mirror your best practices so every new project kicks off quickly and consistently.\n"
+},
+{
+"id": "S1L123",
+"start": 3594,
+"end": 3608,
+"text": "Custom fields\n"
+},
+{
+"id": "S1L124",
+"start": 3608,
+"end": 3743,
+"text": "Capture the data your team needs. Custom fields let you tag tasks with priorities, budgets and statuses so reporting reflects reality.\n"
+},
+{
+"id": "S1L125",
+"start": 3743,
+"end": 3765,
+"text": "Unlimited free guests\n"
+},
+{
+"id": "S1L126",
+"start": 3765,
+"end": 3901,
+"text": "Bring partners into the loop. Unlimited free guest seats let clients and contractors collaborate without increasing your license count.\n"
+},
+{
+"id": "S1L127",
+"start": 3901,
+"end": 3910,
+"text": "Advanced\n"
+},
+{
+"id": "S1L128",
+"start": 3910,
+"end": 4017,
+"text": "For growing teams that turn goals into actionable projects, plan team capacity, and keep decisions moving.\n"
+},
+{
+"id": "S1L129",
+"start": 4017,
+"end": 4060,
+"text": "$24.99 Per user, per month billed annually\n"
+},
+{
+"id": "S1L130",
+"start": 4060,
+"end": 4081,
+"text": "Sign up Purchase now\n"
+},
+{
+"id": "S1L131",
+"start": 4081,
+"end": 4100,
+"text": "Asana AI included:\n"
+},
+{
+"id": "S1L132",
+"start": 4100,
+"end": 4112,
+"text": "AI Meetings\n"
+},
+{
+"id": "S1L133",
+"start": 4112,
+"end": 4237,
+"text": "Turn meetings into done work. AI Meetings suggest action items and who should own them, and link summaries to your projects.\n"
+},
+{
+"id": "S1L134",
+"start": 4237,
+"end": 4265,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L135",
+"start": 4265,
+"end": 4335,
+"text": "Includes 5 requests per user per month, up to 50 requests per account\n"
+},
+{
+"id": "S1L136",
+"start": 4335,
+"end": 4345,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L137",
+"start": 4345,
+"end": 4396,
+"text": "Includes 75K credits ber billing account per month\n"
+},
+{
+"id": "S1L138",
+"start": 4396,
+"end": 4425,
+"text": "Everything in Starter, plus:\n"
+},
+{
+"id": "S1L139",
+"start": 4425,
+"end": 4446,
+"text": "Unlimited portfolios\n"
+},
+{
+"id": "S1L140",
+"start": 4446,
+"end": 4568,
+"text": "See the forest, not just the trees. Portfolios let you organize related projects and track overall health from one place.\n"
+},
+{
+"id": "S1L141",
+"start": 4568,
+"end": 4574,
+"text": "Goals\n"
+},
+{
+"id": "S1L142",
+"start": 4574,
+"end": 4715,
+"text": "Make strategy tangible. Goals connect your team’s daily tasks to higher‑level objectives so everyone sees progress toward what matters most.\n"
+},
+{
+"id": "S1L143",
+"start": 4715,
+"end": 4735,
+"text": "Resource management\n"
+},
+{
+"id": "S1L144",
+"start": 4735,
+"end": 4831,
+"text": "Identify who's overloaded, who has capacity, and rebalance work instantly, within one portfolio\n"
+},
+{
+"id": "S1L145",
+"start": 4831,
+"end": 4854,
+"text": "Approvals and proofing\n"
+},
+{
+"id": "S1L146",
+"start": 4854,
+"end": 4973,
+"text": "Keep work moving. Annotate PDFs and images, request approvals, and know exactly when a deliverable is ready to launch.\n"
+},
+{
+"id": "S1L147",
+"start": 4973,
+"end": 4980,
+"text": "Tables\n"
+},
+{
+"id": "S1L148",
+"start": 4980,
+"end": 5092,
+"text": "Keep your information where the work is. Lookup fields pull details into projects, so you stop switching tools.\n"
+},
+{
+"id": "S1L149",
+"start": 5092,
+"end": 5124,
+"text": "Forms branching & customization\n"
+},
+{
+"id": "S1L150",
+"start": 5124,
+"end": 5275,
+"text": "Capture only what matters. Dynamic forms adjust questions based on answers, ensuring you gather complete details without overwhelming your submitters.\n"
+},
+{
+"id": "S1L151",
+"start": 5275,
+"end": 5289,
+"text": "Time tracking\n"
+},
+{
+"id": "S1L152",
+"start": 5289,
+"end": 5402,
+"text": "Stop guessing. Compare estimated and actual time spent so you can forecast staffing and budgets more accurately.\n"
+},
+{
+"id": "S1L153",
+"start": 5402,
+"end": 5418,
+"text": "Scaled security\n"
+},
+{
+"id": "S1L154",
+"start": 5418,
+"end": 5571,
+"text": "Trust that your data is safe. Asana’s security controls protect sensitive information and provide granular access policies across teams and contractors.\n"
+},
+{
+"id": "S1L155",
+"start": 5571,
+"end": 5616,
+"text": "Connect Salesforce, Tableau, PowerBI Support\n"
+},
+{
+"id": "S1L156",
+"start": 5616,
+"end": 5795,
+"text": "Stop switching between tools to piece together the full picture. Connect Salesforce, Tableau, and Power BI to your project data and get unified reporting across every workstream.\n"
+},
+{
+"id": "S1L157",
+"start": 5795,
+"end": 5806,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L158",
+"start": 5806,
+"end": 5883,
+"text": "For organizations that scale work across departments with security built in.\n"
+},
+{
+"id": "S1L159",
+"start": 5883,
+"end": 5909,
+"text": "Contact sales for pricing\n"
+},
+{
+"id": "S1L160",
+"start": 5909,
+"end": 5923,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L161",
+"start": 5923,
+"end": 5942,
+"text": "Asana AI included:\n"
+},
+{
+"id": "S1L162",
+"start": 5942,
+"end": 5954,
+"text": "AI Meetings\n"
+},
+{
+"id": "S1L163",
+"start": 5954,
+"end": 6079,
+"text": "Turn meetings into done work. AI Meetings suggest action items and who should own them, and link summaries to your projects.\n"
+},
+{
+"id": "S1L164",
+"start": 6079,
+"end": 6107,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L165",
+"start": 6107,
+"end": 6178,
+"text": "Includes 5 requests per user per month, up to 250 requests per account\n"
+},
+{
+"id": "S1L166",
+"start": 6178,
+"end": 6188,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L167",
+"start": 6188,
+"end": 6240,
+"text": "Includes 200K credits ber billing account per month\n"
+},
+{
+"id": "S1L168",
+"start": 6240,
+"end": 6270,
+"text": "Everything in Advanced, plus:\n"
+},
+{
+"id": "S1L169",
+"start": 6270,
+"end": 6290,
+"text": "SAML authentication\n"
+},
+{
+"id": "S1L170",
+"start": 6290,
+"end": 6425,
+"text": "One set of credentials for everything. Use SAML‑based SSO so employees sign in through your identity provider and IT stays in control.\n"
+},
+{
+"id": "S1L171",
+"start": 6425,
+"end": 6450,
+"text": "User provisioning (SCIM)\n"
+},
+{
+"id": "S1L172",
+"start": 6450,
+"end": 6618,
+"text": "Make onboarding and off‑boarding effortless. SCIM automatically creates accounts for new hires and revokes access when they leave, protecting data without manual work.\n"
+},
+{
+"id": "S1L173",
+"start": 6618,
+"end": 6648,
+"text": "Universal resource management\n"
+},
+{
+"id": "S1L174",
+"start": 6648,
+"end": 6806,
+"text": "Get a bird’s‑eye view of capacity. Organization‑wide workload reveals who’s overbooked or free across all work so you can reassign tasks and prevent burnout.\n"
+},
+{
+"id": "S1L175",
+"start": 6806,
+"end": 6824,
+"text": "Capacity planning\n"
+},
+{
+"id": "S1L176",
+"start": 6824,
+"end": 6981,
+"text": "Protect your people and your timelines. Capacity planning highlights when teams are at risk of overload so you can shift work and keep projects on schedule.\n"
+},
+{
+"id": "S1L177",
+"start": 6981,
+"end": 6988,
+"text": "Tables\n"
+},
+{
+"id": "S1L178",
+"start": 6988,
+"end": 7100,
+"text": "Keep your information where the work is. Lookup fields pull details into projects, so you stop switching tools.\n"
+},
+{
+"id": "S1L179",
+"start": 7100,
+"end": 7117,
+"text": "Service accounts\n"
+},
+{
+"id": "S1L180",
+"start": 7117,
+"end": 7247,
+"text": "Automate safely. Service accounts give integrations their own credentials for bulk data access, keeping personal accounts secure.\n"
+},
+{
+"id": "S1L181",
+"start": 7247,
+"end": 7266,
+"text": "View-only licenses\n"
+},
+{
+"id": "S1L182",
+"start": 7266,
+"end": 7408,
+"text": "Include everyone who needs to know. View‑only licenses let stakeholders see progress without increasing seat costs or risking unwanted edits.\n"
+},
+{
+"id": "S1L183",
+"start": 7408,
+"end": 7437,
+"text": "Guest invitation permissions\n"
+},
+{
+"id": "S1L184",
+"start": 7437,
+"end": 7566,
+"text": "Protect your workspace’s boundaries. Decide who’s allowed to invite outside collaborators so only trusted members extend access.\n"
+},
+{
+"id": "S1L185",
+"start": 7566,
+"end": 7589,
+"text": "Project admin controls\n"
+},
+{
+"id": "S1L186",
+"start": 7589,
+"end": 7749,
+"text": "Empower without losing control. Delegated project administration lets team leads manage settings on their own projects while central settings stay locked down.\n"
+},
+{
+"id": "S1L187",
+"start": 7749,
+"end": 7808,
+"text": "Enterprise+ available for advanced security and compliance\n"
+},
+{
+"id": "S1L188",
+"start": 7808,
+"end": 7943,
+"text": "For the highest security and compliance needs, Enterprise+ adds SIEM integration, data residency, audit logs and dedicated workspaces.\n"
+},
+{
+"id": "S1L189",
+"start": 7943,
+"end": 7952,
+"text": "Personal\n"
+},
+{
+"id": "S1L190",
+"start": 7952,
+"end": 8002,
+"text": "For one or two people managing personal projects.\n"
+},
+{
+"id": "S1L191",
+"start": 8002,
+"end": 8005,
+"text": "$0\n"
+},
+{
+"id": "S1L192",
+"start": 8005,
+"end": 8018,
+"text": "Free forever\n"
+},
+{
+"id": "S1L193",
+"start": 8018,
+"end": 8026,
+"text": "Sign up\n"
+},
+{
+"id": "S1L194",
+"start": 8026,
+"end": 8060,
+"text": "Manage tasks and personal to-dos:\n"
+},
+{
+"id": "S1L195",
+"start": 8060,
+"end": 8068,
+"text": "2 users\n"
+},
+{
+"id": "S1L196",
+"start": 8068,
+"end": 8097,
+"text": "Unlimited tasks and projects\n"
+},
+{
+"id": "S1L197",
+"start": 8097,
+"end": 8228,
+"text": "Never run out of space for work. Create as many tasks and projects as you need to track to‑dos and tie them to higher‑level goals.\n"
+},
+{
+"id": "S1L198",
+"start": 8228,
+"end": 8260,
+"text": "List, board, and calendar views\n"
+},
+{
+"id": "S1L199",
+"start": 8260,
+"end": 8388,
+"text": "See work the way you need – flip between lists for details, boards for flow, or calendars for deadlines without losing context.\n"
+},
+{
+"id": "S1L200",
+"start": 8388,
+"end": 8426,
+"text": "Unlimited storage, 100MB max per file\n"
+},
+{
+"id": "S1L201",
+"start": 8426,
+"end": 8561,
+"text": "Keep all your documents in one place. Upload as many files as you need (up to 100 MB each) so your team never has to hunt for content.\n"
+},
+{
+"id": "S1L202",
+"start": 8561,
+"end": 8576,
+"text": "Status updates\n"
+},
+{
+"id": "S1L203",
+"start": 8576,
+"end": 8688,
+"text": "Keep everyone aligned. Post concise updates on what’s been accomplished and what’s ahead so teams stay focused.\n"
+},
+{
+"id": "S1L204",
+"start": 8688,
+"end": 8720,
+"text": "Time tracking with integrations\n"
+},
+{
+"id": "S1L205",
+"start": 8720,
+"end": 8872,
+"text": "Know how long work really takes. By syncing with your time‑tracking tools, Asana shows actual effort so you can plan budgets and schedules confidently.\n"
+},
+{
+"id": "S1L206",
+"start": 8872,
+"end": 8895,
+"text": "100+ free integrations\n"
+},
+{
+"id": "S1L207",
+"start": 8895,
+"end": 9037,
+"text": "Use your favorite tools without friction. Integrate Asana with Slack, Google Drive, Zoom and 100+ apps to centralize conversations and files.\n"
+},
+{
+"id": "S1L208",
+"start": 9037,
+"end": 9047,
+"text": "Show more\n"
+},
+{
+"id": "S1L209",
+"start": 9047,
+"end": 9055,
+"text": "Starter\n"
+},
+{
+"id": "S1L210",
+"start": 9055,
+"end": 9151,
+"text": "For small teams and professionals that need to track their projects progress and hit deadlines.\n"
+},
+{
+"id": "S1L211",
+"start": 9151,
+"end": 9217,
+"text": "$10.99 Per user, per month billed annually. $13.49 billed monthly\n"
+},
+{
+"id": "S1L212",
+"start": 9217,
+"end": 9238,
+"text": "Sign up Purchase now\n"
+},
+{
+"id": "S1L213",
+"start": 9238,
+"end": 9257,
+"text": "Asana AI included:\n"
+},
+{
+"id": "S1L214",
+"start": 9257,
+"end": 9285,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L215",
+"start": 9285,
+"end": 9355,
+"text": "Includes 5 requests per user per month, up to 50 requests per account\n"
+},
+{
+"id": "S1L216",
+"start": 9355,
+"end": 9365,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L217",
+"start": 9365,
+"end": 9416,
+"text": "Includes 50K credits per billing account per month\n"
+},
+{
+"id": "S1L218",
+"start": 9416,
+"end": 9446,
+"text": "Everything in Personal, plus:\n"
+},
+{
+"id": "S1L219",
+"start": 9446,
+"end": 9466,
+"text": "No user seat limits\n"
+},
+{
+"id": "S1L220",
+"start": 9466,
+"end": 9491,
+"text": "Timeline and Gantt views\n"
+},
+{
+"id": "S1L221",
+"start": 9491,
+"end": 9632,
+"text": "Plan projects with confidence. Visualize schedules on a timeline and dive into task dependencies and progress with interactive Gantt charts.\n"
+},
+{
+"id": "S1L222",
+"start": 9632,
+"end": 9653,
+"text": "Reporting dashboards\n"
+},
+{
+"id": "S1L223",
+"start": 9653,
+"end": 9781,
+"text": "See the big picture at a glance. Dashboards turn project data into charts and metrics so you instantly know if you’re on track.\n"
+},
+{
+"id": "S1L224",
+"start": 9781,
+"end": 9803,
+"text": "Unlimited automations\n"
+},
+{
+"id": "S1L225",
+"start": 9803,
+"end": 9935,
+"text": "Let routine work run itself as many times as you need to. Create automations to assign work, send alerts and keep statuses current.\n"
+},
+{
+"id": "S1L226",
+"start": 9935,
+"end": 9941,
+"text": "Forms\n"
+},
+{
+"id": "S1L227",
+"start": 9941,
+"end": 10064,
+"text": "Get all the info you need. Intake forms capture requests and details and automatically create tasks, so nothing gets lost.\n"
+},
+{
+"id": "S1L228",
+"start": 10064,
+"end": 10081,
+"text": "Custom templates\n"
+},
+{
+"id": "S1L229",
+"start": 10081,
+"end": 10216,
+"text": "Standardize how work starts. Create templates that mirror your best practices so every new project kicks off quickly and consistently.\n"
+},
+{
+"id": "S1L230",
+"start": 10216,
+"end": 10230,
+"text": "Custom fields\n"
+},
+{
+"id": "S1L231",
+"start": 10230,
+"end": 10365,
+"text": "Capture the data your team needs. Custom fields let you tag tasks with priorities, budgets and statuses so reporting reflects reality.\n"
+},
+{
+"id": "S1L232",
+"start": 10365,
+"end": 10387,
+"text": "Unlimited free guests\n"
+},
+{
+"id": "S1L233",
+"start": 10387,
+"end": 10523,
+"text": "Bring partners into the loop. Unlimited free guest seats let clients and contractors collaborate without increasing your license count.\n"
+},
+{
+"id": "S1L234",
+"start": 10523,
+"end": 10533,
+"text": "Show more\n"
+},
+{
+"id": "S1L235",
+"start": 10533,
+"end": 10542,
+"text": "Advanced\n"
+},
+{
+"id": "S1L236",
+"start": 10542,
+"end": 10649,
+"text": "For growing teams that turn goals into actionable projects, plan team capacity, and keep decisions moving.\n"
+},
+{
+"id": "S1L237",
+"start": 10649,
+"end": 10715,
+"text": "$24.99 Per user, per month billed annually. $30.49 billed monthly\n"
+},
+{
+"id": "S1L238",
+"start": 10715,
+"end": 10736,
+"text": "Sign up Purchase now\n"
+},
+{
+"id": "S1L239",
+"start": 10736,
+"end": 10755,
+"text": "Asana AI included:\n"
+},
+{
+"id": "S1L240",
+"start": 10755,
+"end": 10767,
+"text": "AI Meetings\n"
+},
+{
+"id": "S1L241",
+"start": 10767,
+"end": 10892,
+"text": "Turn meetings into done work. AI Meetings suggest action items and who should own them, and link summaries to your projects.\n"
+},
+{
+"id": "S1L242",
+"start": 10892,
+"end": 10920,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L243",
+"start": 10920,
+"end": 10990,
+"text": "Includes 5 requests per user per month, up to 50 requests per account\n"
+},
+{
+"id": "S1L244",
+"start": 10990,
+"end": 11000,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L245",
+"start": 11000,
+"end": 11051,
+"text": "Includes 75K credits ber billing account per month\n"
+},
+{
+"id": "S1L246",
+"start": 11051,
+"end": 11080,
+"text": "Everything in Starter, plus:\n"
+},
+{
+"id": "S1L247",
+"start": 11080,
+"end": 11101,
+"text": "Unlimited portfolios\n"
+},
+{
+"id": "S1L248",
+"start": 11101,
+"end": 11223,
+"text": "See the forest, not just the trees. Portfolios let you organize related projects and track overall health from one place.\n"
+},
+{
+"id": "S1L249",
+"start": 11223,
+"end": 11229,
+"text": "Goals\n"
+},
+{
+"id": "S1L250",
+"start": 11229,
+"end": 11370,
+"text": "Make strategy tangible. Goals connect your team’s daily tasks to higher‑level objectives so everyone sees progress toward what matters most.\n"
+},
+{
+"id": "S1L251",
+"start": 11370,
+"end": 11390,
+"text": "Resource management\n"
+},
+{
+"id": "S1L252",
+"start": 11390,
+"end": 11486,
+"text": "Identify who's overloaded, who has capacity, and rebalance work instantly, within one portfolio\n"
+},
+{
+"id": "S1L253",
+"start": 11486,
+"end": 11509,
+"text": "Approvals and proofing\n"
+},
+{
+"id": "S1L254",
+"start": 11509,
+"end": 11628,
+"text": "Keep work moving. Annotate PDFs and images, request approvals, and know exactly when a deliverable is ready to launch.\n"
+},
+{
+"id": "S1L255",
+"start": 11628,
+"end": 11635,
+"text": "Tables\n"
+},
+{
+"id": "S1L256",
+"start": 11635,
+"end": 11747,
+"text": "Keep your information where the work is. Lookup fields pull details into projects, so you stop switching tools.\n"
+},
+{
+"id": "S1L257",
+"start": 11747,
+"end": 11779,
+"text": "Forms branching & customization\n"
+},
+{
+"id": "S1L258",
+"start": 11779,
+"end": 11930,
+"text": "Capture only what matters. Dynamic forms adjust questions based on answers, ensuring you gather complete details without overwhelming your submitters.\n"
+},
+{
+"id": "S1L259",
+"start": 11930,
+"end": 11944,
+"text": "Time tracking\n"
+},
+{
+"id": "S1L260",
+"start": 11944,
+"end": 12057,
+"text": "Stop guessing. Compare estimated and actual time spent so you can forecast staffing and budgets more accurately.\n"
+},
+{
+"id": "S1L261",
+"start": 12057,
+"end": 12073,
+"text": "Scaled security\n"
+},
+{
+"id": "S1L262",
+"start": 12073,
+"end": 12226,
+"text": "Trust that your data is safe. Asana’s security controls protect sensitive information and provide granular access policies across teams and contractors.\n"
+},
+{
+"id": "S1L263",
+"start": 12226,
+"end": 12271,
+"text": "Connect Salesforce, Tableau, PowerBI Support\n"
+},
+{
+"id": "S1L264",
+"start": 12271,
+"end": 12450,
+"text": "Stop switching between tools to piece together the full picture. Connect Salesforce, Tableau, and Power BI to your project data and get unified reporting across every workstream.\n"
+},
+{
+"id": "S1L265",
+"start": 12450,
+"end": 12460,
+"text": "Show more\n"
+},
+{
+"id": "S1L266",
+"start": 12460,
+"end": 12471,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L267",
+"start": 12471,
+"end": 12548,
+"text": "For organizations that scale work across departments with security built in.\n"
+},
+{
+"id": "S1L268",
+"start": 12548,
+"end": 12603,
+"text": "Contact sales for custom pricing for your organization\n"
+},
+{
+"id": "S1L269",
+"start": 12603,
+"end": 12617,
+"text": "Contact sales\n"
+},
+{
+"id": "S1L270",
+"start": 12617,
+"end": 12636,
+"text": "Asana AI included:\n"
+},
+{
+"id": "S1L271",
+"start": 12636,
+"end": 12648,
+"text": "AI Meetings\n"
+},
+{
+"id": "S1L272",
+"start": 12648,
+"end": 12773,
+"text": "Turn meetings into done work. AI Meetings suggest action items and who should own them, and link summaries to your projects.\n"
+},
+{
+"id": "S1L273",
+"start": 12773,
+"end": 12801,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L274",
+"start": 12801,
+"end": 12872,
+"text": "Includes 5 requests per user per month, up to 250 requests per account\n"
+},
+{
+"id": "S1L275",
+"start": 12872,
+"end": 12882,
+"text": "AI Studio\n"
+},
+{
+"id": "S1L276",
+"start": 12882,
+"end": 12934,
+"text": "Includes 200K credits ber billing account per month\n"
+},
+{
+"id": "S1L277",
+"start": 12934,
+"end": 12964,
+"text": "Everything in Advanced, plus:\n"
+},
+{
+"id": "S1L278",
+"start": 12964,
+"end": 12984,
+"text": "SAML authentication\n"
+},
+{
+"id": "S1L279",
+"start": 12984,
+"end": 13119,
+"text": "One set of credentials for everything. Use SAML‑based SSO so employees sign in through your identity provider and IT stays in control.\n"
+},
+{
+"id": "S1L280",
+"start": 13119,
+"end": 13144,
+"text": "User provisioning (SCIM)\n"
+},
+{
+"id": "S1L281",
+"start": 13144,
+"end": 13312,
+"text": "Make onboarding and off‑boarding effortless. SCIM automatically creates accounts for new hires and revokes access when they leave, protecting data without manual work.\n"
+},
+{
+"id": "S1L282",
+"start": 13312,
+"end": 13342,
+"text": "Universal resource management\n"
+},
+{
+"id": "S1L283",
+"start": 13342,
+"end": 13500,
+"text": "Get a bird’s‑eye view of capacity. Organization‑wide workload reveals who’s overbooked or free across all work so you can reassign tasks and prevent burnout.\n"
+},
+{
+"id": "S1L284",
+"start": 13500,
+"end": 13518,
+"text": "Capacity planning\n"
+},
+{
+"id": "S1L285",
+"start": 13518,
+"end": 13675,
+"text": "Protect your people and your timelines. Capacity planning highlights when teams are at risk of overload so you can shift work and keep projects on schedule.\n"
+},
+{
+"id": "S1L286",
+"start": 13675,
+"end": 13682,
+"text": "Tables\n"
+},
+{
+"id": "S1L287",
+"start": 13682,
+"end": 13794,
+"text": "Keep your information where the work is. Lookup fields pull details into projects, so you stop switching tools.\n"
+},
+{
+"id": "S1L288",
+"start": 13794,
+"end": 13811,
+"text": "Service accounts\n"
+},
+{
+"id": "S1L289",
+"start": 13811,
+"end": 13941,
+"text": "Automate safely. Service accounts give integrations their own credentials for bulk data access, keeping personal accounts secure.\n"
+},
+{
+"id": "S1L290",
+"start": 13941,
+"end": 13960,
+"text": "View-only licenses\n"
+},
+{
+"id": "S1L291",
+"start": 13960,
+"end": 14102,
+"text": "Include everyone who needs to know. View‑only licenses let stakeholders see progress without increasing seat costs or risking unwanted edits.\n"
+},
+{
+"id": "S1L292",
+"start": 14102,
+"end": 14131,
+"text": "Guest invitation permissions\n"
+},
+{
+"id": "S1L293",
+"start": 14131,
+"end": 14260,
+"text": "Protect your workspace’s boundaries. Decide who’s allowed to invite outside collaborators so only trusted members extend access.\n"
+},
+{
+"id": "S1L294",
+"start": 14260,
+"end": 14283,
+"text": "Project admin controls\n"
+},
+{
+"id": "S1L295",
+"start": 14283,
+"end": 14443,
+"text": "Empower without losing control. Delegated project administration lets team leads manage settings on their own projects while central settings stay locked down.\n"
+},
+{
+"id": "S1L296",
+"start": 14443,
+"end": 14502,
+"text": "Enterprise+ available for advanced security and compliance\n"
+},
+{
+"id": "S1L297",
+"start": 14502,
+"end": 14637,
+"text": "For the highest security and compliance needs, Enterprise+ adds SIEM integration, data residency, audit logs and dedicated workspaces.\n"
+},
+{
+"id": "S1L298",
+"start": 14637,
+"end": 14647,
+"text": "Show more\n"
+},
+{
+"id": "S1L299",
+"start": 14647,
+"end": 14668,
+"text": "Compare all features\n"
+},
+{
+"id": "S1L300",
+"start": 14668,
+"end": 14717,
+"text": "Personal Starter Advanced Enterprise Enterprise+\n"
+},
+{
+"id": "S1L301",
+"start": 14717,
+"end": 14777,
+"text": "Sign up Get started Get started Contact sales Contact sales\n"
+},
+{
+"id": "S1L302",
+"start": 14777,
+"end": 14807,
+"text": "Project management essentials\n"
+},
+{
+"id": "S1L303",
+"start": 14807,
+"end": 14823,
+"text": "Unlimited tasks\n"
+},
+{
+"id": "S1L304",
+"start": 14823,
+"end": 14885,
+"text": "Tasks are to-do items that show who needs to do what by when.\n"
+},
+{
+"id": "S1L305",
+"start": 14885,
+"end": 14904,
+"text": "Unlimited projects\n"
+},
+{
+"id": "S1L306",
+"start": 14904,
+"end": 15051,
+"text": "Projects help you organize related tasks into a single space with different views like lists, boards, or timelines so you can see the big picture.\n"
+},
+{
+"id": "S1L307",
+"start": 15051,
+"end": 15070,
+"text": "Unlimited comments\n"
+},
+{
+"id": "S1L308",
+"start": 15070,
+"end": 15201,
+"text": "Comments let you and your team discuss tasks directly within each task, keeping all communication centered where the work happens.\n"
+},
+{
+"id": "S1L309",
+"start": 15201,
+"end": 15235,
+"text": "Unlimited storage, 100MB per file\n"
+},
+{
+"id": "S1L310",
+"start": 15235,
+"end": 15320,
+"text": "Store an unlimited number of files, each up to 100MB in size, directly within Asana.\n"
+},
+{
+"id": "S1L311",
+"start": 15320,
+"end": 15339,
+"text": "Unlimited messages\n"
+},
+{
+"id": "S1L312",
+"start": 15339,
+"end": 15483,
+"text": "Send direct messages and have team conversations in Asana to keep discussions all in one place instead of scattered across email and chat apps.\n"
+},
+{
+"id": "S1L313",
+"start": 15483,
+"end": 15497,
+"text": "Activity logs\n"
+},
+{
+"id": "S1L314",
+"start": 15497,
+"end": 15628,
+"text": "Asana activity logs automatically track important changes to a task, giving teams visibility into task history and accountability.\n"
+},
+{
+"id": "S1L315",
+"start": 15628,
+"end": 15656,
+"text": "iOS and Android mobile apps\n"
+},
+{
+"id": "S1L316",
+"start": 15656,
+"end": 15784,
+"text": "Asana offers desktop apps for macOS and Windows for optimal performance, plus iOS and Android apps for managing work on the go.\n"
+},
+{
+"id": "S1L317",
+"start": 15784,
+"end": 15800,
+"text": "Recurring tasks\n"
+},
+{
+"id": "S1L318",
+"start": 15800,
+"end": 15916,
+"text": "Set up recurring tasks that automatically generate the next instance with updated due dates when you complete them.\n"
+},
+{
+"id": "S1L319",
+"start": 15916,
+"end": 15946,
+"text": "Multi-select and bulk actions\n"
+},
+{
+"id": "S1L320",
+"start": 15946,
+"end": 16026,
+"text": "Select multiple tasks at once to perform bulk actions like editing or deleting.\n"
+},
+{
+"id": "S1L321",
+"start": 16026,
+"end": 16055,
+"text": "Multi-home tasks to projects\n"
+},
+{
+"id": "S1L322",
+"start": 16055,
+"end": 16191,
+"text": "With multi-homing, you can add the same task to multiple projects and any updates to that task sync automatically across all instances.\n"
+},
+{
+"id": "S1L323",
+"start": 16191,
+"end": 16198,
+"text": "Tables\n"
+},
+{
+"id": "S1L324",
+"start": 16198,
+"end": 16310,
+"text": "Keep your information where the work is. Lookup fields pull details into projects, so you stop switching tools.\n"
+},
+{
+"id": "S1L325",
+"start": 16310,
+"end": 16319,
+"text": "Asana AI\n"
+},
+{
+"id": "S1L326",
+"start": 16319,
+"end": 16347,
+"text": "AI Teammates and Asana Dash\n"
+},
+{
+"id": "S1L327",
+"start": 16347,
+"end": 16515,
+"text": "Put 30+ AI Teammates to work, each with the right skills for the job and context from your work. Asana Dash routes work to the right Teammate and surfaces what’s next.\n"
+},
+{
+"id": "S1L328",
+"start": 16515,
+"end": 16797,
+"text": "Includes 5 requests per user per month, up to 50 requests per account Includes 5 requests per user per month, up to 50 requests per account Includes 5 requests per user per month, up to 250 requests per account Includes 5 requests per user per month, up to 250 requests per account\n"
+},
+{
+"id": "S1L329",
+"start": 16797,
+"end": 16846,
+"text": "AI Studio (with additional credits for purchase)\n"
+},
+{
+"id": "S1L330",
+"start": 16846,
+"end": 16986,
+"text": "Use Asana's AI-powered no-code builder to design workflows, embed AI agents, and deploy workflows directly where teams are already working.\n"
+},
+{
+"id": "S1L331",
+"start": 16986,
+"end": 17192,
+"text": "Includes 50K credits per billing account per month Includes 75K credits per billing account per month Includes 200K credits per billing account per month Includes 200K credits per billing account per month\n"
+},
+{
+"id": "S1L332",
+"start": 17192,
+"end": 17203,
+"text": "AI Assists\n"
+},
+{
+"id": "S1L333",
+"start": 17203,
+"end": 17296,
+"text": "AI assistance built into your projects, tasks, goals, and more, included on every paid plan.\n"
+},
+{
+"id": "S1L334",
+"start": 17296,
+"end": 17308,
+"text": "AI Meetings\n"
+},
+{
+"id": "S1L335",
+"start": 17308,
+"end": 17403,
+"text": "Al Meetings suggest action items and who should own them, and link summaries to your projects.\n"
+},
+{
+"id": "S1L336",
+"start": 17403,
+"end": 17409,
+"text": "Views\n"
+},
+{
+"id": "S1L337",
+"start": 17409,
+"end": 17426,
+"text": "Project overview\n"
+},
+{
+"id": "S1L338",
+"start": 17426,
+"end": 17515,
+"text": "Get a high-level snapshot of project details, including key milestones and team members.\n"
+},
+{
+"id": "S1L339",
+"start": 17515,
+"end": 17520,
+"text": "List\n"
+},
+{
+"id": "S1L340",
+"start": 17520,
+"end": 17583,
+"text": "View tasks in list format for straightforward task management.\n"
+},
+{
+"id": "S1L341",
+"start": 17583,
+"end": 17589,
+"text": "Board\n"
+},
+{
+"id": "S1L342",
+"start": 17589,
+"end": 17677,
+"text": "Visualize tasks using a Kanban-style board to track your work through different stages.\n"
+},
+{
+"id": "S1L343",
+"start": 17677,
+"end": 17686,
+"text": "Calendar\n"
+},
+{
+"id": "S1L344",
+"start": 17686,
+"end": 17754,
+"text": "Display tasks on a calendar to track deadlines and check schedules.\n"
+},
+{
+"id": "S1L345",
+"start": 17754,
+"end": 17763,
+"text": "My tasks\n"
+},
+{
+"id": "S1L346",
+"start": 17763,
+"end": 17891,
+"text": "View and manage your assigned work in one personalized list, helping you prioritize and stay focused on what needs to get done.\n"
+},
+{
+"id": "S1L347",
+"start": 17891,
+"end": 17897,
+"text": "Notes\n"
+},
+{
+"id": "S1L348",
+"start": 17897,
+"end": 18019,
+"text": "Create and share project notes, meeting minutes, and documentation to keep important information accessible to your team.\n"
+},
+{
+"id": "S1L349",
+"start": 18019,
+"end": 18028,
+"text": "Timeline\n"
+},
+{
+"id": "S1L350",
+"start": 18028,
+"end": 18113,
+"text": "Use a Gantt-style timeline to plan and visualize project schedules and dependencies.\n"
+},
+{
+"id": "S1L351",
+"start": 18113,
+"end": 18119,
+"text": "Gantt\n"
+},
+{
+"id": "S1L352",
+"start": 18119,
+"end": 18203,
+"text": "Gantt charts show project tasks, dependencies, and milestones mapped on a timeline.\n"
+},
+{
+"id": "S1L353",
+"start": 18203,
+"end": 18209,
+"text": "Goals\n"
+},
+{
+"id": "S1L354",
+"start": 18209,
+"end": 18335,
+"text": "Asana goals help you track progress on what matters most by connecting your everyday tasks to bigger company-wide objectives.\n"
+},
+{
+"id": "S1L355",
+"start": 18335,
+"end": 18346,
+"text": "Portfolios\n"
+},
+{
+"id": "S1L356",
+"start": 18346,
+"end": 18478,
+"text": "In Asana, a portfolio is a digital folder that organizes multiple projects in one place, giving a high-level view of your progress.\n"
+},
+{
+"id": "S1L357",
+"start": 18478,
+"end": 18503,
+"text": "Workflows and automation\n"
+},
+{
+"id": "S1L358",
+"start": 18503,
+"end": 18601,
+"text": "100+ free integrations, including Microsoft 365, Google Workspace, Slack, and other everyday apps\n"
+},
+{
+"id": "S1L359",
+"start": 18601,
+"end": 18738,
+"text": "Connect Asana with your favorite tools like Microsoft 365, Google Workspace, and Slack to streamline workflows and reduce app switching.\n"
+},
+{
+"id": "S1L360",
+"start": 18738,
+"end": 18744,
+"text": "Forms\n"
+},
+{
+"id": "S1L361",
+"start": 18744,
+"end": 18844,
+"text": "Collect information and requests through customizable forms that feed directly into Asana projects.\n"
+},
+{
+"id": "S1L362",
+"start": 18844,
+"end": 18866,
+"text": "Start dates and times\n"
+},
+{
+"id": "S1L363",
+"start": 18866,
+"end": 18953,
+"text": "Set when tasks should begin, not just when they're due, for better project scheduling.\n"
+},
+{
+"id": "S1L364",
+"start": 18953,
+"end": 18971,
+"text": "Task dependencies\n"
+},
+{
+"id": "S1L365",
+"start": 18971,
+"end": 19125,
+"text": "Task dependencies allow you to define the order in which tasks need to be completed so your team can see what's blocked and what's ready to move forward.\n"
+},
+{
+"id": "S1L366",
+"start": 19125,
+"end": 19142,
+"text": "Workflow builder\n"
+},
+{
+"id": "S1L367",
+"start": 19142,
+"end": 19254,
+"text": "Design and automate routine workflows with our no-code builder. to enhance efficiency and reduce manual effort.\n"
+},
+{
+"id": "S1L368",
+"start": 19254,
+"end": 19288,
+"text": "Custom field management dashboard\n"
+},
+{
+"id": "S1L369",
+"start": 19288,
+"end": 19414,
+"text": "Create standardized custom fields that can be assigned to any project or task to track data like priority, budget, or status.\n"
+},
+{
+"id": "S1L370",
+"start": 19414,
+"end": 19438,
+"text": "Reference custom fields\n"
+},
+{
+"id": "S1L371",
+"start": 19438,
+"end": 19549,
+"text": "Link tasks to the people, teams, or work they reference, so everyone sees the right context without searching.\n"
+},
+{
+"id": "S1L372",
+"start": 19549,
+"end": 19587,
+"text": "Project template management dashboard\n"
+},
+{
+"id": "S1L373",
+"start": 19587,
+"end": 19717,
+"text": "Build reusable project templates with standardized tasks, assignees, and due dates that can be applied to new projects instantly.\n"
+},
+{
+"id": "S1L374",
+"start": 19717,
+"end": 19734,
+"text": "Custom templates\n"
+},
+{
+"id": "S1L375",
+"start": 19734,
+"end": 19824,
+"text": "Create reusable templates tailored to your team's processes for consistent project setup.\n"
+},
+{
+"id": "S1L376",
+"start": 19824,
+"end": 19842,
+"text": "Custom task types\n"
+},
+{
+"id": "S1L377",
+"start": 19842,
+"end": 20007,
+"text": "Create custom task types like Bug, Design, or Request that align with your team's workflows and make task tracking more meaningful for your specific work processes.\n"
+},
+{
+"id": "S1L378",
+"start": 20007,
+"end": 20023,
+"text": "Unlimited rules\n"
+},
+{
+"id": "S1L379",
+"start": 20023,
+"end": 20152,
+"text": "Rules let you set triggers and actions once, then they automatically handle routine updates so nothing falls through the cracks.\n"
+},
+{
+"id": "S1L380",
+"start": 20152,
+"end": 20179,
+"text": "Forms with branching logic\n"
+},
+{
+"id": "S1L381",
+"start": 20179,
+"end": 20303,
+"text": "Build dynamic forms that show different questions based on what people answer, so you get exactly the information you need.\n"
+},
+{
+"id": "S1L382",
+"start": 20303,
+"end": 20317,
+"text": "Critical path\n"
+},
+{
+"id": "S1L383",
+"start": 20317,
+"end": 20450,
+"text": "Identify which tasks directly impact your project deadline so you can prioritize the work that matters most and avoid costly delays.\n"
+},
+{
+"id": "S1L384",
+"start": 20450,
+"end": 20459,
+"text": "Proofing\n"
+},
+{
+"id": "S1L385",
+"start": 20459,
+"end": 20529,
+"text": "Review and provide feedback on creative assets directly within Asana.\n"
+},
+{
+"id": "S1L386",
+"start": 20529,
+"end": 20539,
+"text": "Approvals\n"
+},
+{
+"id": "S1L387",
+"start": 20539,
+"end": 20622,
+"text": "Set up approval workflows to ensure work is reviewed and authorized appropriately.\n"
+},
+{
+"id": "S1L388",
+"start": 20622,
+"end": 20665,
+"text": "Integration with Jira Cloud (two-way sync)\n"
+},
+{
+"id": "S1L389",
+"start": 20665,
+"end": 20754,
+"text": "Synchronize tasks between Asana and Jira Cloud to maintain consistency across platforms.\n"
+},
+{
+"id": "S1L390",
+"start": 20754,
+"end": 20771,
+"text": "Workflow bundles\n"
+},
+{
+"id": "S1L391",
+"start": 20771,
+"end": 20851,
+"text": "Apply standardized workflows across multiple projects or teams for consistency.\n"
+},
+{
+"id": "S1L392",
+"start": 20851,
+"end": 20866,
+"text": "Script actions\n"
+},
+{
+"id": "S1L393",
+"start": 20866,
+"end": 21044,
+"text": "Extend Asana Rules with custom code. Script Actions let you run Node.js scripts that call the Asana API as part of a rule — automating workflows beyond Asana's built-in actions.\n"
+},
+{
+"id": "S1L394",
+"start": 21044,
+"end": 21050,
+"text": "Goals\n"
+},
+{
+"id": "S1L395",
+"start": 21050,
+"end": 21095,
+"text": "Goals (company, team, and individual levels)\n"
+},
+{
+"id": "S1L396",
+"start": 21095,
+"end": 21195,
+"text": "Set and track goals at every level--from personal wins to company-wide objectives--all in one spot.\n"
+},
+{
+"id": "S1L397",
+"start": 21195,
+"end": 21213,
+"text": "Goal strategy map\n"
+},
+{
+"id": "S1L398",
+"start": 21213,
+"end": 21301,
+"text": "Visualize how all of of your goals connect so you can see the strategy behind the work.\n"
+},
+{
+"id": "S1L399",
+"start": 21301,
+"end": 21325,
+"text": "Automatic goal progress\n"
+},
+{
+"id": "S1L400",
+"start": 21325,
+"end": 21440,
+"text": "Let Asana update your goal progress automatically based on completed tasks and projects, no manual updates needed.\n"
+},
+{
+"id": "S1L401",
+"start": 21440,
+"end": 21455,
+"text": "Weighted goals\n"
+},
+{
+"id": "S1L402",
+"start": 21455,
+"end": 21555,
+"text": "Assign different importance levels to goals so they reflect what matters most to your organization.\n"
+},
+{
+"id": "S1L403",
+"start": 21555,
+"end": 21574,
+"text": "Reporting on goals\n"
+},
+{
+"id": "S1L404",
+"start": 21574,
+"end": 21689,
+"text": "Generate detailed reports for your stakeholders that show goal progress, completion rates, and performance trends.\n"
+},
+{
+"id": "S1L405",
+"start": 21689,
+"end": 21706,
+"text": "Saved grid views\n"
+},
+{
+"id": "S1L406",
+"start": 21706,
+"end": 21827,
+"text": "Save your favorite grid layouts and switch between them instantly—no need to reconfigure filters and columns every time.\n"
+},
+{
+"id": "S1L407",
+"start": 21827,
+"end": 21883,
+"text": "Goal templates and goal types (objectives, key results)\n"
+},
+{
+"id": "S1L408",
+"start": 21883,
+"end": 21962,
+"text": "Use pre-built goal frameworks like OKRs to standardize how you set objectives.\n"
+},
+{
+"id": "S1L409",
+"start": 21962,
+"end": 21972,
+"text": "Reporting\n"
+},
+{
+"id": "S1L410",
+"start": 21972,
+"end": 21991,
+"text": "CSV and PDF export\n"
+},
+{
+"id": "S1L411",
+"start": 21991,
+"end": 22103,
+"text": "Export your project data and reports in CSV or PDF format to share with stakeholders or analyze in other tools.\n"
+},
+{
+"id": "S1L412",
+"start": 22103,
+"end": 22118,
+"text": "Status updates\n"
+},
+{
+"id": "S1L413",
+"start": 22118,
+"end": 22255,
+"text": "Keep everyone informed by sharing regular progress updates on your projects, highlighting what's been accomplished and what's coming up.\n"
+},
+{
+"id": "S1L414",
+"start": 22255,
+"end": 22269,
+"text": "Custom fields\n"
+},
+{
+"id": "S1L415",
+"start": 22269,
+"end": 22408,
+"text": "Add extra details to your tasks like priority levels, budgets, or approval status to track the information that matters most to your team.\n"
+},
+{
+"id": "S1L416",
+"start": 22408,
+"end": 22432,
+"text": "Reference custom fields\n"
+},
+{
+"id": "S1L417",
+"start": 22432,
+"end": 22543,
+"text": "Link tasks to the people, teams, or work they reference, so everyone sees the right context without searching.\n"
+},
+{
+"id": "S1L418",
+"start": 22543,
+"end": 22562,
+"text": "Project dashboards\n"
+},
+{
+"id": "S1L419",
+"start": 22562,
+"end": 22685,
+"text": "Get a visual overview of your project's progress with charts and metrics that show how your work is tracking toward goals.\n"
+},
+{
+"id": "S1L420",
+"start": 22685,
+"end": 22706,
+"text": "Charts customization\n"
+},
+{
+"id": "S1L421",
+"start": 22706,
+"end": 22831,
+"text": "Tailor your dashboard charts to display exactly the data you need, from task completion rates to team workload distribution.\n"
+},
+{
+"id": "S1L422",
+"start": 22831,
+"end": 22855,
+"text": "Charts template library\n"
+},
+{
+"id": "S1L423",
+"start": 22855,
+"end": 22968,
+"text": "Choose from pre-built chart templates to quickly visualize common project metrics without starting from scratch.\n"
+},
+{
+"id": "S1L424",
+"start": 22968,
+"end": 22984,
+"text": "Advanced search\n"
+},
+{
+"id": "S1L425",
+"start": 22984,
+"end": 23118,
+"text": "Find exactly what you're looking for across all your projects using filters like assignee, due date, project, or custom field values.\n"
+},
+{
+"id": "S1L426",
+"start": 23118,
+"end": 23129,
+"text": "Milestones\n"
+},
+{
+"id": "S1L427",
+"start": 23129,
+"end": 23239,
+"text": "Mark important due dates and achievements in your projects so everyone knows when key milestones are reached.\n"
+},
+{
+"id": "S1L428",
+"start": 23239,
+"end": 23259,
+"text": "Universal reporting\n"
+},
+{
+"id": "S1L429",
+"start": 23259,
+"end": 23378,
+"text": "Pull data from across all your projects and teams into one place to see the bigger picture of how work is progressing.\n"
+},
+{
+"id": "S1L430",
+"start": 23378,
+"end": 23387,
+"text": "Formulas\n"
+},
+{
+"id": "S1L431",
+"start": 23387,
+"end": 23539,
+"text": "Asana formulas are custom fields that automatically calculate values like project duration, budgets, and costs using data from your tasks and projects.\n"
+},
+{
+"id": "S1L432",
+"start": 23539,
+"end": 23591,
+"text": "Integrations with Salesforce, Tableau, and Power BI\n"
+},
+{
+"id": "S1L433",
+"start": 23591,
+"end": 23728,
+"text": "Connect your project data with your business intelligence and CRM tools for unified reporting and insights across all your work streams.\n"
+},
+{
+"id": "S1L434",
+"start": 23728,
+"end": 23749,
+"text": "Portfolio dashboards\n"
+},
+{
+"id": "S1L435",
+"start": 23749,
+"end": 23840,
+"text": "See high-level progress and health across multiple related projects in a single dashboard.\n"
+},
+{
+"id": "S1L436",
+"start": 23840,
+"end": 23878,
+"text": "Portfolio summary report (PDF export)\n"
+},
+{
+"id": "S1L437",
+"start": 23878,
+"end": 23985,
+"text": "Create a polished PDF summary of your portfolio's performance that you can easily share with stakeholders.\n"
+},
+{
+"id": "S1L438",
+"start": 23985,
+"end": 24028,
+"text": "PowerPoint export (portfolios, dashboards)\n"
+},
+{
+"id": "S1L439",
+"start": 24028,
+"end": 24164,
+"text": "Turn your project data into presentation-ready slides instantly, so you can share progress with stakeholders without manual formatting.\n"
+},
+{
+"id": "S1L440",
+"start": 24164,
+"end": 24184,
+"text": "Resource management\n"
+},
+{
+"id": "S1L441",
+"start": 24184,
+"end": 24195,
+"text": "Timesheets\n"
+},
+{
+"id": "S1L442",
+"start": 24195,
+"end": 24383,
+"text": "Understand progress and drive efficiency by tracking billable and non-billable hours with centralized timesheet management, giving real-time visibility into where teams are spending time.\n"
+},
+{
+"id": "S1L443",
+"start": 24383,
+"end": 24495,
+"text": "Timesheets & Budgets add-on Timesheets & Budgets add-on Timesheets & Budgets add-on Timesheets & Budgets add-on\n"
+},
+{
+"id": "S1L444",
+"start": 24495,
+"end": 24506,
+"text": "User rates\n"
+},
+{
+"id": "S1L445",
+"start": 24506,
+"end": 24632,
+"text": "Set hourly rates for your team members to track costs against workload, so you always have a clear picture of project health.\n"
+},
+{
+"id": "S1L446",
+"start": 24632,
+"end": 24744,
+"text": "Timesheets & Budgets add-on Timesheets & Budgets add-on Timesheets & Budgets add-on Timesheets & Budgets add-on\n"
+},
+{
+"id": "S1L447",
+"start": 24744,
+"end": 24760,
+"text": "Project budgets\n"
+},
+{
+"id": "S1L448",
+"start": 24760,
+"end": 24911,
+"text": "Monitor project health with confidence by pulling in user rates, time data, and other cost data to quickly compare estimated and actual project spend.\n"
+},
+{
+"id": "S1L449",
+"start": 24911,
+"end": 25023,
+"text": "Timesheets & Budgets add-on Timesheets & Budgets add-on Timesheets & Budgets add-on Timesheets & Budgets add-on\n"
+},
+{
+"id": "S1L450",
+"start": 25023,
+"end": 25037,
+"text": "Time tracking\n"
+},
+{
+"id": "S1L451",
+"start": 25037,
+"end": 25193,
+"text": "Compare the estimated time for a task with the actual time it takes to complete to understand true effort and improve planning, forecasting, and budgeting.\n"
+},
+{
+"id": "S1L452",
+"start": 25193,
+"end": 25223,
+"text": "Portfolio resource management\n"
+},
+{
+"id": "S1L453",
+"start": 25223,
+"end": 25338,
+"text": "Check workload just for the projects in a single portfolio—perfect for keeping one program or initiative on track.\n"
+},
+{
+"id": "S1L454",
+"start": 25338,
+"end": 25368,
+"text": "Universal resource management\n"
+},
+{
+"id": "S1L455",
+"start": 25368,
+"end": 25488,
+"text": "See everyone’s workload across all projects and portfolios—great for balancing resources across the whole organization.\n"
+},
+{
+"id": "S1L456",
+"start": 25488,
+"end": 25506,
+"text": "Capacity planning\n"
+},
+{
+"id": "S1L457",
+"start": 25506,
+"end": 25614,
+"text": "See how teams are allocated across all projects in a single view so you can make smarter staffing decisions\n"
+},
+{
+"id": "S1L458",
+"start": 25614,
+"end": 25635,
+"text": "Placeholder profiles\n"
+},
+{
+"id": "S1L459",
+"start": 25635,
+"end": 25803,
+"text": "Plan projects early with custom placeholder roles to improve forecasting and headcount planning, then swap in real Asana users later for accurate, flexible resourcing.\n"
+},
+{
+"id": "S1L460",
+"start": 25803,
+"end": 25824,
+"text": "Privacy and security\n"
+},
+{
+"id": "S1L461",
+"start": 25824,
+"end": 25838,
+"text": "SOC 2 Type II\n"
+},
+{
+"id": "S1L462",
+"start": 25838,
+"end": 25946,
+"text": "Asana works with independent third-party auditors to attest to our control effectiveness on an annual basis\n"
+},
+{
+"id": "S1L463",
+"start": 25946,
+"end": 25974,
+"text": "Multi-factor authentication\n"
+},
+{
+"id": "S1L464",
+"start": 25974,
+"end": 26038,
+"text": "Enforce two-factor authentication for domain members and guests\n"
+},
+{
+"id": "S1L465",
+"start": 26038,
+"end": 26080,
+"text": "256-bit encryption at rest and in-transit\n"
+},
+{
+"id": "S1L466",
+"start": 26080,
+"end": 26121,
+"text": "Data is encrypted in transit and at rest\n"
+},
+{
+"id": "S1L467",
+"start": 26121,
+"end": 26144,
+"text": "Cross regional backups\n"
+},
+{
+"id": "S1L468",
+"start": 26144,
+"end": 26250,
+"text": "Data is automatically backed up to a recovery location to maintain availability in the event of an outage\n"
+},
+{
+"id": "S1L469",
+"start": 26250,
+"end": 26264,
+"text": "Data deletion\n"
+},
+{
+"id": "S1L470",
+"start": 26264,
+"end": 26387,
+"text": "You can permanently remove your Asana account data, including user profile information, project details, and task history.\n"
+},
+{
+"id": "S1L471",
+"start": 26387,
+"end": 26398,
+"text": "Google SSO\n"
+},
+{
+"id": "S1L472",
+"start": 26398,
+"end": 26478,
+"text": "Let employees use their existing Google work account to authenticate into Asana\n"
+},
+{
+"id": "S1L473",
+"start": 26478,
+"end": 26492,
+"text": "Microsoft SSO\n"
+},
+{
+"id": "S1L474",
+"start": 26492,
+"end": 26640,
+"text": "Let your team sign in with their existing Microsoft credentials. Admins on paid plans can require it as the login method across their organization.\n"
+},
+{
+"id": "S1L475",
+"start": 26640,
+"end": 26645,
+"text": "SAML\n"
+},
+{
+"id": "S1L476",
+"start": 26645,
+"end": 26731,
+"text": "Connect Asana to your company's single sign-on system for centralized access control.\n"
+},
+{
+"id": "S1L477",
+"start": 26731,
+"end": 26757,
+"text": "Read-only link management\n"
+},
+{
+"id": "S1L478",
+"start": 26757,
+"end": 26892,
+"text": "Share project timelines and calendars with external partners so they can view real-time updates without being able to edit or comment.\n"
+},
+{
+"id": "S1L479",
+"start": 26892,
+"end": 26930,
+"text": "Audit Log API (built to support SIEM)\n"
+},
+{
+"id": "S1L480",
+"start": 26930,
+"end": 27074,
+"text": "Asana's audit log API helps enterprise admins track important system and login events, making it easy to investigate potential security issues.\n"
+},
+{
+"id": "S1L481",
+"start": 27074,
+"end": 27098,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L482",
+"start": 27098,
+"end": 27124,
+"text": "SIEM integration (Splunk)\n"
+},
+{
+"id": "S1L483",
+"start": 27124,
+"end": 27292,
+"text": "Asana's integration with Splunk helps IT teams spot suspicious activity and security issues in real-time by automatically tracking what's happening in their workspace.\n"
+},
+{
+"id": "S1L484",
+"start": 27292,
+"end": 27316,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L485",
+"start": 27316,
+"end": 27356,
+"text": "eDiscovery integration (Exterro, Hanzo)\n"
+},
+{
+"id": "S1L486",
+"start": 27356,
+"end": 27529,
+"text": "Asana's integration with Exterro and Hanzo helps legal teams quickly collect data for legal or regulatory purposes, saving time and money by pinpointing only relevant data.\n"
+},
+{
+"id": "S1L487",
+"start": 27529,
+"end": 27553,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L488",
+"start": 27553,
+"end": 27603,
+"text": "Data Loss Prevention (DLP) integration (Netskope)\n"
+},
+{
+"id": "S1L489",
+"start": 27603,
+"end": 27742,
+"text": "Asana's integration with Netskope helps admins monitor and protect sensitive company information from being accidentally shared or leaked.\n"
+},
+{
+"id": "S1L490",
+"start": 27742,
+"end": 27766,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L491",
+"start": 27766,
+"end": 27801,
+"text": "Archiving integration (Theta Lake)\n"
+},
+{
+"id": "S1L492",
+"start": 27801,
+"end": 27928,
+"text": "Asana's integration with Theta Lake automatically archives Asana communications to meet retention and regulatory requirements.\n"
+},
+{
+"id": "S1L493",
+"start": 27928,
+"end": 27952,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L494",
+"start": 27952,
+"end": 27973,
+"text": "Organization exports\n"
+},
+{
+"id": "S1L495",
+"start": 27973,
+"end": 28150,
+"text": "Create a complete JSON backup of your entire Asana organization, including all projects, tasks, comments, and custom fields for data backup, compliance, and system integration.\n"
+},
+{
+"id": "S1L496",
+"start": 28150,
+"end": 28174,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L497",
+"start": 28174,
+"end": 28193,
+"text": "Managed workspaces\n"
+},
+{
+"id": "S1L498",
+"start": 28193,
+"end": 28259,
+"text": "Centrally control multiple Asana workspaces from one admin panel.\n"
+},
+{
+"id": "S1L499",
+"start": 28259,
+"end": 28283,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L500",
+"start": 28283,
+"end": 28299,
+"text": "IP allowlisting\n"
+},
+{
+"id": "S1L501",
+"start": 28299,
+"end": 28503,
+"text": "IP allowlisting restricts access to your Asana organization to only approved IP addresses or network ranges. This adds security by ensuring users can only access Asana from trusted locations you specify.\n"
+},
+{
+"id": "S1L502",
+"start": 28503,
+"end": 28527,
+"text": "Compliance mgmt. add-on\n"
+},
+{
+"id": "S1L503",
+"start": 28527,
+"end": 28560,
+"text": "Data residency, see requirements\n"
+},
+{
+"id": "S1L504",
+"start": 28560,
+"end": 28608,
+"text": "Choose the region in which your data is stored.\n"
+},
+{
+"id": "S1L505",
+"start": 28608,
+"end": 28622,
+"text": "Add-on Opt-in\n"
+},
+{
+"id": "S1L506",
+"start": 28622,
+"end": 28672,
+"text": "Enterprise Key Management, subject to eligibility\n"
+},
+{
+"id": "S1L507",
+"start": 28672,
+"end": 28788,
+"text": "Control the encryption keys for your domain database, attachments, search, and most user data in your Organization.\n"
+},
+{
+"id": "S1L508",
+"start": 28788,
+"end": 28795,
+"text": "Opt-in\n"
+},
+{
+"id": "S1L509",
+"start": 28795,
+"end": 28840,
+"text": "HIPAA compliance available, see requirements\n"
+},
+{
+"id": "S1L510",
+"start": 28840,
+"end": 28939,
+"text": "Use Asana in compliance with the U.S. Health Insurance Portability and Accountability Act (HIPAA).\n"
+},
+{
+"id": "S1L511",
+"start": 28939,
+"end": 28946,
+"text": "Opt-in\n"
+},
+{
+"id": "S1L512",
+"start": 28946,
+"end": 28970,
+"text": "Admin and data controls\n"
+},
+{
+"id": "S1L513",
+"start": 28970,
+"end": 28981,
+"text": "User limit\n"
+},
+{
+"id": "S1L514",
+"start": 28981,
+"end": 29063,
+"text": "Up to 2 seats per project and team. All paid plans let you add unlimited members.\n"
+},
+{
+"id": "S1L515",
+"start": 29063,
+"end": 29111,
+"text": "2 seats Unlimited Unlimited Unlimited Unlimited\n"
+},
+{
+"id": "S1L516",
+"start": 29111,
+"end": 29127,
+"text": "Access controls\n"
+},
+{
+"id": "S1L517",
+"start": 29127,
+"end": 29201,
+"text": "Set permissions for who can view or edit projects, portfolios, and goals.\n"
+},
+{
+"id": "S1L518",
+"start": 29201,
+"end": 29214,
+"text": "Project only\n"
+},
+{
+"id": "S1L519",
+"start": 29214,
+"end": 29228,
+"text": "Private teams\n"
+},
+{
+"id": "S1L520",
+"start": 29228,
+"end": 29283,
+"text": "Create teams that are only visible to invited members.\n"
+},
+{
+"id": "S1L521",
+"start": 29283,
+"end": 29300,
+"text": "Private projects\n"
+},
+{
+"id": "S1L522",
+"start": 29300,
+"end": 29391,
+"text": "Make projects accessible only to the people you choose to keep sensitive work confidential\n"
+},
+{
+"id": "S1L523",
+"start": 29391,
+"end": 29413,
+"text": "Unlimited free guests\n"
+},
+{
+"id": "S1L524",
+"start": 29413,
+"end": 29528,
+"text": "invite external collaborators to work on projects without incurring additional costs or impacting your user count.\n"
+},
+{
+"id": "S1L525",
+"start": 29528,
+"end": 29542,
+"text": "Admin console\n"
+},
+{
+"id": "S1L526",
+"start": 29542,
+"end": 29676,
+"text": "IT and team admins have a centralized dashboard to manage team members, security settings, and permissions across their organization.\n"
+},
+{
+"id": "S1L527",
+"start": 29676,
+"end": 29698,
+"text": "Comment-only projects\n"
+},
+{
+"id": "S1L528",
+"start": 29698,
+"end": 29851,
+"text": "Let users view, comment on, and participate in conversations within a project without the ability to edit or make changes to tasks or project structure.\n"
+},
+{
+"id": "S1L529",
+"start": 29851,
+"end": 29876,
+"text": "Team sharing on projects\n"
+},
+{
+"id": "S1L530",
+"start": 29876,
+"end": 29927,
+"text": "Share entire projects with specific teams at once.\n"
+},
+{
+"id": "S1L531",
+"start": 29927,
+"end": 29952,
+"text": "Pause a member’s license\n"
+},
+{
+"id": "S1L532",
+"start": 29952,
+"end": 30000,
+"text": "Temporarily suspend someone's access without rem"
+}
+]
+}

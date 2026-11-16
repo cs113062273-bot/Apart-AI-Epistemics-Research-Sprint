@@ -1,0 +1,2394 @@
+{
+"page": "Notion pricing",
+"url": "https://www.notion.com/pricing",
+"segments": [
+{
+"id": "S1L1",
+"start": 0,
+"end": 8,
+"text": "Product\n"
+},
+{
+"id": "S1L2",
+"start": 8,
+"end": 17,
+"text": "Features\n"
+},
+{
+"id": "S1L3",
+"start": 17,
+"end": 36,
+"text": "See all features →\n"
+},
+{
+"id": "S1L4",
+"start": 36,
+"end": 44,
+"text": "Capture\n"
+},
+{
+"id": "S1L5",
+"start": 44,
+"end": 88,
+"text": "Bring everything into one system of record.\n"
+},
+{
+"id": "S1L6",
+"start": 88,
+"end": 93,
+"text": "Find\n"
+},
+{
+"id": "S1L7",
+"start": 93,
+"end": 132,
+"text": "Get answers, instantly—with citations.\n"
+},
+{
+"id": "S1L8",
+"start": 132,
+"end": 141,
+"text": "Automate\n"
+},
+{
+"id": "S1L9",
+"start": 141,
+"end": 176,
+"text": "Keep work moving 24/7 with agents.\n"
+},
+{
+"id": "S1L10",
+"start": 176,
+"end": 195,
+"text": ". See what’s new →\n"
+},
+{
+"id": "S1L11",
+"start": 195,
+"end": 221,
+"text": "Download the Notion App →\n"
+},
+{
+"id": "S1L12",
+"start": 221,
+"end": 231,
+"text": "Resources\n"
+},
+{
+"id": "S1L13",
+"start": 231,
+"end": 242,
+"text": "Notion for\n"
+},
+{
+"id": "S1L14",
+"start": 242,
+"end": 253,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L15",
+"start": 253,
+"end": 270,
+"text": "Small businesses\n"
+},
+{
+"id": "S1L16",
+"start": 270,
+"end": 279,
+"text": "Startups\n"
+},
+{
+"id": "S1L17",
+"start": 279,
+"end": 290,
+"text": "Developers\n"
+},
+{
+"id": "S1L18",
+"start": 290,
+"end": 299,
+"text": "Discover\n"
+},
+{
+"id": "S1L19",
+"start": 299,
+"end": 310,
+"text": "What's New\n"
+},
+{
+"id": "S1L20",
+"start": 310,
+"end": 327,
+"text": "Customer stories\n"
+},
+{
+"id": "S1L21",
+"start": 327,
+"end": 336,
+"text": "Webinars\n"
+},
+{
+"id": "S1L22",
+"start": 336,
+"end": 346,
+"text": "Templates\n"
+},
+{
+"id": "S1L23",
+"start": 346,
+"end": 358,
+"text": "Consultants\n"
+},
+{
+"id": "S1L24",
+"start": 358,
+"end": 364,
+"text": "Learn\n"
+},
+{
+"id": "S1L25",
+"start": 364,
+"end": 372,
+"text": "Academy\n"
+},
+{
+"id": "S1L26",
+"start": 372,
+"end": 386,
+"text": "Product tours\n"
+},
+{
+"id": "S1L27",
+"start": 386,
+"end": 398,
+"text": "Help Center\n"
+},
+{
+"id": "S1L28",
+"start": 398,
+"end": 421,
+"text": "Pricing Request a demo\n"
+},
+{
+"id": "S1L29",
+"start": 421,
+"end": 444,
+"text": "Log in Get Notion free\n"
+},
+{
+"id": "S1L30",
+"start": 444,
+"end": 474,
+"text": "One tool to run your company.\n"
+},
+{
+"id": "S1L31",
+"start": 474,
+"end": 494,
+"text": "Trusted by teams at\n"
+},
+{
+"id": "S1L32",
+"start": 494,
+"end": 515,
+"text": "Select payment mode:\n"
+},
+{
+"id": "S1L33",
+"start": 515,
+"end": 527,
+"text": "Pay monthly\n"
+},
+{
+"id": "S1L34",
+"start": 527,
+"end": 538,
+"text": "Pay yearly\n"
+},
+{
+"id": "S1L35",
+"start": 538,
+"end": 565,
+"text": "Save up to 20% with yearly\n"
+},
+{
+"id": "S1L36",
+"start": 565,
+"end": 578,
+"text": "Price in USD\n"
+},
+{
+"id": "S1L37",
+"start": 578,
+"end": 612,
+"text": "Essentials for staying organized.\n"
+},
+{
+"id": "S1L38",
+"start": 612,
+"end": 617,
+"text": "Free\n"
+},
+{
+"id": "S1L39",
+"start": 617,
+"end": 639,
+"text": "$0 per member / month\n"
+},
+{
+"id": "S1L40",
+"start": 639,
+"end": 695,
+"text": "For individuals to organize personal projects and life.\n"
+},
+{
+"id": "S1L41",
+"start": 695,
+"end": 703,
+"text": "Sign up\n"
+},
+{
+"id": "S1L42",
+"start": 703,
+"end": 713,
+"text": "Includes:\n"
+},
+{
+"id": "S1L43",
+"start": 713,
+"end": 782,
+"text": "Trial AI capabilities like generating docs, or autofilling databases\n"
+},
+{
+"id": "S1L44",
+"start": 782,
+"end": 801,
+"text": "Trial of Notion AI\n"
+},
+{
+"id": "S1L45",
+"start": 801,
+"end": 862,
+"text": "Capture, organize, and act on responses right inside Notion.\n"
+},
+{
+"id": "S1L46",
+"start": 862,
+"end": 874,
+"text": "Basic forms\n"
+},
+{
+"id": "S1L47",
+"start": 874,
+"end": 907,
+"text": "Publish a Notion page to the web\n"
+},
+{
+"id": "S1L48",
+"start": 907,
+"end": 919,
+"text": "Basic sites\n"
+},
+{
+"id": "S1L49",
+"start": 919,
+"end": 980,
+"text": "Connect multiple Calendars to manage work and time together.\n"
+},
+{
+"id": "S1L50",
+"start": 980,
+"end": 996,
+"text": "Notion Calendar\n"
+},
+{
+"id": "S1L51",
+"start": 996,
+"end": 1073,
+"text": "Organize hundreds or thousands of items in one place, like projects or tasks\n"
+},
+{
+"id": "S1L52",
+"start": 1073,
+"end": 1144,
+"text": "Databases including subtasks, dependencies, custom properties and more\n"
+},
+{
+"id": "S1L53",
+"start": 1144,
+"end": 1149,
+"text": "Plus\n"
+},
+{
+"id": "S1L54",
+"start": 1149,
+"end": 1172,
+"text": "$10 per member / month\n"
+},
+{
+"id": "S1L55",
+"start": 1172,
+"end": 1224,
+"text": "For small teams and professionals to work together.\n"
+},
+{
+"id": "S1L56",
+"start": 1224,
+"end": 1236,
+"text": "Get started\n"
+},
+{
+"id": "S1L57",
+"start": 1236,
+"end": 1261,
+"text": "Everything in Free, and:\n"
+},
+{
+"id": "S1L58",
+"start": 1261,
+"end": 1330,
+"text": "Trial AI capabilities like generating docs, or autofilling databases\n"
+},
+{
+"id": "S1L59",
+"start": 1330,
+"end": 1349,
+"text": "Trial of Notion AI\n"
+},
+{
+"id": "S1L60",
+"start": 1349,
+"end": 1390,
+"text": "Remove Notion branding from public forms\n"
+},
+{
+"id": "S1L61",
+"start": 1390,
+"end": 1403,
+"text": "Custom forms\n"
+},
+{
+"id": "S1L62",
+"start": 1403,
+"end": 1519,
+"text": "Customize your top header, choose a light or dark theme, add a custom favicon, and integrate with Google Analytics.\n"
+},
+{
+"id": "S1L63",
+"start": 1519,
+"end": 1532,
+"text": "Custom sites\n"
+},
+{
+"id": "S1L64",
+"start": 1532,
+"end": 1616,
+"text": "Visualize data from databases in different ways (e.g. donut, bar, and line charts).\n"
+},
+{
+"id": "S1L65",
+"start": 1616,
+"end": 1623,
+"text": "Charts\n"
+},
+{
+"id": "S1L66",
+"start": 1623,
+"end": 1728,
+"text": "Blocks are pieces of content you add to a page (e.g. to-do checkboxes, paragraphs, bullet points, etc.).\n"
+},
+{
+"id": "S1L67",
+"start": 1728,
+"end": 1749,
+"text": "Collaborative blocks\n"
+},
+{
+"id": "S1L68",
+"start": 1749,
+"end": 1839,
+"text": "A per file size limit may apply to any file that you upload to a Notion page or database.\n"
+},
+{
+"id": "S1L69",
+"start": 1839,
+"end": 1852,
+"text": "File uploads\n"
+},
+{
+"id": "S1L70",
+"start": 1852,
+"end": 1900,
+"text": "Connect to some tools like Slack & Google Drive\n"
+},
+{
+"id": "S1L71",
+"start": 1900,
+"end": 1918,
+"text": "Basic connections\n"
+},
+{
+"id": "S1L72",
+"start": 1918,
+"end": 1958,
+"text": "The AI workspace for work that matters.\n"
+},
+{
+"id": "S1L73",
+"start": 1958,
+"end": 1979,
+"text": "Business Recommended\n"
+},
+{
+"id": "S1L74",
+"start": 1979,
+"end": 2002,
+"text": "$20 per member / month\n"
+},
+{
+"id": "S1L75",
+"start": 2002,
+"end": 2049,
+"text": "For growing businesses to streamline teamwork.\n"
+},
+{
+"id": "S1L76",
+"start": 2049,
+"end": 2061,
+"text": "Get started\n"
+},
+{
+"id": "S1L77",
+"start": 2061,
+"end": 2086,
+"text": "Everything in Plus, and:\n"
+},
+{
+"id": "S1L78",
+"start": 2086,
+"end": 2202,
+"text": "Does work for you. Completes complex, multi-step tasks using context from Notion, your connected apps, and the web.\n"
+},
+{
+"id": "S1L79",
+"start": 2202,
+"end": 2215,
+"text": "Notion Agent\n"
+},
+{
+"id": "S1L80",
+"start": 2215,
+"end": 2273,
+"text": "Automate your meeting notes and follow-ups, no bot needed\n"
+},
+{
+"id": "S1L81",
+"start": 2273,
+"end": 2290,
+"text": "AI Meeting Notes\n"
+},
+{
+"id": "S1L82",
+"start": 2290,
+"end": 2345,
+"text": "Search across connected apps like Slack, Github & more\n"
+},
+{
+"id": "S1L83",
+"start": 2345,
+"end": 2368,
+"text": "Enterprise Search Beta\n"
+},
+{
+"id": "S1L84",
+"start": 2368,
+"end": 2428,
+"text": "Manage employee access at scale with secure single sign-on.\n"
+},
+{
+"id": "S1L85",
+"start": 2428,
+"end": 2437,
+"text": "SAML SSO\n"
+},
+{
+"id": "S1L86",
+"start": 2437,
+"end": 2572,
+"text": "Collaborate in Notion databases without giving access to the entire database. Limit access to rows where the collaborator is assigned.\n"
+},
+{
+"id": "S1L87",
+"start": 2572,
+"end": 2602,
+"text": "Granular database permissions\n"
+},
+{
+"id": "S1L88",
+"start": 2602,
+"end": 2697,
+"text": "Add a verified badge to pages that are up to date. Appears in search results and AI citations.\n"
+},
+{
+"id": "S1L89",
+"start": 2697,
+"end": 2713,
+"text": "Verify any page\n"
+},
+{
+"id": "S1L90",
+"start": 2713,
+"end": 2874,
+"text": "Create teamspaces that can’t be seen or discovered by anyone except those you add. Great for sensitive information like company planning or performance reviews.\n"
+},
+{
+"id": "S1L91",
+"start": 2874,
+"end": 2893,
+"text": "Private teamspaces\n"
+},
+{
+"id": "S1L92",
+"start": 2893,
+"end": 2992,
+"text": "Verify ownership of an email domain to access advanced security features including single-sign on.\n"
+},
+{
+"id": "S1L93",
+"start": 2992,
+"end": 3012,
+"text": "Domain verification\n"
+},
+{
+"id": "S1L94",
+"start": 3012,
+"end": 3044,
+"text": "Connect to GitHub, Asana & more\n"
+},
+{
+"id": "S1L95",
+"start": 3044,
+"end": 3064,
+"text": "Premium connections\n"
+},
+{
+"id": "S1L96",
+"start": 3064,
+"end": 3075,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L97",
+"start": 3075,
+"end": 3090,
+"text": "Custom pricing\n"
+},
+{
+"id": "S1L98",
+"start": 3090,
+"end": 3160,
+"text": "For organizations to operate with scalability, control, and security.\n"
+},
+{
+"id": "S1L99",
+"start": 3160,
+"end": 3174,
+"text": "Contact Sales\n"
+},
+{
+"id": "S1L100",
+"start": 3174,
+"end": 3203,
+"text": "Everything in Business, and:\n"
+},
+{
+"id": "S1L101",
+"start": 3203,
+"end": 3302,
+"text": "When using Notion AI, our LLM providers utilize zero data retention for Enterprise plan workspaces\n"
+},
+{
+"id": "S1L102",
+"start": 3302,
+"end": 3341,
+"text": "Zero data retention with LLM providers\n"
+},
+{
+"id": "S1L103",
+"start": 3341,
+"end": 3410,
+"text": "Access the Notion SCIM API to provision and manage users and groups.\n"
+},
+{
+"id": "S1L104",
+"start": 3410,
+"end": 3435,
+"text": "User provisioning (SCIM)\n"
+},
+{
+"id": "S1L105",
+"start": 3435,
+"end": 3572,
+"text": "Unlock extra permission controls to prevent certain people from sharing pages externally, disable guests, and set workspace-level rules.\n"
+},
+{
+"id": "S1L106",
+"start": 3572,
+"end": 3601,
+"text": "Advanced security & controls\n"
+},
+{
+"id": "S1L107",
+"start": 3601,
+"end": 3786,
+"text": "Access a detailed log of security and safety-related activity for your workspace account to identify potential security issues, investigate suspicious behavior, or troubleshoot access.\n"
+},
+{
+"id": "S1L108",
+"start": 3786,
+"end": 3796,
+"text": "Audit log\n"
+},
+{
+"id": "S1L109",
+"start": 3796,
+"end": 3886,
+"text": "Our team of Customer Success Managers are experts to help you get the most out of Notion.\n"
+},
+{
+"id": "S1L110",
+"start": 3886,
+"end": 3911,
+"text": "Customer success manager\n"
+},
+{
+"id": "S1L111",
+"start": 3911,
+"end": 4085,
+"text": "Connect to SIEM and DLP tools to automatically centralize audit logs & set policies to detect sensitive content in your workspace and trigger automated actions to remediate.\n"
+},
+{
+"id": "S1L112",
+"start": 4085,
+"end": 4131,
+"text": "Security & Compliance connections (DLP, SIEM)\n"
+},
+{
+"id": "S1L113",
+"start": 4131,
+"end": 4285,
+"text": "Establish ownership of your company domain and take actions on workspaces that belong to your verified domain (request ownership transfer, delete, claim)\n"
+},
+{
+"id": "S1L114",
+"start": 4285,
+"end": 4303,
+"text": "Domain management\n"
+},
+{
+"id": "S1L115",
+"start": 4303,
+"end": 4330,
+"text": "Connect to even more tools\n"
+},
+{
+"id": "S1L116",
+"start": 4330,
+"end": 4351,
+"text": "Advanced connections\n"
+},
+{
+"id": "S1L117",
+"start": 4351,
+"end": 4365,
+"text": "Custom Agents\n"
+},
+{
+"id": "S1L118",
+"start": 4365,
+"end": 4499,
+"text": "AI agents handle repetitive tasks autonomously, so your team doesn’t have to. Free to try, then $10 per 1,000 monthly Notion credits.\n"
+},
+{
+"id": "S1L119",
+"start": 4499,
+"end": 4512,
+"text": "Workers Beta\n"
+},
+{
+"id": "S1L120",
+"start": 4512,
+"end": 4642,
+"text": "Extend Notion with custom code to build agent tools, sync external data, and trigger Notion workflows from anywhere. Learn more →\n"
+},
+{
+"id": "S1L121",
+"start": 4642,
+"end": 4745,
+"text": "There’s power in a single platform where you can do all your work out of. Notion is that single place.\n"
+},
+{
+"id": "S1L122",
+"start": 4745,
+"end": 4774,
+"text": "Nick Erdenberger GTM, OpenAI\n"
+},
+{
+"id": "S1L123",
+"start": 4774,
+"end": 4788,
+"text": "Watch video →\n"
+},
+{
+"id": "S1L124",
+"start": 4788,
+"end": 4807,
+"text": "Plans and features\n"
+},
+{
+"id": "S1L125",
+"start": 4807,
+"end": 4838,
+"text": "Free $0 per seat/month Sign up\n"
+},
+{
+"id": "S1L126",
+"start": 4838,
+"end": 4874,
+"text": "Plus $10 per seat/month Get started\n"
+},
+{
+"id": "S1L127",
+"start": 4874,
+"end": 4914,
+"text": "Business $20 per seat/month Get started\n"
+},
+{
+"id": "S1L128",
+"start": 4914,
+"end": 4938,
+"text": "Enterprise Contact us →\n"
+},
+{
+"id": "S1L129",
+"start": 4938,
+"end": 4946,
+"text": "Content\n"
+},
+{
+"id": "S1L130",
+"start": 4946,
+"end": 5173,
+"text": "Blocks are pieces of content you add to a page (e.g. to-do checkboxes, paragraphs, bullet points, etc.). Teams who want to try collaborating in Notion can use the Free Plan with up to certain number of blocks before upgrading.\n"
+},
+{
+"id": "S1L131",
+"start": 5173,
+"end": 5188,
+"text": "Pages & blocks\n"
+},
+{
+"id": "S1L132",
+"start": 5188,
+"end": 5211,
+"text": "Limited for 2+ members\n"
+},
+{
+"id": "S1L133",
+"start": 5211,
+"end": 5353,
+"text": "On the Free plan, you can upload images, videos and file attachments up to 5 MB each. Upgrade to a paid plan to upload files up to 5 GB each.\n"
+},
+{
+"id": "S1L134",
+"start": 5353,
+"end": 5366,
+"text": "File uploads\n"
+},
+{
+"id": "S1L135",
+"start": 5366,
+"end": 5377,
+"text": "Up to 5 MB\n"
+},
+{
+"id": "S1L136",
+"start": 5377,
+"end": 5388,
+"text": "Up to 5 GB\n"
+},
+{
+"id": "S1L137",
+"start": 5388,
+"end": 5429,
+"text": "Restore your page to a previous version.\n"
+},
+{
+"id": "S1L138",
+"start": 5429,
+"end": 5442,
+"text": "Page history\n"
+},
+{
+"id": "S1L139",
+"start": 5442,
+"end": 5449,
+"text": "7 days\n"
+},
+{
+"id": "S1L140",
+"start": 5449,
+"end": 5457,
+"text": "30 days\n"
+},
+{
+"id": "S1L141",
+"start": 5457,
+"end": 5465,
+"text": "90 days\n"
+},
+{
+"id": "S1L142",
+"start": 5465,
+"end": 5472,
+"text": "Custom\n"
+},
+{
+"id": "S1L143",
+"start": 5472,
+"end": 5567,
+"text": "Add a verified badge to pages that are up to date. Appears in search results and AI citations.\n"
+},
+{
+"id": "S1L144",
+"start": 5567,
+"end": 5583,
+"text": "Verify any page\n"
+},
+{
+"id": "S1L145",
+"start": 5583,
+"end": 5633,
+"text": "Use Notion offline on the desktop and mobile app.\n"
+},
+{
+"id": "S1L146",
+"start": 5633,
+"end": 5641,
+"text": "Offline\n"
+},
+{
+"id": "S1L147",
+"start": 5641,
+"end": 5683,
+"text": "Choose pages to download for offline use.\n"
+},
+{
+"id": "S1L148",
+"start": 5683,
+"end": 5736,
+"text": "Recents and Favorites auto-download for offline use.\n"
+},
+{
+"id": "S1L149",
+"start": 5736,
+"end": 5760,
+"text": "Sharing & collaboration\n"
+},
+{
+"id": "S1L150",
+"start": 5760,
+"end": 5874,
+"text": "Guests are external collaborators outside your organization, such as agencies, partners, contractors, or vendors.\n"
+},
+{
+"id": "S1L151",
+"start": 5874,
+"end": 5895,
+"text": "External guest limit\n"
+},
+{
+"id": "S1L152",
+"start": 5895,
+"end": 5898,
+"text": "10\n"
+},
+{
+"id": "S1L153",
+"start": 5898,
+"end": 6067,
+"text": "Create dedicated areas for folks to work together, without creating information silos. People can join the teamspaces that interest them, and leave the ones that don’t.\n"
+},
+{
+"id": "S1L154",
+"start": 6067,
+"end": 6094,
+"text": "Teamspaces (open & closed)\n"
+},
+{
+"id": "S1L155",
+"start": 6094,
+"end": 6255,
+"text": "Create teamspaces that can’t be seen or discovered by anyone except those you add. Great for sensitive information like company planning or performance reviews.\n"
+},
+{
+"id": "S1L156",
+"start": 6255,
+"end": 6276,
+"text": "Teamspaces (private)\n"
+},
+{
+"id": "S1L157",
+"start": 6276,
+"end": 6376,
+"text": "Create groups of people according to role or department to streamline page & teamspace permissions.\n"
+},
+{
+"id": "S1L158",
+"start": 6376,
+"end": 6394,
+"text": "Permission groups\n"
+},
+{
+"id": "S1L159",
+"start": 6394,
+"end": 6531,
+"text": "Override teamspace permissions for specific people or groups, giving you even more control over who has view vs. edit access to content.\n"
+},
+{
+"id": "S1L160",
+"start": 6531,
+"end": 6562,
+"text": "Advanced teamspace permissions\n"
+},
+{
+"id": "S1L161",
+"start": 6562,
+"end": 6697,
+"text": "Collaborate in Notion databases without giving access to the entire database. Limit access to rows where the collaborator is assigned.\n"
+},
+{
+"id": "S1L162",
+"start": 6697,
+"end": 6727,
+"text": "Granular database permissions\n"
+},
+{
+"id": "S1L163",
+"start": 6727,
+"end": 6737,
+"text": "Notion AI\n"
+},
+{
+"id": "S1L164",
+"start": 6737,
+"end": 6849,
+"text": "Chat about anything, generate and edit docs, autofill databases, and find answers across your Notion workspace.\n"
+},
+{
+"id": "S1L165",
+"start": 6849,
+"end": 6900,
+"text": "Notion Agent (chat, generate, autofill, translate)\n"
+},
+{
+"id": "S1L166",
+"start": 6900,
+"end": 6914,
+"text": "Limited Trial\n"
+},
+{
+"id": "S1L167",
+"start": 6914,
+"end": 6985,
+"text": "Automatically transcribes your meetings, along with a helpful summary.\n"
+},
+{
+"id": "S1L168",
+"start": 6985,
+"end": 6999,
+"text": "Meeting notes\n"
+},
+{
+"id": "S1L169",
+"start": 6999,
+"end": 7013,
+"text": "Limited Trial\n"
+},
+{
+"id": "S1L170",
+"start": 7013,
+"end": 7139,
+"text": "Find quick answers using info across your Notion workspace, and connected tools like Slack, Microsoft Teams, GitHub and more.\n"
+},
+{
+"id": "S1L171",
+"start": 7139,
+"end": 7205,
+"text": "Jira, Box, OneDrive, Salesforce, and Asana are currently in Beta.\n"
+},
+{
+"id": "S1L172",
+"start": 7205,
+"end": 7223,
+"text": "Enterprise Search\n"
+},
+{
+"id": "S1L173",
+"start": 7223,
+"end": 7360,
+"text": "Uses deep reasoning to produce detailed reports using info across your Notion workspace, connected tools, and current info from the web.\n"
+},
+{
+"id": "S1L174",
+"start": 7360,
+"end": 7379,
+"text": "Research mode Beta\n"
+},
+{
+"id": "S1L175",
+"start": 7379,
+"end": 7393,
+"text": "Limited Trial\n"
+},
+{
+"id": "S1L176",
+"start": 7393,
+"end": 7492,
+"text": "When using Notion AI, our LLM providers utilize zero data retention for Enterprise plan workspaces\n"
+},
+{
+"id": "S1L177",
+"start": 7492,
+"end": 7507,
+"text": "Data retention\n"
+},
+{
+"id": "S1L178",
+"start": 7507,
+"end": 7524,
+"text": "30 day retention\n"
+},
+{
+"id": "S1L179",
+"start": 7524,
+"end": 7544,
+"text": "Zero data retention\n"
+},
+{
+"id": "S1L180",
+"start": 7544,
+"end": 7663,
+"text": "AI agents handle repetitive tasks autonomously, so your team doesn’t have to. Free to try, then $10 per 1,000 credits.\n"
+},
+{
+"id": "S1L181",
+"start": 7663,
+"end": 7677,
+"text": "Custom Agents\n"
+},
+{
+"id": "S1L182",
+"start": 7677,
+"end": 7701,
+"text": "Requires Notion credits\n"
+},
+{
+"id": "S1L183",
+"start": 7701,
+"end": 7719,
+"text": "Database features\n"
+},
+{
+"id": "S1L184",
+"start": 7719,
+"end": 7756,
+"text": "Add subtasks, and link dependencies.\n"
+},
+{
+"id": "S1L185",
+"start": 7756,
+"end": 7782,
+"text": "Subtasks and dependencies\n"
+},
+{
+"id": "S1L186",
+"start": 7782,
+"end": 7843,
+"text": "Add database properties and filters to organize information.\n"
+},
+{
+"id": "S1L187",
+"start": 7843,
+"end": 7875,
+"text": "Custom properties and filtering\n"
+},
+{
+"id": "S1L188",
+"start": 7875,
+"end": 7959,
+"text": "Visualize data from databases in different ways (e.g. donut, bar, and line charts).\n"
+},
+{
+"id": "S1L189",
+"start": 7959,
+"end": 7966,
+"text": "Charts\n"
+},
+{
+"id": "S1L190",
+"start": 7966,
+"end": 7968,
+"text": "1\n"
+},
+{
+"id": "S1L191",
+"start": 7968,
+"end": 8029,
+"text": "Capture, organize, and act on responses right inside Notion.\n"
+},
+{
+"id": "S1L192",
+"start": 8029,
+"end": 8035,
+"text": "Forms\n"
+},
+{
+"id": "S1L193",
+"start": 8035,
+"end": 8041,
+"text": "Basic\n"
+},
+{
+"id": "S1L194",
+"start": 8041,
+"end": 8048,
+"text": "Custom\n"
+},
+{
+"id": "S1L195",
+"start": 8048,
+"end": 8068,
+"text": "+ conditional logic\n"
+},
+{
+"id": "S1L196",
+"start": 8068,
+"end": 8075,
+"text": "Custom\n"
+},
+{
+"id": "S1L197",
+"start": 8075,
+"end": 8095,
+"text": "+ conditional logic\n"
+},
+{
+"id": "S1L198",
+"start": 8095,
+"end": 8179,
+"text": "Bring charts, tables, and lists into one dashboard for a unified view of your work.\n"
+},
+{
+"id": "S1L199",
+"start": 8179,
+"end": 8190,
+"text": "Dashboards\n"
+},
+{
+"id": "S1L200",
+"start": 8190,
+"end": 8209,
+"text": "Developer platform\n"
+},
+{
+"id": "S1L201",
+"start": 8209,
+"end": 8272,
+"text": "Build on Notion and deploy Workers with code or coding agents.\n"
+},
+{
+"id": "S1L202",
+"start": 8272,
+"end": 8276,
+"text": "CLI\n"
+},
+{
+"id": "S1L203",
+"start": 8276,
+"end": 8373,
+"text": "Run custom code on Notion to extend agents, sync data, and trigger workflows. No infra required.\n"
+},
+{
+"id": "S1L204",
+"start": 8373,
+"end": 8386,
+"text": "Workers Beta\n"
+},
+{
+"id": "S1L205",
+"start": 8386,
+"end": 8410,
+"text": "Requires Notion credits\n"
+},
+{
+"id": "S1L206",
+"start": 8410,
+"end": 8441,
+"text": "API automations & integrations\n"
+},
+{
+"id": "S1L207",
+"start": 8441,
+"end": 8534,
+"text": "Build bespoke integrations to connect your Notion workspace to internal tools and workflows.\n"
+},
+{
+"id": "S1L208",
+"start": 8534,
+"end": 8545,
+"text": "Public API\n"
+},
+{
+"id": "S1L209",
+"start": 8545,
+"end": 8621,
+"text": "Send real-time updates to your integrations when content changes in Notion.\n"
+},
+{
+"id": "S1L210",
+"start": 8621,
+"end": 8630,
+"text": "Webhooks\n"
+},
+{
+"id": "S1L211",
+"start": 8630,
+"end": 8752,
+"text": "Paste a link to a GitHub PR, Jira ticket, Figma artboard & more to add a dynamic preview of content in your docs & notes.\n"
+},
+{
+"id": "S1L212",
+"start": 8752,
+"end": 8777,
+"text": "Embeds and link previews\n"
+},
+{
+"id": "S1L213",
+"start": 8777,
+"end": 8911,
+"text": "Send information from Notion to Slack, and vice versa. Or connect to Zapier to create automated workflows with the tools you rely on.\n"
+},
+{
+"id": "S1L214",
+"start": 8911,
+"end": 8932,
+"text": "Connected properties\n"
+},
+{
+"id": "S1L215",
+"start": 8932,
+"end": 8949,
+"text": "Same as business\n"
+},
+{
+"id": "S1L216",
+"start": 8949,
+"end": 9045,
+"text": "Automatically create pages and new blocks, set status, assignee, and property values, and more.\n"
+},
+{
+"id": "S1L217",
+"start": 9045,
+"end": 9057,
+"text": "Automations\n"
+},
+{
+"id": "S1L218",
+"start": 9057,
+"end": 9063,
+"text": "Basic\n"
+},
+{
+"id": "S1L219",
+"start": 9063,
+"end": 9076,
+"text": "buttons only\n"
+},
+{
+"id": "S1L220",
+"start": 9076,
+"end": 9083,
+"text": "Custom\n"
+},
+{
+"id": "S1L221",
+"start": 9083,
+"end": 9104,
+"text": "database automations\n"
+},
+{
+"id": "S1L222",
+"start": 9104,
+"end": 9117,
+"text": "Same as plus\n"
+},
+{
+"id": "S1L223",
+"start": 9117,
+"end": 9209,
+"text": "See up-to-date information from Jira, GitHub & Asana, all synced into Notion as a database.\n"
+},
+{
+"id": "S1L224",
+"start": 9209,
+"end": 9230,
+"text": "1-way database syncs\n"
+},
+{
+"id": "S1L225",
+"start": 9230,
+"end": 9247,
+"text": "Same as business\n"
+},
+{
+"id": "S1L226",
+"start": 9247,
+"end": 9262,
+"text": "Web publishing\n"
+},
+{
+"id": "S1L227",
+"start": 9262,
+"end": 9291,
+"text": "Share your pages on the web.\n"
+},
+{
+"id": "S1L228",
+"start": 9291,
+"end": 9307,
+"text": "Published pages\n"
+},
+{
+"id": "S1L229",
+"start": 9307,
+"end": 9368,
+"text": "Select a custom notion.site domain for your published pages.\n"
+},
+{
+"id": "S1L230",
+"start": 9368,
+"end": 9388,
+"text": "notion.site domains\n"
+},
+{
+"id": "S1L231",
+"start": 9388,
+"end": 9390,
+"text": "1\n"
+},
+{
+"id": "S1L232",
+"start": 9390,
+"end": 9392,
+"text": "5\n"
+},
+{
+"id": "S1L233",
+"start": 9392,
+"end": 9510,
+"text": "Turn on search engine indexing for any Site. Upgrade to a paid plan to customize your title and description metadata.\n"
+},
+{
+"id": "S1L234",
+"start": 9510,
+"end": 9539,
+"text": "Search engine indexing (SEO)\n"
+},
+{
+"id": "S1L235",
+"start": 9539,
+"end": 9545,
+"text": "Basic\n"
+},
+{
+"id": "S1L236",
+"start": 9545,
+"end": 9554,
+"text": "Advanced\n"
+},
+{
+"id": "S1L237",
+"start": 9554,
+"end": 9674,
+"text": "Set a homepage, customize your Site’s favicon and share preview, build a custom header bar, and set light or dark mode.\n"
+},
+{
+"id": "S1L238",
+"start": 9674,
+"end": 9694,
+"text": "Site customizations\n"
+},
+{
+"id": "S1L239",
+"start": 9694,
+"end": 9831,
+"text": "Connect a custom domain to your Site and remove Notion branding for $8/month/domain paid annually, or $10/month per domain paid monthly.\n"
+},
+{
+"id": "S1L240",
+"start": 9831,
+"end": 9859,
+"text": "Custom domains and branding\n"
+},
+{
+"id": "S1L241",
+"start": 9859,
+"end": 9874,
+"text": "Pay per domain\n"
+},
+{
+"id": "S1L242",
+"start": 9874,
+"end": 9891,
+"text": "Admin & security\n"
+},
+{
+"id": "S1L243",
+"start": 9891,
+"end": 9959,
+"text": "Create a backup of all the pages and content across your workspace.\n"
+},
+{
+"id": "S1L244",
+"start": 9959,
+"end": 10008,
+"text": "Export entire workspace as HTML, Markdown, & CSV\n"
+},
+{
+"id": "S1L245",
+"start": 10008,
+"end": 10114,
+"text": "Enable an extra layer of account security with a second method of verification, also known as 2FA or MFA.\n"
+},
+{
+"id": "S1L246",
+"start": 10114,
+"end": 10134,
+"text": "2-step verification\n"
+},
+{
+"id": "S1L247",
+"start": 10134,
+"end": 10216,
+"text": "Export all your content at once as PDFs. Perfect for legal or compliance backups.\n"
+},
+{
+"id": "S1L248",
+"start": 10216,
+"end": 10247,
+"text": "Export entire workspace as PDF\n"
+},
+{
+"id": "S1L249",
+"start": 10247,
+"end": 10307,
+"text": "Manage employee access at scale with secure single sign-on.\n"
+},
+{
+"id": "S1L250",
+"start": 10307,
+"end": 10333,
+"text": "SAML single sign-on (SSO)\n"
+},
+{
+"id": "S1L251",
+"start": 10333,
+"end": 10429,
+"text": "Automatically provision members in and out of your workspace with identity providers like Okta.\n"
+},
+{
+"id": "S1L252",
+"start": 10429,
+"end": 10454,
+"text": "User provisioning (SCIM)\n"
+},
+{
+"id": "S1L253",
+"start": 10454,
+"end": 10591,
+"text": "Unlock extra permission controls to prevent certain people from sharing pages externally, disable guests, and set workspace-level rules.\n"
+},
+{
+"id": "S1L254",
+"start": 10591,
+"end": 10640,
+"text": "Advanced workspace & teamspace security controls\n"
+},
+{
+"id": "S1L255",
+"start": 10640,
+"end": 10668,
+"text": "Organization level controls\n"
+},
+{
+"id": "S1L256",
+"start": 10668,
+"end": 10839,
+"text": "Get actionable insights about how folks use your Notion workspace, from the most popular pages to overall traffic. Analytics data begins after Enterprise Plan start date.\n"
+},
+{
+"id": "S1L257",
+"start": 10839,
+"end": 10859,
+"text": "Workspace analytics\n"
+},
+{
+"id": "S1L258",
+"start": 10859,
+"end": 11001,
+"text": "Designate membership admins who can add and remove members from the workspace and groups, but can’t access other security & billing settings.\n"
+},
+{
+"id": "S1L259",
+"start": 11001,
+"end": 11022,
+"text": "Granular admin roles\n"
+},
+{
+"id": "S1L260",
+"start": 11022,
+"end": 11207,
+"text": "Access a detailed log of security and safety-related activity for your workspace account to identify potential security issues, investigate suspicious behavior, or troubleshoot access.\n"
+},
+{
+"id": "S1L261",
+"start": 11207,
+"end": 11217,
+"text": "Audit log\n"
+},
+{
+"id": "S1L262",
+"start": 11217,
+"end": 11378,
+"text": "Admin content search provides Workspace owners visibility into the content of their Notion workspace, letting them filter, search, and troubleshoot permissions.\n"
+},
+{
+"id": "S1L263",
+"start": 11378,
+"end": 11399,
+"text": "Admin content search\n"
+},
+{
+"id": "S1L264",
+"start": 11399,
+"end": 11553,
+"text": "Establish ownership of your company domain and take actions on workspaces that belong to your verified domain (request ownership transfer, delete, claim)\n"
+},
+{
+"id": "S1L265",
+"start": 11553,
+"end": 11571,
+"text": "Domain Management\n"
+},
+{
+"id": "S1L266",
+"start": 11571,
+"end": 11733,
+"text": "Consolidate content from multiple workspaces, including users, page content, and permissions, into your main workspace as teamspace(s) that keep their structure.\n"
+},
+{
+"id": "S1L267",
+"start": 11733,
+"end": 11757,
+"text": "Workspace consolidation\n"
+},
+{
+"id": "S1L268",
+"start": 11757,
+"end": 11764,
+"text": "Custom\n"
+},
+{
+"id": "S1L269",
+"start": 11764,
+"end": 11871,
+"text": "Manage the users within your domain, including a dashboard where you can get information and make changes.\n"
+},
+{
+"id": "S1L270",
+"start": 11871,
+"end": 11906,
+"text": "Managed users dashboard & controls\n"
+},
+{
+"id": "S1L271",
+"start": 11906,
+"end": 12080,
+"text": "Connect to SIEM and DLP tools to automatically centralize audit logs & set policies to detect sensitive content in your workspace and trigger automated actions to remediate.\n"
+},
+{
+"id": "S1L272",
+"start": 12080,
+"end": 12114,
+"text": "Security & Compliance connections\n"
+},
+{
+"id": "S1L273",
+"start": 12114,
+"end": 12243,
+"text": "Workspace members can send guest invite requests to their workspace owners for review when guests are disabled in the workspace.\n"
+},
+{
+"id": "S1L274",
+"start": 12243,
+"end": 12265,
+"text": "Guest invite requests\n"
+},
+{
+"id": "S1L275",
+"start": 12265,
+"end": 12355,
+"text": "Control over when pages are deleted from Trash, and how long they are retained afterward.\n"
+},
+{
+"id": "S1L276",
+"start": 12355,
+"end": 12386,
+"text": "Custom data retention settings\n"
+},
+{
+"id": "S1L277",
+"start": 12386,
+"end": 12497,
+"text": "Admins can auto-delete AI meeting transcripts on a customizable schedule to meet your data retention policies.\n"
+},
+{
+"id": "S1L278",
+"start": 12497,
+"end": 12534,
+"text": "AI Meeting Notes transcript deletion\n"
+},
+{
+"id": "S1L279",
+"start": 12534,
+"end": 12542,
+"text": "Support\n"
+},
+{
+"id": "S1L280",
+"start": 12542,
+"end": 12675,
+"text": "We’re always around to help. Just click the ( ? ) button at the bottom left on desktop, or tap “Help & support” if you’re on mobile.\n"
+},
+{
+"id": "S1L281",
+"start": 12675,
+"end": 12692,
+"text": "Priority support\n"
+},
+{
+"id": "S1L282",
+"start": 12692,
+"end": 12786,
+"text": "Tailored, proactive around-the-clock support offerings for teams with more specialized needs.\n"
+},
+{
+"id": "S1L283",
+"start": 12786,
+"end": 12802,
+"text": "Premium support\n"
+},
+{
+"id": "S1L284",
+"start": 12802,
+"end": 12809,
+"text": "Custom\n"
+},
+{
+"id": "S1L285",
+"start": 12809,
+"end": 12899,
+"text": "Our team of Customer Success Managers are experts to help you get the most out of Notion.\n"
+},
+{
+"id": "S1L286",
+"start": 12899,
+"end": 12924,
+"text": "Customer success manager\n"
+},
+{
+"id": "S1L287",
+"start": 12924,
+"end": 12931,
+"text": "Custom\n"
+},
+{
+"id": "S1L288",
+"start": 12931,
+"end": 12951,
+"text": "Questions & answers\n"
+},
+{
+"id": "S1L289",
+"start": 12951,
+"end": 12983,
+"text": "How does Notion AI use my data?\n"
+},
+{
+"id": "S1L290",
+"start": 12983,
+"end": 13177,
+"text": "We follow our standard data protection practices to keep your data encrypted and private. Notion AI will not use your data to train our models unless you opt in to a request to share your data.\n"
+},
+{
+"id": "S1L291",
+"start": 13177,
+"end": 13527,
+"text": "Any information used to power Notion AI will be shared with AI subprocessors for the sole purpose of providing you with the Notion AI features. We specifically have contractual agreements in place with our AI subprocessors that prohibit the use of customer data to train their models. Learn more about Notion AI security and privacy practices here .\n"
+},
+{
+"id": "S1L292",
+"start": 13527,
+"end": 13557,
+"text": "Where can I find my invoices?\n"
+},
+{
+"id": "S1L293",
+"start": 13557,
+"end": 13763,
+"text": "Workspace admins can access, view, and download your workspace's invoices by going to Settings & members → Billing, then scrolling to Invoices. There you can click on \"View invoice\" to see the invoice PDF.\n"
+},
+{
+"id": "S1L294",
+"start": 13763,
+"end": 13803,
+"text": "What are your accepted payment methods?\n"
+},
+{
+"id": "S1L295",
+"start": 13803,
+"end": 13863,
+"text": "We currently accept all major credit and debit card brands.\n"
+},
+{
+"id": "S1L296",
+"start": 13863,
+"end": 13880,
+"text": "What is a block?\n"
+},
+{
+"id": "S1L297",
+"start": 13880,
+"end": 14121,
+"text": "A block is any single piece of content you add to your page, like a paragraph of text, a to-do item, an image, a code block, an embedded file, etc. Think of your page as being made up of these building blocks. Learn more about blocks here →\n"
+},
+{
+"id": "S1L298",
+"start": 14121,
+"end": 14189,
+"text": "What happens when I go over the block storage limit on a Free Plan?\n"
+},
+{
+"id": "S1L299",
+"start": 14189,
+"end": 14300,
+"text": "If you’re using a Free Plan workspace by yourself, you’ll be able to add as many pages and blocks as you like.\n"
+},
+{
+"id": "S1L300",
+"start": 14300,
+"end": 14438,
+"text": "If you’re using a Free Plan workspace with multiple members, you’ll be able to add a limited number of blocks before you have to upgrade.\n"
+},
+{
+"id": "S1L301",
+"start": 14438,
+"end": 14586,
+"text": "When you reach the limit, you can still read, edit, and organize existing content blocks as usual, but you won’t be able to add new content blocks.\n"
+},
+{
+"id": "S1L302",
+"start": 14586,
+"end": 14618,
+"text": "Do you offer student discounts?\n"
+},
+{
+"id": "S1L303",
+"start": 14618,
+"end": 14816,
+"text": "The Plus Plan (with a 1-member limit) is free for students and educators. Compared to the Free Plan, you’ll be able to add more guests, have access to more version history, and upload larger files.\n"
+},
+{
+"id": "S1L304",
+"start": 14816,
+"end": 14977,
+"text": "Just sign up with your school email address and you’ll immediately gain access to these features. Thousands of school email domains are eligible, not just .edu!\n"
+},
+{
+"id": "S1L305",
+"start": 14977,
+"end": 15037,
+"text": "For more info & FAQs, visit the Notion for Education page .\n"
+},
+{
+"id": "S1L306",
+"start": 15037,
+"end": 15081,
+"text": "What do the different analytics tiers mean?\n"
+},
+{
+"id": "S1L307",
+"start": 15081,
+"end": 15204,
+"text": "Basic page analytics (Free and Plus Plans): Includes a list of page viewers as well as a chart displaying views over time.\n"
+},
+{
+"id": "S1L308",
+"start": 15204,
+"end": 15306,
+"text": "Advanced page analytics (Business Plan): Includes everything above as well as a list of page editors.\n"
+},
+{
+"id": "S1L309",
+"start": 15306,
+"end": 15498,
+"text": "Workspace analytics (Enterprise Plan): Includes everything above as well as user level analytics, analytics on all pages in your workspace, and search analytics for content in your workspace.\n"
+},
+{
+"id": "S1L310",
+"start": 15498,
+"end": 15544,
+"text": "How is pricing calculated for the paid plans?\n"
+},
+{
+"id": "S1L311",
+"start": 15544,
+"end": 15638,
+"text": "If you upgrade your workspace to one of the paid plans, you will be charged a fee per member.\n"
+},
+{
+"id": "S1L312",
+"start": 15638,
+"end": 15842,
+"text": "Guests are free of charge – but they can only access individual pages they are invited to. In other words, guests won’t be able to see all the team pages under the Teamspaces section in the left sidebar.\n"
+},
+{
+"id": "S1L313",
+"start": 15842,
+"end": 15899,
+"text": "How do I get charged when I add members to my workspace?\n"
+},
+{
+"id": "S1L314",
+"start": 15899,
+"end": 16285,
+"text": "When you add a new member to your workspace, they will use an existing paid seat if you have any available in your workspace. If you do not have any existing available paid seats, your count of paid seats will increase by 1. Changes in membership that occur mid-month will create prorated charges based on the amount of time remaining in the billing cycle when the paid seat was added.\n"
+},
+{
+"id": "S1L315",
+"start": 16285,
+"end": 16540,
+"text": "For every member you delete from your workspace, you will open up 1 available paid seat. This means you have the option to exchange members in your workspace without paying any additional costs, as long as your total billable seat count remains the same.\n"
+},
+{
+"id": "S1L316",
+"start": 16540,
+"end": 16719,
+"text": "You’ll receive an invoice for any charges accrued by changes in membership on your selected payment method, on the day of the month you initially signed up for your subscription.\n"
+},
+{
+"id": "S1L317",
+"start": 16719,
+"end": 16894,
+"text": "Each time your billing period starts (monthly or annual), your count of paid seats will be synchronized so it exactly matches the amount of members present in your workspace.\n"
+},
+{
+"id": "S1L318",
+"start": 16894,
+"end": 16937,
+"text": "How does adding and removing members work?\n"
+},
+{
+"id": "S1L319",
+"start": 16937,
+"end": 17376,
+"text": "Whether you're on a monthly or yearly billing schedule, your account may be charged on a monthly basis if you make changes in membership. If you added members, your account will be charged a prorated amount based on the percentage of the billing cycle left when a user was added. If you removed members, you will not receive credit but instead will still have use of that seat for a different user for the remainder of the billing period.\n"
+},
+{
+"id": "S1L320",
+"start": 17376,
+"end": 17404,
+"text": "How are paid seats counted?\n"
+},
+{
+"id": "S1L321",
+"start": 17404,
+"end": 17697,
+"text": "A paid seat can be thought of as a license for one member to use your Notion workspace. Workspace owners can view the total paid seat count for their workspace by going to Settings & members > Billing. Once you have added a paid seat, you will keep it for the duration of your billing period.\n"
+},
+{
+"id": "S1L322",
+"start": 17697,
+"end": 18043,
+"text": "When your billing cycle renews, either monthly or annually, you will be charged for your plan amount multiplied by the number of members in your workspace, plus any prorated charges for new paid seats added in the past month. Your number of paid seats will be recalculated at each renewal to match the number of members present in the workspace.\n"
+},
+{
+"id": "S1L323",
+"start": 18043,
+"end": 18077,
+"text": "What happens when I change plans?\n"
+},
+{
+"id": "S1L324",
+"start": 18077,
+"end": 18268,
+"text": "Upgrading your plan: Your account will be upgraded and charged immediately. The amount due will be reduced based on the percentage of the billing cycle left at the time the plan was changed.\n"
+},
+{
+"id": "S1L325",
+"start": 18268,
+"end": 18428,
+"text": "Downgrading your plan: Your account will be downgraded at the end of your billing cycle. Learn about how your features may be impacted after a downgrade here →\n"
+},
+{
+"id": "S1L326",
+"start": 18428,
+"end": 18458,
+"text": "How do I cancel my paid plan?\n"
+},
+{
+"id": "S1L327",
+"start": 18458,
+"end": 18798,
+"text": "Your Notion subscription, annual or monthly, will automatically renew until you cancel it. You can cancel your subscription by going to Settings in the left-hand sidebar on a desktop computer, then selecting Billing, then Change plan. After you cancel, you’ll still have access to all the paid features until the end of your billing cycle.\n"
+},
+{
+"id": "S1L328",
+"start": 18798,
+"end": 18841,
+"text": "Learn more about billing in this article .\n"
+},
+{
+"id": "S1L329",
+"start": 18841,
+"end": 18907,
+"text": "What happens if my payment fails? Like if my credit card expires?\n"
+},
+{
+"id": "S1L330",
+"start": 18907,
+"end": 19031,
+"text": "Your account email will be notified after each failed payment. Payments may be retried up to 8 times within the next month.\n"
+},
+{
+"id": "S1L331",
+"start": 19031,
+"end": 19191,
+"text": "After this, if the payment did not succeed, your workspace will get restricted to limited-access for a period of time before being downgraded to the Free plan.\n"
+},
+{
+"id": "S1L332",
+"start": 19191,
+"end": 19223,
+"text": "Can I change my payment method?\n"
+},
+{
+"id": "S1L333",
+"start": 19223,
+"end": 19296,
+"text": "You can change your payment method at any time in your billing settings.\n"
+},
+{
+"id": "S1L334",
+"start": 19296,
+"end": 19317,
+"text": "How do refunds work?\n"
+},
+{
+"id": "S1L335",
+"start": 19317,
+"end": 19481,
+"text": "If you believe you've made a mistake signing up for a paid Notion subscription online or in-app, you can request a refund. Message support for more help with this.\n"
+},
+{
+"id": "S1L336",
+"start": 19481,
+"end": 19682,
+"text": "We'll be happy to refund you the full amount (not pro-rated) if you downgrade your subscription within three days of signing up for monthly billing, or within 30 days of signing up for annual billing.\n"
+},
+{
+"id": "S1L337",
+"start": 19682,
+"end": 20054,
+"text": "If you have accidentally added members to your workspace, you can remove those members at any time. If you’ve been charged for members who were accidentally added, we're happy to provide a refund of the prorated charges if you reach out within three days of the invoice date (please make sure the additional members have been removed from your workspace when writing in).\n"
+},
+{
+"id": "S1L338",
+"start": 20054,
+"end": 20242,
+"text": "If for any reason you're unhappy with Notion, get in touch with Notion support. We'd love to hear your feedback, and will be happy to work with you to create the best experience possible.\n"
+},
+{
+"id": "S1L339",
+"start": 20242,
+"end": 20301,
+"text": "What if I live in a region with a mandatory refund policy?\n"
+},
+{
+"id": "S1L340",
+"start": 20301,
+"end": 20619,
+"text": "If you live in the European Union, United Kingdom, or another region with a mandatory refund policy, you may be eligible for a monthly subscription refund past 72 hours. For example, customers in the European Union can receive a full refund for a monthly subscription within 14 days of purchase, rather than 72 hours.\n"
+},
+{
+"id": "S1L341",
+"start": 20619,
+"end": 20811,
+"text": "To request a refund, please contact us inside the app or email [email protected] . If you live in a region with a mandatory refund policy, please let us know and we'll be happy to assist you.\n"
+},
+{
+"id": "S1L342",
+"start": 20811,
+"end": 20838,
+"text": "Still have more questions?\n"
+},
+{
+"id": "S1L343",
+"start": 20838,
+"end": 20870,
+"text": "Learn more in our help center .\n"
+},
+{
+"id": "S1L344",
+"start": 20870,
+"end": 20890,
+"text": "We shape our tools,\n"
+},
+{
+"id": "S1L345",
+"start": 20890,
+"end": 20925,
+"text": "and thereafter our tools shape us.\n"
+},
+{
+"id": "S1L346",
+"start": 20925,
+"end": 20942,
+"text": "Marshall McLuhan\n"
+},
+{
+"id": "S1L347",
+"start": 20942,
+"end": 20950,
+"text": "Product\n"
+},
+{
+"id": "S1L348",
+"start": 20950,
+"end": 20959,
+"text": "Features\n"
+},
+{
+"id": "S1L349",
+"start": 20959,
+"end": 20970,
+"text": "What's New\n"
+},
+{
+"id": "S1L350",
+"start": 20970,
+"end": 20980,
+"text": "Notion AI\n"
+},
+{
+"id": "S1L351",
+"start": 20980,
+"end": 20988,
+"text": "Pricing\n"
+},
+{
+"id": "S1L352",
+"start": 20988,
+"end": 21003,
+"text": "Request a demo\n"
+},
+{
+"id": "S1L353",
+"start": 21003,
+"end": 21012,
+"text": "Download\n"
+},
+{
+"id": "S1L354",
+"start": 21012,
+"end": 21027,
+"text": "Explore more →\n"
+},
+{
+"id": "S1L355",
+"start": 21027,
+"end": 21037,
+"text": "Resources\n"
+},
+{
+"id": "S1L356",
+"start": 21037,
+"end": 21054,
+"text": "Customer stories\n"
+},
+{
+"id": "S1L357",
+"start": 21054,
+"end": 21066,
+"text": "Connections\n"
+},
+{
+"id": "S1L358",
+"start": 21066,
+"end": 21078,
+"text": "Marketplace\n"
+},
+{
+"id": "S1L359",
+"start": 21078,
+"end": 21090,
+"text": "Help Center\n"
+},
+{
+"id": "S1L360",
+"start": 21090,
+"end": 21098,
+"text": "Academy\n"
+},
+{
+"id": "S1L361",
+"start": 21098,
+"end": 21108,
+"text": "Community\n"
+},
+{
+"id": "S1L362",
+"start": 21108,
+"end": 21116,
+"text": "Company\n"
+},
+{
+"id": "S1L363",
+"start": 21116,
+"end": 21125,
+"text": "About us\n"
+},
+{
+"id": "S1L364",
+"start": 21125,
+"end": 21133,
+"text": "Careers\n"
+},
+{
+"id": "S1L365",
+"start": 21133,
+"end": 21142,
+"text": "Security\n"
+},
+{
+"id": "S1L366",
+"start": 21142,
+"end": 21149,
+"text": "Status\n"
+},
+{
+"id": "S1L367",
+"start": 21149,
+"end": 21165,
+"text": "Terms & privacy\n"
+},
+{
+"id": "S1L368",
+"start": 21165,
+"end": 21185,
+"text": "Your privacy rights\n"
+},
+{
+"id": "S1L369",
+"start": 21185,
+"end": 21196,
+"text": "Notion for\n"
+},
+{
+"id": "S1L370",
+"start": 21196,
+"end": 21207,
+"text": "Enterprise\n"
+},
+{
+"id": "S1L371",
+"start": 21207,
+"end": 21224,
+"text": "Small businesses\n"
+},
+{
+"id": "S1L372",
+"start": 21224,
+"end": 21233,
+"text": "Startups\n"
+},
+{
+"id": "S1L373",
+"start": 21233,
+"end": 21244,
+"text": "Developers\n"
+},
+{
+"id": "S1L374",
+"start": 21244,
+"end": 21259,
+"text": "Explore more →\n"
+},
+{
+"id": "S1L375",
+"start": 21259,
+"end": 21272,
+"text": "English (US)\n"
+},
+{
+"id": "S1L376",
+"start": 21272,
+"end": 21289,
+"text": "Bahasa Indonesia\n"
+},
+{
+"id": "S1L377",
+"start": 21289,
+"end": 21295,
+"text": "Dansk\n"
+},
+{
+"id": "S1L378",
+"start": 21295,
+"end": 21303,
+"text": "Deutsch\n"
+},
+{
+"id": "S1L379",
+"start": 21303,
+"end": 21316,
+"text": "English (UK)\n"
+},
+{
+"id": "S1L380",
+"start": 21316,
+"end": 21333,
+"text": "Español (España)\n"
+},
+{
+"id": "S1L381",
+"start": 21333,
+"end": 21357,
+"text": "Español (Latinoamérica)\n"
+},
+{
+"id": "S1L382",
+"start": 21357,
+"end": 21375,
+"text": "Français (France)\n"
+},
+{
+"id": "S1L383",
+"start": 21375,
+"end": 21384,
+"text": "Italiano\n"
+},
+{
+"id": "S1L384",
+"start": 21384,
+"end": 21395,
+"text": "Nederlands\n"
+},
+{
+"id": "S1L385",
+"start": 21395,
+"end": 21401,
+"text": "Norsk\n"
+},
+{
+"id": "S1L386",
+"start": 21401,
+"end": 21420,
+"text": "Português (Brasil)\n"
+},
+{
+"id": "S1L387",
+"start": 21420,
+"end": 21426,
+"text": "Suomi\n"
+},
+{
+"id": "S1L388",
+"start": 21426,
+"end": 21434,
+"text": "Svenska\n"
+},
+{
+"id": "S1L389",
+"start": 21434,
+"end": 21445,
+"text": "Tiếng Việt\n"
+},
+{
+"id": "S1L390",
+"start": 21445,
+"end": 21451,
+"text": "עברית\n"
+},
+{
+"id": "S1L391",
+"start": 21451,
+"end": 21459,
+"text": "العربية\n"
+},
+{
+"id": "S1L392",
+"start": 21459,
+"end": 21467,
+"text": "ภาษาไทย\n"
+},
+{
+"id": "S1L393",
+"start": 21467,
+"end": 21471,
+"text": "한국어\n"
+},
+{
+"id": "S1L394",
+"start": 21471,
+"end": 21475,
+"text": "日本語\n"
+},
+{
+"id": "S1L395",
+"start": 21475,
+"end": 21480,
+"text": "简体中文\n"
+},
+{
+"id": "S1L396",
+"start": 21480,
+"end": 21485,
+"text": "繁體中文\n"
+},
+{
+"id": "S1L397",
+"start": 21485,
+"end": 21501,
+"text": "Cookie settings\n"
+},
+{
+"id": "S1L398",
+"start": 21501,
+"end": 21525,
+"text": "© 2026 Notion Labs, Inc."
+}
+]
+}
